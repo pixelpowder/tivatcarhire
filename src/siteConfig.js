@@ -9,7 +9,7 @@ const siteConfig = {
   hero: {
     headline: "Car Hire in Tivat",
     subheadline: "Pick up at Tivat Airport arrivals and drive the entire Montenegrin coast. Porto Montenegro, Kotor, and the Bay are minutes away.",
-    image: "/img/pexels-3802510.jpg",
+    image: "/img/hero-tivat.webp",
   },
 
   cars: [
@@ -153,9 +153,9 @@ const siteConfig = {
   ],
 
   testimonials: [
-    { name: "James Wilson", location: "London, UK", text: "Landed at Tivat Airport and had the keys in my hand within 10 minutes. Drove straight to Porto Montenegro for lunch. Couldn't be easier.", rating: 5, avatar: "/img/pexels-220453.jpg" },
-    { name: "Claudia Braun", location: "Berlin, Germany", text: "Picked up a BMW at Tivat and drove the entire Bay of Kotor in one afternoon. The cross-border paperwork for Croatia was ready when we arrived.", rating: 5, avatar: "/img/pexels-774909.jpg" },
-    { name: "Sarah & Tom", location: "Melbourne, Australia", text: "Tivat Airport pickup was seamless. We explored Kotor, Perast, and Lustica Bay over a week. The Jeep handled every mountain road with ease.", rating: 5, avatar: "/img/pexels-1222271.jpg" },
+    { name: "James Wilson", location: "London, UK", text: "Landed at Tivat Airport and had the keys in my hand within 10 minutes. Drove straight to Porto Montenegro for lunch. Couldn't be easier.", rating: 5, avatar: "/img/avatar-1.webp" },
+    { name: "Claudia Braun", location: "Berlin, Germany", text: "Picked up a BMW at Tivat and drove the entire Bay of Kotor in one afternoon. The cross-border paperwork for Croatia was ready when we arrived.", rating: 5, avatar: "/img/avatar-2.webp" },
+    { name: "Sarah & Tom", location: "Melbourne, Australia", text: "Tivat Airport pickup was seamless. We explored Kotor, Perast, and Lustica Bay over a week. The Jeep handled every mountain road with ease.", rating: 5, avatar: "/img/avatar-3.webp" },
   ],
 
   faq: [
@@ -188,56 +188,56 @@ const siteConfig = {
       slug: "tivat-airport",
       tag: "Most Popular",
       desc: "Collect your car at arrivals — 10 minutes to driving.",
-      image: "/img/pexels-16099591.jpg",
+      image: "/img/tivat-airport.webp",
     },
     {
       name: "Kotor",
       slug: "kotor",
       tag: "20 min",
       desc: "UNESCO walled town on the Bay of Kotor.",
-      image: "/img/pexels-5668157.jpg",
+      image: "/img/kotor-nearby.webp",
     },
     {
       name: "Budva",
       slug: "budva",
       tag: "30 min",
       desc: "Riviera beaches and the old town walls.",
-      image: "/img/pexels-26753897.jpg",
+      image: "/img/budva-nearby.webp",
     },
     {
       name: "Herceg Novi",
       slug: "dubrovnik-airport",
       tag: "35 min",
       desc: "Gateway town near the Croatian border.",
-      image: "/img/pexels-30006498.jpg",
+      image: "/img/herceg-novi.webp",
     },
     {
       name: "Perast",
       slug: "perast",
       tag: "25 min",
       desc: "Baroque village and Our Lady of the Rocks.",
-      image: "/img/pexels-29904099.jpg",
+      image: "/img/boka-bay.webp",
     },
     {
       name: "Tivat",
       slug: "tivat",
       tag: "Porto Montenegro",
       desc: "Luxury marina, waterfront dining, Boka Bay.",
-      image: "/img/pexels-6216512.jpg",
+      image: "/img/porto-montenegro.webp",
     },
     {
       name: "Podgorica",
       slug: "podgorica",
       tag: "Capital City",
       desc: "Montenegro's capital — culture and commerce.",
-      image: "/img/pexels-28674522.jpg",
+      image: "/img/tivat-waterfront.webp",
     },
     {
       name: "Podgorica Airport",
       slug: "podgorica-airport",
       tag: "Capital Hub",
       desc: "Montenegro's main international airport.",
-      image: "/img/pexels-9526645.jpg",
+      image: "/img/lustica-bay.webp",
     },
   ],
 };

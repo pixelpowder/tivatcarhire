@@ -5,8 +5,8 @@ import ContentPage from '../../ContentPage';
 export default function TivatAirport() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("tivat-airport.title")} subtitle={t("tivat-airport.subtitle")} description={t("tivat-airport.seoDesc")} image="/img/pexels-16099591.jpg">
-      <img src="/img/pexels-28609588.jpg" alt="Tivat Airport runway" loading="lazy" />
+    <ContentPage title={t("tivat-airport.title")} subtitle={t("tivat-airport.subtitle")} description={t("tivat-airport.seoDesc")} image="/img/tivat-airport.webp">
+      <img src="/img/tivat-airport.webp" alt="Tivat Airport runway" loading="lazy" />
       <h2>{t('tivatAirportBody.h1')}</h2>
       <p>{t('tivatAirportBody.p1')}</p>
       <p>{t('tivatAirportBody.p2')}</p>

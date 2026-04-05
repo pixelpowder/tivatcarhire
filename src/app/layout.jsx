@@ -20,7 +20,7 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <head>
         <link rel="preload" href="/hero-video.mp4" as="video" type="video/mp4" />
-        <link rel="preload" href="/hero-bg.webp" as="image" type="image/webp" />
+        <link rel="preload" href="/img/hero-tivat.webp" as="image" type="image/webp" />
       </head>
       <body>
         <LanguageContext value={DEFAULT_LANG}>
