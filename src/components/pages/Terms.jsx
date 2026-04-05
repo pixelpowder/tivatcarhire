@@ -9,7 +9,7 @@ export default function Terms() {
       title={t("terms.title")}
       subtitle={t("terms.subtitle")}
       description={t("terms.seoDesc")}
-      image="/img/pexels-2437291.jpg"
+      image="/img/boka-bay.webp"
     >
       <p><strong>Last updated:</strong> April 2026</p>
 

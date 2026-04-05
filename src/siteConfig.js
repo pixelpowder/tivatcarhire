@@ -230,14 +230,14 @@ const siteConfig = {
       slug: "podgorica",
       tag: "Capital City",
       desc: "Montenegro's capital — culture and commerce.",
-      image: "/img/tivat-waterfront.webp",
+      image: "/img/coastal-road.webp",
     },
     {
       name: "Podgorica Airport",
       slug: "podgorica-airport",
       tag: "Capital Hub",
       desc: "Montenegro's main international airport.",
-      image: "/img/lustica-bay.webp",
+      image: "/img/coastal-road.webp",
     },
   ],
 };

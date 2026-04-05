@@ -9,7 +9,7 @@ export default function Privacy() {
       title={t("privacy.title")}
       subtitle={t("privacy.subtitle")}
       description={t("privacy.seoDesc")}
-      image="/img/pexels-2437291.jpg"
+      image="/img/boka-bay.webp"
     >
       <p><strong>Last updated:</strong> April 2026</p>
 

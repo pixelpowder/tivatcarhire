@@ -14,7 +14,7 @@ export default function Perast() {
       <p>{t('perastBody.stGeorgeText')}</p>
       <h3>{t('perastBody.ladyOfRocksTitle')}</h3>
       <p>{t('perastBody.ladyOfRocksText')}</p>
-      <img src="/img/pexels-7510133.jpg" alt="Bay of Kotor landscape" loading="lazy" />
+      <img src="/img/kotor-nearby.webp" alt="Bay of Kotor landscape" loading="lazy" />
       <h2>{t('perastBody.historicTitle')}</h2>
       <p>{t('perastBody.historicText')}</p>
       <h3>{t('perastBody.monasteryTitle')}</h3>

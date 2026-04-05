@@ -9,9 +9,9 @@ export default function DubrovnikAirport() {
       title={t("dubrovnik-airport.title")}
       subtitle={t("dubrovnik-airport.subtitle")}
       description={t("dubrovnik-airport.seoDesc")}
-      image="/img/herceg-novi.webp"
+      image="/img/tivat-airport.webp"
     >
-      <img src="/img/herceg-novi.webp" alt="Dubrovnik aerial view" loading="lazy" />
+      <img src="/img/tivat-airport.webp" alt="Airport terminal" loading="lazy" />
       <h2>{t('dubrovnikAirportBody.h1')}</h2>
       <p>{t('dubrovnikAirportBody.p1')}</p>
       <p>{t('dubrovnikAirportBody.p2')}</p>
@@ -21,7 +21,7 @@ export default function DubrovnikAirport() {
       <h2>{t('dubrovnikAirportBody.facilitiesTitle')}</h2>
       <p>{t('dubrovnikAirportBody.facilitiesText1')}</p>
       <p>{t('dubrovnikAirportBody.facilitiesText2')}</p>
-      <img src="/img/pexels-30238159.jpg" alt="Dubrovnik historic harbour" loading="lazy" />
+      <img src="/img/herceg-novi.webp" alt="Herceg Novi coastal town" loading="lazy" />
       <h2>{t('dubrovnikAirportBody.gettingTitle')}</h2>
       <p>{t('dubrovnikAirportBody.gettingText1')}</p>
       <p>{t('dubrovnikAirportBody.gettingText2')}</p>
