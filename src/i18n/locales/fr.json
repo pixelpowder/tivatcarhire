@@ -196,89 +196,89 @@
   },
   "featureCards": {
     "airportPickup": {
-      "title": "Prise en charge à l'aéroport",
-      "desc": "Récupérez votre voiture aux arrivées de l'aéroport de Tivat ou Podgorica. Pas de navette, pas d'attente."
+      "title": "Prise en charge à 40 mètres",
+      "desc": "Votre voiture est garée dans le parking courte durée de TIV. Sortez de la salle de bagages, traversez la route, montez en voiture — aucune navette, aucune attente."
     },
     "fullInsurance": {
-      "title": "Assurance tous risques",
-      "desc": "Couverture complète avec option zéro franchise. Conduisez en toute sérénité."
+      "title": "Assurance complète incluse",
+      "desc": "CDW et protection contre le vol inclus dans chaque réservation. Optez pour la franchise zéro avant d'emprunter le tunnel de Vrmac ou les virages de la route côtière vers Herceg Novi."
     },
     "support": {
-      "title": "Assistance 24h/24",
-      "desc": "Assistance routière et service client disponibles jour et nuit, tous les jours."
+      "title": "Assistance routière 24h/24",
+      "desc": "Vol retardé de trois heures ? Nous nous adaptons, sans frais. Notre ligne d'assistance met en contact avec un mécanicien local en 30 minutes, à toute heure."
     },
     "noHiddenFees": {
-      "title": "Aucun frais caché",
-      "desc": "Politique carburant, kilométrage, taxes — tout est inclus dans le prix affiché."
+      "title": "Prix transparents",
+      "desc": "TVA, kilométrage, supplément aéroport, kit d'équipement — tout est intégré dans le montant affiché. Le total au paiement est le total que vous réglez à la prise en charge."
     },
     "freeCancellation": {
       "title": "Annulation gratuite",
-      "desc": "Les plans changent. Annulez jusqu'à 24 heures avant pour un remboursement intégral."
+      "desc": "Vol annulé ou horaires de compagnie modifiés ? Annulez jusqu'à 24 heures avant la prise en charge sans frais, même en cas de changement de programme estival ou hivernal."
     },
     "crossBorder": {
-      "title": "Transfrontalier",
-      "desc": "Roulez en Croatia, Bosnia, Albania ou Kosovo. Les trajets transfrontaliers sont autorisés."
+      "title": "Passages de frontière inclus",
+      "desc": "Carte verte préparée à la réservation. L'aéroport de Dubrovnik est à 90 km ; le poste-frontière croate de Debeli Brijeg à seulement 40 km. Les documents seront dans la boîte à gants."
     }
   },
   "testimonials": {
     "0": {
-      "text": "J'ai récupéré une Octavia impeccable à l'aéroport de Tivat en moins de 5 minutes. Rapport qualité-prix incroyable."
+      "text": "Voyage d'affaires avec un emploi du temps serré. Bagages récupérés, voiture dans le parking en face, et j'étais à Porto Montenegro pour mon réunion 20 minutes après l'atterrissage. La rapidité de prise en charge à TIV est imbattable."
     },
     "1": {
-      "text": "La BMW était en parfait état et les documents pour la Croatia étaient prêts à notre arrivée. Je recommande vivement."
+      "text": "Nous avons pris le ferry de Verige depuis Kamenari et déjeuné sur la péninsule de Lustica le jour même de notre arrivée. L'agent nous a conseillé ce raccourci au moment de la prise en charge — 40 minutes gagnées sur la route de la baie."
     },
     "2": {
-      "text": "Nous avons exploré le Montenegro pendant deux semaines. Le Jeep a parfaitement géré les routes de montagne."
+      "text": "Ryanair jusqu'à Tivat, voiture prête dans le parking, enfants attachés, et nous étions devant les remparts de Kotor avant la fin de l'heure. Le tunnel de Vrmac a fait toute la différence par rapport à la route côtière."
     }
   },
   "faqItems": {
     "0": {
-      "q": "Quels documents dois-je fournir ?",
-      "a": "Un permis de conduire valide (les informations doivent figurer en caractères latins), un passeport et une carte de crédit physique au nom du conducteur principal. Un permis de conduire international est recommandé si votre permis n'est valable que dans son pays d'émission. Les copies ou permis électroniques ne sont pas acceptés."
+      "q": "Quels documents me faut-il à la prise en charge à TIV ?",
+      "a": "Un permis de conduire avec des informations en caractères latins, un passeport et une carte de crédit physique au nom du conducteur principal. Si votre permis n'utilise que des caractères non latins, apportez un permis de conduire international. Les permis électroniques et les photocopies ne sont pas acceptés."
     },
     "1": {
-      "q": "Puis-je conduire en Croatie ou en Albanie ?",
-      "a": "Oui ! Si vous prévoyez de voyager en dehors du Monténégro, informez l'agent de location à l'avance afin qu'il puisse préparer les documents nécessaires. Les déplacements transfrontaliers vers les pays voisins sont autorisés."
+      "q": "Puis-je conduire le véhicule loué en Croatie ou en Albanie ?",
+      "a": "Oui. Signalez-le à la société de location lors de la réservation afin qu'elle prépare la carte verte. Les trajets transfrontaliers vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo sont autorisés — les documents se trouveront dans la boîte à gants à la prise en charge."
     },
     "2": {
-      "q": "Y a-t-il un âge minimum ?",
-      "a": "L'âge minimum et les exigences en matière d'expérience de conduite varient selon le véhicule. Ces détails sont affichés lorsque vous recherchez les voitures disponibles."
+      "q": "Y a-t-il un âge minimum pour louer ?",
+      "a": "Les conditions d'âge et d'expérience varient selon la catégorie de véhicule. Les voitures économiques requièrent généralement 21 ans minimum, les véhicules premium 25 ans. Ces détails apparaissent lors de la recherche, avant toute réservation."
     },
     "3": {
-      "q": "Qu'est-ce qui est inclus dans le prix ?",
-      "a": "Tous les véhicules sont assurés — la plupart incluent l'assurance responsabilité civile et la garantie dommages par collision (CDW) dans le prix de base. La TVA, les kits d'équipement (trousse de premiers secours, triangle de signalisation, gilet de haute visibilité) et une politique carburant transparente sont également inclus. Les conditions de kilométrage varient selon le véhicule. Des options de couverture étendue sont disponibles moyennant un supplément."
+      "q": "Qu'est-ce qui est inclus dans le prix de location ?",
+      "a": "CDW et protection contre le vol, TVA, kit d'équipement (trousse de secours, triangle de signalisation, gilet réfléchissant) et une politique carburant transparente. Les conditions kilométriques varient selon le véhicule — certains sont illimités, d'autres soumis à une limite journalière indiquée sur l'annonce."
     },
     "4": {
-      "q": "Comment se passe la prise en charge ?",
-      "a": "Choisissez l'heure et le lieu de prise en charge lors de la réservation — les options varient selon l'agent de location et la destination. L'agent organisera la rencontre au lieu convenu. Pour les détails précis du point de rencontre, contactez l'agent directement après la réservation."
+      "q": "Comment fonctionne la prise en charge à l'aéroport de Tivat ?",
+      "a": "Tivat est un aéroport à terminal unique. Après la récupération des bagages, sortez du terminal et traversez jusqu'au parking courte durée — environ 40 mètres. Notre agent vous y attend avec les clés et les documents. Durée totale du tapis bagages à la conduite : environ 10 minutes."
     },
     "5": {
-      "q": "Puis-je restituer le véhicule dans un autre lieu ?",
-      "a": "Oui — les locations en aller simple sont proposées dans 28 villes et localités du Monténégro. Il vous suffit de choisir des lieux de prise en charge et de restitution différents lors de la réservation."
+      "q": "Puis-je restituer le véhicule dans un lieu différent ?",
+      "a": "Oui. Les locations en aller simple sont disponibles dans plus de 28 villes du Monténégro. Prenez en charge à TIV et restituez à Budva, Kotor, Podgorica ou même à Dubrovnik. Sélectionnez des lieux de prise en charge et de restitution différents lors de la réservation."
     },
     "6": {
       "q": "Quelle est la politique d'annulation ?",
-      "a": "Annulation gratuite jusqu'à 7 jours avant la date de début de location. Pour les voitures de luxe et les cabriolets, l'annulation gratuite est possible jusqu'à 30 jours avant. Des frais de service de paiement de 6 % s'appliquent à toutes les annulations."
+      "a": "Annulation gratuite jusqu'à 7 jours avant la date de début de location pour les véhicules standard, jusqu'à 30 jours pour les catégories premium et cabriolet. Des frais de traitement de paiement de 6 % s'appliquent à tous les remboursements."
     },
     "7": {
       "q": "Un dépôt de garantie est-il requis ?",
-      "a": "Le montant du dépôt varie selon le véhicule — certains véhicules sont disponibles sans dépôt. Si un dépôt est requis, il doit être prélevé sur une carte de crédit physique au nom du conducteur principal et est remboursé à la restitution du véhicule en bon état."
+      "a": "Le montant du dépôt varie selon le groupe de véhicule — certaines voitures économiques ne nécessitent aucun dépôt. Lorsqu'un dépôt est requis, il doit être effectué sur une carte de crédit physique au nom du conducteur principal et est remboursé au retour du véhicule."
     },
     "8": {
-      "q": "Que se passe-t-il si je dépasse la limite de kilométrage ?",
-      "a": "Les véhicules avec restriction de kilométrage sont facturés au kilomètre supplémentaire. Les tarifs sont indiqués dans les détails du véhicule avant la réservation."
+      "q": "Où se trouve la station-service la plus proche de TIV ?",
+      "a": "Une station Jugopetrol se trouve à 800 mètres de la sortie de l'aéroport sur la route principale vers la ville de Tivat, et une station Petrol à Radanovici sur la route de Budva. Les deux acceptent carte et espèces."
     },
     "9": {
       "q": "Y a-t-il des frais cachés ?",
-      "a": "Non. Le prix affiché comprend toutes les taxes et tous les frais. Ce qui est indiqué lors de la réservation correspond à ce que vous payez."
+      "a": "Non. Taxes, supplément aéroport, kit d'équipement — tout inclus. Le prix affiché au paiement est celui que vous réglez à la prise en charge. Aucun frais supplémentaire n'est ajouté au comptoir."
     },
     "10": {
       "q": "Combien dois-je payer à l'avance ?",
-      "a": "Seulement 15 à 20 % du montant total sont nécessaires pour confirmer votre réservation. Le solde est payé directement à l'agent de location lors de la prise en charge."
+      "a": "Seulement 15 à 20 % du total est prélevé à la réservation pour sécuriser le véhicule. Le solde est réglé directement à l'agent de location à l'aéroport lors de la prise en charge."
     },
     "11": {
       "q": "Puis-je louer sans carte de crédit ?",
-      "a": "Certains véhicules sont disponibles sans carte de crédit. Vérifiez la disponibilité lors de votre recherche — les options sans carte de crédit sont clairement indiquées."
+      "a": "Certains véhicules sont disponibles sans carte de crédit — ils sont clairement identifiés par un badge sans carte dans les résultats de recherche. Utilisez le filtre lors de votre recherche."
     }
   },
   "destCards": {

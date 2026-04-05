@@ -196,89 +196,89 @@
   },
   "featureCards": {
     "airportPickup": {
-      "title": "Ritiro in aeroporto",
-      "desc": "Ritira la tua auto agli arrivi dell'aeroporto di Tivat o Podgorica. Nessuna navetta, nessuna attesa."
+      "title": "Ritiro a 40 metri",
+      "desc": "La tua auto è nel parcheggio breve sosta del TIV. Esci dalla sala bagagli, attraversa la strada, sali in macchina — nessuna navetta, nessuna attesa."
     },
     "fullInsurance": {
-      "title": "Assicurazione completa",
-      "desc": "Copertura completa con opzione franchigia zero. Guida in totale tranquillità."
+      "title": "Assicurazione completa inclusa",
+      "desc": "CDW e protezione furto inclusi in ogni prenotazione. Scegli la franchigia zero prima di affrontare il tunnel di Vrmac o le curve della strada costiera verso Herceg Novi."
     },
     "support": {
-      "title": "Assistenza 24/7",
-      "desc": "Soccorso stradale e servizio clienti disponibili 24 ore su 24, tutti i giorni."
+      "title": "Assistenza stradale 24/7",
+      "desc": "Volo in ritardo di tre ore? Ci adeguiamo, senza costi. Il nostro numero di assistenza mette in contatto con un meccanico locale entro 30 minuti, a qualsiasi ora."
     },
     "noHiddenFees": {
-      "title": "Nessun costo nascosto",
-      "desc": "Politica carburante, chilometraggio, tasse — tutto è incluso nel prezzo che vedi."
+      "title": "Prezzi trasparenti",
+      "desc": "IVA, chilometraggio, supplemento aeroporto, kit di equipaggiamento — tutto incluso nel prezzo mostrato a schermo. Il totale al checkout è il totale che paghi al ritiro."
     },
     "freeCancellation": {
       "title": "Cancellazione gratuita",
-      "desc": "I piani cambiano. Cancella fino a 24 ore prima del ritiro per un rimborso completo."
+      "desc": "Volo cancellato o orari della compagnia modificati? Cancella fino a 24 ore prima del ritiro senza costi — anche in caso di riprogrammazione delle tratte estive o invernali."
     },
     "crossBorder": {
-      "title": "Oltre confine",
-      "desc": "Guida in Croatia, Bosnia, Albania o Kosovo. Viaggi transfrontalieri consentiti."
+      "title": "Viaggi transfrontalieri inclusi",
+      "desc": "Carta verde preparata alla prenotazione. L'aeroporto di Dubrovnik è a 90 km; il valico croato di Debeli Brijeg a soli 40 km. I documenti saranno nel vano portaoggetti."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Ho ritirato un'Octavia impeccabile all'aeroporto di Tivat in meno di 5 minuti. Valore incredibile."
+      "text": "Viaggio di lavoro con agenda fitta. Bagagli ritirati, auto nel parcheggio di fronte, e in 20 minuti dall'atterraggio ero al mio appuntamento a Porto Montenegro. La velocità di ritiro al TIV è difficile da battere."
     },
     "1": {
-      "text": "La BMW era in condizioni perfette e i documenti per la Croatia erano pronti al nostro arrivo. Altamente consigliato."
+      "text": "Abbiamo preso il traghetto Verige da Kamenari e pranzato sulla penisola di Lustica il pomeriggio stesso dell'arrivo. L'agente ci ha suggerito questa scorciatoia al momento del ritiro — 40 minuti risparmiati sulla strada della baia."
     },
     "2": {
-      "text": "Abbiamo esplorato il Montenegro per due settimane. Il Jeep ha affrontato perfettamente le strade di montagna."
+      "text": "Ryanair fino a Tivat, auto pronta nel parcheggio, bambini allacciati, e stavamo parcheggiando davanti alle mura di Kotor prima che passasse un'ora. Il tunnel di Vrmac ha fatto una differenza enorme rispetto alla strada costiera."
     }
   },
   "faqItems": {
     "0": {
-      "q": "Quali documenti mi servono?",
-      "a": "Una patente di guida valida (deve riportare i dati in caratteri latini), un passaporto e una carta di credito fisica intestata al conducente principale. Si consiglia la Patente Internazionale di Guida se la propria patente è valida solo nel paese di rilascio. Copie o patenti elettroniche non sono accettate."
+      "q": "Quali documenti mi servono al ritiro al TIV?",
+      "a": "Una patente di guida con dati in caratteri latini, un passaporto e una carta di credito fisica intestata al conducente principale. Se la tua patente usa solo caratteri non latini, porta una Patente Internazionale di Guida. Patenti elettroniche e fotocopie non sono accettate."
     },
     "1": {
-      "q": "Posso guidare in Croazia o Albania?",
-      "a": "Sì! Se prevedi di viaggiare fuori dal Montenegro, avvisa in anticipo l'agente di noleggio affinché possa preparare i documenti necessari. I viaggi transfrontalieri nei paesi limitrofi sono consentiti."
+      "q": "Posso guidare il noleggio in Croazia o Albania?",
+      "a": "Sì. Comunicalo alla società di noleggio alla prenotazione in modo che preparino la carta verde. I viaggi transfrontalieri verso Croazia, Bosnia, Albania, Serbia e Kosovo sono consentiti — i documenti saranno nel vano portaoggetti al ritiro al TIV."
     },
     "2": {
-      "q": "C'è un'età minima?",
-      "a": "L'età minima e i requisiti di esperienza di guida variano in base al veicolo. Questi dettagli vengono mostrati quando cerchi le auto disponibili."
+      "q": "C'è un'età minima per noleggiare?",
+      "a": "I requisiti di età ed esperienza variano in base alla categoria del veicolo. Le auto economiche richiedono generalmente 21 anni, i veicoli premium 25 anni. Questi dettagli compaiono durante la ricerca, prima di confermare la prenotazione."
     },
     "3": {
-      "q": "Cosa è incluso nel prezzo?",
-      "a": "Tutti i veicoli sono assicurati — la maggior parte include l'assicurazione di responsabilità civile e la copertura per danni da collisione (CDW) nel prezzo base. IVA, kit di equipaggiamento (kit di primo soccorso, triangolo di emergenza, giubbotto catarifrangente) e una politica carburante trasparente sono inclusi. Le condizioni sul chilometraggio variano in base al veicolo. Opzioni di copertura estesa sono disponibili a un costo aggiuntivo."
+      "q": "Cosa è incluso nel prezzo di noleggio?",
+      "a": "CDW e protezione furto, IVA, kit di equipaggiamento (cassetta di pronto soccorso, triangolo di emergenza, gilet catarifrangente) e una politica carburante trasparente. Le condizioni chilometriche variano per veicolo — alcuni sono illimitati, altri con limite giornaliero indicato nell'annuncio."
     },
     "4": {
-      "q": "Come funziona il ritiro?",
-      "a": "Scegli l'orario e il luogo di ritiro durante la prenotazione — le opzioni variano in base all'agente di noleggio e alla destinazione. L'agente organizzerà l'incontro nel luogo concordato. Per i dettagli precisi sul punto di incontro, contatta l'agente direttamente dopo la prenotazione."
+      "q": "Come funziona il ritiro all'aeroporto di Tivat?",
+      "a": "Tivat è un aeroporto a terminal unico. Dopo il ritiro bagagli, esci dal terminal e attraversa fino al parcheggio breve sosta — circa 40 metri. Il nostro agente ti aspetta lì con chiavi e documenti. Tempo totale dal tapis roulant bagagli alla guida: circa 10 minuti."
     },
     "5": {
-      "q": "Posso restituire il veicolo in un luogo diverso?",
-      "a": "Sì — il noleggio con riconsegna in altra sede è disponibile in 28 città e località del Montenegro. Basta scegliere luoghi di ritiro e riconsegna diversi durante la prenotazione."
+      "q": "Posso riconsegnare il veicolo in un luogo diverso?",
+      "a": "Sì. I noleggi di sola andata sono disponibili in oltre 28 città del Montenegro. Ritira al TIV e riconsegna a Budva, Kotor, Podgorica o anche a Dubrovnik. Seleziona luoghi di ritiro e riconsegna diversi durante la prenotazione."
     },
     "6": {
       "q": "Qual è la politica di cancellazione?",
-      "a": "Cancellazione gratuita fino a 7 giorni prima della data di inizio noleggio. Per auto di lusso e cabriolet, la cancellazione gratuita è disponibile fino a 30 giorni prima. Una commissione del 6 % per il servizio di pagamento si applica a tutte le cancellazioni."
+      "a": "Cancellazione gratuita fino a 7 giorni prima della data di inizio noleggio per i veicoli standard, fino a 30 giorni per le categorie premium e cabriolet. Una commissione del 6 % per elaborazione del pagamento si applica a tutti i rimborsi."
     },
     "7": {
       "q": "È richiesto un deposito cauzionale?",
-      "a": "L'importo del deposito varia in base al veicolo — alcuni veicoli sono disponibili senza deposito. Se richiesto, il deposito deve essere su una carta di credito fisica intestata al conducente principale e viene rimborsato alla riconsegna del veicolo in buone condizioni."
+      "a": "Gli importi del deposito variano per gruppo di veicolo — alcune auto economiche non richiedono alcun deposito. Quando è previsto un deposito, deve essere su una carta di credito fisica intestata al conducente principale e viene rimborsato alla restituzione del veicolo."
     },
     "8": {
-      "q": "Cosa succede se supero il limite di chilometraggio?",
-      "a": "Per i veicoli con limiti di chilometraggio viene addebitato un costo per ogni chilometro eccedente. Le tariffe sono indicate nei dettagli del veicolo prima della prenotazione."
+      "q": "Dov'è il distributore di carburante più vicino al TIV?",
+      "a": "C'è una stazione Jugopetrol a 800 metri dall'uscita dell'aeroporto sulla strada principale verso la città di Tivat, e una stazione Petrol a Radanovici sulla strada per Budva. Entrambe accettano carta e contanti."
     },
     "9": {
-      "q": "Ci sono costi nascosti?",
-      "a": "No. Il prezzo visualizzato include tutte le tasse e i costi. Quello che vedi al momento della prenotazione è quello che paghi."
+      "q": "Ci sono commissioni nascoste?",
+      "a": "No. Tasse, supplemento aeroporto, kit di equipaggiamento — tutto incluso. Il prezzo al checkout è il prezzo che paghi al ritiro. Non vengono aggiunte commissioni al banco."
     },
     "10": {
-      "q": "Quanto pago in anticipo?",
-      "a": "Solo il 15–20 % del totale è richiesto per confermare la prenotazione. Il saldo viene pagato direttamente all'agente di noleggio al momento del ritiro."
+      "q": "Quanto pago anticipatamente?",
+      "a": "Solo il 15–20 % del totale viene addebitato alla prenotazione per assicurare il veicolo. Il saldo viene pagato direttamente all'agente di noleggio in aeroporto al momento del ritiro."
     },
     "11": {
       "q": "Posso noleggiare senza carta di credito?",
-      "a": "Alcuni veicoli sono disponibili senza carta di credito. Verifica la disponibilità durante la ricerca — le opzioni senza carta di credito sono chiaramente indicate."
+      "a": "Alcuni veicoli sono disponibili senza carta di credito — sono chiaramente contrassegnati con un badge senza carta nei risultati di ricerca. Filtra per trovarli durante la ricerca."
     }
   },
   "destCards": {
