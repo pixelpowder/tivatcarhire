@@ -13,7 +13,15 @@ export default function Nav({ logoHref }) {
   const router = useRouter();
   const [langOpen, setLangOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const [scrolled, setScrolled] = useState(false);
   const langRef = useRef(null);
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 40);
+    onScroll();
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
 
   useEffect(() => {
     function handleClickOutside(e) {
@@ -49,7 +57,7 @@ export default function Nav({ logoHref }) {
 
   return (
     <>
-      <nav className="nav">
+      <nav className={`nav${scrolled ? ' nav--scrolled' : ''}`}>
         <div className="nav__inner">
           <a href={resolvedLogoHref} className="nav__logo">
             <div className="nav__logo-icon">
