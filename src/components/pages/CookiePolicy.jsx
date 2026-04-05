@@ -45,7 +45,7 @@ export default function CookiePolicy() {
       <p>Note that blocking essential cookies may affect the functionality of the booking widget.</p>
 
       <h2>Contact</h2>
-      <p>Questions about our use of cookies? Contact us at info@montenegrocarhire.com.</p>
+      <p>Questions about our use of cookies? Contact us at info@tivatcarhire.com.</p>
     </ContentPage>
   );
 }

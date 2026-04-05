@@ -12,7 +12,7 @@
     "perDay": "po danu"
   },
   "hero": {
-    "headline": "Rent a Car Crna Gora",
+    "headline": "Rent a Car Tivat",
     "badges": {
       "freeCancellation": "Besplatna Otkazivanja",
       "fullInsurance": "Puno Osiguranje Uključeno",
@@ -98,7 +98,7 @@
     "seoDesc": "Pretražite i rezervišite rent a car u Crnoj Gori. Dostupnost u realnom vremenu, trenutna potvrda, besplatno otkazivanje."
   },
   "footer": {
-    "brandDesc": "Premium rent a car u Crnoj Gori od 2007. Preuzimanje na aerodromu, puno osiguranje i bez skrivenih troškova.",
+    "brandDesc": "Rent a car na aerodromu Tivat i Porto Montenegro. Puno osiguranje, preuzimanje na dolasku i bez skrivenih troškova.",
     "quickLinks": "Brzi Linkovi",
     "guides": "Vodiči",
     "locations": "Lokacije",
@@ -299,7 +299,7 @@
     },
     "perast": {
       "name": "Perast",
-      "tag": "Skriveni dragulj",
+      "tag": "25 min",
       "desc": "Barokno selo na Boka Bay."
     },
     "budva": {
@@ -308,8 +308,8 @@
       "desc": "Plaže Rivijere i zidine starog grada."
     },
     "dubrovnik-airport": {
-      "name": "Aerodrom Dubrovnik",
-      "tag": "Prekogranično",
+      "name": "Herceg Novi",
+      "tag": "35 min",
       "desc": "Doletite u Dubrovnik, vozite u Crna Gora."
     },
     "tivat": {

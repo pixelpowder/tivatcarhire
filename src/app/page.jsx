@@ -3,7 +3,7 @@ import HomeClient from '@/src/HomeClient';
 
 export async function generateMetadata() {
   return {
-    title: 'Car Hire in Montenegro — Tivat & Podgorica Airport Pickup | Montenegro Car Hire',
+    title: 'Tivat Car Hire — Tivat Airport & Porto Montenegro Pickup | Tivat Car Hire',
     description: t('en', 'home.seoDesc'),
     alternates: buildAlternates(''),
   };

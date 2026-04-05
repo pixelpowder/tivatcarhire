@@ -12,7 +12,7 @@
     "perDay": "al giorno"
   },
   "hero": {
-    "headline": "Noleggio Auto Montenegro",
+    "headline": "Noleggio Auto Tivat",
     "badges": {
       "freeCancellation": "Cancellazione Gratuita",
       "fullInsurance": "Assicurazione Completa Inclusa",
@@ -98,7 +98,7 @@
     "seoDesc": "Cerca e prenota auto a noleggio in Montenegro. Disponibilità in tempo reale, conferma immediata, cancellazione gratuita."
   },
   "footer": {
-    "brandDesc": "Noleggio auto premium in Montenegro dal 2007. Ritiro in aeroporto, assicurazione completa e nessun costo nascosto.",
+    "brandDesc": "Noleggio auto dall'aeroporto di Tivat e Porto Montenegro. Assicurazione completa, ritiro agli arrivi e nessun costo nascosto.",
     "quickLinks": "Link Rapidi",
     "guides": "Guide",
     "locations": "Sedi",
@@ -127,7 +127,7 @@
   "about": {
     "title": "Chi Siamo",
     "subtitle": "Aiutiamo i viaggiatori a esplorare il Montenegro dal 2007.",
-    "seoDesc": "Chi è Montenegro Car Hire. Dal 2007 aiutiamo i viaggiatori a esplorare il Montenegro con auto affidabili, consegna in aeroporto e competenza locale."
+    "seoDesc": "Chi è Tivat Car Hire. Dal 2007 aiutiamo i viaggiatori a esplorare il Montenegro con auto affidabili, consegna in aeroporto e competenza locale."
   },
   "kotor": {
     "title": "Noleggio Auto a Kotor",
@@ -182,17 +182,17 @@
   "privacy": {
     "title": "Informativa sulla Privacy",
     "subtitle": "Come gestiamo le tue informazioni.",
-    "seoDesc": "Informativa sulla privacy di Montenegro Car Hire. Come raccogliamo, utilizziamo e proteggiamo i tuoi dati personali durante la ricerca di auto a noleggio."
+    "seoDesc": "Informativa sulla privacy di Tivat Car Hire. Come raccogliamo, utilizziamo e proteggiamo i tuoi dati personali durante la ricerca di auto a noleggio."
   },
   "terms": {
     "title": "Termini e Condizioni",
     "subtitle": "Condizioni di utilizzo del nostro sito web.",
-    "seoDesc": "Termini e condizioni di utilizzo di Montenegro Car Hire. Scopri il processo di prenotazione, il partner di noleggio, i prezzi e la responsabilità."
+    "seoDesc": "Termini e condizioni di utilizzo di Tivat Car Hire. Scopri il processo di prenotazione, il partner di noleggio, i prezzi e la responsabilità."
   },
   "cookie-policy": {
     "title": "Politica sui Cookie",
     "subtitle": "Come utilizziamo i cookie su questo sito.",
-    "seoDesc": "Politica sui cookie di Montenegro Car Hire. Scopri quali cookie utilizziamo, come il widget di prenotazione memorizza le preferenze e come gestirli."
+    "seoDesc": "Politica sui cookie di Tivat Car Hire. Scopri quali cookie utilizziamo, come il widget di prenotazione memorizza le preferenze e come gestirli."
   },
   "featureCards": {
     "airportPickup": {
@@ -299,16 +299,16 @@
     },
     "perast": {
       "name": "Perast",
-      "tag": "Gioiello nascosto",
+      "tag": "25 min",
       "desc": "Villaggio barocco sulla Baia di Kotor."
     },
     "budva": {
       "name": "Budva",
-      "tag": "Città balneare",
+      "tag": "30 min",
       "desc": "Spiagge della riviera e le mura della città vecchia."
     },
     "dubrovnik-airport": {
-      "name": "Aeroporto di Dubrovnik",
+      "name": "Herceg Novi",
       "tag": "Oltre confine",
       "desc": "Vola a Dubrovnik, guida fino al Montenegro."
     },
@@ -324,8 +324,8 @@
     }
   },
   "aboutBody": {
-    "h1": "Noleggio Auto Montenegro",
-    "p1": "Dal 2007, Montenegro Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea — rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic — è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
+    "h1": "Noleggio Auto Tivat",
+    "p1": "Dal 2007, Tivat Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea — rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic — è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
     "h2": "Perché abbiamo iniziato",
     "p2": "Il Montenegro è un Paese che si vive meglio al proprio ritmo. Le tortuose strade costiere, i villaggi di montagna nascosti e le città patrimonio UNESCO sono difficili da raggiungere con i mezzi pubblici. Abbiamo colto l'opportunità di offrire ai viaggiatori la libertà di scoprire il Montenegro alle proprie condizioni — niente orari di pullman turistici, niente panorami persi, nessun compromesso.",
     "h3": "Cosa offriamo",

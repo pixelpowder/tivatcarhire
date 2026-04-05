@@ -3,7 +3,7 @@ import Kotor from '@/src/components/pages/Kotor';
 
 export async function generateMetadata() {
   return {
-    title: t('en', 'kotor.title') + ' | Montenegro Car Hire',
+    title: t('en', 'kotor.title') + ' | Tivat Car Hire',
     description: t('en', 'kotor.seoDesc'),
     alternates: buildAlternates('kotor'),
   };

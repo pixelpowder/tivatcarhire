@@ -12,7 +12,7 @@
     "perDay": "pro Tag"
   },
   "hero": {
-    "headline": "Mietwagen in Montenegro",
+    "headline": "Mietwagen in Tivat",
     "badges": {
       "freeCancellation": "Kostenlose Stornierung",
       "fullInsurance": "Vollkasko inklusive",
@@ -33,7 +33,7 @@
     "fullInsurance": "Vollkasko",
     "fullInsuranceDesc": "Option ohne Selbstbeteiligung verfügbar",
     "fastPickup": "10-Min Abholung",
-    "fastPickupDesc": "Wir empfangen Sie am Ankunftsbereich"
+    "fastPickupDesc": "Wir empfangen Sie am Tivat Flughafen"
   },
   "stats": {
     "years": "Jahre Erfahrung",
@@ -98,7 +98,7 @@
     "seoDesc": "Mietwagen in Montenegro suchen und buchen. Echtzeit-Verfügbarkeit, sofortige Bestätigung, kostenlose Stornierung."
   },
   "footer": {
-    "brandDesc": "Premium-Autovermietung in Montenegro seit 2007. Flughafenabholung, Vollkasko und keine versteckten Kosten.",
+    "brandDesc": "Autovermietung ab Tivat Flughafen und Porto Montenegro. Vollkasko, Abholung am Ankunftsbereich und keine versteckten Kosten.",
     "quickLinks": "Schnelllinks",
     "guides": "Reiseführer",
     "locations": "Standorte",
@@ -127,7 +127,7 @@
   "about": {
     "title": "Über uns",
     "subtitle": "Wir helfen Reisenden seit 2007, Montenegro zu entdecken.",
-    "seoDesc": "Über Montenegro Car Hire. Seit 2007 helfen wir Reisenden, Montenegro mit zuverlässigen Mietwagen, Flughafenzustellung und lokaler Expertise zu entdecken."
+    "seoDesc": "Über Tivat Car Hire. Seit 2007 helfen wir Reisenden, Montenegro mit zuverlässigen Mietwagen, Flughafenzustellung und lokaler Expertise zu entdecken."
   },
   "kotor": {
     "title": "Mietwagen in Kotor",
@@ -182,17 +182,17 @@
   "privacy": {
     "title": "Datenschutzrichtlinie",
     "subtitle": "Wie wir mit Ihren Daten umgehen.",
-    "seoDesc": "Datenschutzrichtlinie von Montenegro Car Hire. Wie wir Ihre personenbezogenen Daten bei der Suche nach Mietwagen erheben, verwenden und schützen."
+    "seoDesc": "Datenschutzrichtlinie von Tivat Car Hire. Wie wir Ihre personenbezogenen Daten bei der Suche nach Mietwagen erheben, verwenden und schützen."
   },
   "terms": {
     "title": "Allgemeine Geschäftsbedingungen",
     "subtitle": "Nutzungsbedingungen für unsere Website.",
-    "seoDesc": "Allgemeine Geschäftsbedingungen für die Nutzung von Montenegro Car Hire. Erfahren Sie mehr über Buchungsprozess, Mietpartner, Preise und Haftung."
+    "seoDesc": "Allgemeine Geschäftsbedingungen für die Nutzung von Tivat Car Hire. Erfahren Sie mehr über Buchungsprozess, Mietpartner, Preise und Haftung."
   },
   "cookie-policy": {
     "title": "Cookie-Richtlinie",
     "subtitle": "Wie wir Cookies auf dieser Website verwenden.",
-    "seoDesc": "Cookie-Richtlinie von Montenegro Car Hire. Erfahren Sie, welche Cookies wir verwenden, wie das Buchungs-Widget Einstellungen speichert und wie Sie sie verwalten."
+    "seoDesc": "Cookie-Richtlinie von Tivat Car Hire. Erfahren Sie, welche Cookies wir verwenden, wie das Buchungs-Widget Einstellungen speichert und wie Sie sie verwalten."
   },
   "featureCards": {
     "airportPickup": {
@@ -304,17 +304,17 @@
     },
     "budva": {
       "name": "Budva",
-      "tag": "Strandstadt",
+      "tag": "30 min",
       "desc": "Riviera-Strände und die Altstadt-Mauern."
     },
     "dubrovnik-airport": {
-      "name": "Flughafen Dubrovnik",
-      "tag": "Grenzüberschreitend",
-      "desc": "Fliegen Sie nach Dubrovnik, fahren Sie nach Montenegro."
+      "name": "Herceg Novi",
+      "tag": "35 min",
+      "desc": "Grenzstadt nahe Kroatien."
     },
     "tivat": {
       "name": "Tivat",
-      "tag": "Hafenstadt",
+      "tag": "Porto Montenegro",
       "desc": "Porto Montenegro und die atemberaubende Boka Bay."
     },
     "podgorica": {
@@ -325,7 +325,7 @@
   },
   "aboutBody": {
     "h1": "Montenegro Autovermietung",
-    "p1": "Seit 2007 verbindet Montenegro Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann — Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern — hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
+    "p1": "Seit 2007 verbindet Tivat Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann — Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern — hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
     "h2": "Warum wir angefangen haben",
     "p2": "Montenegro ist ein Land, das man am besten in eigenem Tempo erlebt. Die kurvigen Küstenstraßen, versteckten Bergdörfer und UNESCO-Welterbestätten sind mit öffentlichen Verkehrsmitteln nur schwer erreichbar. Wir sahen die Möglichkeit, Reisenden die Freiheit zu geben, Montenegro auf eigene Faust zu entdecken — keine Reisebusfahrpläne, keine verpassten Aussichtspunkte, keine Kompromisse.",
     "h3": "Was wir anbieten",

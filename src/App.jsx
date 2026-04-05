@@ -122,13 +122,13 @@ const locationSelectStyles = {
     padding: '0',
     fontSize: '15px',
     fontWeight: '500',
-    color: 'rgb(5,32,60)',
+    color: 'rgb(6,46,42)',
   }),
   singleValue: (base) => ({
     ...base,
     fontSize: '15px',
     fontWeight: '500',
-    color: 'rgb(5,32,60)',
+    color: 'rgb(6,46,42)',
     margin: '0',
   }),
   placeholder: (base) => ({
@@ -141,7 +141,7 @@ const locationSelectStyles = {
   dropdownIndicator: (base) => ({
     ...base,
     padding: '0',
-    color: 'rgb(0,98,227)',
+    color: 'rgb(13,139,125)',
   }),
   menu: (base) => ({
     ...base,
@@ -164,8 +164,8 @@ const locationSelectStyles = {
     ...base,
     fontSize: '14px',
     fontWeight: state.isSelected ? '600' : '400',
-    color: state.isSelected ? 'rgb(0,98,227)' : 'rgb(5,32,60)',
-    background: state.isSelected ? 'rgba(0,98,227,0.08)' : state.isFocused ? 'rgba(0,98,227,0.05)' : 'transparent',
+    color: state.isSelected ? 'rgb(13,139,125)' : 'rgb(6,46,42)',
+    background: state.isSelected ? 'rgba(13,139,125,0.08)' : state.isFocused ? 'rgba(13,139,125,0.05)' : 'transparent',
     borderRadius: '6px',
     cursor: 'pointer',
     padding: '10px 12px',
@@ -599,7 +599,7 @@ function TrustpilotBanner() {
           data-style-width="100%"
           data-token="048c09ab-d890-4af6-91a4-0c5532f846df"
         >
-          <a href="https://www.trustpilot.com/review/montenegrocarhire.com" target="_blank" rel="noopener">Trustpilot</a>
+          <a href="https://www.trustpilot.com/review/tivatcarhire.com" target="_blank" rel="noopener">Trustpilot</a>
         </div>
       </div>
     </div>
@@ -652,7 +652,7 @@ function Locations() {
         <div className="section-header">
           <span className="section-label">Pickup Points</span>
           <h2 className="section-title">Where Can You Collect?</h2>
-          <p className="section-subtitle">Multiple locations across Montenegro for maximum convenience.</p>
+          <p className="section-subtitle">Pickup from Tivat Airport, Porto Montenegro, and across the coast.</p>
         </div>
 
         <div className="locations-grid">
@@ -738,8 +738,8 @@ function CTABanner() {
             <a href={localePath("/book")} className="cta-btn--primary" style={{ textDecoration: 'none' }}>
               {t('cta.browseFleet')} <ArrowRight size={16} />
             </a>
-            <a href="mailto:info@montenegrocarhire.com" className="cta-btn--outline">
-              <Mail size={15} /> info@montenegrocarhire.com
+            <a href="mailto:info@tivatcarhire.com" className="cta-btn--outline">
+              <Mail size={15} /> info@tivatcarhire.com
             </a>
           </div>
         </div>
@@ -766,7 +766,7 @@ function StickyMobileCTA() {
       <a href={localePath("/book")} className="sticky-cta__btn">
         {t('common.bookNow')} <ArrowRight size={16} />
       </a>
-      <a href="https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Montenegro." target="_blank" rel="noopener noreferrer" className="sticky-cta__phone">
+      <a href="https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20from%20Tivat." target="_blank" rel="noopener noreferrer" className="sticky-cta__phone">
         <MessageCircle size={18} />
       </a>
     </div>
@@ -777,7 +777,7 @@ function StickyMobileCTA() {
 function WhatsAppFab() {
   return (
     <a
-      href={`https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20in%20Montenegro.`}
+      href={`https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20from%20Tivat.`}
       target="_blank"
       rel="noopener noreferrer"
       className="whatsapp-fab"

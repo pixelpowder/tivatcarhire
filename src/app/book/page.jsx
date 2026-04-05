@@ -4,7 +4,7 @@ import BookPage from '@/src/BookPage';
 
 export async function generateMetadata() {
   return {
-    title: t('en', 'book.seoTitle') + ' | Montenegro Car Hire',
+    title: t('en', 'book.seoTitle') + ' | Tivat Car Hire',
     description: t('en', 'book.seoDesc'),
     alternates: buildAlternates('book'),
   };
