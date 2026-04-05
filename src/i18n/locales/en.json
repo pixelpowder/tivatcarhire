@@ -30,11 +30,11 @@
   },
   "trust": {
     "noHiddenFees": "No Hidden Fees",
-    "noHiddenFeesDesc": "Final price at checkout — nothing added",
+    "noHiddenFeesDesc": "Transparent pricing — every charge visible before you book",
     "fullInsurance": "Full Insurance",
-    "fullInsuranceDesc": "CDW + zero-excess upgrades",
-    "fastPickup": "10-Min Pickup",
-    "fastPickupDesc": "Walk from TIV baggage hall to car"
+    "fullInsuranceDesc": "Standard CDW on all vehicles, zero-excess upgrade available at checkout",
+    "fastPickup": "Airport Pickup",
+    "fastPickupDesc": "Steps from TIV baggage hall — no shuttle, no waiting"
   },
   "stats": {
     "years": "Years Experience",
