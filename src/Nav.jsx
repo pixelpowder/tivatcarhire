@@ -16,12 +16,15 @@ export default function Nav({ logoHref }) {
   const [scrolled, setScrolled] = useState(false);
   const langRef = useRef(null);
 
+  const isHome = pathname === '/' || pathname === `/${lang}`;
+
   useEffect(() => {
+    if (!isHome) { setScrolled(true); return; }
     const onScroll = () => setScrolled(window.scrollY > 40);
     onScroll();
     window.addEventListener('scroll', onScroll, { passive: true });
     return () => window.removeEventListener('scroll', onScroll);
-  }, []);
+  }, [isHome]);
 
   useEffect(() => {
     function handleClickOutside(e) {
