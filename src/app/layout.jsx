@@ -9,9 +9,9 @@ import { LanguageContext } from '@/src/i18n/LanguageContext';
 import { DEFAULT_LANG } from '@/src/i18n/languages';
 
 export const metadata = {
-  title: 'Tivat Car Hire — Tivat Airport & Porto Montenegro Pickup',
+  title: 'Tivat Car Hire — Airport Gateway to Montenegro',
   description:
-    'Rent a car in Tivat from €13/day. Pick up at Tivat Airport arrivals, Porto Montenegro, or Tivat town. Drive to Kotor in 20 minutes. Free cancellation, full insurance, no hidden fees.',
+    'Montenegro\'s coastal gateway — collect your car at Tivat Airport in 5 minutes flat. Kotor is 20 min north, Budva 30 min south. From €13/day, full insurance included.',
   metadataBase: new URL('https://www.tivatcarhire.com'),
 };
 

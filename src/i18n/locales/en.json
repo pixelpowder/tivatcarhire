@@ -95,8 +95,8 @@
   },
   "book": {
     "title": "Find Your Car",
-    "seoTitle": "Book a Car",
-    "seoDesc": "Search and book rental cars from Tivat. Real-time availability, instant confirmation, free cancellation."
+    "seoTitle": "Reserve Your Airport Pickup",
+    "seoDesc": "Browse 200+ vehicles stationed at Tivat Airport. Book online, get instant confirmation, and walk from arrivals to your car in under 5 minutes."
   },
   "footer": {
     "brandDesc": "Car hire from Tivat Airport and Porto Montenegro. Full insurance, airport pickup at arrivals, and no hidden fees.",
@@ -123,12 +123,12 @@
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Rent a car in Tivat from \u20ac13/day. Pick up at Tivat Airport arrivals, Porto Montenegro, or Tivat town. Drive to Kotor in 20 minutes, Budva in 30. Free cancellation, full insurance, no hidden fees."
+    "seoDesc": "Montenegro's coastal gateway — collect your car at Tivat Airport in 5 minutes flat. Kotor is 20 min north, Budva 30 min south. From \u20ac13/day, full insurance included."
   },
   "about": {
     "title": "About Us",
     "subtitle": "Helping travellers explore Montenegro from Tivat since 2007.",
-    "seoDesc": "About Tivat Car Hire. Helping travellers explore Montenegro from Tivat Airport and Porto Montenegro since 2007 with reliable rental cars and local expertise.",
+    "seoDesc": "Airport pickup specialists since day one. We station cars at TIV arrivals so every coastal tourist — Kotor, Budva, or Porto Montenegro — drives off fast.",
     "heading1": "Tivat Car Hire",
     "p1": "Since 2007, Tivat Car Hire has been connecting travellers with reliable, affordable rental cars from Tivat Airport and Porto Montenegro. What started as a simple idea \u2014 making it easier for visitors landing at Tivat to explore this stunning corner of the Adriatic \u2014 has grown into one of the area's most trusted car rental services.",
     "heading2": "Why Tivat?",
@@ -162,67 +162,67 @@
   "kotor": {
     "title": "Tivat to Kotor Car Hire",
     "subtitle": "Drive from Tivat Airport to Kotor in just 20 minutes.",
-    "seoDesc": "Rent a car at Tivat Airport and drive to Kotor in 20 minutes. Explore the UNESCO old town, Bay of Kotor, and nearby Perast with affordable car hire."
+    "seoDesc": "Through the Vrmac tunnel in 20 minutes you swap the airport for UNESCO ramparts. Kotor's walled Old Town and the fjord-like bay open up beyond."
   },
   "tivat-airport": {
     "title": "Tivat Airport Car Hire",
     "subtitle": "Collect your rental car at arrivals \u2014 we meet you at the gate.",
-    "seoDesc": "Pick up your rental car at Tivat Airport (TIV). We meet you at arrivals with your vehicle ready. Drive to Kotor, Budva, or Porto Montenegro in minutes."
+    "seoDesc": "THE fastest airport pickup in Montenegro. Step off your flight at TIV, walk to our desk, and drive away. No shuttle bus, no waiting, no transfer queue."
   },
   "budva": {
     "title": "Tivat to Budva Car Hire",
     "subtitle": "Drive from Tivat Airport to the riviera in 30 minutes.",
-    "seoDesc": "Hire a car at Tivat Airport and drive to Budva in 30 minutes. Mogren beach, Sveti Stefan, and the riviera's best nightlife. Full insurance, no hidden fees."
+    "seoDesc": "Take the tunnel shortcut and hit Budva's riviera in 30 minutes from TIV. Sand, nightlife, and Sveti Stefan — all south down one coastal highway."
   },
   "perast": {
     "title": "Tivat to Perast Car Hire",
     "subtitle": "Drive from Tivat Airport to Perast in 25 minutes.",
-    "seoDesc": "Rent a car at Tivat and visit Perast, a baroque jewel on the Bay of Kotor. See Our Lady of the Rocks island and stunning waterfront palaces at your own pace."
+    "seoDesc": "25 minutes around Boka Bay from Tivat to Perast's baroque pearl. Stone palaces, a man-made island church, and zero crowds before 10 am."
   },
   "podgorica": {
     "title": "Car Hire in Podgorica",
     "subtitle": "Montenegro's capital \u2014 culture, rivers, and modern charm.",
-    "seoDesc": "Car hire in Podgorica, Montenegro's capital. Explore Lake Skadar, Ostrog Monastery, and Durmitor with a rental car. Airport pickup available."
+    "seoDesc": "The mountain road from Tivat to Podgorica climbs through Lovcen before dropping to the capital. A dramatic inland contrast to the coastal drive."
   },
   "podgorica-airport": {
     "title": "Podgorica Airport Car Hire",
     "subtitle": "Montenegro's main international gateway.",
-    "seoDesc": "Collect your rental car at Podgorica Airport (TGD). We deliver your vehicle to arrivals. Drive to the coast, Lake Skadar, or Durmitor National Park."
+    "seoDesc": "Montenegro's second airport handles budget carriers from across Europe. Collect at TGD arrivals and reach Tivat's coast via the inland mountain route."
   },
   "dubrovnik-airport": {
     "title": "Dubrovnik Airport Car Hire",
     "subtitle": "Fly into Croatia, drive into Montenegro.",
-    "seoDesc": "Rent a car at Dubrovnik Airport and drive into Montenegro. Cross the border in under an hour. Full insurance and green card included."
+    "seoDesc": "An alternative arrival point: fly into Dubrovnik and drive to Tivat in about an hour. One border crossing, green card included, coastal road all the way."
   },
   "tivat": {
     "title": "Car Hire in Tivat",
     "subtitle": "Porto Montenegro, Boka Bay, and the gateway to the coast.",
-    "seoDesc": "Hire a car in Tivat, home of Porto Montenegro marina. Explore the Bay of Kotor, Budva Riviera, and Lustica Bay with affordable car rental from Tivat."
+    "seoDesc": "Porto Montenegro superyachts, waterfront restaurants, and the new Lustica Bay resort. Tivat is the luxury side of the bay — explore it all by car."
   },
   "montenegro": {
     "title": "Montenegro Car Hire & Travel Guide",
     "subtitle": "Everything you need to know about driving in Montenegro.",
-    "seoDesc": "Complete guide to driving in Montenegro from Tivat. Road rules, speed limits, fuel prices, and the best scenic routes from coast to mountains."
+    "seoDesc": "Airport to coast driving explained: bay road blind corners, tunnel shortcuts, Kotor parking, and fuel stops between Tivat and the national parks."
   },
   "border-crossing": {
     "title": "Balkans Border Crossing Guide",
     "subtitle": "Everything you need to know about driving your rental car across borders.",
-    "seoDesc": "Guide to crossing borders from Montenegro by rental car. Green card insurance, required documents, and tips for Croatia, Bosnia, Albania, and Serbia."
+    "seoDesc": "Driving from Tivat across a border? Green card, vehicle docs, and passport rules for Croatia, Bosnia, Albania, and Kosovo — plus the quickest crossings."
   },
   "privacy": {
     "title": "Privacy Policy",
     "subtitle": "How we handle your information.",
-    "seoDesc": "Privacy policy for Tivat Car Hire. How we collect, use, and protect your personal data when you search for rental cars."
+    "seoDesc": "Tivat Car Hire privacy notice: what personal data we process when you search for airport rentals, and how we keep your information secure."
   },
   "terms": {
     "title": "Terms & Conditions",
     "subtitle": "Terms of use for our website.",
-    "seoDesc": "Terms and conditions for using Tivat Car Hire. Learn about our booking process, rental partner, pricing, and liability."
+    "seoDesc": "Tivat Car Hire booking terms: airport pickup conditions, free cancellation window, insurance coverage, and supplier responsibilities."
   },
   "cookie-policy": {
     "title": "Cookie Policy",
     "subtitle": "How we use cookies on this website.",
-    "seoDesc": "Cookie policy for Tivat Car Hire. Learn what cookies we use, how the booking widget stores preferences, and how to manage them."
+    "seoDesc": "Cookies on tivatcarhire.com: what the rental search widget stores, which third-party scripts load, and how to opt out in seconds."
   },
   "featureCards": {
     "airportPickup": {
