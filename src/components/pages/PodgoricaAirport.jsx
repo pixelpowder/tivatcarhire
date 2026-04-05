@@ -5,18 +5,27 @@ export default function PodgoricaAirport() {
   const { t } = useTranslation();
   return (
     <ContentPage title={t("podgorica-airport.title")} subtitle={t("podgorica-airport.subtitle")} description={t("podgorica-airport.seoDesc")} image="/img/coastal-road.webp">
-      <img src="/img/coastal-road.webp" alt="Podgorica Airport" loading="lazy" />
+      <img src="/img/coastal-road.webp" alt="Road from Podgorica Airport" loading="lazy" />
       <h2>{t('podgoricaAirportBody.h1')}</h2>
       <p>{t('podgoricaAirportBody.p1')}</p>
       <p>{t('podgoricaAirportBody.p2')}</p>
+
       <h2>{t('podgoricaAirportBody.distancesTitle')}</h2>
       <p>{t('podgoricaAirportBody.distIntro')}</p>
-      <ul><li>{t('podgoricaAirportBody.dist1')}</li><li>{t('podgoricaAirportBody.dist2')}</li><li>{t('podgoricaAirportBody.dist3')}</li><li>{t('podgoricaAirportBody.dist4')}</li></ul>
+      <ul>
+        <li>{t('podgoricaAirportBody.dist1')}</li>
+        <li>{t('podgoricaAirportBody.dist2')}</li>
+        <li>{t('podgoricaAirportBody.dist3')}</li>
+        <li>{t('podgoricaAirportBody.dist4')}</li>
+      </ul>
+
       <h2>{t('podgoricaAirportBody.flightsTitle')}</h2>
       <p>{t('podgoricaAirportBody.flightsText')}</p>
+
       <h2>{t('podgoricaAirportBody.facilitiesTitle')}</h2>
       <p>{t('podgoricaAirportBody.facilitiesText')}</p>
       <p>{t('podgoricaAirportBody.awardText')}</p>
+
       <h2>{t('podgoricaAirportBody.rentalTitle')}</h2>
       <p>{t('podgoricaAirportBody.rentalText')}</p>
     </ContentPage>

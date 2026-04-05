@@ -30,11 +30,11 @@
   },
   "trust": {
     "noHiddenFees": "No Hidden Fees",
-    "noHiddenFeesDesc": "Price shown is all-inclusive",
+    "noHiddenFeesDesc": "Final price at checkout — nothing added",
     "fullInsurance": "Full Insurance",
-    "fullInsuranceDesc": "Zero excess option available",
+    "fullInsuranceDesc": "CDW + zero-excess upgrades",
     "fastPickup": "10-Min Pickup",
-    "fastPickupDesc": "Meet you at Tivat arrivals"
+    "fastPickupDesc": "Walk from TIV baggage hall to car"
   },
   "stats": {
     "years": "Years Experience",
@@ -44,62 +44,62 @@
   },
   "howItWorks": {
     "label": "How It Works",
-    "title": "On the Road in 3 Steps",
-    "subtitle": "Simple booking. Instant confirmation. No queues at Tivat Airport.",
-    "step1Title": "Choose Your Location",
-    "step1Desc": "Select Tivat Airport, Porto Montenegro, Kotor, Budva, or any of 28+ pickup points across Montenegro.",
-    "step2Title": "Pick Your Car",
-    "step2Desc": "Browse our fleet from economy runabouts to premium SUVs. Filter by size, transmission, or budget.",
-    "step3Title": "Drive from Tivat",
-    "step3Desc": "We meet you at Tivat Airport arrivals. Your car is ready. Kotor is 20 minutes away, Budva 30."
+    "title": "Airport to Road in 3 Steps",
+    "subtitle": "Land at TIV, grab bags, walk to your car. No shuttle bus, no transfer queue.",
+    "step1Title": "Pick a Pickup Point",
+    "step1Desc": "Tivat Airport arrivals, Porto Montenegro marina, Kotor Old Town gate, Budva bus station — or any of 28+ spots across the country.",
+    "step2Title": "Choose Your Vehicle",
+    "step2Desc": "Filter by gearbox, group size, or budget. Economy hatchbacks from \u20ac13/day, SUVs for mountain roads, automatics for first-timers on Adriatic switchbacks.",
+    "step3Title": "Collect and Drive",
+    "step3Desc": "Your car waits in the TIV short-stay car park, 40 metres from the terminal exit. Turn right for Budva via the Vrmac tunnel, left for Kotor along the bay."
   },
   "fleet": {
     "label": "Our Fleet",
     "title": "Choose Your Ride",
-    "subtitle": "Browse real-time availability and prices \u2014 book directly."
+    "subtitle": "Live prices, real-time stock — what you see is what's on the tarmac at TIV."
   },
   "brands": {
     "label": "Trusted brands in our fleet"
   },
   "destinations": {
-    "label": "Drive From Tivat",
-    "title": "Where Will You Go?",
-    "subtitle": "Tivat Airport puts the entire Montenegrin coast within easy reach. Every destination is under an hour away."
+    "label": "Drive From TIV",
+    "title": "Every Destination Under an Hour",
+    "subtitle": "Tivat Airport sits halfway along the bay. Kotor is north, Budva south, Porto Montenegro across the road. Nothing is far."
   },
   "features": {
     "label": "Why Choose Us",
-    "title": "Built for Tivat Travellers",
-    "subtitle": "Everything you need for a stress-free car rental from Tivat Airport and Porto Montenegro."
+    "title": "Designed Around the Airport",
+    "subtitle": "Small terminal, short walks, fast handover. We built our service around TIV's compact layout."
   },
   "reviews": {
     "label": "Reviews",
-    "title": "Loved by Travellers",
-    "subtitle": "Real experiences from customers who picked up at Tivat."
+    "title": "What Passengers Say",
+    "subtitle": "Feedback from travellers who collected at TIV arrivals."
   },
   "faq": {
     "label": "FAQ",
-    "title": "Common Questions",
-    "subtitle": "Everything you need to know before you book."
+    "title": "Before You Fly",
+    "subtitle": "Practical answers for anyone landing at Tivat."
   },
   "cta": {
-    "title": "Ready to Drive from Tivat?",
-    "subtitle": "Book in minutes. Pick up at Tivat Airport arrivals. Kotor in 20 minutes, Budva in 30, the entire coast at your pace.",
+    "title": "Landing at Tivat Soon?",
+    "subtitle": "Search now, lock in a price, cancel free if plans shift. Your car will be waiting in the TIV short-stay car park when you touch down.",
     "browseFleet": "Browse Fleet"
   },
   "sidebar": {
     "bookTitle": "Book Your Car",
-    "bookText": "Search real-time availability and prices from Tivat.",
+    "bookText": "Live availability from TIV — prices update every hour.",
     "helpTitle": "Need Help?",
-    "helpText": "Our team is available via WhatsApp, Viber, or phone.",
+    "helpText": "WhatsApp, Viber, or phone — our team replies within minutes.",
     "popularDest": "Popular Destinations"
   },
   "book": {
     "title": "Find Your Car",
     "seoTitle": "Reserve Your Airport Pickup",
-    "seoDesc": "Browse 200+ vehicles stationed at Tivat Airport. Book online, get instant confirmation, and walk from arrivals to your car in under 5 minutes."
+    "seoDesc": "200+ vehicles in the TIV short-stay car park. Book online, get instant confirmation, walk 40 metres from baggage reclaim to your car."
   },
   "footer": {
-    "brandDesc": "Car hire from Tivat Airport and Porto Montenegro. Full insurance, airport pickup at arrivals, and no hidden fees.",
+    "brandDesc": "Airport car hire from TIV arrivals and Porto Montenegro marina. Full insurance, meet-and-greet handover, transparent pricing.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "locations": "Locations",
@@ -118,21 +118,21 @@
   "notFound": {
     "code": "404",
     "title": "Wrong Turn",
-    "text": "Looks like you've taken a detour. This road doesn't lead anywhere \u2014 but Tivat's best routes are just a click away.",
+    "text": "This road leads nowhere — but the airport exit is just a click away. Head back and pick a route.",
     "backHome": "Back to Home",
     "searchCars": "Search Cars"
   },
   "home": {
-    "seoDesc": "Montenegro's coastal gateway — collect your car at Tivat Airport in 5 minutes flat. Kotor is 20 min north, Budva 30 min south. From \u20ac13/day, full insurance included."
+    "seoDesc": "Collect your car 40 metres from TIV baggage reclaim. Kotor 12 min through the tunnel, Budva 25 min via Vrmac. From \u20ac13/day, insurance included, no shuttle bus required."
   },
   "about": {
     "title": "About Us",
-    "subtitle": "Helping travellers explore Montenegro from Tivat since 2007.",
-    "seoDesc": "Airport pickup specialists since day one. We station cars at TIV arrivals so every coastal tourist — Kotor, Budva, or Porto Montenegro — drives off fast.",
+    "subtitle": "Airport pickup specialists operating from TIV since 2007.",
+    "seoDesc": "We station vehicles in the TIV short-stay car park so every arriving passenger — easyJet, Ryanair, TUI, Wizz Air — walks straight from baggage reclaim to their car.",
     "heading1": "Tivat Car Hire",
-    "p1": "Since 2007, Tivat Car Hire has been connecting travellers with reliable, affordable rental cars from Tivat Airport and Porto Montenegro. What started as a simple idea \u2014 making it easier for visitors landing at Tivat to explore this stunning corner of the Adriatic \u2014 has grown into one of the area's most trusted car rental services.",
+    "p1": "Since 2007, Tivat Car Hire has been connecting travellers with reliable, affordable rental cars from Tivat Airport and Porto Montenegro. What started as a simple idea — making it easier for visitors landing at Tivat to explore this stunning corner of the Adriatic — has grown into one of the area's most trusted car rental services.",
     "heading2": "Why Tivat?",
-    "p2": "Tivat Airport is Montenegro's coastal gateway. Most visitors to the Bay of Kotor, Budva Riviera, and Porto Montenegro land here. The airport sits just 4 km from town and 20 minutes from Kotor. Having a car ready at arrivals means you can be exploring the coast within minutes of landing \u2014 no transfers, no waiting.",
+    "p2": "Tivat Airport is Montenegro's coastal gateway. Most visitors to the Bay of Kotor, Budva Riviera, and Porto Montenegro land here. The airport sits just 4 km from town and 20 minutes from Kotor. Having a car ready at arrivals means you can be exploring the coast within minutes of landing — no transfers, no waiting.",
     "heading3": "What We Offer",
     "p3a": "We provide car rental services from",
     "p3Link1": "Tivat Airport",
@@ -143,8 +143,8 @@
     "p3d": ", Budva, and locations across the coast and interior.",
     "promiseTitle": "Our Promise",
     "promise1": "Full insurance with zero excess options available",
-    "promise2": "Tivat Airport meet-and-greet \u2014 we bring the car to you at arrivals",
-    "promise3": "No hidden fees \u2014 the price you see is the price you pay",
+    "promise2": "Tivat Airport meet-and-greet — we bring the car to you at arrivals",
+    "promise3": "No hidden fees — the price you see is the price you pay",
     "promise4": "Cross-border travel permitted to Croatia, Bosnia, Albania, Serbia, and Kosovo",
     "promise5": "Free cancellation on most bookings",
     "promise6": "24/7 roadside assistance throughout your trip",
@@ -157,57 +157,57 @@
     "localLink3": "Perast",
     "localEnd": ", or heading inland to Durmitor National Park, we can help you plan the perfect road trip.",
     "contactTitle": "Get in Touch",
-    "contactText": "Have a question about renting a car from Tivat? We're available via phone, WhatsApp, and Viber. Search our fleet online and book in minutes \u2014 or reach out and we'll help you find the perfect car for your trip."
+    "contactText": "Have a question about renting a car from Tivat? We're available via phone, WhatsApp, and Viber. Search our fleet online and book in minutes — or reach out and we'll help you find the perfect car for your trip."
   },
   "kotor": {
     "title": "Tivat to Kotor Car Hire",
-    "subtitle": "Drive from Tivat Airport to Kotor in just 20 minutes.",
-    "seoDesc": "Through the Vrmac tunnel in 20 minutes you swap the airport for UNESCO ramparts. Kotor's walled Old Town and the fjord-like bay open up beyond."
+    "subtitle": "Through the Vrmac tunnel in 12 minutes — or take the bay road for the views.",
+    "seoDesc": "Exit TIV, turn left, enter the Vrmac tunnel and reach Kotor's walls in 12 minutes. Park at River Gate lot (free off-season) or the multi-storey at Tabacina."
   },
   "tivat-airport": {
     "title": "Tivat Airport Car Hire",
-    "subtitle": "Collect your rental car at arrivals \u2014 we meet you at the gate.",
-    "seoDesc": "THE fastest airport pickup in Montenegro. Step off your flight at TIV, walk to our desk, and drive away. No shuttle bus, no waiting, no transfer queue."
+    "subtitle": "Walk from baggage reclaim to your car — no shuttle bus, no transfer desk.",
+    "seoDesc": "TIV is a single-terminal airport. Baggage hall to car park is 40 metres. easyJet, Ryanair, TUI, Wizz Air — we meet every flight, every season."
   },
   "budva": {
     "title": "Tivat to Budva Car Hire",
-    "subtitle": "Drive from Tivat Airport to the riviera in 30 minutes.",
-    "seoDesc": "Take the tunnel shortcut and hit Budva's riviera in 30 minutes from TIV. Sand, nightlife, and Sveti Stefan — all south down one coastal highway."
+    "subtitle": "Exit the airport, take the Vrmac tunnel, hit the riviera in 25 minutes.",
+    "seoDesc": "From TIV take the Vrmac tunnel shortcut south. Pass the Jaz Beach junction and drop into Budva in 25 minutes. Fuel up at the Petrol station in Radanovici."
   },
   "perast": {
     "title": "Tivat to Perast Car Hire",
-    "subtitle": "Drive from Tivat Airport to Perast in 25 minutes.",
-    "seoDesc": "25 minutes around Boka Bay from Tivat to Perast's baroque pearl. Stone palaces, a man-made island church, and zero crowds before 10 am."
+    "subtitle": "Follow the bay road north — 20 minutes of waterfront driving.",
+    "seoDesc": "Turn left from TIV onto the bay road, pass Muo and Prcanj, and pull into Perast after 20 minutes. Park at the north end — free spots before 9 am in summer."
   },
   "podgorica": {
     "title": "Car Hire in Podgorica",
-    "subtitle": "Montenegro's capital \u2014 culture, rivers, and modern charm.",
-    "seoDesc": "The mountain road from Tivat to Podgorica climbs through Lovcen before dropping to the capital. A dramatic inland contrast to the coastal drive."
+    "subtitle": "Montenegro's capital — 90 minutes inland from TIV via the Sozina tunnel or the mountain road.",
+    "seoDesc": "Two routes from Tivat: the fast Sozina tunnel toll road (90 min) or the free mountain road over Lovcen (2.5 hr). Both end at Montenegro's compact, walkable capital."
   },
   "podgorica-airport": {
     "title": "Podgorica Airport Car Hire",
-    "subtitle": "Montenegro's main international gateway.",
-    "seoDesc": "Montenegro's second airport handles budget carriers from across Europe. Collect at TGD arrivals and reach Tivat's coast via the inland mountain route."
+    "subtitle": "Montenegro's inland hub — budget carriers, year-round schedule.",
+    "seoDesc": "TGD handles Ryanair, Wizz Air, and year-round Belgrade flights. Collect at arrivals and drive to Tivat's coast in 90 minutes via the Sozina tunnel."
   },
   "dubrovnik-airport": {
     "title": "Dubrovnik Airport Car Hire",
-    "subtitle": "Fly into Croatia, drive into Montenegro.",
-    "seoDesc": "An alternative arrival point: fly into Dubrovnik and drive to Tivat in about an hour. One border crossing, green card included, coastal road all the way."
+    "subtitle": "Land in Croatia, drive to Montenegro — one border, one hour.",
+    "seoDesc": "Fly into DBV, collect your car, cross at Debeli Brijeg, and reach Tivat's bay within 60–90 minutes. Green card insurance included, coastal road the whole way."
   },
   "tivat": {
     "title": "Car Hire in Tivat",
-    "subtitle": "Porto Montenegro, Boka Bay, and the gateway to the coast.",
-    "seoDesc": "Porto Montenegro superyachts, waterfront restaurants, and the new Lustica Bay resort. Tivat is the luxury side of the bay — explore it all by car."
+    "subtitle": "Porto Montenegro marina, Lustica Bay, and the fastest airport pickup on the Adriatic.",
+    "seoDesc": "Tivat sits across the road from TIV airport. Porto Montenegro berths 450+ superyachts, Lustica Bay is a 10-minute drive south, and every bay town is under 30 minutes away."
   },
   "montenegro": {
     "title": "Montenegro Car Hire & Travel Guide",
-    "subtitle": "Everything you need to know about driving in Montenegro.",
-    "seoDesc": "Airport to coast driving explained: bay road blind corners, tunnel shortcuts, Kotor parking, and fuel stops between Tivat and the national parks."
+    "subtitle": "Practical road intel: fuel stops, tunnel shortcuts, parking spots, and drive times from TIV.",
+    "seoDesc": "Road-by-road driving guide from Tivat: bay road blind corners, Vrmac tunnel timing, where to fuel up, Kotor parking options, and Verige ferry schedules."
   },
   "border-crossing": {
     "title": "Balkans Border Crossing Guide",
-    "subtitle": "Everything you need to know about driving your rental car across borders.",
-    "seoDesc": "Driving from Tivat across a border? Green card, vehicle docs, and passport rules for Croatia, Bosnia, Albania, and Kosovo — plus the quickest crossings."
+    "subtitle": "Documents, wait times, and crossing-by-crossing logistics for rental cars.",
+    "seoDesc": "Green card, rental contract, passport — what to have ready at each checkpoint. Croatia, Bosnia, Albania, Kosovo crossing details plus queue-beating tips."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -226,357 +226,357 @@
   },
   "featureCards": {
     "airportPickup": {
-      "title": "Tivat Airport Pickup",
-      "desc": "Collect your car at Tivat Airport arrivals hall. We meet you at the gate \u2014 no shuttle, no waiting."
+      "title": "40-Metre Pickup",
+      "desc": "Your car sits in the TIV short-stay car park. Walk from the baggage belt, cross the road, unlock the car. No shuttle bus exists at this airport — you don't need one."
     },
     "fullInsurance": {
-      "title": "Full Insurance",
-      "desc": "Comprehensive coverage with zero excess option. Drive with complete peace of mind."
+      "title": "Full Insurance Included",
+      "desc": "Every booking includes CDW and theft protection. Upgrade to zero-excess cover for complete peace of mind on mountain roads and gravel tracks."
     },
     "support": {
-      "title": "24/7 Support",
-      "desc": "Roadside assistance and customer service available around the clock, every day."
+      "title": "24/7 Roadside Line",
+      "desc": "Flat tyre on the Kotor serpentines? Locked out at Lustica Bay? Our roadside number connects you to a local mechanic within 30 minutes, any time of day."
     },
     "noHiddenFees": {
-      "title": "No Hidden Fees",
-      "desc": "Fuel policy, mileage, tax \u2014 everything is included in the price you see."
+      "title": "Transparent Pricing",
+      "desc": "VAT, mileage, equipment kit, airport surcharge — everything is folded into the figure on screen. The checkout total is the total, full stop."
     },
     "freeCancellation": {
       "title": "Free Cancellation",
-      "desc": "Plans change. Cancel up to 24 hours before pickup for a full refund."
+      "desc": "Flight moved? Change of plan? Cancel up to 24 hours before pickup at no cost. Useful when airline schedules shift between summer and winter."
     },
     "crossBorder": {
-      "title": "Cross-Border",
-      "desc": "Drive into Croatia, Bosnia, Albania, or Kosovo. Cross-border travel permitted."
+      "title": "Cross-Border Ready",
+      "desc": "Green card paperwork prepared at booking. Drive to Dubrovnik, Mostar, Shkoder, or Belgrade — the documents will be in the glovebox when you collect."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Landed at Tivat Airport and had the keys in my hand within 10 minutes. Drove straight to Porto Montenegro for lunch. Couldn't be easier."
+      "text": "Ryanair landed at TIV, bags took five minutes, car was in the short-stay lot right across the road. We were at Porto Montenegro ordering lunch before the taxi queue had moved."
     },
     "1": {
-      "text": "Picked up a BMW at Tivat and drove the entire Bay of Kotor in one afternoon. The cross-border paperwork for Croatia was ready when we arrived."
+      "text": "Took the Vrmac tunnel from the airport — 12 minutes later we were parked outside Kotor's walls. The agent had already loaded the Verige ferry schedule into the sat-nav for our Herceg Novi trip the next day."
     },
     "2": {
-      "text": "Tivat Airport pickup was seamless. We explored Kotor, Perast, and Lustica Bay over a week. The Jeep handled every mountain road with ease."
+      "text": "Drove a Dacia Duster from TIV down to Lustica Bay, then over to Budva via the back road past Radanovici. Week-long rental, 1,200 km, zero issues. Fuel station right by the airport made drop-off painless."
     }
   },
   "faqItems": {
     "0": {
-      "q": "What documents do I need?",
-      "a": "A valid driving licence (must show Latin script details), a foreign passport, and a physical credit card in the main driver's name. International Driving Permit recommended if your licence is only valid in its country of origin. Copies or electronic licences are not accepted."
+      "q": "What documents do I need at TIV pickup?",
+      "a": "A driving licence with Latin-script details, a passport, and a physical credit card in the main driver's name. If your licence uses only non-Latin characters, bring an International Driving Permit. Electronic licences and photocopies are not accepted."
     },
     "1": {
-      "q": "Can I drive to Croatia or Albania?",
-      "a": "Yes! If you plan to travel outside Montenegro, notify the rental agent in advance so they can complete the required documents. Cross-border travel to neighbouring countries is permitted."
+      "q": "Can I drive the rental car to Croatia or Albania?",
+      "a": "Yes. Notify the rental company at booking so they prepare the Green Card insurance certificate. Cross-border travel to Croatia, Bosnia, Albania, Serbia, and Kosovo is permitted — documents will be in the glovebox."
     },
     "2": {
-      "q": "Is there a minimum age?",
-      "a": "The minimum age and driving experience requirements vary by vehicle. These details are shown when you search for available cars."
+      "q": "Is there a minimum age to rent?",
+      "a": "Age and experience requirements depend on the vehicle category. Economy cars typically require 21+, premium vehicles 25+. These details appear during the search before you commit."
     },
     "3": {
-      "q": "What's included in the price?",
-      "a": "All vehicles come with insurance \u2014 most include Third Party Liability and Collision Damage Waiver (CDW) in the base price. VAT, equipment kits (first aid, warning triangle, visibility vest), and a transparent fuel policy are also included. Mileage terms vary by vehicle. Extended coverage options are available for an additional fee."
+      "q": "What is included in the rental price?",
+      "a": "CDW and theft protection, VAT, an equipment kit (first-aid box, warning triangle, reflective vest), and a transparent fuel policy. Mileage terms vary by vehicle — some are unlimited, others capped at a daily kilometre allowance shown on the listing."
     },
     "4": {
-      "q": "How does pickup work at Tivat Airport?",
-      "a": "We meet you at the Tivat Airport arrivals hall with your name on a sign. Your car is parked right outside. Total time from landing to driving: about 10 minutes."
+      "q": "How does TIV airport pickup work?",
+      "a": "After you clear baggage reclaim, walk out the terminal exit and cross to the short-stay car park — roughly 40 metres. Our agent meets you there with the keys and paperwork. Total time from bag belt to driving: about 10 minutes."
     },
     "5": {
       "q": "Can I drop off at a different location?",
-      "a": "Yes \u2014 one-way rentals are supported across 28 cities and towns in Montenegro. Simply choose different pickup and dropoff locations during booking."
+      "a": "Yes. One-way rentals are supported across 28+ towns in Montenegro. Pick up at TIV and drop off in Budva, Kotor, Podgorica, or even Dubrovnik. Select different pickup and drop-off points during booking."
     },
     "6": {
       "q": "What is the cancellation policy?",
-      "a": "Free cancellation up to 7 days before the rental start date. For luxury cars and convertibles, free cancellation is available up to 30 days before. A 6% payment service fee applies to all cancellations."
+      "a": "Free cancellation up to 7 days before the rental start date for standard vehicles, up to 30 days for premium and convertible categories. A 6% payment processing fee applies to all refunds."
     },
     "7": {
       "q": "Is a deposit required?",
-      "a": "Deposit amounts vary by vehicle \u2014 some cars are available with no deposit. If required, the deposit must be on a physical credit card in the main driver's name and is refunded upon return of the vehicle in good condition."
+      "a": "Deposit amounts vary by vehicle group — some economy cars require no deposit at all. When a deposit applies, it must be on a physical credit card in the main driver's name and is refunded on return."
     },
     "8": {
-      "q": "What happens if I exceed the mileage limit?",
-      "a": "Vehicles with mileage restrictions are charged per kilometre over the limit. Rates are shown in the vehicle details before you book."
+      "q": "Where is the nearest fuel station to TIV?",
+      "a": "There is a Jugopetrol station 800 metres from the airport exit on the main road toward Tivat town, and a Petrol station in Radanovici on the Budva road. Both accept card and cash payment."
     },
     "9": {
       "q": "Are there any hidden fees?",
-      "a": "No. The price you see includes all taxes and fees. What's shown at booking is what you pay."
+      "a": "No. Taxes, airport surcharge, equipment kit — all included. The price at checkout is the price you pay at pickup. We do not add fees at the desk."
     },
     "10": {
       "q": "How much do I pay upfront?",
-      "a": "Only 15\u201320% of the total is required to confirm your booking. The remainder is paid directly to the rental agent at pickup."
+      "a": "Only 15–20% of the total is charged at booking to secure the car. The balance is paid directly to the rental agent at the airport when you collect."
     },
     "11": {
       "q": "Can I rent without a credit card?",
-      "a": "Some vehicles are available without a credit card. Check availability when searching \u2014 card-free options are clearly marked."
+      "a": "Some vehicles are available without a credit card — these are clearly marked with a card-free badge in the search results. Filter for them during your search."
     }
   },
   "destCards": {
     "tivat-airport": {
       "name": "Tivat Airport",
-      "tag": "Most Popular",
-      "desc": "Collect your car at arrivals \u2014 10 minutes to driving."
+      "tag": "Walk to Car",
+      "desc": "40 metres from baggage reclaim to the car park."
     },
     "kotor": {
       "name": "Kotor",
-      "tag": "20 min",
-      "desc": "UNESCO walled town on the Bay of Kotor."
+      "tag": "12 min tunnel",
+      "desc": "Through Vrmac tunnel to the UNESCO walled town."
     },
     "podgorica-airport": {
       "name": "Podgorica Airport",
-      "tag": "Capital Hub",
-      "desc": "Montenegro's main international airport."
+      "tag": "Inland Hub",
+      "desc": "Budget carriers, year-round Belgrade service."
     },
     "perast": {
       "name": "Perast",
-      "tag": "25 min",
-      "desc": "Baroque village and Our Lady of the Rocks."
+      "tag": "20 min bay road",
+      "desc": "Baroque waterfront, boat to Our Lady of the Rocks."
     },
     "budva": {
       "name": "Budva",
-      "tag": "30 min",
-      "desc": "Riviera beaches and the old town walls."
+      "tag": "25 min via Vrmac",
+      "desc": "Riviera beaches, Jaz, Mogren, Sveti Stefan."
     },
     "dubrovnik-airport": {
       "name": "Herceg Novi",
-      "tag": "35 min",
-      "desc": "Gateway town near the Croatian border."
+      "tag": "35 min / ferry",
+      "desc": "Bay entrance town, near Croatian border."
     },
     "tivat": {
       "name": "Tivat",
       "tag": "Porto Montenegro",
-      "desc": "Luxury marina, waterfront dining, Boka Bay."
+      "desc": "450-berth marina, Regent hotel, waterfront dining."
     },
     "podgorica": {
       "name": "Podgorica",
-      "tag": "Capital City",
-      "desc": "Montenegro's capital \u2014 culture and commerce."
+      "tag": "90 min inland",
+      "desc": "Capital city via Sozina tunnel or mountain road."
     }
   },
   "aboutBody": {
-    "h1": "Tivat Car Hire",
-    "p1": "Since 2007, Tivat Car Hire has been connecting travellers with reliable, affordable rental cars from Tivat Airport and Porto Montenegro. What started as a simple idea \u2014 making it easier for visitors landing at Tivat to explore this stunning corner of the Adriatic \u2014 has grown into one of the area's most trusted car rental services.",
-    "h2": "Why Tivat?",
-    "p2": "Tivat Airport is Montenegro's coastal gateway. Most visitors to the Bay of Kotor, Budva Riviera, and Porto Montenegro land here. The airport sits just 4 km from town and 20 minutes from Kotor. Having a car ready at arrivals means you can be exploring the coast within minutes of landing \u2014 no transfers, no waiting.",
-    "h3": "What We Offer",
-    "p3": "We provide car rental services from Tivat Airport and Porto Montenegro, with additional pickup across the coast and interior. Our fleet ranges from compact city cars to spacious SUVs, all fully insured with no hidden fees.",
-    "promiseTitle": "Our Promise",
-    "promise1": "Full insurance with zero excess options available",
-    "promise2": "Tivat Airport meet-and-greet \u2014 we bring the car to you at arrivals",
-    "promise3": "No hidden fees \u2014 the price you see is the price you pay",
-    "promise4": "Cross-border travel permitted to Croatia, Bosnia, Albania, Serbia, and Kosovo",
-    "promise5": "Free cancellation on most bookings",
-    "promise6": "24/7 roadside assistance throughout your trip",
-    "h4": "Local Knowledge",
-    "p4": "Based in Tivat, we know the roads, the best routes, and the hidden gems that guidebooks miss. Whether you're driving from Tivat Airport to Kotor's medieval old town, taking the scenic route through the Bay of Kotor to Perast, or heading inland to Durmitor National Park, we can help you plan the perfect road trip.",
+    "h1": "Airport Pickup Specialists Since 2007",
+    "p1": "Tivat Car Hire exists for one reason: to get arriving passengers into a rental car as fast as physically possible. TIV is a compact single-terminal airport — no moving walkways, no inter-terminal trains, no shuttle buses. Baggage reclaim sits 40 metres from the short-stay car park. We station vehicles there so you walk from the belt to the driver's seat in minutes, not hours.",
+    "h2": "Why We Built the Service Around TIV",
+    "p2": "Every summer, easyJet, Ryanair, TUI, and Wizz Air funnel hundreds of thousands of passengers through a terminal smaller than most supermarkets. That compact layout is an advantage — but only if your car is already on-site. Off-airport depots require transfers that waste the time TIV's design saves. We keep every vehicle within walking distance of arrivals so the small-airport advantage actually works for you.",
+    "h3": "What Happens When You Land",
+    "p3": "Clear baggage reclaim, walk through the exit doors, cross the access road to the short-stay car park. Our agent is there with your keys and paperwork. Sign, adjust the mirrors, and drive. Turn right for Budva and the Vrmac tunnel, left along the bay road for Kotor and Perast, or straight ahead for Porto Montenegro and Lustica Bay. A Jugopetrol fuel station sits 800 metres down the road if you need to fill up before heading out.",
+    "promiseTitle": "What Every Booking Includes",
+    "promise1": "CDW and theft protection — zero-excess upgrade available",
+    "promise2": "Meet-and-greet at the TIV short-stay car park, 40 m from the terminal",
+    "promise3": "Transparent pricing — the checkout figure is the final figure",
+    "promise4": "Cross-border Green Card for Croatia, Bosnia, Albania, Serbia, Kosovo",
+    "promise5": "Free cancellation up to 7 days before pickup (30 days for premium)",
+    "promise6": "24/7 roadside assistance line staffed by local mechanics",
+    "h4": "Local Road Knowledge",
+    "p4": "We drive these roads daily. We know that the Vrmac tunnel cuts the Kotor run to 12 minutes, that the Verige ferry across the bay mouth saves 45 minutes versus the long road to Herceg Novi, that the Radanovici fuel station is the last stop before the Budva riviera, and that Kotor's Tabacina car park fills by 10 am in July. Ask us anything at pickup — route advice is free and unlimited.",
     "h5": "Get in Touch",
-    "p5": "Have a question about renting a car from Tivat? We're available via phone, WhatsApp, and Viber. Search our fleet online and book in minutes \u2014 or reach out and we'll help you find the perfect car for your trip."
+    "p5": "Questions before you fly? WhatsApp, Viber, or phone — we reply within minutes during operating hours. Search the fleet online, lock in a price, and your car will be waiting in the TIV car park when your flight touches down."
   },
   "kotorBody": {
-    "h1": "Kotor \u2014 20 Minutes from Tivat Airport",
-    "p1": "Kotor is one of Montenegro's most stunning seaside towns, offering terrific beaches, historical Old Town charm, and medieval walls housing art galleries, cafes, and excellent restaurants. As a UNESCO World Heritage Site, the town's landmarks are concentrated in the beautifully preserved Old Town.",
-    "p2": "Picking up a car at Tivat Airport puts Kotor just 20 minutes away. Drive along the bay and you'll arrive at the old town walls in no time. Parking availability varies seasonally, with summer tourism creating scarcity in the centre \u2014 but there are larger car parks on the approach roads.",
-    "landmarksTitle": "Landmarks",
-    "stJohnTitle": "St. John Fortress",
-    "stJohnText": "An imposing structure that historically protected the city from pirate attacks. Notable features include the Contarini Tower and the Our Lady of Health Church, which offers breathtaking views over the Old Town and the Bay of Kotor.",
-    "cathedralTitle": "St. Tryphon Cathedral",
-    "cathedralText": "Built in 809 AD and reconstructed in 1124, this cathedral contains remarkable Byzantine architecture and art reflecting the region's rich history.",
-    "dayTripsTitle": "Day Trips from Kotor",
-    "perastTrip": "Located in nearby Perast, this church sits on a man-made island in the Bay of Kotor. Fishermen have dropped rocks there annually since 1452, gradually growing the island. Ferry access costs around 1 Euro; private boats cost about 5 Euros. The drive from Kotor takes under 30 minutes via the E65/E80 North.",
-    "cetinjeTrip": "Built in 1701, the monastery houses the hand of John the Baptist. It features ornate decoration and orthodox art. The drive from Kotor takes approximately one hour through scenic mountain roads.",
-    "royalCourtText": "Montenegro's royal palace from 1871, displaying art, artefacts, and photographs from the country's royal history. Located next to the monastery in the former royal capital."
+    "h1": "Kotor — 12 Minutes Through the Vrmac Tunnel",
+    "p1": "Exit TIV, turn left, and enter the Vrmac tunnel 3 km down the road. The tunnel cuts straight through the mountain that separates Tivat from Kotor's side of the bay. You emerge at the Kotor approach road — follow signs for Stari Grad (Old Town) and you will reach the city walls in about 12 minutes total from the airport gate.",
+    "p2": "If you prefer the scenic bay road, stay on the waterfront route through Muo and Prcanj. It adds 8 minutes but follows the water the whole way, with pull-off viewpoints at the narrowest section of the bay. Both routes end at the same roundabout below Kotor's north wall.",
+    "landmarksTitle": "Parking in Kotor",
+    "stJohnTitle": "Where to Leave Your Car",
+    "stJohnText": "Tabacina multi-storey (paid, covered, 5-minute walk to the Sea Gate) fills fast in summer — arrive before 10 am. The River Gate lot along the Skurda stream is free off-season and cheaper than Tabacina year-round. In July and August, a temporary overflow lot operates on the approach road with a shuttle to the walls. Street parking inside the old town does not exist.",
+    "cathedralTitle": "Inside the Walls",
+    "cathedralText": "The Old Town is car-free and entirely walkable in 20 minutes end to end. The fortress hike (St. John / San Giovanni) starts from the north-east corner — 1,350 steps, allow 45 minutes up and 30 down. The Maritime Museum near the Sea Gate covers Boka Bay's naval history. Most restaurants cluster along the main square and the cathedral plaza.",
+    "dayTripsTitle": "Onward from Kotor",
+    "perastTrip": "Continue north along the bay road to Perast (8 minutes from Kotor). Boats to Our Lady of the Rocks island leave from Perast's waterfront — roughly 5 EUR return. Beyond Perast, the road climbs to Risan and then loops back toward Herceg Novi or connects via the Verige ferry shortcut across the bay mouth.",
+    "cetinjeTrip": "Head inland on the Kotor–Cetinje serpentine road — 25 hairpin bends climbing 1,000 metres above the bay. The viewpoint at the top (Krstac pass) is one of the most photographed spots in Montenegro. Cetinje itself is 45 minutes from Kotor and houses the old royal court and Cetinje Monastery.",
+    "royalCourtText": "The monastery holds religious relics and sits at the centre of Montenegro's former royal capital. Combined with the serpentine drive, this makes a solid half-day trip from Kotor before returning to Tivat via the tunnel."
   },
   "budvaBody": {
-    "h1": "Budva \u2014 30 Minutes from Tivat Airport",
-    "p1": "Budva is Montenegro's most popular beach destination, attracting visitors from across Europe to its stunning coastline, vibrant nightlife, and beautifully preserved medieval Old Town. With a rental car from Tivat, the entire Budva Riviera and beyond is at your fingertips.",
-    "p2": "The town sits roughly 30 minutes south of Tivat Airport, making it one of the easiest coastal destinations to reach after landing. Budva combines 2,500 years of history with a thoroughly modern holiday atmosphere \u2014 ancient city walls by day, bustling beach bars by night.",
-    "beachesTitle": "Beaches",
-    "beachesIntro": "The Budva Riviera stretches for 21 kilometres, offering some of the finest beaches on the Adriatic coast:",
-    "mogren": "Two connected pebble beaches reached through a tunnel cut into the cliffs, just minutes from the Old Town",
-    "jaz": "A large sandy beach popular with locals and visitors alike, host to music festivals in summer",
-    "svetiStefan": "The iconic islet-hotel visible from the coastal road, with a public beach on one side",
-    "becici": "A long stretch of fine sand that was once voted the most beautiful beach in Europe",
-    "oldTownTitle": "Old Town",
-    "oldTownText": "Budva's Old Town (Stari Grad) is a compact walled citadel on a small peninsula. Inside the walls you'll find narrow cobblestone streets, Venetian-era architecture, small churches dating back to the 7th century, and a lively mix of restaurants, galleries, and boutiques. The Citadela fortress at the southern tip offers panoramic views of the coast and nearby islands.",
-    "dayTripsTitle": "Day Trips from Budva",
-    "svetiStefanTrip": "Just 6 km south, this photogenic fortified island village is now a luxury hotel but the views from the road above are spectacular and free. The beach on the mainland side is open to all.",
-    "kotorTrip": "A 30-minute drive north through a dramatic mountain tunnel brings you to the Bay of Kotor and its UNESCO-listed Old Town.",
-    "lovcenTrip": "Head inland for mountain scenery and the Njegos Mausoleum, perched at 1,657 metres with views across four countries on a clear day. The winding road from the coast is an experience in itself.",
-    "gettingAroundTitle": "Getting Around",
-    "gettingAroundText": "While Budva's Old Town is best explored on foot, a rental car from Tivat is essential for reaching the best beaches, nearby villages, and inland attractions. Parking is available near the Old Town walls and at several public lots along the main road. In peak summer, arriving early secures the best spots."
+    "h1": "Budva — 25 Minutes via the Vrmac Tunnel",
+    "p1": "From TIV, take the main road south toward Budva. After 3 km you enter the Vrmac tunnel, emerge on the far side at the Tivat–Budva junction, and continue through Radanovici toward the coast. The Radanovici Petrol station is the last fuel stop before the riviera — fill up here if your tank is low. Total drive time from the airport to Budva's Old Town: roughly 25 minutes outside peak traffic.",
+    "p2": "In July and August, the final stretch through Becici into Budva can slow to a crawl during afternoon hours. If you are heading to Jaz Beach or points north of town, take the Jaz turnoff before the main Budva junction — it bypasses the worst of the summer congestion entirely.",
+    "beachesTitle": "Beaches Worth the Drive",
+    "beachesIntro": "The Budva Riviera stretches 21 km south from Jaz Beach to Petrovac. Key stops along the coastal road:",
+    "mogren": "Two cove beaches connected by a tunnel carved through the cliff, walking distance from Budva Old Town. Loungers and a bar operate May–September",
+    "jaz": "A large sandy bay 3 km before Budva town. Free parking in the upper lot, paid near the water. Hosts summer music events",
+    "svetiStefan": "The postcard island village 6 km south of Budva. The mainland Milocer beach is public; the island itself is a luxury hotel. Best photographed from the road above",
+    "becici": "A long, gently sloping sand beach between Budva and Sveti Stefan. Family-friendly, lifeguarded in season, ample paid parking",
+    "oldTownTitle": "Budva Old Town",
+    "oldTownText": "The walled peninsula is compact enough to walk in 15 minutes. Enter through the main gate on the landward side, loop through the cobblestone streets, and exit at the Citadela for a view south toward Sveti Stefan. Restaurants inside the walls charge a premium — locals eat at the places one block inland from the gate. Evening parking along the quay is easier to find than daytime spots.",
+    "dayTripsTitle": "Day Trips by Car",
+    "svetiStefanTrip": "Drive 6 km south on the coastal road to the Sveti Stefan viewpoint. The pull-off is on the right, marked by a stone wall. From there, walk down to Milocer beach (public, free entry). The Queen's Beach next door requires a hotel pass.",
+    "kotorTrip": "Head back through the Vrmac tunnel to Kotor — 25 minutes in reverse. Combine with Perast and the bay road for a full-day loop: Budva > Kotor > Perast > Verige ferry > Herceg Novi > back via the coastal road.",
+    "lovcenTrip": "The inland mountain road to Lovcen National Park starts near Cetinje. Allow 90 minutes from Budva. The Njegos Mausoleum sits at 1,657 metres — carry a jacket even in summer. The winding road has no guardrails in places, so daylight driving is strongly advised.",
+    "gettingAroundTitle": "Parking and Fuel",
+    "gettingAroundText": "Budva has two main paid car parks: the underground lot near the Old Town walls and the open lot behind the bus station. Both fill by mid-morning in summer. Free street parking exists along the Becici road but requires a 10-minute walk. The nearest fuel station to Budva centre is on the main road at the Becici exit; the Radanovici station is more convenient if you are heading back to TIV."
   },
   "perastBody": {
-    "h1": "Perast \u2014 25 Minutes from Tivat",
-    "p1": "The little village of Perast is located just a short drive \u2014 about 25 minutes \u2014 from Tivat Airport. Tourists who pick up a car at Tivat will certainly want to drive along the bay to spend time in this charming fishing village.",
-    "p2": "Although home to only around 850 people, the long and colourful history of Perast certainly outweighs its small size. From 1420 to 1797, the town belonged to the Republic of Venice and was known for its master shipbuilders and sailors. Perast has many gorgeous reminders of the past and some excellent examples of Baroque architecture.",
-    "islandsTitle": "The Islands",
-    "stGeorgeTitle": "St. George Island",
-    "stGeorgeText": "A natural island just off the coast in the Bay of Kotor, home to the St. George Benedictine Monastery, built in the 12th century. Small boats from the harbour will take visitors there for a few Euros.",
-    "ladyOfRocksTitle": "Our Lady of the Rocks",
-    "ladyOfRocksText": "A man-made island holding the church of the same name. The island was created by sailors from the town throwing rocks and sinking old boats and ships over centuries. Every year this tradition continues, and on July 22nd tourists can watch as locals fill their boats with rocks to help keep the island intact.",
-    "historicTitle": "Historic Sites",
-    "historicText": "The town boasts numerous palaces, cathedrals, and several guard towers which once protected the city. For those interested in learning about Perast's history in detail, the Museum of Perast contains many artefacts, archives, paintings, sculptures, and town records. The museum is located in the old Palata Buiovich, which many consider the most beautiful building on the Montenegrin coast.",
+    "h1": "Perast — 20 Minutes Along the Bay Road",
+    "p1": "From TIV, turn left out of the airport and follow the bay road north through Lepetane, Muo, and Prcanj. The road hugs the waterline with the bay on your right and limestone cliffs on your left. After roughly 20 minutes, you arrive at Perast's single main street — a one-lane waterfront promenade lined with stone palaces.",
+    "p2": "Parking in Perast is limited to a small lot at the north end of the village and roadside spaces along the approach. In summer, arrive before 9 am or after 5 pm to find a spot without circling. There are no car parks inside the village itself — the street is too narrow.",
+    "islandsTitle": "The Two Islands",
+    "stGeorgeTitle": "St. George (Sveti Djordje)",
+    "stGeorgeText": "The natural island sits 200 metres offshore, recognisable by its tall dark cypresses and the 12th-century Benedictine monastery behind them. The island is closed to visitors, but boats from Perast's jetty circle it closely for photographs. Views are best in early morning when the bay is flat.",
+    "ladyOfRocksTitle": "Our Lady of the Rocks (Gospa od Skrpjela)",
+    "ladyOfRocksText": "A man-made island built by locals throwing rocks and sinking old boats over centuries. The tradition continues every July 22nd during the Fasinada festival, when residents fill boats with stones and motor out to reinforce the platform. Taxi boats from Perast's waterfront run every 15 minutes in season — roughly 5 EUR return. The small church inside holds a collection of votive paintings by Boka sailors.",
+    "historicTitle": "Walking Through Perast",
+    "historicText": "The village has no traffic — just one paved promenade along the water. Walk south to north in 10 minutes, passing stone palaces, the tall bell tower of St. Nicholas church, and several waterfront cafes with bay views. The Perast Museum occupies the Buiovic Palace at the south end and documents the town's maritime history, including its role training sailors for the Venetian fleet.",
     "monasteryTitle": "Banja Monastery",
-    "monasteryText": "Located just north of Perast on the road to Risan, the Banja Monastery features many ancient religious pieces from Russian, Greek, and Boka dynasties. To reach the monastery, continue north on the E65/E80 for just a few kilometres."
+    "monasteryText": "Continue north past Perast toward Risan for 2 km and you reach the Banja Monastery on the right side of the road. The monastery holds religious artefacts from Russian, Greek, and local Boka dynasties. It is usually open mornings only — check at the Perast tourist office on the waterfront."
   },
   "tivatBody": {
-    "h1": "Tivat \u2014 Porto Montenegro & Boka Bay",
-    "p1": "Tivat is Montenegro's coastal gateway, home to Tivat Airport and the Porto Montenegro luxury marina. The town sits on the Bay of Kotor and serves as the arrival point for most visitors heading to the Montenegrin coast.",
-    "p2": "With a population of around 15,000, Tivat is compact and walkable. Visitors can enjoy seafront boardwalks, dine at waterfront bistros in Porto Montenegro, and explore shops tucked into narrow alleyways. During peak season, the town balances tranquillity with vibrant tourism activity.",
-    "beachesTitle": "Beaches",
-    "beachesText": "Tivat boasts 17 beaches spanning 3 kilometres of coastline, recognised among the Mediterranean's finest. Top beaches include:",
-    "beach1": "Plavi Horizanti (Blue Horizons): White sand, crystal clear waters, perfect for swimming and sunbathing",
-    "beach2": "Lustica Bay: A new resort development with pristine beaches and water sports",
+    "h1": "Tivat — Porto Montenegro and the Bay Gateway",
+    "p1": "Tivat sits directly across the road from TIV airport. Walk out of the terminal, cross the access road, and you are already in town. That proximity makes Tivat the most convenient base for anyone renting a car at the airport — you can park, check in to your accommodation, and head out exploring without fighting any traffic.",
+    "p2": "The town itself is compact: a 2 km waterfront promenade connects the ferry pier at one end to Porto Montenegro marina at the other. Most restaurants, shops, and cafes line this strip. The population sits around 15,000 year-round but swells considerably in summer when charter flights from across Europe fill the terminal daily.",
+    "beachesTitle": "Beaches Near Tivat",
+    "beachesText": "Tivat's 17 beaches span 3 km of coastline along the bay. The water is calmer here than on the open Adriatic coast south of Budva. Top picks:",
+    "beach1": "Plavi Horizonri (Blue Horizons) — white sand, shallow entry, ideal for families. Located 2 km south of the marina, signposted from the main road",
+    "beach2": "Lustica Bay resort beaches — 10 minutes south of the airport on the Lustica peninsula road. The development includes the Chedi hotel, a golf course, and managed beach clubs with lounger rental",
     "portoTitle": "Porto Montenegro",
-    "portoText": "The jewel of Tivat is Porto Montenegro, a luxury superyacht marina and waterfront village that has transformed the town into one of the Adriatic's most fashionable destinations. The marina complex features boutiques, restaurants, a pool club, and regular events throughout the summer season.",
-    "culturalTitle": "Cultural Attractions",
-    "monasteryTitle": "St. Michael Archangel Monastery",
-    "monasteryText": "10th-century ruins located on the Prevlaka peninsula, with ongoing archaeological work uncovering the site's ancient history.",
-    "churchTitle": "Church of Sveti Antun Padovanski",
-    "churchText": "Built in 1734, this church contains religious paintings and artefacts, with beautiful views over the bay.",
-    "museumText": "Just a 20-minute drive away in Kotor, the Maritime Museum displays Montenegro's rich seafaring heritage and historical learning centres."
+    "portoText": "The marina occupies the site of the former Yugoslav naval shipyard and now berths 450+ vessels including superyachts up to 250 metres. The waterfront village has boutiques, restaurants, the Regent Porto Montenegro hotel, and the upcoming One&Only resort. A pool club, yacht club, and regular events (regattas, food festivals) operate through the summer season. It is walkable from TIV airport in about 15 minutes.",
+    "culturalTitle": "Beyond the Waterfront",
+    "monasteryTitle": "Prevlaka Peninsula",
+    "monasteryText": "A 10-minute drive south of Porto Montenegro brings you to the Prevlaka peninsula, where the ruins of the 10th-century St. Michael Archangel Monastery sit among olive trees. Archaeological work continues on-site. The peninsula also has a quiet pebble beach facing the open bay.",
+    "churchTitle": "Gornja Lastva",
+    "churchText": "A hillside village 3 km above Tivat, reached by a narrow switchback road. Stone houses, an old church, and a terrace restaurant with a panoramic view over the entire bay. It is the kind of place that rewards having your own car — no bus service runs here.",
+    "museumText": "For maritime history, drive 12 minutes through the Vrmac tunnel to the Kotor Maritime Museum inside the Old Town walls. Combined with a walk around the fortifications, this makes a comfortable half-day trip from Tivat."
   },
   "tivatAirportBody": {
-    "h1": "Car Hire at Tivat Airport (TIV)",
-    "p1": "Tivat Airport is Montenegro's main coastal airport, handling over a million passengers during peak season. The facility has undergone recent modernisation, featuring a new terminal for international departures and domestic arrivals. The airport code is TIV, located just 4 km from the town centre and Porto Montenegro.",
-    "p2": "Tivat Airport has more flights during the summer peak season but maintains daily flights to Belgrade year-round. Charter flights operate heavily during the summer months. Due to the unique terrain surrounding the airport, it is well-known as being one of the most challenging airports at which to land.",
-    "distancesTitle": "Distances from Tivat Airport",
-    "dist1": "Kotor: approximately 20 minutes",
-    "dist2": "Budva: approximately 30 minutes",
-    "dist3": "Herceg Novi: approximately 35 minutes",
-    "dist4": "Perast: approximately 25 minutes",
-    "facilitiesTitle": "Airport Facilities",
-    "facilitiesText": "The airport offers cafes, public telephones, souvenir stores, and duty-free shopping. Bus services connect to Herceg Novi and Budva, with taxi service also available outside the terminal.",
-    "whyTitle": "Why Rent at Tivat Airport?",
-    "whyText": "Tivat Airport is the closest airport to Montenegro's most popular coastal destinations. Within minutes of landing, you can be driving along the Bay of Kotor towards the medieval walled town, or heading south to the beaches of Budva. Picking up your car at Tivat means no transfers, no waiting for buses \u2014 just straight from the terminal to the open road.",
-    "meetText": "We meet you at the arrivals hall with your name on a sign. Your car is parked right outside. Total time from landing to driving: about 10 minutes."
+    "h1": "Collecting Your Car at TIV",
+    "p1": "Tivat Airport (IATA: TIV) is a single-terminal facility on the bay shore, handling over a million passengers during peak season. The terminal layout works in your favour: domestic and international arrivals share one baggage hall, and the exit doors lead directly to the short-stay car park across a single access road — roughly 40 metres door to door. No shuttle buses operate at TIV because none are needed.",
+    "p2": "Summer schedules bring easyJet (London Gatwick, Manchester, Edinburgh, Bristol, Belfast), Ryanair (London Stansted, Milan Bergamo, Berlin), TUI (UK charter programme), and Wizz Air (Vienna, Budapest, Dortmund, Memmingen). Winter service drops to daily Belgrade flights and occasional charters, so availability and pricing shift between seasons. Book early for July–August arrivals when demand peaks.",
+    "distancesTitle": "Drive Times from TIV",
+    "dist1": "Kotor: 12 minutes via Vrmac tunnel, 20 minutes via bay road",
+    "dist2": "Budva: 25 minutes via Vrmac tunnel and Radanovici road",
+    "dist3": "Herceg Novi: 35 minutes via Verige ferry, 55 minutes via bay road",
+    "dist4": "Perast: 20 minutes along the bay road north",
+    "facilitiesTitle": "Terminal Layout and Facilities",
+    "facilitiesText": "The terminal has one departures hall (upstairs) and one arrivals hall (ground floor). Inside you will find a cafe, a small duty-free shop, ATMs, and a tourist information desk. Outside the arrivals exit, taxis queue on the left, the short-stay car park is directly ahead, and the main road runs parallel on the right. A Jugopetrol fuel station is 800 metres to the right along the main road — useful for topping up before your return drop-off.",
+    "whyTitle": "The Small-Airport Advantage",
+    "whyText": "TIV has no inter-terminal transit, no car rental village, no shuttle bus loop. That means your car is closer to the baggage belt than it would be at almost any major European airport. Walk out, cross the road, find your vehicle. The total time from wheels-down to driving off averages 10 minutes for pre-booked customers — faster than clearing the taxi rank.",
+    "meetText": "Our agent meets you at the short-stay car park with keys and paperwork. We monitor flight arrivals in real time, so delays do not affect your pickup. If your flight lands at 2 am, we will be there at 2 am."
   },
   "podgoricaBody": {
-    "h1": "Podgorica \u2014 The Capital City",
-    "p1": "Most tourists flying into Montenegro will begin their trip at Podgorica Airport (TGD), located 9 km from the city centre. As both the capital and largest city in Montenegro, Podgorica is home to approximately 170,000 residents and sits uniquely on the banks of six rivers: the Moraca, Ribnica, Zeta, Sitnica, Mareza, and Cijevna.",
-    "p2": "The city's architecture reflects diverse historical influences. Ottoman rule left its mark, while medieval structures stand alongside communist-era functionalist buildings and contemporary glass towers. The Millennium Bridge has become a symbol of the city's modern aesthetic.",
-    "p3": "Podgorica is the cultural capital of the country. Tourists who rush off to the beach towns or mountains without spending time here will certainly miss an important part of Montenegro.",
-    "seeTitle": "What to See",
-    "seeText": "Shopping highlights include Italian fabrics, art galleries, and local wines and brandies. Notable attractions include Sat-Kula (the clock tower) from Ottoman times and Duklja, an archaeological site dating back approximately two thousand years.",
+    "h1": "Podgorica — 90 Minutes Inland from TIV",
+    "p1": "Two routes connect Tivat to Montenegro's capital. The fast option is the Sozina tunnel toll road: drive south toward Budva, turn inland at Virpazar, and enter the 4.2 km tunnel that punches through to the Podgorica plain. Total time: roughly 90 minutes, toll approximately 3.50 EUR. The free alternative is the mountain road over Lovcen — dramatically scenic but allow 2.5 hours with switchbacks and no overtaking.",
+    "p2": "Podgorica sits on the confluence of six rivers (Moraca, Ribnica, Zeta, Sitnica, Mareza, Cijevna) and has a population of roughly 170,000. The architecture reflects every era of occupation: Ottoman clock towers, Austro-Hungarian facades, Yugoslav-era concrete blocks, and new glass office buildings along Bulevar Svetog Petra Cetinjskog.",
+    "p3": "The city functions as Montenegro's commercial and administrative hub. It lacks the tourist density of the coast, which means lower prices, easier parking, and restaurant tables without reservations. For anyone with a rental car, it works well as a day trip or as an overnight stop en route to the northern mountains.",
+    "seeTitle": "Practical Stops in Podgorica",
+    "seeText": "The Millennium Bridge is the most recognisable landmark — a cable-stayed span over the Moraca. The old Turkish Quarter (Stara Varos) sits on the south bank with narrow streets, a clock tower, and a few traditional restaurants. Delta City shopping centre on the northern ring road has international brands, a cinema, and underground parking. For local produce, the Green Market operates daily near the central square.",
     "dayTripsTitle": "Day Trips from Podgorica",
     "skadarTitle": "Skadar Lake",
-    "skadarText": "Potentially Europe's most beautiful lake, located on the Montenegro-Albania border as a National Park. Home to millions of pelicans, it is the largest lake in the Balkans and a must-visit for nature lovers.",
-    "danilovgradTitle": "Danilovgrad",
-    "danilovgradText": "A scenic river town approximately thirty minutes west of Podgorica, featuring riverside beaches, boat rides, galleries, and the nearby Zdrebaonik monastery.",
-    "zabljak": "An alpine town in the Durmitor mountain region, sitting 1,500 metres above sea level and 170 kilometres from Podgorica. A year-round destination offering skiing in winter and hiking, rafting, and mountain biking in summer."
+    "skadarText": "Drive 30 minutes south on the Virpazar road to reach the largest lake in the Balkans, straddling the Montenegro–Albania border. Boat tours launch from Virpazar village. The lake is a national park, home to pelican colonies and 260+ bird species. Bring binoculars and mosquito repellent in summer.",
+    "danilovgradTitle": "Danilovgrad and the Zeta Valley",
+    "danilovgradText": "A quiet river town 25 minutes west of Podgorica on the E762. Riverside beaches along the Zeta River, a couple of fish restaurants, and the Zdrebaonik monastery 5 km north. Low-key, good for a half-day escape from the capital.",
+    "zabljak": "A mountain town at 1,450 metres in the Durmitor range, 170 km north of Podgorica via the E65. In winter: skiing at Savin Kuk. In summer: Tara River canyon rafting, Black Lake hiking, and the Durmitor ring road. The drive takes 2.5–3 hours depending on conditions — fill up in Podgorica, as fuel stations are sparse north of Kolasin."
   },
   "podgoricaAirportBody": {
-    "h1": "Car Hire at Podgorica Airport (TGD)",
-    "p1": "Although many visitors still choose to fly into neighbouring Croatia's Dubrovnik Airport, each year more flights are opening up to Montenegro's own airports. Podgorica Airport serves as Montenegro's largest public airport and hub for national carriers.",
-    "p2": "A new terminal opened in May 2006, while the old terminal now functions as a museum documenting Montenegro's aviation history. The airport code TGD is a historical reference to the city's former name, Titograd.",
-    "distancesTitle": "Location & Distances",
-    "distIntro": "The airport is situated 12 kilometres south of Podgorica city centre.",
-    "dist1": "Podgorica centre: 12 km (taxi approximately 10 Euros)",
-    "dist2": "Budva: approximately 40 minutes",
-    "dist3": "Kolasin: 80 km",
-    "dist4": "Zabljak: 170 km",
-    "flightsTitle": "Flights & Airlines",
-    "flightsText": "The airport handles both international and domestic flights. Daily service connects to Belgrade, with regular flights to Paris, Rome, Frankfurt, Vienna, Budapest, Ljubljana, and Moscow. Seasonal routes include Prague and additional Moscow services.",
-    "facilitiesTitle": "Airport Facilities",
-    "facilitiesText": "The terminal features eight departure gates, two arrival gates, 5,500 square metres of floor area, and 25,000 square metres of parking. Amenities include cafes, duty-free shopping, and various services.",
-    "awardText": "Although small, Podgorica Airport is an award-winning facility, having won the ACI Europe award for the best airport under 1 million passengers.",
-    "rentalTitle": "Getting Your Rental Car",
-    "rentalText": "We meet you at the arrivals hall and bring the car to you. No queues, no shuttle buses to off-site lots. Within minutes of clearing customs, you'll be on the road heading to your destination."
+    "h1": "Collecting Your Car at Podgorica Airport (TGD)",
+    "p1": "TGD handles an increasing share of Montenegro's air traffic, particularly budget carriers. Ryanair and Wizz Air operate seasonal routes from across Europe, while Air Serbia maintains a daily Belgrade connection year-round. If your flight lands at TGD instead of TIV, collecting a car here and driving to the coast is straightforward — the Sozina tunnel puts you on the bay in 90 minutes.",
+    "p2": "The airport opened a new terminal building in 2006; the old terminal now functions as a small aviation museum. The IATA code TGD references the city's former name, Titograd. The airport sits 12 km south of the city centre, connected by the main highway.",
+    "distancesTitle": "Distances and Drive Times",
+    "distIntro": "TGD is 12 km south of Podgorica centre, well-connected to the national road network:",
+    "dist1": "Podgorica centre: 15 minutes (taxi about 10 EUR)",
+    "dist2": "Tivat / Bay of Kotor: 90 minutes via Sozina tunnel (toll ~3.50 EUR)",
+    "dist3": "Budva: 75 minutes via Sozina tunnel and Radanovici road",
+    "dist4": "Kolasin (ski resort): 80 km north, roughly 75 minutes",
+    "flightsTitle": "Airlines and Routes",
+    "flightsText": "Year-round: Air Serbia (Belgrade daily), occasional Ryanair and Wizz Air winter schedules. Summer peak: Ryanair (London Stansted, Milan Bergamo, Brussels Charleroi), Wizz Air (Vienna, Budapest, Dortmund, Memmingen), TUI charters. Seasonal routes to Paris, Rome, Frankfurt, and Vienna also operate. Check airline schedules — frequency drops sharply from October to April.",
+    "facilitiesTitle": "Terminal Layout",
+    "facilitiesText": "TGD is a single-terminal airport with eight departure gates, two arrival gates, and roughly 5,500 m² of floor space. The car park holds 600+ vehicles with 25,000 m² of surface area — parking is never a problem here. Inside: a cafe, duty-free shop, ATM, and bureau de change.",
+    "awardText": "Despite its modest size, TGD won the ACI Europe award for best airport under one million passengers — a recognition of its clean facilities and efficient layout.",
+    "rentalTitle": "Car Pickup Process",
+    "rentalText": "Walk out of the arrivals hall and our agent meets you at the car park with your keys and documents. No shuttle bus, no off-site depot. Your car is right there. If you are driving to the coast, head south and follow signs for Virpazar / Sozina — the tunnel entrance is about 40 minutes from TGD. Fill up in Podgorica before entering the tunnel; fuel stations on the mountain route are infrequent."
   },
   "dubrovnikAirportBody": {
-    "h1": "Renting a Car at Dubrovnik Airport (DBV)",
-    "p1": "Many tourists who visit Montenegro choose to fly into Dubrovnik Airport and rent a car to drive over into Montenegro. The airport is located just a short two-hour drive from the coastal resorts of Budva, Perast, and Kotor, and is better connected with many airlines that don't yet provide direct service to Montenegro.",
-    "p2": "Since this is such a common route, crossing the border is not a difficult task \u2014 provided that visitors have all their rental agreements and travel documents in order.",
-    "p3": "Renting a car for a trip to Montenegro is a great idea. It allows visitors to see this part of the world on their own terms, at their own leisure. Traffic between the countries in this region is common, so border crossings are generally straightforward.",
-    "borderTitle": "Border Crossing Tips",
-    "borderText": "During tourist season, Montenegro becomes flooded with visitors and long waits to cross the border are not uncommon. Crossing early in the mornings or late at night is one way to beat the crowds. Make sure your rental company has provided you with a Green Card for cross-border insurance.",
-    "facilitiesTitle": "Airport Facilities",
-    "facilitiesText1": "Dubrovnik Airport has a modern terminal building located less than half an hour's drive from Dubrovnik city on the E65. The airport has limited parking available, with machines processing payment by cash and credit cards. Since parking is limited \u2014 especially in high season \u2014 visitors should pre-book their spaces if possible. There is a discount available for pre-booking.",
-    "facilitiesText2": "Inside the airport, there is a bureau de change, bank, and post office. Small restaurants, coffee shops, a duty-free store, and a newsstand are also available.",
-    "gettingTitle": "Getting to Montenegro",
-    "gettingText1": "Public transportation is available at the airport in the form of taxis located outside the terminal, plus bus services and shuttles. For travellers heading to Dubrovnik city, be sure to get on the buses that go all the way to the city centre rather than those stopping in Cavtat, to save yourself a transfer.",
-    "gettingText2": "The drive from Dubrovnik Airport to Montenegro's coast takes you along one of Europe's most scenic coastal roads. Within two hours you'll pass through the border and arrive at the Bay of Kotor \u2014 one of the most dramatic approaches to any destination in the Mediterranean."
+    "h1": "Collecting Your Car at Dubrovnik Airport (DBV)",
+    "p1": "Dubrovnik Airport is the busiest arrival point for tourists heading to southern Montenegro. The airport handles a wider range of airlines than TIV or TGD — British Airways, easyJet, Norwegian, Eurowings, Vueling, and many charter operators fly here. If your preferred carrier does not serve Tivat directly, landing at DBV and driving south is the standard workaround.",
+    "p2": "The drive from DBV to the Montenegro border takes about 30 minutes on the coastal E65. After the Debeli Brijeg checkpoint, continue along the bay to Herceg Novi (15 min from the border), the Verige ferry crossing, and onward to Tivat (60–90 min total depending on route). Ensure your rental company has included a Green Card for Montenegro — without it, border guards will turn you back.",
+    "p3": "One practical note: Croatian motorway tolls apply if you take the A1 from the airport toward the border. The toll is modest (under 5 EUR) and can be paid by card or cash at the booth. The alternative coastal road avoids the toll but adds 10 minutes.",
+    "borderTitle": "Crossing into Montenegro",
+    "borderText": "The Debeli Brijeg / Konfin checkpoint is the only coastal crossing between Croatia and Montenegro. In summer (July–August), expect 30–90 minute queues during mid-day. Crossing before 8 am or after 8 pm cuts wait times dramatically. Have your passport, rental contract, and Green Card ready in hand — not buried in a suitcase. Croatian exit and Montenegrin entry are processed at the same stop.",
+    "facilitiesTitle": "DBV Airport Facilities",
+    "facilitiesText1": "The terminal sits 20 km south-east of Dubrovnik Old Town on the E65 coastal highway. Short-stay parking is limited and expensive in season — if you are collecting a rental car, pick it up from the airport lot and drive directly rather than parking first. A bureau de change, ATMs, and a duty-free shop are inside the terminal.",
+    "facilitiesText2": "Rental car desks are in the arrivals hall. Collect your paperwork inside, then walk to the car park outside. Some agencies use off-site lots with shuttle transfers — confirm in advance whether your car is on-site or requires a bus ride.",
+    "gettingTitle": "The Drive to Montenegro",
+    "gettingText1": "Exit DBV and turn right (south-east) onto the E65. Follow the coastal road through Cavtat and Gruda toward the border. The road is well-maintained, two lanes, with sea views for much of the route. After the border, the road drops into Igalo and Herceg Novi before following the bay to Tivat.",
+    "gettingText2": "Two route options from Herceg Novi to Tivat: the long bay road through Risan and Perast (scenic, 55 minutes) or the Verige ferry at Kamenari–Lepetane (runs every 15 minutes, 5 minutes crossing, saves 30+ minutes). The ferry costs about 5 EUR per car and accepts cash only. If arriving late at night, check the ferry timetable — frequency drops after 11 pm."
   },
   "montenegroBody": {
-    "h1": "Exploring Montenegro by Car from Tivat",
-    "p1": "Montenegro stands as one of Europe's most rewarding destinations for self-drive exploration. From dramatic mountain roads and quiet inland villages to winding coastal drives along the Adriatic, the country offers diverse landscapes within surprisingly short distances. Renting a car from Tivat provides access to locations well beyond the reach of public transport.",
-    "p2": "Although compact in size, Montenegro requires longer driving times than maps suggest. Mountain switchbacks, narrow coastal roads, and scenic routes encourage frequent stops. Travellers gain the freedom to experience both journey and destination \u2014 navigating fjord-like bays, historic towns, and highland viewpoints at their own pace.",
-    "startTitle": "Getting Started from Tivat",
-    "startText": "Most visitors pick up their rental car at Tivat Airport, Montenegro's main coastal airport. Tivat is just 20 minutes from Kotor and 30 minutes from Budva. The airport sits right on the Bay of Kotor, so you're driving through stunning scenery from the moment you leave the terminal.",
-    "timesTitle": "Driving Times from Tivat",
-    "timesText1": "Kotor: 20 minutes. Budva: 30 minutes. Herceg Novi: 35 minutes. Perast: 25 minutes. Podgorica: 90 minutes. Mountain switchbacks, jagged coastline roads, and rural obstacles all contribute to journey times that exceed what maps suggest.",
-    "timesText2": "The scenic coastal and countryside experience more than justifies the extended travel time. The drive from Tivat through the Bay of Kotor is one of Europe's most spectacular road trips.",
-    "rulesTitle": "Driving Rules & Safety",
-    "rulesIntro": "Traffic police checks occur frequently but present no concern if you have proper documentation. You'll need:",
-    "rule1": "A valid driver's licence (international licence accepted)",
-    "rule2": "Rental contract or proof of vehicle ownership",
-    "rule3": "Insurance documentation",
-    "rule4": "A \"Green Card\" for border crossings (approximately 15 Euros for 15 days)",
-    "keyRulesTitle": "Key Rules",
-    "keyRule1": "Seat belts are mandatory for all passengers",
-    "keyRule2": "Mobile phone use while driving is prohibited",
-    "keyRule3": "Any drinking and driving is illegal \u2014 zero tolerance",
-    "keyRule4": "Speed limits are strictly enforced",
-    "conditionsTitle": "Road Conditions",
-    "conditionsText": "City roads maintain fair condition. Mountain roads can be more challenging, with minimal guard rails in places. Some drivers operate aggressively, so caution is advised throughout the country \u2014 particularly on mountain passes and narrow coastal stretches.",
-    "routesTitle": "Main Routes",
-    "e65Title": "E65/E80",
-    "e65Text": "The main coastal route connects Herceg-Novi to Podgorica, passing through Kotor, Perast, Tivat, and Budva. This is the most popular driving route and offers stunning views of the Bay of Kotor.",
-    "e762Title": "E762",
-    "e762Text": "Bisects the country from coast to interior, leading into eastern Croatia. This route takes you through Montenegro's mountainous heartland.",
+    "h1": "Driving Montenegro from Tivat — A Practical Road Guide",
+    "p1": "Montenegro is small on the map but slow on the road. Mountain switchbacks, single-lane tunnels, and winding bay roads mean a 50 km drive can take an hour. That is not a complaint — the scenery is the reason most people rent a car. But plan your daily distances realistically. Two destinations per day is comfortable. Three is rushed.",
+    "p2": "TIV airport sits roughly halfway along the Bay of Kotor, which means you are already in the middle of the action when you collect your car. Kotor is north, Budva is south, Porto Montenegro is across the road, and inland Montenegro — Cetinje, Podgorica, Durmitor — branches off via tunnels and mountain passes.",
+    "startTitle": "Leaving the Airport",
+    "startText": "Exit the TIV car park and you hit the main road immediately. Turn left (north) for Kotor via the Vrmac tunnel (12 min) or the bay road (20 min). Turn right (south) for Budva via Radanovici (25 min). Straight ahead across the roundabout reaches Porto Montenegro marina in 3 minutes. The Jugopetrol fuel station is 800 metres to the right — fill up before heading out, especially if driving to Podgorica where mountain-route fuel stops are scarce.",
+    "timesTitle": "Realistic Drive Times from TIV",
+    "timesText1": "Kotor: 12 min (tunnel) / 20 min (bay road). Perast: 20 min. Budva: 25 min. Herceg Novi: 35 min (Verige ferry) / 55 min (bay road). Sveti Stefan: 30 min. Cetinje: 60 min. Podgorica: 90 min (Sozina tunnel) / 2.5 hr (mountain road). Durmitor / Zabljak: 4 hr.",
+    "timesText2": "These times assume dry conditions and light traffic. In July–August, add 15–20 minutes to any route passing through Budva or the Kotor approach road. The Verige ferry at Kamenari–Lepetane runs every 15 minutes, costs about 5 EUR, and saves 30+ minutes versus driving around the full bay to Herceg Novi.",
+    "rulesTitle": "Documents and Rules",
+    "rulesIntro": "Police checkpoints appear randomly on main roads. They are routine and nothing to worry about if you carry:",
+    "rule1": "Driving licence (international permit accepted alongside national licence)",
+    "rule2": "Rental contract — original, not a photocopy or screenshot",
+    "rule3": "Insurance documents (should be in the glovebox from pickup)",
+    "rule4": "Green Card if crossing any border (about 15 EUR for 15 days, arranged at booking)",
+    "keyRulesTitle": "Traffic Law Essentials",
+    "keyRule1": "Seat belts mandatory for all passengers, front and rear",
+    "keyRule2": "Zero tolerance for mobile phone use while driving — hands-free only",
+    "keyRule3": "Zero alcohol tolerance — the legal limit is 0.00%",
+    "keyRule4": "Speed limits: 50 km/h in towns, 80 km/h on open roads, lower on mountain sections",
+    "conditionsTitle": "Road Conditions and Fuel",
+    "conditionsText": "Main coastal roads (E65/E80) are well-surfaced and marked. Mountain roads vary — some have no guardrails, limited lighting, and single-lane sections with blind corners. Fuel stations are plentiful along the coast (Jugopetrol, Petrol, Ina) but sparse once you head inland past Cetinje. Fill up before mountain routes. Diesel is cheaper than petrol; LPG is available at larger stations.",
+    "routesTitle": "Key Routes from Tivat",
+    "e65Title": "The Bay Road (E65/E80)",
+    "e65Text": "Follows the entire Bay of Kotor shoreline from Herceg Novi through Risan, Perast, and Kotor, then south past Tivat to Budva. This is the scenic backbone of coastal Montenegro. Sections between Kotor and Perast are narrow with blind corners — use your horn on tight bends. The Verige ferry at Kamenari shortcutting across the bay mouth is part of this route network.",
+    "e762Title": "The Inland Road (E762 / Sozina Tunnel)",
+    "e762Text": "Connects the coast to Podgorica via the 4.2 km Sozina toll tunnel. The toll is approximately 3.50 EUR (cash or card). This is the fastest route to the capital and avoids the dramatic but slow mountain road over Lovcen. North of Podgorica, the E65 continues to Kolasin and eventually Zabljak in the Durmitor mountains.",
     "borderTitle": "Border Crossings",
-    "borderText": "Cross-border travel is straightforward with the right documentation. Checkpoints can experience heavy congestion during peak season, with kilometre-long car queues common at popular crossings. Optimal crossing times are weekday mornings or late evenings.",
-    "nationTitle": "A Young Nation",
-    "nationText": "Montenegro achieved independence in June 2006, making it one of the world's newest nations. Tourism development continues to grow, offering a more exotic and slightly more rugged adventure compared to neighbouring countries. The landscape combines green mountains cut through by fjords full of deep blue Adriatic water, a variety of beaches, and the mysteries of ancient Old Towns."
+    "borderText": "Cross-border travel is standard with a Green Card in the glovebox. The Croatia crossing at Debeli Brijeg is busiest (July–August mid-day queues of 1–2 hours). Albania via Sukobin/Muriqan near Ulcinj is quicker. Bosnia via Scepan Polje or Vilusi is rarely congested. Always have passport, rental contract, and Green Card accessible — not in the boot.",
+    "nationTitle": "Seasonal Considerations",
+    "nationText": "Summer (June–September): peak traffic, full car parks, higher rental prices, daily flights from across Europe. Book vehicles and accommodation early. Winter (October–May): quieter roads, lower prices, reduced ferry frequency, mountain passes occasionally closed by snow. The Vrmac tunnel and Sozina tunnel operate year-round regardless of weather."
   },
   "borderCrossingBody": {
-    "h1": "Can I Take My Rental Car Across Borders?",
-    "p1": "Yes. Cross-border travel is permitted from Montenegro to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia. You just need to let your rental company know at booking so they can prepare the necessary documentation.",
-    "greenCardTitle": "What is a Green Card?",
-    "greenCardText": "A Green Card is an international motor insurance certificate that proves your vehicle is insured in the country you're entering. It's required at every border crossing in the Balkans.",
-    "greenCard1": "Cost: approximately 15 Euros for 15 days",
-    "greenCard2": "Where to get it: your rental company arranges this \u2014 just confirm at booking",
-    "greenCard3": "Countries covered: Croatia, Bosnia, Albania, Kosovo, Serbia",
-    "greenCardWarn": "Without a Green Card, border guards will not let you through. Always check that the card covers all countries on your planned route before you set off.",
-    "docsTitle": "Documents You Need at the Border",
-    "doc1": "Valid passport or EU ID card",
-    "doc2": "Driving licence (international licence accepted)",
-    "doc3": "Rental contract (original, not a photocopy)",
+    "h1": "Taking Your Rental Car Across Borders",
+    "p1": "Cross-border travel from Montenegro is permitted to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia. The process is straightforward: notify your rental company at booking, they prepare the Green Card insurance certificate, and you collect it with the car at TIV. The Green Card and your rental contract go in the glovebox — border guards will ask for both.",
+    "greenCardTitle": "The Green Card Explained",
+    "greenCardText": "A Green Card is an international motor insurance certificate proving your vehicle is covered in the country you are entering. Without it, border guards will refuse entry and send you back. It is the single most important document for cross-border driving.",
+    "greenCard1": "Cost: approximately 15 EUR for 15 days coverage",
+    "greenCard2": "Arranged by the rental company at booking — just confirm which countries you plan to visit",
+    "greenCard3": "Covers: Croatia, Bosnia & Herzegovina, Albania, Serbia, Kosovo (confirm Kosovo separately — some policies exclude it)",
+    "greenCardWarn": "Check the Green Card lists every country on your itinerary BEFORE you leave the airport. Turning back from a border 2 hours into your trip wastes a day.",
+    "docsTitle": "Documents to Have in Hand at Every Checkpoint",
+    "doc1": "Valid passport or EU national ID card",
+    "doc2": "Driving licence (international driving permit if licence is non-Latin script only)",
+    "doc3": "Rental contract — the original paper copy, not a phone screenshot",
     "doc4": "Green Card insurance certificate",
-    "doc5": "Vehicle registration document (provided with the car)",
-    "crossingsTitle": "Border Crossings from Montenegro",
-    "croatiaTitle": "Montenegro \u2192 Croatia",
-    "croatiaText": "The most popular crossing for tourists. The main checkpoint is at Debeli Brijeg on the coastal road (E65) between Herceg Novi and Dubrovnik. This crossing gets extremely busy in summer \u2014 expect queues of 1-2 hours during peak season (July-August).",
-    "croatiaTip": "Best times to cross: early morning (before 8am) or late evening (after 8pm). Weekday mornings are significantly quieter than weekends.",
-    "croatiaFerry": "There is also the Kamenari-Lepetane ferry shortcut across the Bay of Kotor which avoids driving around the entire bay \u2014 saves about 45 minutes.",
-    "albaniaTitle": "Montenegro \u2192 Albania",
-    "albaniaText": "Two main crossings: Sukobin/Muriqan (coastal, near Ulcinj) and Hani i Hotit (inland, near Skadar Lake). The coastal crossing is more traveller-friendly and typically has shorter wait times.",
-    "albaniaNote": "Note: Albanian roads differ significantly from Montenegro. Drive cautiously, especially on rural roads.",
-    "bosniaTitle": "Montenegro \u2192 Bosnia & Herzegovina",
-    "bosniaText": "The main crossing is at \u0160\u0107epan Polje (near Fo\u010da) if heading north, or via Vilusi from Nik\u0161i\u0107. Crossings are generally quiet with minimal wait times outside summer.",
-    "serbiaTitle": "Montenegro \u2192 Serbia",
-    "serbiaText": "Cross at Dobrakovo (on the E65 north of Bijelo Polje). This crossing connects directly to the Serbian motorway system towards Belgrade.",
-    "kosovoTitle": "Montenegro \u2192 Kosovo",
-    "kosovoText": "The crossing at Kula (near Ro\u017eaje) connects to Peja/Pe\u0107 in Kosovo. Check with your rental company that Kosovo is included on your Green Card \u2014 some policies exclude it.",
-    "tipsTitle": "Tips for Smooth Border Crossings",
-    "tip1": "Have all documents ready before you reach the checkpoint \u2014 don't search for them at the window",
-    "tip2": "Turn off your engine while waiting in queues (border guards appreciate it)",
-    "tip3": "Summer weekends are the worst \u2014 plan to cross on weekdays if possible",
-    "tip4": "The Croatian coastal crossing (Debeli Brijeg) is busiest; inland crossings are quieter",
-    "tip5": "Keep some cash in Euros \u2014 useful for tolls and minor purchases on the other side",
-    "tip6": "Mobile data roaming: check your plan covers the country you're entering",
-    "lawsTitle": "Driving Rules That Change at Borders",
-    "lawsIntro": "Each country has slightly different traffic laws. Key differences to note:",
-    "law1": "Croatia: headlights must be on at all times. Motorway tolls apply (cash or card)",
-    "law2": "Albania: speed limits are lower on rural roads. Road quality varies significantly",
-    "law3": "Bosnia: winter tyres mandatory November-April. Carry a first-aid kit and warning triangle",
-    "law4": "Serbia: zero alcohol tolerance for drivers. Motorway vignette required",
-    "law5": "Kosovo: drive on the right. International driving permit recommended",
-    "popularTitle": "Popular Cross-Border Routes from Tivat",
-    "route1": "Tivat \u2192 Dubrovnik: 2 hours via coastal E65. Stunning scenery, one border crossing",
-    "route2": "Tivat \u2192 Mostar (Bosnia): 3-4 hours via Trebinje. Visit the famous bridge",
-    "route3": "Tivat \u2192 Shkod\u00ebr (Albania): 3 hours via Ulcinj coastal crossing",
-    "route4": "Tivat \u2192 Belgrade (Serbia): 6-7 hours via E65 north",
-    "ctaText": "Need a car with cross-border documentation ready? Search our fleet \u2014 just select your destination countries at booking and we'll arrange the Green Card."
+    "doc5": "Vehicle registration document (stays in the glovebox from pickup, do not remove it)",
+    "crossingsTitle": "Crossing-by-Crossing Detail",
+    "croatiaTitle": "Montenegro to Croatia — Debeli Brijeg",
+    "croatiaText": "The only coastal crossing. Located on the E65 between Herceg Novi and Dubrovnik. Croatian and Montenegrin passport control operate at the same stop — you do not leave the car. In July–August, mid-day queues reach 1–2 hours. Early morning (before 8 am) or late evening (after 8 pm) cuts the wait to under 15 minutes.",
+    "croatiaTip": "Weekday mornings are fastest. Sunday afternoons returning from Dubrovnik are the worst. Have documents in your lap, not in the boot or a suitcase.",
+    "croatiaFerry": "The Kamenari–Lepetane ferry across the Bay of Kotor mouth saves 45 minutes versus the long bay road to Herceg Novi. Take the ferry first, then drive to the border from Herceg Novi — total TIV-to-Dubrovnik time roughly 90 minutes plus border queue.",
+    "albaniaTitle": "Montenegro to Albania",
+    "albaniaText": "Two crossings: Sukobin/Muriqan on the coast near Ulcinj (faster, more tourist-friendly) and Hani i Hotit inland near Skadar Lake. The coastal crossing typically has shorter queues. Albanian road quality drops significantly after the border — drive cautiously, especially on rural routes south of Shkoder.",
+    "albaniaNote": "Fill up before crossing — Albanian fuel stations are less frequent and card payment is not always available. Carry cash (EUR accepted widely in northern Albania).",
+    "bosniaTitle": "Montenegro to Bosnia & Herzegovina",
+    "bosniaText": "Main crossings: Scepan Polje near Foca (north, quiet, scenic route along the Tara canyon) and Vilusi from Niksic (west, connects to Trebinje and eventually Mostar). Both are rarely congested. Bosnian roads are well-maintained on main routes but deteriorate on rural sections.",
+    "serbiaTitle": "Montenegro to Serbia",
+    "serbiaText": "Cross at Dobrakovo on the E65 north of Bijelo Polje. This connects to the Serbian motorway network toward Belgrade (roughly 4 hours from the border). The crossing itself is efficient — typically under 15 minutes outside peak holiday weekends.",
+    "kosovoTitle": "Montenegro to Kosovo",
+    "kosovoText": "The Kula crossing near Rozaje connects to Peja/Pec in western Kosovo. Confirm with your rental company that Kosovo is listed on your Green Card — a small number of policies exclude it. The road on the Kosovo side is reasonable but narrow in sections.",
+    "tipsTitle": "Queue-Beating Tips",
+    "tip1": "Arrange documents in order (passport, licence, rental contract, Green Card) before joining the queue — fumbling at the window adds minutes per car",
+    "tip2": "Switch off the engine while waiting — border guards at Debeli Brijeg will ask you to if you do not",
+    "tip3": "Avoid Sunday afternoons at the Croatia crossing — returning Dubrovnik day-trippers create the longest queues of the week",
+    "tip4": "Inland crossings (Bosnia, Serbia, Kosovo) rarely have significant waits, even in peak summer",
+    "tip5": "Carry cash in EUR — useful for tolls and small purchases on the other side before you find an ATM",
+    "tip6": "Check mobile data roaming — your Montenegro SIM may not cover the country you are entering without an add-on",
+    "lawsTitle": "Traffic Laws That Change at the Border",
+    "lawsIntro": "Each neighbouring country has slightly different rules. Key things to note:",
+    "law1": "Croatia: headlights on at all times. Motorway tolls apply (cash or card at booths). Zero alcohol tolerance",
+    "law2": "Albania: lower speed limits on rural roads. Road quality drops sharply outside main cities. Carry cash for fuel",
+    "law3": "Bosnia: winter tyres mandatory November–April. Carry first-aid kit and warning triangle (should already be in the car)",
+    "law4": "Serbia: zero alcohol tolerance. Motorway vignette required (buy at border petrol stations or online)",
+    "law5": "Kosovo: drive on the right. International driving permit recommended. Road signs may be in Albanian and Serbian",
+    "popularTitle": "Common Cross-Border Itineraries from TIV",
+    "route1": "TIV to Dubrovnik: 90 min via Verige ferry + Herceg Novi + Debeli Brijeg crossing. Best as a day trip — leave by 7 am, return by 8 pm",
+    "route2": "TIV to Mostar (Bosnia): 3.5 hr via Trebinje. The Stari Most bridge, Ottoman quarter, and river swimming. Overnight recommended",
+    "route3": "TIV to Shkoder (Albania): 3 hr via Ulcinj and the Sukobin coastal crossing. Rozafa Castle, Skadar lakeside, cheap restaurants",
+    "route4": "TIV to Belgrade (Serbia): 6–7 hr via E65 north and Dobrakovo crossing. Long drive — break overnight in Kolasin or Uzice",
+    "ctaText": "Need a rental car with cross-border documents ready from day one? Search our fleet, select your destination countries at booking, and the Green Card will be in the glovebox when you collect at TIV."
   }
 }

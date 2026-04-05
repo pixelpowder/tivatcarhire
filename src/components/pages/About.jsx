@@ -11,7 +11,7 @@ export default function About() {
       description={t("about.seoDesc")}
       image="/img/boka-bay.webp"
     >
-      <img src="/img/boka-bay.webp" alt="Bay of Kotor" loading="lazy" />
+      <img src="/img/tivat-airport.webp" alt="Tivat Airport terminal building" loading="lazy" />
       <h2>{t('aboutBody.h1')}</h2>
       <p>{t('aboutBody.p1')}</p>
 
@@ -30,6 +30,8 @@ export default function About() {
         <li>{t('aboutBody.promise5')}</li>
         <li>{t('aboutBody.promise6')}</li>
       </ul>
+
+      <img src="/img/boka-bay.webp" alt="Bay of Kotor from the road" loading="lazy" />
 
       <h2>{t('aboutBody.h4')}</h2>
       <p>{t('aboutBody.p4')}</p>
