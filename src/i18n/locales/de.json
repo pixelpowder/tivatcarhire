@@ -196,89 +196,89 @@
   },
   "featureCards": {
     "airportPickup": {
-      "title": "Flughafenabholung",
-      "desc": "Holen Sie Ihr Auto am Flughafen Tivat oder Podgorica ab. Kein Shuttle, kein Warten."
+      "title": "40-Meter-Abholung",
+      "desc": "Ihr Auto wartet im Kurzzeit-Parkplatz des TIV. Vom Gepäckband, über die Straße, ins Auto — kein Shuttlebus, kein Warten."
     },
     "fullInsurance": {
-      "title": "Vollversicherung",
-      "desc": "Umfassender Schutz mit Null-Selbstbeteiligung-Option. Fahren Sie völlig sorgenfrei."
+      "title": "Vollversicherung inklusive",
+      "desc": "CDW und Diebstahlschutz bei jeder Buchung. Nullkasko-Option verfügbar — ideal für den Vrmac-Tunnel und die kurvenreiche Küstenstraße nach Herceg Novi."
     },
     "support": {
-      "title": "24/7 Support",
-      "desc": "Pannenhilfe und Kundenservice rund um die Uhr, jeden Tag."
+      "title": "24/7 Pannenhilfe",
+      "desc": "Flug drei Stunden verspätet? Wir passen uns an, kostenlos. Unsere Pannennummer verbindet Sie rund um die Uhr mit einem lokalen Mechaniker."
     },
     "noHiddenFees": {
-      "title": "Keine versteckten Kosten",
-      "desc": "Tankpolitik, Kilometerstand, Steuern — alles ist im angezeigten Preis enthalten."
+      "title": "Transparente Preise",
+      "desc": "MwSt., Kilometer, Flughafenzuschlag, Ausrüstungskit — alles im angezeigten Preis enthalten. Was Sie beim Checkout sehen, zahlen Sie an der Abholstation."
     },
     "freeCancellation": {
       "title": "Kostenlose Stornierung",
-      "desc": "Pläne ändern sich. Stornieren Sie bis 24 Stunden vor Abholung für eine volle Rückerstattung."
+      "desc": "Flug gestrichen oder Flugplanänderung? Stornieren Sie bis 24 Stunden vor Abholung kostenlos — ohne Aufpreis bei Airliner-Umplanungen."
     },
     "crossBorder": {
       "title": "Grenzüberschreitend",
-      "desc": "Fahren Sie nach Croatia, Bosnia, Albania oder Kosovo. Grenzüberschreitendes Reisen erlaubt."
+      "desc": "Grüne-Karte-Dokumente werden bei der Buchung vorbereitet. Der Flughafen Dubrovnik liegt 90 km entfernt; der Grenzübergang Debeli Brijeg nach Kroatien nur 40 km."
     }
   },
   "testimonials": {
     "0": {
-      "text": "Einen makellosen Octavia am Flughafen Tivat in unter 5 Minuten abgeholt. Die gesamte Küste bis nach Ulcinj gefahren. Unglaubliches Preis-Leistungs-Verhältnis."
+      "text": "Geschäftsreise mit engem Zeitplan. Koffer vom Band, Auto im Kurzzeit-Parkplatz gegenüber, und ich war in 20 Minuten nach der Landung bei meinem Meeting in Porto Montenegro. Die Abholgeschwindigkeit in TIV ist kaum zu übertreffen."
     },
     "1": {
-      "text": "Der BMW war in perfektem Zustand und die Grenzübertrittsdokumente für Croatia waren bei unserer Ankunft bereit. Sehr empfehlenswert."
+      "text": "Wir haben die Verige-Fähre von Kamenari genommen und noch am Nachmittag unserer Ankunft auf der Lustica-Halbinsel zu Mittag gegessen. Der Agent hat uns beim Abholen von der Fähre erzählt — hat uns 40 Minuten auf der Buchtstraße gespart."
     },
     "2": {
-      "text": "Wir haben Montenegro zwei Wochen lang erkundet. Der Jeep meisterte Bergstraßen perfekt. Die beste Mietwagen-Erfahrung, die wir je hatten."
+      "text": "Ryanair nach Tivat, Auto im Parkplatz bereit, Kinder angeschnallt — und wir standen vor den Mauern von Kotor, bevor eine Stunde vergangen war. Der Vrmac-Tunnel war ein riesiger Unterschied zur Küstenstraße."
     }
   },
   "faqItems": {
     "0": {
-      "q": "Welche Dokumente werden benötigt?",
-      "a": "Führerschein in lateinischer Schrift, Reisepass und eine Kreditkarte, die auf den Namen des Hauptfahrers ausgestellt ist. Ein internationaler Führerschein wird benötigt, wenn der Führerschein nur nationale Gültigkeit hat. Dokumentkopien und Dokumente in elektronischer Form werden nicht anerkannt."
+      "q": "Welche Dokumente brauche ich bei der TIV-Abholung?",
+      "a": "Führerschein in lateinischer Schrift, Reisepass und eine physische Kreditkarte auf den Namen des Hauptfahrers. Wer einen Führerschein ohne lateinische Schrift besitzt, benötigt einen Internationalen Führerschein. Kopien und elektronische Dokumente werden nicht akzeptiert."
     },
     "1": {
-      "q": "Sind Fahrten nach Kroatien oder Albanien erlaubt?",
-      "a": "Ja! Informieren Sie den Vermieter vorab über Ihre Reiseabsichten ins Ausland, damit dieser die benötigten Dokumente vorbereiten kann. Grenzüberschreitende Reisen in die benachbarten Länder sind erlaubt."
+      "q": "Darf ich mit dem Mietauto nach Kroatien oder Albanien fahren?",
+      "a": "Ja. Teilen Sie es dem Vermieter bei der Buchung mit, damit die Grüne Karte vorbereitet werden kann. Grenzüberschreitende Fahrten nach Kroatien, Bosnien, Albanien, Serbien und Kosovo sind erlaubt — die Dokumente liegen bei der Abholung im Handschuhfach."
     },
     "2": {
       "q": "Gibt es ein Mindestalter?",
-      "a": "Die Voraussetzungen variieren je nach Fahrzeug und werden bei den Suchergebnissen angezeigt."
+      "a": "Das Mindestalter und die Erfahrungsanforderungen variieren je nach Fahrzeugkategorie. Economy-Fahrzeuge erfordern in der Regel 21+, Premium-Fahrzeuge 25+. Diese Details werden während der Suche angezeigt."
     },
     "3": {
-      "q": "Was ist im Preis enthalten?",
-      "a": "Eine Haftpflichtversicherung ist für alle Fahrzeuge im Preis enthalten. Viele Angebote beinhalten im Grundpreis auch eine Kaskoversicherung (CDW, engl. Collision Damage Waiver). Ebenso im Preis enthalten sind Mehrwertsteuer, Notfall- und Pannenausrüstung (Verbandkasten, Warndreieck, Sicherheitsweste) und eine transparente Kraftstoffrichtlinie. Vereinbarungen zur Kilometerlaufleistung variieren je nach Fahrzeug. Weitere Versicherungsoptionen sind gegen Aufpreis erhältlich."
+      "q": "Was ist im Mietpreis enthalten?",
+      "a": "CDW und Diebstahlschutz, MwSt., Ausrüstungskit (Verbandskasten, Warndreieck, Warnweste) und eine transparente Kraftstoffpolitik. Kilometerbedingungen variieren je nach Fahrzeug — einige sind unbegrenzt, andere haben ein Tageslimit."
     },
     "4": {
-      "q": "Wie funktioniert die Abholung?",
-      "a": "Die Angebote für eine Abholung mit dem Mietfahrzeug variieren je nach Anbieter und Reiseziel. Geben Sie bei der Buchung den gewünschten Ort und Zeitpunkt an, um ein Treffen vor Ort zu arrangieren. Für genauere Vereinbarungen zum Treffpunkt kontaktieren Sie bitte das Vermietunternehmen direkt im Anschluss an Ihre Buchung."
+      "q": "Wie funktioniert die Abholung am Flughafen Tivat?",
+      "a": "Tivat ist ein Einzelterminal-Flughafen. Nach der Gepäckausgabe verlassen Sie das Terminal und überqueren die Straße zum Kurzzeit-Parkplatz — etwa 40 Meter. Unser Agent erwartet Sie dort mit Schlüssel und Unterlagen. Gesamtzeit vom Gepäckband bis zum Losfahren: ca. 10 Minuten."
     },
     "5": {
-      "q": "Ist eine Rückgabe an einem anderen Ort möglich?",
-      "a": "Ja — Einwegmieten werden für 28 Ziele in Montenegro angeboten. Wählen Sie hierzu bei der Buchung einfach Ihre gewünschten Abhol- und Rückgabeorte aus."
+      "q": "Kann ich das Fahrzeug an einem anderen Ort zurückgeben?",
+      "a": "Ja. Einwegmieten sind in über 28 Städten in Montenegro möglich. TIV abholen und in Budva, Kotor, Podgorica oder sogar Dubrovnik zurückgeben. Einfach unterschiedliche Abhol- und Rückgabeorte bei der Buchung wählen."
     },
     "6": {
-      "q": "Kann ich meine Buchung stornieren?",
-      "a": "Eine Stornierung ist bis zu sieben Tage vor Beginn des Mietzeitraums kostenfrei möglich. Für Premiumfahrzeuge und Cabriolets ist die Stornierung bis zu 30 Tage vor Beginn des Mietzeitraums kostenfrei möglich. Für alle Stornierungen fällt eine Zahlungsgebühr von 6% des Mietpreises an."
+      "q": "Wie lautet die Stornierungsrichtlinie?",
+      "a": "Kostenlose Stornierung bis 7 Tage vor Mietbeginn für Standardfahrzeuge, bis 30 Tage für Premium- und Cabrio-Kategorien. Bei allen Rückerstattungen fällt eine Zahlungsgebühr von 6 % an."
     },
     "7": {
-      "q": "Ist eine Mietkaution erforderlich?",
-      "a": "Die Höhe der Kaution variiert je nach Fahrzeug — einige Fahrzeuge können auch kautionsfrei gemietet werden. Für die Kautionszahlung wird eine physische Kreditkarte im Namen des Hauptfahrers benötigt. Der Kautionsbetrag wird bei Rückgabe des unbeschädigten Fahrzeuges zurückgezahlt."
+      "q": "Ist eine Kaution erforderlich?",
+      "a": "Kautionsbeträge variieren je nach Fahrzeuggruppe — einige Economy-Fahrzeuge benötigen keine Kaution. Wenn eine Kaution anfällt, muss sie auf einer physischen Kreditkarte des Hauptfahrers hinterlegt werden und wird bei Rückgabe erstattet."
     },
     "8": {
-      "q": "Was passiert bei Überschreitung der Kilometerlaufleistung?",
-      "a": "Für Fahrzeuge mit beschränkter Kilometerlaufleistung fällt oberhalb der vereinbarten Grenze eine Zusatzgebühr pro gefahrenen Mehrkilometer an. Die Rate ist den Mietbedingungen für das Fahrzeug zu entnehmen."
+      "q": "Wo ist die nächste Tankstelle am TIV?",
+      "a": "Eine Jugopetrol-Station befindet sich 800 Meter vom Flughafenausgang auf der Hauptstraße Richtung Tivat-Stadt, eine Petrol-Station in Radanovici auf der Budva-Straße. Beide akzeptieren Karte und Bargeld."
     },
     "9": {
-      "q": "Gibt es versteckte Kosten?",
-      "a": "Der Endpreis für die Miete beinhaltet alle Steuern und Gebühren; versteckte Kosten sind nicht enthalten."
+      "q": "Gibt es versteckte Gebühren?",
+      "a": "Nein. Steuern, Flughafenzuschlag, Ausrüstungskit — alles inklusive. Der Checkout-Preis ist der Preis, den Sie bei der Abholung zahlen. An der Abholstation kommen keine zusätzlichen Gebühren hinzu."
     },
     "10": {
-      "q": "Wie hoch ist die Anzahlung?",
-      "a": "Für die Bestätigung Ihrer Buchung fällt eine Anzahlung von 15–20% an. Den offenen Restbetrag begleichen Sie mit dem Vermietunternehmen bei der Abholung vor Ort."
+      "q": "Wie viel zahle ich bei der Buchung?",
+      "a": "Nur 15–20 % des Gesamtbetrags werden bei der Buchung zur Fahrzeugreservierung berechnet. Den Restbetrag zahlen Sie direkt beim Mietagenten am Flughafen bei der Abholung."
     },
     "11": {
-      "q": "Können Fahrzeuge ohne Kreditkarte gemietet werden?",
-      "a": "Einige Fahrzeuge können auch ohne Kreditkarte gemietet werden — verfügbare Angebote sind in der Fahrzeugsuche entsprechend markiert."
+      "q": "Kann ich ohne Kreditkarte mieten?",
+      "a": "Einige Fahrzeuge sind ohne Kreditkarte verfügbar — diese sind in den Suchergebnissen mit einem entsprechenden Badge deutlich gekennzeichnet. Filtern Sie danach bei Ihrer Suche."
     }
   },
   "destCards": {
