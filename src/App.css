@@ -616,7 +616,7 @@
   position: absolute;
   inset: 0;
   z-index: 0;
-  background: rgb(6,46,42);
+  background: rgb(26,26,26);
 }
 
 .hero-wrapper__bg::after {
@@ -625,9 +625,9 @@
   inset: 0;
   background: linear-gradient(
     to bottom,
-    rgba(6, 46, 42, 0.55) 0%,
-    rgba(6, 46, 42, 0.40) 50%,
-    rgba(6, 46, 42, 0.30) 100%
+    rgba(26, 26, 26, 0.55) 0%,
+    rgba(26, 26, 26, 0.40) 50%,
+    rgba(26, 26, 26, 0.30) 100%
   );
   z-index: 2;
 }
@@ -766,13 +766,13 @@
 }
 .winter-package-banner--more,
 .link-dashed-M {
-  color: #0D8B7D !important;
-  border-color: #0D8B7D !important;
-  border-bottom-color: #0D8B7D !important;
+  color: #E85D04 !important;
+  border-color: #E85D04 !important;
+  border-bottom-color: #E85D04 !important;
 }
 .featuring-cool-cars__badge {
   background-color: rgba(13, 139, 125, 0.15) !important;
-  color: #0D8B7D !important;
+  color: #E85D04 !important;
 }
 /* Buttons / CTAs */
 .btn-primary,
@@ -780,8 +780,8 @@
 .search-cigarette__submit,
 [class*="button--primary"],
 [class*="btn--primary"] {
-  background-color: #0D8B7D !important;
-  border-color: #0D8B7D !important;
+  background-color: #E85D04 !important;
+  border-color: #E85D04 !important;
 }
 [class*="button--primary"]:hover,
 [class*="btn--primary"]:hover,
@@ -838,7 +838,7 @@
 
 /* ─── BOOKING CARD ─────────────────────────────────────── */
 .booking-card {
-  background: rgba(6, 46, 42, 0.85);
+  background: rgba(26, 26, 26, 0.85);
   border-radius: 12px;
   padding: 25px 28px 25px;
   max-width: 100%;
@@ -1004,7 +1004,7 @@ select.booking-field__input {
 
 /* ─── TRUST STRIP ──────────────────────────────────────── */
 .trust-strip {
-  background: rgba(6, 46, 42, 0.93);
+  background: rgba(26, 26, 26, 0.93);
   backdrop-filter: blur(80px);
   -webkit-backdrop-filter: blur(80px);
   padding: 40px 0;
@@ -1313,7 +1313,7 @@ select.booking-field__input {
 .faq-item {
   background: #fff !important;
   border: 1px solid var(--gray-200, #e5e7eb) !important;
-  box-shadow: 0 2px 8px rgba(6, 46, 42,0.06) !important;
+  box-shadow: 0 2px 8px rgba(26, 26, 26,0.06) !important;
 }
 
 .step-card {
@@ -1376,7 +1376,7 @@ select.booking-field__input {
 .dest-card__overlay {
   position: absolute;
   inset: 0;
-  background: linear-gradient(to top, rgba(6, 46, 42,0.7) 0%, rgba(6, 46, 42,0.05) 55%);
+  background: linear-gradient(to top, rgba(26, 26, 26,0.7) 0%, rgba(26, 26, 26,0.05) 55%);
   backdrop-filter: blur(1px);
   -webkit-backdrop-filter: blur(1px);
   padding: 18px;
@@ -1387,7 +1387,7 @@ select.booking-field__input {
 
 .dest-card {
   border: 1px solid rgba(255,255,255,0.8);
-  box-shadow: 0 4px 24px rgba(6, 46, 42,0.06), inset 0 1px 0 rgba(255,255,255,0.9);
+  box-shadow: 0 4px 24px rgba(26, 26, 26,0.06), inset 0 1px 0 rgba(255,255,255,0.9);
 }
 
 .dest-card__tag {
@@ -1658,7 +1658,7 @@ select.booking-field__input {
 }
 
 .feature-card:hover {
-  box-shadow: 0 8px 32px rgba(6, 46, 42,0.1), inset 0 1px 0 rgba(255,255,255,0.9) !important;
+  box-shadow: 0 8px 32px rgba(26, 26, 26,0.1), inset 0 1px 0 rgba(255,255,255,0.9) !important;
   border-color: var(--blue) !important;
 }
 
