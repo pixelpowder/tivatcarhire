@@ -32,10 +32,7 @@ import {
   Menu,
   X,
   MessageCircle,
-  Award,
-  TrendingUp,
 } from 'lucide-react';
-import { useRef, useCallback } from 'react';
 import config from './siteConfig';
 import './App.css';
 
@@ -322,68 +319,6 @@ function TrustStrip() {
 }
 
 /* ─── STAT COUNTERS ────────────────────────────────────── */
-function useCountUp(end, duration = 1.8) {
-  const [count, setCount] = useState(0);
-  const ref = useRef(null);
-  const started = useRef(false);
-
-  const onView = useCallback((entry) => {
-    if (entry[0]?.isIntersecting && !started.current) {
-      started.current = true;
-      const start = performance.now();
-      const tick = (now) => {
-        const progress = Math.min((now - start) / (duration * 1000), 1);
-        const eased = 1 - Math.pow(1 - progress, 3);
-        setCount(Math.round(eased * end));
-        if (progress < 1) requestAnimationFrame(tick);
-      };
-      requestAnimationFrame(tick);
-    }
-  }, [end, duration]);
-
-  useEffect(() => {
-    const obs = new IntersectionObserver(onView, { threshold: 0.3 });
-    if (ref.current) obs.observe(ref.current);
-    return () => obs.disconnect();
-  }, [onView]);
-
-  return [count, ref];
-}
-
-function StatCounters() {
-  const { t } = useTranslation();
-  const [years, yearsRef] = useCountUp(18);
-  const [rentals, rentalsRef] = useCountUp(2000);
-  const [locations, locsRef] = useCountUp(30);
-
-  const stats = [
-    { value: `${years}+`, label: t('stats.years'), icon: <Award size={22} />, ref: yearsRef },
-    { value: rentals >= 2000 ? '2,000+' : rentals.toLocaleString(), label: t('stats.rentals'), icon: <TrendingUp size={22} />, ref: rentalsRef },
-    { value: '4.8/5', label: t('stats.rating'), icon: <Star size={22} fill="currentColor" />, ref: null },
-    { value: `${locations}+`, label: t('stats.locations'), icon: <MapPin size={22} />, ref: locsRef },
-  ];
-
-  return (
-    <section className="stats-section">
-      <div className="container">
-        <div className="stats-grid">
-          {stats.map((s, i) => (
-            <div
-              key={s.label}
-              className="stat-card reveal-item"
-              ref={s.ref}
-            >
-              <div className="stat-card__icon">{s.icon}</div>
-              <div className="stat-card__value">{s.value}</div>
-              <div className="stat-card__label">{s.label}</div>
-            </div>
-          ))}
-        </div>
-      </div>
-    </section>
-  );
-}
-
 /* ─── HOW IT WORKS ─────────────────────────────────────── */
 function HowItWorks() {
   const { t } = useTranslation();
@@ -689,9 +624,9 @@ function FAQ() {
         </div>
 
         <div className="faq-list">
-          {[0, 6].map(start => (
+          {[0, 5].map(start => (
             <div key={start} className="faq-column">
-              {[0, 1, 2, 3, 4, 5].map(offset => {
+              {Array.from({ length: start === 0 ? 5 : 4 }, (_, i) => i).map(offset => {
                 const i = start + offset;
                 const isOpen = open === i;
                 return (
@@ -848,7 +783,6 @@ export default function App() {
         <Reviews />
         <TrustpilotBanner />
         <HowItWorks />
-        <StatCounters />
         <BrandLogos />
         <Destinations />
         <Features />

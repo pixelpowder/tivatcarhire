@@ -296,19 +296,7 @@
     },
     "8": {
       "q": "Where is the nearest fuel station to TIV?",
-      "a": "There is a Jugopetrol station 800 metres from the airport exit on the main road toward Tivat town, and a Petrol station in Radanovici on the Budva road. Both accept card and cash payment."
-    },
-    "9": {
-      "q": "Are there any hidden fees?",
-      "a": "No. Taxes, airport surcharge, equipment kit — all included. The price at checkout is the price you pay at pickup. We do not add fees at the desk."
-    },
-    "10": {
-      "q": "How much do I pay upfront?",
-      "a": "Only 15–20% of the total is charged at booking to secure the car. The balance is paid directly to the rental agent at the airport when you collect."
-    },
-    "11": {
-      "q": "Can I rent without a credit card?",
-      "a": "Some vehicles are available without a credit card — these are clearly marked with a card-free badge in the search results. Filter for them during your search."
+      "a": "Jugopetrol is 800 metres to the right as you exit the airport onto the main road. A second Petrol station sits in Radanovici on the Budva road — useful if you are heading south. Both accept card and cash. Fill up before returning the car to avoid refuelling charges."
     }
   },
   "destCards": {
