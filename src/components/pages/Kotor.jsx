@@ -17,7 +17,7 @@ export default function Kotor() {
       <h3>{t('kotorBody.cathedralTitle')}</h3>
       <p>{t('kotorBody.cathedralText')}</p>
 
-      <img src="/img/boka-bay.webp" alt="View over the Bay of Kotor" loading="lazy" />
+      <img src="/img/kotor-old-town.webp" alt="Kotor Old Town streets" loading="lazy" />
 
       <h2>{t('kotorBody.dayTripsTitle')}</h2>
       <p>{t('kotorBody.perastTrip')}</p>

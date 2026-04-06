@@ -4,8 +4,8 @@ import ContentPage from '../../ContentPage';
 export default function BorderCrossing() {
   const { t } = useTranslation();
   return (
-    <ContentPage title={t("border-crossing.title")} subtitle={t("border-crossing.subtitle")} description={t("border-crossing.seoDesc")} image="/img/coastal-road.webp">
-      <img src="/img/coastal-road.webp" alt="Road through Montenegro toward border" loading="lazy" />
+    <ContentPage title={t("border-crossing.title")} subtitle={t("border-crossing.subtitle")} description={t("border-crossing.seoDesc")} image="/img/dubrovnik-walls.webp">
+      <img src="/img/dubrovnik-walls.webp" alt="Dubrovnik fortress walls" loading="lazy" />
       <h2>{t('borderCrossingBody.h1')}</h2>
       <p>{t('borderCrossingBody.p1')}</p>
 
@@ -46,7 +46,7 @@ export default function BorderCrossing() {
       <h3>{t('borderCrossingBody.kosovoTitle')}</h3>
       <p>{t('borderCrossingBody.kosovoText')}</p>
 
-      <img src="/img/boka-bay.webp" alt="Adriatic coast from above" loading="lazy" />
+      <img src="/img/mostar-bridge.webp" alt="Stari Most bridge in Mostar" loading="lazy" />
 
       <h2>{t('borderCrossingBody.tipsTitle')}</h2>
       <ul>
