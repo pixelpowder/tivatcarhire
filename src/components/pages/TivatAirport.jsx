@@ -3,7 +3,7 @@ import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 
 export default function TivatAirport() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("tivat-airport.title")} subtitle={t("tivat-airport.subtitle")} description={t("tivat-airport.seoDesc")} image="/img/tivat-airport.webp">
       <img src="/img/tivat-airport.webp" alt="Tivat Airport terminal" loading="lazy" />
@@ -25,7 +25,7 @@ export default function TivatAirport() {
       <img src="/img/boka-bay.webp" alt="Bay of Kotor aerial view" loading="lazy" />
 
       <h2>{t('tivatAirportBody.whyTitle')}</h2>
-      <p>{t('tivatAirportBody.whyText')}</p>
+      <p>{t('tivatAirportBody.whyText')} Within 30 minutes you can be at <a href={localePath('/budva')}>Budva's riviera beaches</a>.</p>
       <p>{t('tivatAirportBody.meetText')}</p>
     </ContentPage>
   );

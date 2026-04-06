@@ -2,7 +2,7 @@
 import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 export default function PodgoricaAirport() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("podgorica-airport.title")} subtitle={t("podgorica-airport.subtitle")} description={t("podgorica-airport.seoDesc")} image="/img/podgorica-airport.webp">
       <img src="/img/podgorica-airport.webp" alt="Podgorica Airport terminal" loading="lazy" />
@@ -27,7 +27,7 @@ export default function PodgoricaAirport() {
       <p>{t('podgoricaAirportBody.awardText')}</p>
 
       <h2>{t('podgoricaAirportBody.rentalTitle')}</h2>
-      <p>{t('podgoricaAirportBody.rentalText')}</p>
+      <p>{t('podgoricaAirportBody.rentalText')} See our <a href={localePath('/montenegro')}>Montenegro road trip guide</a> for route planning.</p>
     </ContentPage>
   );
 }

@@ -2,7 +2,7 @@
 import useTranslation from '../../i18n/useTranslation';
 import ContentPage from '../../ContentPage';
 export default function Montenegro() {
-  const { t } = useTranslation();
+  const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("montenegro.title")} subtitle={t("montenegro.subtitle")} description={t("montenegro.seoDesc")} image="/img/coastal-road.webp">
       <img src="/img/coastal-road.webp" alt="Montenegro coastal driving road" loading="lazy" />
@@ -11,7 +11,7 @@ export default function Montenegro() {
       <p>{t('montenegroBody.p2')}</p>
 
       <h2>{t('montenegroBody.startTitle')}</h2>
-      <p>{t('montenegroBody.startText')}</p>
+      <p>{t('montenegroBody.startText')} Collect at <a href={localePath('/tivat-airport')}>Tivat Airport car hire</a> and start driving immediately.</p>
 
       <h2>{t('montenegroBody.timesTitle')}</h2>
       <p>{t('montenegroBody.timesText1')}</p>
