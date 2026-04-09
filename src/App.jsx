@@ -609,6 +609,92 @@ function Locations() {
   );
 }
 
+/* ─── BLOG CARDS ──────────────────────────────────────── */
+const blogPosts = [
+  { key: 'airport', image: '/img/blog-tivat-airport-first-hour.webp', href: '/blog/tivat-airport-first-hour' },
+  { key: 'porto', image: '/img/blog-porto-montenegro-guide.webp', href: '/blog/porto-montenegro-guide' },
+  { key: 'dubrovnik', image: '/img/blog-tivat-to-dubrovnik-coastal.webp', href: '/blog/tivat-to-dubrovnik-coastal' },
+];
+
+function BlogCards() {
+  const { t, localePath } = useTranslation();
+  return (
+    <section className="section" id="blog">
+      <div className="container">
+        <div className="section-header">
+          <span className="section-label">{t('blogHome.sectionLabel')}</span>
+          <h2 className="section-title">{t('blogHome.sectionTitle')}</h2>
+          <p className="section-subtitle">{t('blogHome.sectionSubtitle')}</p>
+        </div>
+        <div style={{
+          display: 'grid',
+          gridTemplateColumns: 'repeat(auto-fill, minmax(300px, 1fr))',
+          gap: '24px',
+          marginBottom: '32px',
+        }}>
+          {blogPosts.map((post) => (
+            <a
+              key={post.href}
+              href={localePath(post.href)}
+              style={{
+                background: '#fff',
+                borderRadius: '12px',
+                overflow: 'hidden',
+                border: '1px solid var(--gray-200, #e9ecef)',
+                boxShadow: 'var(--shadow-sm)',
+                textDecoration: 'none',
+                color: 'inherit',
+                display: 'flex',
+                flexDirection: 'column',
+                transition: 'box-shadow 0.2s, transform 0.2s',
+              }}
+              onMouseEnter={(e) => {
+                e.currentTarget.style.boxShadow = 'var(--shadow-md)';
+                e.currentTarget.style.transform = 'translateY(-2px)';
+              }}
+              onMouseLeave={(e) => {
+                e.currentTarget.style.boxShadow = 'var(--shadow-sm)';
+                e.currentTarget.style.transform = 'translateY(0)';
+              }}
+            >
+              <img
+                src={post.image}
+                alt={t(`blogIndex.card_${post.key}_title`)}
+                style={{ width: '100%', height: '200px', objectFit: 'cover', display: 'block' }}
+                loading="lazy"
+              />
+              <div style={{ padding: '20px', display: 'flex', flexDirection: 'column', flex: 1 }}>
+                <h3 style={{ fontSize: '17px', fontWeight: 800, color: 'var(--navy, #05203c)', lineHeight: 1.3, marginBottom: '8px' }}>
+                  {t(`blogIndex.card_${post.key}_title`)}
+                </h3>
+                <p style={{ fontSize: '14px', color: 'var(--gray-600, #6c757d)', lineHeight: 1.6, marginBottom: '16px', flex: 1 }}>
+                  {t(`blogIndex.card_${post.key}_excerpt`)}
+                </p>
+                <span style={{ fontSize: '13px', fontWeight: 700, color: 'var(--blue, #0770e3)' }}>
+                  {t('blogIndex.readGuide')} &rarr;
+                </span>
+              </div>
+            </a>
+          ))}
+        </div>
+        <div style={{ textAlign: 'center' }}>
+          <a
+            href={localePath('/blog')}
+            style={{
+              fontSize: '14px',
+              fontWeight: 700,
+              color: 'var(--blue, #0770e3)',
+              textDecoration: 'none',
+            }}
+          >
+            {t('blogHome.viewAll')} &rarr;
+          </a>
+        </div>
+      </div>
+    </section>
+  );
+}
+
 /* ─── FAQ ──────────────────────────────────────────────── */
 function FAQ() {
   const { t } = useTranslation();
@@ -786,6 +872,7 @@ export default function App() {
         <BrandLogos />
         <Destinations />
         <Features />
+        <BlogCards />
         <FAQ />
         <CTABanner />
       </main>

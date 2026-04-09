@@ -2,7 +2,8 @@
   "nav": {
     "book": "Book",
     "destinations": "Destinations",
-    "about": "About"
+    "about": "About",
+    "blog": "Blog"
   },
   "common": {
     "home": "Home",
@@ -563,5 +564,438 @@
     "route3": "TIV to Shkoder (Albania): 3 hr via Ulcinj and the Sukobin coastal crossing. Rozafa Castle, Skadar lakeside, cheap restaurants",
     "route4": "TIV to Belgrade (Serbia): 6–7 hr via E65 north and Dobrakovo crossing. Long drive — break overnight in Kolasin or Uzice",
     "ctaText": "Need a rental car with cross-border documents ready from day one? Search our fleet, select your destination countries at booking, and the Green Card will be in the glovebox when you collect at TIV."
+  },
+
+  "blogHome": {
+    "sectionLabel": "Travel Guides",
+    "sectionTitle": "Discover Tivat by Car",
+    "sectionSubtitle": "Insider routes, local tips, and day-trip ideas from a Tivat local who drives these roads daily.",
+    "viewAll": "View all guides"
+  },
+
+  "blogIndex": {
+    "heroTitle": "Tivat Car Hire Travel Blog",
+    "heroSubtitle": "Practical driving guides, local food stops, and day-trip itineraries written by someone who actually lives here in Tivat.",
+    "breadcrumbBlog": "Blog",
+    "readGuide": "Read guide",
+    "card_airport_title": "Your First Hour After Landing at TIV",
+    "card_airport_excerpt": "From the moment wheels touch tarmac to your first espresso at Porto Montenegro — a step-by-step walkthrough of collecting your car, grabbing a SIM, and navigating out of the smallest big airport on the Adriatic.",
+    "card_porto_title": "Porto Montenegro Beyond the Superyachts",
+    "card_porto_excerpt": "Most visitors snap a photo of the marina and leave. Here is what locals actually do at Porto: the naval heritage museum, the pool club nobody queues for, and where to eat without paying yacht-crew prices.",
+    "card_dubrovnik_title": "Driving Tivat to Dubrovnik Along the Coast",
+    "card_dubrovnik_excerpt": "The coastal route through Herceg Novi with a Verige ferry shortcut, border-queue timing, and the best fuel stop before Croatia. Everything you need for a smooth cross-border day trip.",
+    "card_lustica_title": "The Lustica Peninsula Loop Drive",
+    "card_lustica_excerpt": "A half-day circuit from Tivat through abandoned stone villages, hidden swimming coves, and the new Lustica Bay resort. One of the quietest drives in the whole bay area.",
+    "card_solila_title": "Solila Salt Flats and Birdwatching",
+    "card_solila_excerpt": "A protected wetland five minutes from the airport runway where flamingos stop on migration. Grab binoculars and walk the boardwalk before the tour buses discover this place.",
+    "card_family_title": "Five Family Day Trips from Tivat",
+    "card_family_excerpt": "Kid-tested routes with shallow beaches, ice cream stops, and short driving distances. From Plavi Horizonti cove to the Kotor cat museum, each trip fits inside a single afternoon.",
+    "card_island_title": "Island of Flowers: Prevlaka and Miholjska",
+    "card_island_excerpt": "Two tiny bay islands connected by legend and reachable by car and boat. Monastery ruins, botanical gardens, and a swimming spot that feels like the Mediterranean forgot about it.",
+    "card_grocery_title": "First Grocery Run: Shops, SIMs, and Fuel Near TIV",
+    "card_grocery_excerpt": "Where to buy water, sunscreen, and a local SIM card within ten minutes of picking up your car. Plus the fuel stations, pharmacies, and ATM locations nobody puts in guidebooks.",
+    "card_kotor_title": "Tivat to Kotor: Tunnel vs. Scenic Bay Road",
+    "card_kotor_excerpt": "Two routes to the same walled city — twelve minutes through Vrmac or twenty along the waterfront. Which one to pick, where to stop, and why locals sometimes take both in a day."
+  },
+
+  "blogAirport": {
+    "title": "Your First Hour After Landing at Tivat Airport",
+    "subtitle": "A local's step-by-step guide from touchdown to driving out of the car park.",
+    "description": "Everything that happens between your plane touching down at TIV and pulling out of the car park with your rental. SIM cards, ATMs, fuel, and which direction to turn first.",
+
+    "h2Touchdown": "Touchdown to Terminal Exit",
+    "touchdownP1": "Tivat Airport has a single runway that ends practically at the water's edge of Boka Bay. When your plane lands, you taxi for about ninety seconds before reaching the only terminal building. There are no jet bridges here — you walk down the aircraft stairs onto the tarmac, cross fifteen metres of asphalt, and enter through a pair of glass doors. The entire terminal is smaller than the departures lounge at most European airports, which is exactly why it works so well for car rental passengers.",
+    "touchdownP2": "Once inside, passport control consists of two booths. Montenegrin border officers work efficiently and the queue rarely exceeds ten minutes, even when two flights land within the same half hour. After passport control, you walk straight into the baggage hall. There is one carousel. Your bags will appear on it. The simplicity is almost disorienting if you are used to Heathrow or Frankfurt.",
+
+    "h2Baggage": "Baggage Reclaim and the Exit",
+    "baggageP1": "The baggage hall at TIV has one conveyor belt, a couple of trolleys, and a small customs desk that is almost never staffed for intra-European flights. Bags typically start appearing within five minutes of the last passenger entering the hall. If you packed light and have only carry-on, you will breeze through here in under sixty seconds.",
+    "baggageP2": "Walk past the customs area and through the frosted glass doors. You are now standing outside the terminal. Directly ahead, across a single access road, is the short-stay car park. That is where your rental car is waiting. The total distance from the baggage belt to the car park is roughly forty metres — shorter than the walk from most hotel lobbies to their parking structures.",
+
+    "altTerminal": "Tivat Airport terminal building viewed from the access road",
+
+    "h2Car": "Collecting Your Car",
+    "carP1": "Your rental company agent will be standing in the car park area, usually holding a sign or simply waiting by the vehicle. At TIV there are no rental desks inside the terminal and no shuttle buses to off-site depots — the car is right there. The handover takes about five minutes: sign the contract, check the existing damage sheet together, receive the keys, and adjust your mirrors.",
+    "carP2": "Before you drive off, take sixty seconds to familiarise yourself with the car. Check the fuel gauge, locate the headlight controls, and make sure you know where the hazard warning button is. Montenegrin tunnels require headlights on at all times, and you will hit your first tunnel — Vrmac — within three kilometres of the airport exit if you head toward Kotor.",
+
+    "h2Fuel": "Fuel, SIM Cards, and First Supplies",
+    "fuelP1": "Turn right out of the airport onto the main road and the Jugopetrol station appears after eight hundred metres on your right-hand side. This is the closest fuel stop to TIV and the one locals use before returning rental cars. Fill up here if your tank is below half. Diesel costs slightly less than petrol, and both pumps accept Visa and Mastercard.",
+    "fuelP2": "For a local SIM card, the Telenor and m:tel shops are in Tivat town centre, a three-minute drive from the airport. A tourist prepaid SIM with 10 GB of data costs around five euros and saves you a fortune in roaming charges. For groceries and water, see our",
+    "fuelLink": "grocery essentials guide",
+
+    "h2Directions": "Which Direction to Drive First",
+    "directionsP1": "When you exit the airport car park, you reach a T-junction on the main road. Your options are:",
+    "dirNorthLabel": "Turn left (north):",
+    "dirNorthVal": "Kotor via the Vrmac tunnel in 12 minutes, or take the bay road to Perast in 20 minutes.",
+    "dirSouthLabel": "Turn right (south):",
+    "dirSouthVal": "Budva via Radanovici in 25 minutes. The Vrmac tunnel entrance is 3 km down this road.",
+    "dirStraightLabel": "Straight ahead / slight left:",
+    "dirStraightVal": "Porto Montenegro marina and Tivat waterfront in 3 minutes.",
+
+    "h2Phone": "Getting Phone and Internet Sorted",
+    "phoneP": "Montenegro uses the euro, so ATMs at the airport dispense euros directly. There are two ATMs inside the terminal — one near arrivals and one upstairs in departures. Both accept international Visa and Mastercard. For a local SIM, the Telenor shop on Ulica 21 Novembra in Tivat centre opens at 8 am and sells prepaid tourist packages. If you arrive on a late flight, the Voli supermarket near Porto Montenegro sells basic Telenor SIM kits at the checkout counter.",
+
+    "glanceTitle": "At a Glance",
+    "glanceWalk": "Terminal to car:",
+    "glanceWalkVal": "40 metres, 2 minutes",
+    "glanceFuel": "Nearest fuel:",
+    "glanceFuelVal": "Jugopetrol, 800 m right from airport exit",
+    "glanceSim": "SIM card:",
+    "glanceSimVal": "Telenor shop in Tivat centre, 3 min drive",
+    "glanceAtm": "ATMs:",
+    "glanceAtmVal": "2 inside terminal, euros dispensed"
+  },
+
+  "blogPorto": {
+    "title": "Porto Montenegro Beyond the Superyachts",
+    "subtitle": "The parts of Tivat's marina village that do not appear on Instagram.",
+    "description": "A local's guide to Porto Montenegro covering the naval heritage museum, affordable restaurants, the pool club, and evening walks that most visitors miss entirely.",
+
+    "h2Beyond": "More Than a Marina",
+    "beyondP1": "Porto Montenegro occupies the grounds of the old Yugoslav naval arsenal, and walking through the complex you can still feel that military geometry underneath the polished stone and glass. The dry docks where submarines were serviced are now art galleries. The ammunition warehouses store boutique clothing. The torpedo testing pier is a cocktail bar. It is a strange, compelling transformation — and most visitors only see the superyacht berths at the waterfront.",
+    "beyondP2": "Locals from Tivat use Porto differently than tourists. We come for the pool club on weekday mornings when it is half empty, eat at the pizza place behind the Regent hotel where prices are a third of the waterfront restaurants, and walk the entire perimeter road in the evening when the stone retains the day's warmth and the bay turns copper. If you want to experience Porto the way residents do, skip the front row and explore the back streets.",
+
+    "h2Naval": "The Naval Heritage Collection",
+    "navalP1": "Tucked behind the main promenade, the naval heritage museum occupies one of the original arsenal buildings and tells the story of Boka Bay's thousand-year relationship with the sea. The collection includes naval charts, ship models, uniforms from the Austro-Hungarian fleet, and photographs of the Yugoslav submarine programme that operated from this exact location until the 1990s.",
+    "navalP2": "Entry is free and the exhibition takes about forty minutes. The room dedicated to Boka's fraternity of seafarers — a maritime guild that predates Venice's naval academy — is particularly fascinating. Most tourists walk straight past the entrance because it does not look like a museum from the outside. That is part of its appeal.",
+
+    "altMarina": "Porto Montenegro marina with mountains behind at sunset",
+
+    "h2Food": "Where to Eat Without Yacht-Crew Prices",
+    "foodP1": "The waterfront restaurants at Porto charge premium prices because they face the superyachts. Walk one block inland and the economics change completely. The pizzeria behind the Regent does proper Neapolitan-style pizza for seven euros. The bakery at the north gate sells burek and spinach pies from six in the morning. The Voli supermarket deli counter, a five-minute walk from the marina, makes fresh sandwiches for under three euros.",
+    "foodP2": "For a proper sit-down meal, drive five minutes to Tivat's waterfront promenade outside Porto. The restaurants along the Stari Grad (old town) section serve fresh fish from the bay — grilled brancin or orada — at roughly half the price of anything inside the marina gates. Locals eat here regularly; tourists rarely venture beyond Porto's perimeter.",
+
+    "h2Pool": "The Pool Club and Beach Day",
+    "poolP": "Porto Montenegro's Lido pool club is open to day visitors for a fee that includes a lounger, towel, and access to the pool and bar. In July and August it fills by midday, but visit on a weekday morning in June or September and you may have an entire section to yourself. If you want a proper beach instead, drive ten minutes south to Plavi Horizonti on the Lustica road — read more in our",
+    "poolLink": "Lustica Peninsula guide",
+
+    "h2Evening": "Evening Walks and Sunsets",
+    "eveningP1": "The best time to visit Porto is between six and eight in the evening. The day-trippers have left, the restaurant terraces fill with the smell of grilling fish, and the light on the mountains across the bay shifts from white to gold. Walk the full perimeter road — it takes about twenty minutes and passes the yacht club, the Regent beach, and the old dry docks where you can still see the submarine rails embedded in the concrete.",
+    "eveningP2": "At the southern end of the promenade, a stone breakwater extends into the bay. Locals sit on the rocks here with bottles of Vranac wine and watch the sun drop behind the Orjen mountain range. On clear evenings, the silhouette of Herceg Novi is visible across the water. There is no entrance fee, no reservation, and no queue. Just show up with something to drink and somewhere to sit.",
+
+    "h2Getting": "Getting There from TIV",
+    "gettingP": "Porto Montenegro is a three-minute drive from Tivat Airport — turn left out of the car park, take the first roundabout straight ahead, and the marina gates appear on your left. Parking inside Porto is paid and limited in summer; the free lot on the north side of the access road is a two-minute walk from the main promenade. You can also walk from the airport terminal in fifteen minutes along the pavement.",
+
+    "glanceTitle": "At a Glance",
+    "glanceDistance": "From TIV:",
+    "glanceDistanceVal": "3 min drive, 15 min walk",
+    "glanceParking": "Parking:",
+    "glanceParkingVal": "Paid inside marina, free lot north side",
+    "glanceEntry": "Naval museum:",
+    "glanceEntryVal": "Free entry, 40 min visit",
+    "glanceBest": "Best time:",
+    "glanceBestVal": "Evening, 6–8 pm for sunset walks"
+  },
+
+  "blogDubrovnik": {
+    "title": "Driving Tivat to Dubrovnik Along the Coast",
+    "subtitle": "The full route with ferry shortcut, border timing, and fuel stops.",
+    "description": "A practical driving guide from TIV airport to Dubrovnik's walls — Verige ferry, Herceg Novi coast road, Debeli Brijeg border crossing, and tips for avoiding the queue.",
+
+    "h2Overview": "Why Drive Instead of Fly",
+    "overviewP1": "Dubrovnik sits ninety minutes from Tivat by car if you time the border crossing right. That makes it the easiest international day trip from anywhere on the Bay of Kotor. The drive follows the coast almost the entire way — bay road to the Verige ferry, through Herceg Novi along the waterfront, past Igalo, and up to the Croatian border at Debeli Brijeg. After the checkpoint, the road hugs the Adriatic shore into Dubrovnik.",
+    "overviewP2": "Flying between the two cities makes no sense unless you are already connecting through a hub. The airports are too close together and the road is too scenic to justify a transfer to either terminal. Drive, and you get the journey as well as the destination — limestone cliffs, fishing villages, and the open Adriatic appearing at the bay mouth as you round the last headland before Herceg Novi.",
+
+    "h2Ferry": "The Verige Ferry Shortcut",
+    "ferryP1": "The Verige ferry crosses the narrowest point of Boka Bay between Kamenari and Lepetane. The crossing takes five minutes. Ferries run every fifteen minutes in summer and every thirty minutes in winter. The cost is approximately five euros per car, cash only — no cards accepted on board. This shortcut saves you thirty-plus minutes versus driving the full length of the bay road through Risan and Perast to reach Herceg Novi.",
+    "ferryP2": "From TIV, drive north along the bay road past Muo and Prcanj until you reach the Lepetane ferry landing. Queue times are usually under ten minutes except on Friday evenings and Sunday afternoons in July and August when returning day-trippers clog the route. If you hit a long queue, the wait is still shorter than the alternative drive around the entire bay.",
+
+    "altCoast": "Adriatic coastline between Herceg Novi and Dubrovnik",
+
+    "h2HercegNovi": "Through Herceg Novi",
+    "hnP1": "After the ferry docks at Kamenari, drive fifteen minutes along the northern bay shore to Herceg Novi. The road winds through Bijela and Djenovici — small waterfront settlements where fishermen still repair nets on the quay. Herceg Novi itself stacks up a steep hillside above the bay entrance, its fortress walls visible from the road. You do not need to stop here on the way to Dubrovnik, but the town makes an excellent lunch break on the return trip.",
+    "hnP2": "Continue through Herceg Novi on the main E65, passing Igalo's spa hotels and the long promenade beach. The road climbs out of town through pine forest and olive groves. The Croatian border at Debeli Brijeg appears ten minutes after leaving Herceg Novi's last traffic light.",
+
+    "h2Border": "The Debeli Brijeg Border Crossing",
+    "borderP1": "This is the only coastal crossing between Montenegro and Croatia. Both countries process passports at the same stop — you clear Montenegrin exit and Croatian entry without leaving your car. Have your passport, rental contract, and Green Card insurance certificate in hand before you reach the booth. For full document details, see our",
+    "borderLink": "border crossing guide",
+    "borderP2": "Timing matters enormously. Between 10 am and 4 pm in July and August, queues can stretch to ninety minutes. Cross before 8 am or after 8 pm and you will wait under fifteen minutes. Weekday mornings are the fastest. Sunday afternoons — when day-trippers return from Dubrovnik — are the absolute worst. Plan your departure time around the border, not around the sightseeing.",
+
+    "h2Arrival": "Arriving in Dubrovnik",
+    "arrivalP1": "After the border, the Croatian coastal road follows the Adriatic south for thirty minutes to Dubrovnik. The drive passes through Cavtat — a pleasant harbour town worth a stop if you have time — before climbing to the ridge above Dubrovnik where the entire walled city appears below you. It is one of the great arrivals in European driving.",
+    "arrivalP2": "Parking in Dubrovnik is limited and expensive. The underground car park at Ilijina Glavica near Pile Gate is the most convenient — roughly four euros per hour. The open lot above the cable car station is cheaper but requires a twenty-minute walk downhill to the Old Town. Do not attempt to drive into the old town itself — pedestrian only, heavily policed, and the lanes are too narrow for anything wider than a wheelbarrow.",
+
+    "h2Tips": "Practical Tips",
+    "tipDocLabel": "Documents:",
+    "tipDocVal": "Passport, rental contract, Green Card. Have them in the door pocket, not the boot.",
+    "tipTimeLabel": "Best crossing time:",
+    "tipTimeVal": "Before 8 am or after 8 pm. Weekdays beat weekends.",
+    "tipFuelLabel": "Fuel:",
+    "tipFuelVal": "Fill up in Herceg Novi. Croatian fuel is slightly more expensive.",
+    "tipParkLabel": "Parking in Dubrovnik:",
+    "tipParkVal": "Ilijina Glavica underground or the cable car lot above the Old Town.",
+
+    "glanceTitle": "At a Glance",
+    "glanceDistance": "Total distance:",
+    "glanceDistanceVal": "95 km from TIV",
+    "glanceDrive": "Drive time:",
+    "glanceDriveVal": "90 min (with ferry, excluding border wait)",
+    "glanceFerry": "Verige ferry:",
+    "glanceFerryVal": "5 min crossing, ~5 EUR cash only",
+    "glanceBorder": "Border wait:",
+    "glanceBorderVal": "5–90 min depending on time of day"
+  },
+
+  "blogLustica": {
+    "title": "The Lustica Peninsula Loop Drive",
+    "subtitle": "Stone villages, hidden coves, and one of the bay's quietest roads.",
+    "description": "A half-day driving loop from Tivat through Lustica peninsula — abandoned hamlets, Zanjice beach, Miriste cove, the new Lustica Bay resort, and practical tips for narrow roads.",
+
+    "h2Why": "Why Lustica Feels Different",
+    "whyP1": "Lustica is the mountainous arm that forms the southern shore of Boka Bay, and it feels like a different country from the busy waterfront towns on the opposite side. The peninsula has no through-traffic because the road dead-ends at the tip. That means almost nobody drives here unless they are going to a specific beach or the Lustica Bay resort. The result is empty roads, abandoned stone villages reclaimed by fig trees and wild sage, and swimming coves where you might be the only person in the water.",
+    "whyP2": "From Tivat, the loop takes about three hours if you stop at two or three beaches and poke around one of the ghost villages. You do not need a four-wheel-drive vehicle — the main road is paved throughout — but some of the tracks down to smaller beaches are gravel and potholed. A standard hatchback handles everything on the main route comfortably.",
+
+    "h2Route": "The Route from Tivat",
+    "routeP1": "Leave Tivat heading south past the airport. After two kilometres, take the left fork signposted for Krasici and Lustica. The road immediately narrows and begins climbing through olive groves and dry-stone-walled fields. Views of the bay open up on your right as you gain elevation — Kotor's mountains across the water, the ferry route below, container ships moving slowly toward the open sea.",
+    "routeP2": "Continue through Krasici and Radovici. At Radovici, the road forks again: left toward Zanjice and the peninsula tip, right toward Lustica Bay resort. Take the left fork first for the wildest part of the drive. The road winds through hamlets where most houses have been empty for decades — stone walls with collapsed roofs, courtyard wells choked with brambles, the occasional restored cottage with a new terrace and bougainvillea.",
+
+    "h2Beaches": "Three Beaches Worth the Drive",
+    "beachesP1": "Lustica's coastline faces the open Adriatic rather than the sheltered bay, so the water is clearer and the waves are bigger. Three spots stand out:",
+    "beachZanjiceLabel": "Zanjice:",
+    "beachZanjiceVal": "The most popular beach on the peninsula. White pebbles, transparent water, a couple of beach bars, and a small car park. Arrive before 10 am in summer to claim a spot.",
+    "beachMiristLabel": "Miriste:",
+    "beachMiristVal": "A five-minute walk south from Zanjice along a rocky path. Much quieter, no facilities, surrounded by pine trees that provide natural shade. Bring water and a towel.",
+    "beachDobreLabel": "Dobre Vode:",
+    "beachDobreVal": "A tiny cove accessible via a steep gravel track near Krasici. Not signposted — ask at any local cafe and they will point you to the turnoff. Rocky entry into the water, but the swimming is excellent.",
+
+    "altBeach": "Lustica peninsula coastline with clear Adriatic water",
+
+    "h2Villages": "Ghost Villages and Olive Groves",
+    "villagesP1": "The interior of Lustica was once densely settled by farming families who grew olives, almonds, and grapes on terraced hillsides. When the Yugoslav economy industrialised after the war, most families moved to Tivat or Herceg Novi for factory work. The villages emptied over two generations and now sit in various states of photogenic collapse. Klinci, Mrkovi, and Brguli are the most accessible — park on the road and walk in.",
+    "villagesP2": "Some villages are being slowly restored as weekend houses or agritourism ventures. If you see an open gate and an occupied terrace, it is usually fine to ask for directions or a glass of water. The locals who remain are proud of these places and happy to talk about them. After exploring, loop back to Tivat via the Lustica Bay resort road for a coffee at one of the waterfront cafes. For more on the area, see our",
+    "villagesLink": "Porto Montenegro guide",
+
+    "h2Resort": "Lustica Bay: The New Development",
+    "resortP1": "At the eastern end of the peninsula, the Lustica Bay resort complex is transforming a stretch of coastline into a planned community with a marina, the Chedi hotel, a golf course, managed beaches, and residential villas. The development is still expanding but the infrastructure that exists is polished and well-maintained. Non-residents can visit the beach clubs, restaurants, and the golf course for a fee.",
+    "resortP2": "The contrast between the abandoned stone villages in Lustica's interior and the glass-and-steel resort at its edge is striking. Both are worth seeing on the same drive. The resort's beach club makes a comfortable lunch stop before heading back to Tivat — the grilled calamari is good and the loungers face the open bay with Mamula island fortress visible in the distance.",
+
+    "h2Practical": "Practical Notes",
+    "practicalP": "Fuel up in Tivat before starting the loop — there are no petrol stations on the peninsula. Mobile phone signal drops in the interior valleys, so download offline maps before you set off. The main peninsula road is two lanes but some sections narrow to single-track with passing places. If you meet an oncoming car on a narrow stretch, the driver heading downhill typically reverses to let the uphill driver pass. Take it slowly and enjoy the emptiness.",
+
+    "glanceTitle": "At a Glance",
+    "glanceLoop": "Loop distance:",
+    "glanceLoopVal": "~45 km round trip from Tivat",
+    "glanceDrive": "Drive time:",
+    "glanceDriveVal": "2–3 hours with beach stops",
+    "glanceRoad": "Road surface:",
+    "glanceRoadVal": "Paved main road, gravel to some beaches",
+    "glanceFuel": "Fuel:",
+    "glanceFuelVal": "None on the peninsula — fill up in Tivat"
+  },
+
+  "blogSolila": {
+    "title": "Solila Salt Flats and Birdwatching in Tivat",
+    "subtitle": "A protected wetland five minutes from the airport runway.",
+    "description": "Solila nature reserve sits between Tivat Airport and Porto Montenegro. Flamingos, herons, and over 100 bird species visit this salt flat wetland — a hidden gem for birdwatchers and photographers.",
+
+    "h2What": "What Is Solila",
+    "whatP1": "Solila is a 150-hectare saltwater wetland wedged between Tivat Airport's southern perimeter and the road to Porto Montenegro. Until the mid-twentieth century, it was a working salt pan — locals harvested sea salt here for centuries. When industrial salt production moved elsewhere, the pans flooded naturally and became one of Montenegro's most important bird habitats. The site was declared a protected nature reserve in 2008.",
+    "whatP2": "From the airport car park, you can reach the Solila boardwalk in a five-minute drive or a fifteen-minute walk along the roadside path. It is the kind of place you can visit for thirty minutes between picking up your car and heading to your hotel — or spend half a day with binoculars and a camera if ornithology is your thing.",
+
+    "h2Birds": "The Birds",
+    "birdsP1": "Over one hundred bird species have been recorded at Solila, making it one of the richest wetland sites on the eastern Adriatic coast. The most dramatic visitors are the greater flamingos that stop here during spring and autumn migration. Seeing a flock of pink flamingos with Tivat Airport's control tower in the background is one of the more surreal sights in Montenegro. They typically arrive in March and again in October, staying for a few weeks before continuing south to Greece or north to the Camargue.",
+    "birdsP2": "Year-round residents include grey herons, little egrets, cormorants, and several species of sandpiper. In winter, the salt flats attract wigeon, teal, and shoveler ducks. Spring brings avocets and black-winged stilts that breed in the shallow pools. Bring binoculars — the boardwalk keeps you at a respectful distance from the nesting areas, and many of the smaller waders are difficult to identify without magnification.",
+
+    "altSaltpan": "Solila salt flats with wading birds and Boka Bay mountains behind",
+
+    "h2Walk": "The Boardwalk Route",
+    "walkP1": "A raised wooden boardwalk runs along the eastern edge of the reserve for approximately one kilometre. Interpretive panels in Montenegrin and English identify the bird species you are most likely to spot in each season. The boardwalk is flat, wheelchair-accessible, and shaded by occasional tamarisk trees. It takes fifteen to twenty minutes at a steady pace, longer if you stop to photograph birds at each viewing platform.",
+    "walkP2": "The trail connects to a gravel path that continues south toward the Tivat waterfront promenade. If you walk the full route — boardwalk plus promenade — you end up at Porto Montenegro in about forty minutes. It makes a pleasant morning walk before the heat builds, and you pass through a landscape that shifts from wetland to urban marina in under two kilometres.",
+
+    "h2Seasons": "When to Visit",
+    "seasonsP1": "Each season offers something different. Spring (March to May) brings nesting activity, migrating flamingos, and wildflowers along the boardwalk. Summer is quieter for birds but the evening light on the salt flats is extraordinary for photography. Autumn migration (September to November) is the second flamingo window. Winter brings overwintering ducks and the lowest visitor numbers — you may have the entire reserve to yourself. For more nature around Tivat, see the",
+    "seasonsLink": "Island of Flowers guide",
+    "seasonsP2": "Early morning and late afternoon are the best times regardless of season. Birds are most active at dawn and dusk, and the low-angle light makes the shallow water glow gold. Midday heat drives most species into shade or deeper water where they are harder to spot.",
+
+    "h2Photography": "Photography Tips",
+    "photoP": "The boardwalk faces east, which means morning light hits the birds directly and afternoon light comes from behind you — both are usable, but sunrise produces the warmest colours on the salt pans. A 200mm lens is the minimum for identifiable bird shots from the boardwalk; 400mm is better. The tamarisk trees along the path attract warblers and finches that are easier to photograph at close range. Tripods are allowed on the boardwalk but the wooden decking vibrates when other visitors walk past, so a monopod or handheld stabilisation works better.",
+
+    "h2Practical": "Getting There and Practicalities",
+    "practicalP": "From TIV airport, exit the car park and turn right. After 400 metres, look for the brown Solila nature reserve sign on the left. A small unpaved parking area holds six to eight cars. There are no entrance fees, no opening hours, and no facilities — bring water, sunscreen, and mosquito repellent in summer. The reserve is managed by the Tivat municipality's environmental office, and volunteer clean-up days happen twice a year if you want to contribute.",
+
+    "glanceTitle": "At a Glance",
+    "glanceArea": "Reserve size:",
+    "glanceAreaVal": "150 hectares of protected saltwater wetland",
+    "glanceSpecies": "Bird species:",
+    "glanceSpeciesVal": "100+ recorded, including greater flamingo",
+    "glanceEntry": "Entry fee:",
+    "glanceEntryVal": "Free, open year-round",
+    "glanceBest": "Best for birds:",
+    "glanceBestVal": "March–May (spring migration) and Sept–Nov (autumn migration)"
+  },
+
+  "blogFamily": {
+    "title": "Five Family Day Trips from Tivat",
+    "subtitle": "Short drives, shallow beaches, and ice cream stops that keep everyone happy.",
+    "description": "Five tested family day trips from Tivat — Plavi Horizonti beach, Kotor cats, Perast boat ride, Budva Old Town, and Lustica Bay pool club. Each route fits inside a single afternoon.",
+
+    "h2Intro": "Planning Around Small Passengers",
+    "introP": "Tivat is one of the best bases in Montenegro for families with young children. The airport is tiny, the car park is steps from the terminal, and every destination on this list is under thirty minutes of driving. That matters when you have a car seat and a toddler who naps at unpredictable intervals. We have tested each of these trips with our own kids and calibrated them for the attention span of a five-year-old: short drives, guaranteed swimming, at least one ice cream opportunity, and enough novelty to keep the journey interesting without anyone melting down in the back seat.",
+
+    "h2Trip1": "Trip One: Plavi Horizonti Beach",
+    "trip1Name": "Plavi Horizonti (Blue Horizons) — Lustica Road",
+    "trip1P1": "This is the family beach near Tivat. A shallow, sandy cove on the Lustica road, fifteen minutes south of the airport. The water stays knee-deep for twenty metres from shore, making it safe for toddlers and non-swimmers. A beach bar serves food and drinks, loungers are available for rent, and parking is in a shaded lot behind the beach. There are proper toilet facilities — a rarity on Montenegrin beaches.",
+    "trip1P2": "Arrive before 10 am in summer to claim a spot under the pine trees at the south end of the beach. The natural shade here means you can stay all day without baking. The water is warmer than the open Adriatic because the cove is sheltered from currents. Bring snorkelling masks — the rocky edges of the bay have small fish that kids love spotting.",
+
+    "h2Trip2": "Trip Two: Kotor Old Town and the Cat Museum",
+    "trip2Name": "Kotor — Through the Vrmac Tunnel",
+    "trip2P1": "Drive twelve minutes through the Vrmac tunnel and park at the Tabacina car park near Kotor's north wall. The Old Town is entirely pedestrianised, so pushchairs work on the smooth stone streets. Head for the main square first — the ice cream shop on the corner sells excellent stracciatella — then find the Cats of Kotor museum near the north gate. It is a small, quirky exhibition about the town's famous stray cats, with cat-themed souvenirs that children go wild for.",
+    "trip2P2": "If your kids have energy to burn, the fortress hike starts from the north-east corner of the Old Town. The first section — about two hundred steps — reaches a church with bay views and makes a good turnaround point for young legs. The full 1,350-step climb to the top is better suited to children over eight. Bring water bottles — there are no shops once you start ascending.",
+
+    "h2Trip3": "Trip Three: Perast Boat Ride",
+    "trip3Name": "Perast — Island Boat Trip",
+    "trip3P1": "Perast sits twenty minutes north of Tivat on the bay road. The village's single waterfront street is traffic-free and lined with cafes where you can sit and watch the bay while kids run on the quay. The main attraction for families is the five-minute taxi boat ride to Our Lady of the Rocks island — a tiny man-made island with a church, a small museum, and enough novelty to fascinate children for thirty minutes. Boats leave every fifteen minutes and cost roughly five euros return. For the scenic drive there, see our",
+    "trip3Link": "Tivat to Kotor scenic route guide",
+    "trip3P2": "After the island visit, walk north along Perast's waterfront to the ice cream kiosk near the bell tower. The pistachio flavour is the local favourite. If your kids are still engaged, the Perast Museum in the Bujovic Palace has model ships and naval instruments — manageable for a twenty-minute visit without triggering museum fatigue.",
+
+    "h2Trip4": "Trip Four: Budva Old Town and Mogren Beach",
+    "trip4Name": "Budva — Walled Old Town and Cliff Beach",
+    "trip4P1": "Budva is twenty-five minutes south of Tivat through the Vrmac tunnel. Park in the underground car park near the Old Town walls. The walled peninsula is compact enough for small children to walk comfortably, and the cobblestone streets open onto tiny squares with fountains and sleeping cats. The Citadela at the south tip has low walls that kids can peer over to see the sea crashing below.",
+    "trip4P2": "From the Citadela, follow the path cut into the cliff face north to Mogren beach — two sandy coves connected by a short tunnel carved through the rock. The tunnel is the highlight for most children. The beach has lounger rental, a simple food kiosk, and lifeguards in summer. Water depth increases gradually, making it suitable for confident paddlers. Walk back to the car park via the Old Town for a gelato at one of the piazza shops.",
+
+    "h2Trip5": "Trip Five: Lustica Bay Pool and Beach Club",
+    "trip5Name": "Lustica Bay Resort — Pool Day",
+    "trip5P1": "The Lustica Bay resort complex, ten minutes south of Tivat on the peninsula road, has a pool club and managed beach open to non-residents for a day fee. The pool has a separate children's section with shallow water, and the beach below has kayak rental and paddleboard hire. Staff speak English, the changing rooms are clean, and food is served to your lounger.",
+    "trip5P2": "This is the most relaxing option on the list — parents can read a book while kids exhaust themselves in the pool. The resort also runs a small adventure playground near the hotel entrance. Day passes sell out on peak summer weekends, so book online the evening before. Drive time from TIV is about twelve minutes, and the resort car park is free for day visitors.",
+
+    "h2Packing": "What to Pack for Every Trip",
+    "packSunLabel": "Sun protection:",
+    "packSunVal": "SPF 50, hats, UV swim shirts. Mediterranean sun is fierce from 11 am to 3 pm.",
+    "packWaterLabel": "Water:",
+    "packWaterVal": "One litre per person minimum. Refill at cafe taps — Montenegrin tap water is safe.",
+    "packShoesLabel": "Shoes:",
+    "packShoesVal": "Water shoes for pebbly beaches, trainers for Kotor fortress steps.",
+    "packSnackLabel": "Snacks:",
+    "packSnackVal": "Voli supermarket near Porto Montenegro has everything. Buy before you leave Tivat."
+  },
+
+  "blogIsland": {
+    "title": "Island of Flowers: Prevlaka and the Miholjska Churches",
+    "subtitle": "Bay islands with monastery ruins, botanical gardens, and hidden swimming coves.",
+    "description": "A guide to visiting Prevlaka peninsula and Sveti Marko island near Tivat — ancient monastery ruins, Mediterranean gardens, and quiet swimming spots away from the crowds.",
+
+    "h2What": "Two Islands, Two Stories",
+    "whatP1": "Tivat sits at the mouth of a shallow bay dotted with small islands, and two of them — Prevlaka (also called Ostrvo Cvijeca, the Island of Flowers) and the peninsula that leads to the ruins of Sveti Mihajlo monastery — are accessible by car and on foot. These are not tropical islands with white sand; they are rocky Adriatic outcrops covered in Mediterranean pines, wild herbs, and the crumbling walls of medieval churches. Their appeal lies in the quiet, the history, and the swimming.",
+    "whatP2": "Prevlaka sits at the tip of a narrow spit of land extending south from Tivat's waterfront. You can drive to within a hundred metres of the monastery ruins and walk the rest. The peninsula was once a genuine island, connected to the mainland by a causeway built in the nineteenth century. The name Ostrvo Cvijeca (Island of Flowers) comes from the Mediterranean botanical garden that covered the grounds — remnants of which still bloom between the stone walls.",
+
+    "h2Getting": "Getting There",
+    "gettingP1": "From Tivat centre, drive south along the waterfront road past the ferry pier. After 2.5 kilometres, the road narrows to a single lane and crosses the old causeway onto Prevlaka. A small car park at the end of the road holds about fifteen vehicles. In summer, arrive before 9 am or after 5 pm to find a space — there is no overflow lot and turning around on the narrow spit is awkward.",
+    "gettingP2": "The drive from TIV airport takes about eight minutes. Turn left from the airport, follow the waterfront through Tivat, and continue south past the ferry terminal. The route is flat and straightforward. No tolls, no tunnels, no mountain roads — just a pleasant seaside drive with the bay on your left.",
+
+    "h2Gardens": "The Botanical Gardens",
+    "gardensP1": "The original garden was planted in the nineteenth century by the Buca noble family, who introduced exotic Mediterranean species to the naturally occurring pine and olive groves. Palms, agave, oleander, and jasmine still grow among the ruins, and the air smells intensely of rosemary and sage on warm afternoons. It is not a maintained botanical garden in the modern sense — nobody trims the hedges or labels the species — but the wild overgrowth has a beauty of its own.",
+    "gardensP2": "Walking through the garden paths takes about thirty minutes. The trails are unpaved earth and stone, manageable in sandals but easier in trainers. Some paths lead to small rocky swimming platforms on the south-facing shore where the water is clear and deep. Bring a towel and swim shoes — the entry is over smooth rocks, not sand.",
+
+    "altIsland": "Prevlaka peninsula with monastery ruins and pine trees",
+
+    "h2Walk": "The Monastery Walk",
+    "walkP1": "The ruins of the Sveti Mihajlo (St. Michael the Archangel) monastery sit at the highest point of the peninsula, surrounded by cypress trees. The original church dates to the tenth century, making it one of the oldest religious sites in Boka Bay. Archaeologists have been excavating here intermittently for decades, and you can see exposed foundation walls, column fragments, and carved stone lintels. The site is unfenced and unattended — walk in and explore freely. For another nature walk near Tivat, see our",
+    "walkLink": "Solila birdwatching guide",
+    "walkP2": "The monastery's location was strategic — it commanded views of the entire bay entrance and the open Adriatic beyond. Stand at the south wall and you can see Lustica peninsula to the left, the Mamula island fortress straight ahead, and the mountains of Herceg Novi across the water to the right. On clear days, the Croatian coast is visible in the distance. It is one of the best viewpoints in Tivat that does not require climbing a mountain.",
+
+    "h2History": "A Brief History",
+    "historyP1": "Prevlaka has been continuously occupied since at least the ninth century. The Benedictine order established the first monastery here, which was destroyed and rebuilt multiple times during Ottoman raids, Venetian rule, and Napoleonic occupation. At its peak, the monastery operated a scriptorium that produced illuminated manuscripts for churches across the bay. Some of these manuscripts survive in the Kotor Maritime Museum.",
+    "historyP2": "In the twentieth century, the Yugoslav government converted the peninsula into a public park and recreational area, planting additional trees and building the causeway that connects it to the mainland. The monastery ruins were partially excavated in the 1960s and again in the 2000s. Today, the site is managed by the Tivat municipality as a cultural heritage area, though signage and facilities remain minimal.",
+
+    "h2Practical": "Practical Notes",
+    "practicalP": "There are no shops, cafes, or toilet facilities on Prevlaka — bring everything you need. The swimming spots have no lifeguards. Shade is plentiful under the pines but direct sun hits the south-facing rocks hard in summer. Mosquitoes appear in the evening near the causeway where standing water collects. The site is free to enter, open year-round, and never crowded — even in August, you are unlikely to share the monastery ruins with more than a handful of other visitors.",
+
+    "glanceTitle": "At a Glance",
+    "glanceDrive": "From TIV:",
+    "glanceDriveVal": "8 min drive, 2.5 km from Tivat centre",
+    "glanceEntry": "Entry:",
+    "glanceEntryVal": "Free, open year-round, no opening hours",
+    "glanceTime": "Visit duration:",
+    "glanceTimeVal": "1–2 hours including swimming",
+    "glanceParking": "Parking:",
+    "glanceParkingVal": "Small lot at end of road, ~15 spaces"
+  },
+
+  "blogGrocery": {
+    "title": "First Grocery Run: Shops, SIMs, and Fuel Near TIV",
+    "subtitle": "Where to stock up within ten minutes of collecting your car.",
+    "description": "A practical guide to supermarkets, SIM card shops, fuel stations, pharmacies, and ATMs near Tivat Airport — everything you need before heading to your accommodation.",
+
+    "h2Why": "Why Your First Stop Should Be a Supermarket",
+    "whyP1": "Montenegro hotel rooms rarely come with a stocked fridge, and apartment rentals assume you will buy your own supplies. Water, coffee, bread, and sunscreen are not provided. Your first fifteen minutes with the rental car are best spent at a supermarket near the airport before driving to wherever you are staying. This saves you from arriving at a rural villa at sunset and discovering that the nearest shop is a thirty-minute drive back toward Tivat.",
+    "whyP2": "Montenegrin supermarkets carry everything a European traveller expects — cold drinks, fresh fruit, dairy, bread, toiletries, cleaning supplies, and basic pharmacy items. Prices are lower than Croatia or Italy, and the selection at the larger stores is comparable to a mid-size Lidl or Tesco Express. Credit cards are accepted everywhere in Tivat; cash is only necessary for small roadside stalls and the Verige ferry.",
+
+    "h2Supermarkets": "The Three Supermarkets Near TIV",
+    "superP1": "All three of these stores are within a ten-minute drive of the airport:",
+    "shopVoliLabel": "Voli:",
+    "shopVoliVal": "The largest chain in Montenegro. The Tivat branch sits on the main road near Porto Montenegro, three minutes from the airport. Full grocery range, deli counter with fresh sandwiches, bakery section, and a surprisingly good wine aisle featuring Montenegrin Vranac and Krstac. Open 7 am to 10 pm daily.",
+    "shopHDLLabel": "HDL:",
+    "shopHDLVal": "A discount chain with lower prices than Voli. The Tivat branch is on the road toward Kotor, five minutes from TIV. Good for bulk water, snacks, and cleaning products. Less fresh food variety than Voli but everything is cheaper.",
+    "shopPijacaLabel": "Tivat Pijaca (market):",
+    "shopPijacaVal": "The outdoor green market in Tivat centre. Open mornings daily except Sunday. Local farmers sell tomatoes, peppers, figs, honey, olives, and homemade cheese. Cash only. This is where you buy the ingredients for a proper Montenegrin breakfast on your balcony.",
+
+    "altShop": "Fresh produce at Tivat green market",
+
+    "h2Fuel": "Fuel Stations",
+    "fuelP1": "Two fuel stations serve the Tivat area. Jugopetrol sits 800 metres to the right as you exit the airport onto the main road — this is the closest and the one most rental car companies expect you to use for return fill-ups. A second Petrol station is in Radanovici on the Budva road, about ten minutes south. Both accept Visa and Mastercard, and both sell diesel, unleaded petrol, and LPG.",
+    "fuelP2": "Fill up before heading inland or to the Lustica peninsula, where there are no stations at all. If you are driving to Dubrovnik, fuel in Herceg Novi is cheaper than in Croatia. For more on the airport and first-hour logistics, see our",
+    "fuelLink": "airport first hour guide",
+
+    "h2Sim": "SIM Cards and Mobile Data",
+    "simP1": "Roaming charges within the EU do not apply in Montenegro — it is not a member state. If you have a European SIM, check your provider's Montenegro rate before landing. Most UK and EU plans charge between two and six euros per megabyte without an add-on, which drains a budget quickly when using navigation apps. A local prepaid SIM is the smart move.",
+    "simP2": "The Telenor shop on Ulica 21 Novembra in Tivat centre sells tourist SIM kits for around five euros with 10 GB of data. The m:tel shop is two doors down and offers a similar deal. Both stores open at 8 am on weekdays and 9 am on Saturdays. If you arrive on a Sunday or late evening flight, the Voli supermarket checkout counter sells basic Telenor SIM starter packs — ask at the till.",
+
+    "h2Pharmacy": "Pharmacies and Medical Supplies",
+    "pharmacyP": "The main pharmacy in Tivat is on the corner of Ulica 21 Novembra and Ulica Marsala Tita, a five-minute drive from the airport. It stocks sunscreen, insect repellent, antihistamines, basic first aid supplies, and prescription medications with a valid European prescription. A second pharmacy operates inside the medical centre on Ulica Nikole Djurkovica, open weekday mornings. For out-of-hours emergencies, the Kotor hospital pharmacy operates 24 hours — twelve minutes through the Vrmac tunnel.",
+
+    "h2Tips": "Quick Tips",
+    "tipCashLabel": "Cash or card:",
+    "tipCashVal": "Cards accepted in all supermarkets and fuel stations. Carry 20 EUR in cash for the green market and Verige ferry.",
+    "tipSundayLabel": "Sunday hours:",
+    "tipSundayVal": "Voli opens 8 am–8 pm. HDL 8 am–2 pm. Green market closed.",
+    "tipBagsLabel": "Shopping bags:",
+    "tipBagsVal": "Montenegro charges for plastic bags. Bring your own or buy a reusable bag at the checkout for 0.30 EUR.",
+    "tipWaterLabel": "Tap water:",
+    "tipWaterVal": "Tivat tap water is safe to drink. Buy a reusable bottle and refill rather than buying plastic."
+  },
+
+  "blogKotor": {
+    "title": "Tivat to Kotor: Tunnel vs. Scenic Bay Road",
+    "subtitle": "Two routes to the same walled city — and reasons to take each one.",
+    "description": "A driving comparison between the fast Vrmac tunnel route and the scenic bay road from Tivat to Kotor. Timings, stops, parking, and tips from a local who drives both weekly.",
+
+    "h2Two": "Two Roads, One Destination",
+    "twoP1": "Kotor sits on the opposite side of the Vrmac mountain from Tivat. The mountain creates a natural wall between the two towns, and there are exactly two ways around it: through the tunnel drilled straight through the rock, or along the bay road that hugs the waterfront around the mountain's base. Locals use both routes regularly, choosing based on time pressure, weather, and mood. Neither is definitively better — they serve different purposes.",
+    "twoP2": "The tunnel gets you there in twelve minutes flat. The bay road takes twenty minutes but passes through fishing villages, offers three pull-off viewpoints, and follows the water the entire way. If you are staying in Tivat for a week, drive the tunnel on day one when you are tired from travelling, and save the bay road for a morning when you have time to stop and take photographs.",
+
+    "h2Tunnel": "The Vrmac Tunnel Route",
+    "tunnelP1": "Exit TIV and turn left onto the main road. After three kilometres, the Vrmac tunnel entrance appears on your left. The tunnel is 1.4 kilometres long, well-lit, and has two lanes with a 60 km/h speed limit. Headlights are mandatory inside — most rental cars switch them on automatically. You emerge on the Kotor side at a roundabout above the bay, with the old town walls visible below. Follow the signs down to the waterfront.",
+    "tunnelP2": "This is the route every rental company recommends because it is fast, direct, and impossible to get lost on. The road is in excellent condition, the tunnel has no toll, and there is minimal traffic except during peak summer afternoons when everyone returns from Kotor simultaneously. If you are arriving at TIV after a long flight and just want to reach your accommodation quickly, the tunnel is the obvious choice.",
+
+    "h2Bay": "The Scenic Bay Road",
+    "bayP1": "The bay road starts from the same airport exit but instead of entering the tunnel, you continue straight along the waterfront. The road passes through Muo — a fishing village where colourful wooden boats are pulled up onto the quay — then through Prcanj, where the Captain's Houses line the waterfront. These ornate stone mansions were built by wealthy ship captains during the Venetian period, and several have been beautifully restored.",
+    "bayP2": "Between Prcanj and Kotor, the road narrows to a single lane in places and follows the bay so closely that spray reaches the car during winter storms. There are three informal pull-off viewpoints where you can stop, photograph the bay, and watch the ferry crossing the narrows in the distance. The final approach into Kotor is along the base of the city walls, with the fortress climbing the mountainside above you. It is a more dramatic arrival than the tunnel exit.",
+
+    "altBay": "Bay of Kotor road between Muo and Prcanj with mountains",
+
+    "h2Stops": "Where to Stop on the Bay Road",
+    "stopsP1": "Three spots along the bay road merit a pause:",
+    "stopMuoLabel": "Muo fishing quay:",
+    "stopMuoVal": "Park on the roadside and walk along the stone quay. Fishermen sell fresh catch in the morning. A small cafe serves espresso with a view straight across the bay to Perast.",
+    "stopPrcanjLabel": "Prcanj Captain's Houses:",
+    "stopPrcanjVal": "The largest unfinished church on the Adriatic coast sits here — the Birth of the Virgin Mary cathedral, started in the 18th century and never completed. The facade is impressive from the road.",
+    "stopViewLabel": "Bay viewpoint (km 7):",
+    "stopViewVal": "An unsigned gravel pullover on the right side of the road with space for three cars. The view takes in the entire inner bay: Perast, both islands, and the mountain ring.",
+
+    "h2Parking": "Parking in Kotor",
+    "parkingP": "Both routes end at the same roundabout below Kotor's walls. The Tabacina multi-storey car park is 100 metres from this roundabout — paid, covered, and the closest option to the Old Town's Sea Gate. It fills by 10 am in summer, so arrive early. The River Gate lot along the Skurda stream is cheaper and sometimes has spaces when Tabacina is full. In July and August, an overflow lot operates on the approach road with a shuttle. For family-friendly stops in Kotor, see our",
+    "parkingLink": "family day trips guide",
+
+    "h2Return": "The Return: Why Take the Other Route",
+    "returnP": "Here is the local move: drive to Kotor through the tunnel in the morning to save time, then return via the bay road in the late afternoon when the light on the water is golden. The bay road faces west on the return journey, which means the setting sun illuminates the mountains, the water turns copper, and the whole bay looks like a painting. It adds eight minutes to your return but transforms a transit drive into the scenic highlight of your day. Montenegrins call this stretch of the bay road one of the most beautiful coastal drives in Europe, and for once, the marketing is not exaggerating.",
+
+    "glanceTitle": "At a Glance",
+    "glanceTunnel": "Tunnel route:",
+    "glanceTunnelVal": "12 min, direct, no toll",
+    "glanceBay": "Bay road:",
+    "glanceBayVal": "20 min, scenic, 3 viewpoint stops",
+    "glanceDistance": "Distance:",
+    "glanceDistanceVal": "9 km (tunnel) / 14 km (bay road)",
+    "glanceToll": "Tunnel toll:",
+    "glanceTollVal": "Free — no charge in either direction"
   }
 }

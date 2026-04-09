@@ -184,6 +184,146 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Blog Listing -->
+  <url>
+    <loc>https://www.tivatcarhire.com/blog</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tivatcarhire.com/blog" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.tivatcarhire.com/de/blog" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.tivatcarhire.com/ru/blog" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.tivatcarhire.com/it/blog" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.tivatcarhire.com/fr/blog" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.tivatcarhire.com/me/blog" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.tivatcarhire.com/blog" />
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Blog: Tivat Airport First Hour -->
+  <url>
+    <loc>https://www.tivatcarhire.com/blog/tivat-airport-first-hour</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tivatcarhire.com/blog/tivat-airport-first-hour" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.tivatcarhire.com/de/blog/tivat-airport-first-hour" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.tivatcarhire.com/ru/blog/tivat-airport-first-hour" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.tivatcarhire.com/it/blog/tivat-airport-first-hour" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.tivatcarhire.com/fr/blog/tivat-airport-first-hour" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.tivatcarhire.com/me/blog/tivat-airport-first-hour" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.tivatcarhire.com/blog/tivat-airport-first-hour" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Porto Montenegro Guide -->
+  <url>
+    <loc>https://www.tivatcarhire.com/blog/porto-montenegro-guide</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tivatcarhire.com/blog/porto-montenegro-guide" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.tivatcarhire.com/de/blog/porto-montenegro-guide" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.tivatcarhire.com/ru/blog/porto-montenegro-guide" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.tivatcarhire.com/it/blog/porto-montenegro-guide" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.tivatcarhire.com/fr/blog/porto-montenegro-guide" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.tivatcarhire.com/me/blog/porto-montenegro-guide" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.tivatcarhire.com/blog/porto-montenegro-guide" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Tivat to Dubrovnik Coastal -->
+  <url>
+    <loc>https://www.tivatcarhire.com/blog/tivat-to-dubrovnik-coastal</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tivatcarhire.com/blog/tivat-to-dubrovnik-coastal" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.tivatcarhire.com/de/blog/tivat-to-dubrovnik-coastal" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.tivatcarhire.com/ru/blog/tivat-to-dubrovnik-coastal" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.tivatcarhire.com/it/blog/tivat-to-dubrovnik-coastal" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.tivatcarhire.com/fr/blog/tivat-to-dubrovnik-coastal" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.tivatcarhire.com/me/blog/tivat-to-dubrovnik-coastal" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.tivatcarhire.com/blog/tivat-to-dubrovnik-coastal" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Lustica Peninsula Drive -->
+  <url>
+    <loc>https://www.tivatcarhire.com/blog/lustica-peninsula-drive</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tivatcarhire.com/blog/lustica-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.tivatcarhire.com/de/blog/lustica-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.tivatcarhire.com/ru/blog/lustica-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.tivatcarhire.com/it/blog/lustica-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.tivatcarhire.com/fr/blog/lustica-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.tivatcarhire.com/me/blog/lustica-peninsula-drive" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.tivatcarhire.com/blog/lustica-peninsula-drive" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Tivat Solila Nature -->
+  <url>
+    <loc>https://www.tivatcarhire.com/blog/tivat-solila-nature</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tivatcarhire.com/blog/tivat-solila-nature" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.tivatcarhire.com/de/blog/tivat-solila-nature" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.tivatcarhire.com/ru/blog/tivat-solila-nature" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.tivatcarhire.com/it/blog/tivat-solila-nature" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.tivatcarhire.com/fr/blog/tivat-solila-nature" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.tivatcarhire.com/me/blog/tivat-solila-nature" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.tivatcarhire.com/blog/tivat-solila-nature" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Tivat Family Day Trips -->
+  <url>
+    <loc>https://www.tivatcarhire.com/blog/tivat-family-day-trips</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tivatcarhire.com/blog/tivat-family-day-trips" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.tivatcarhire.com/de/blog/tivat-family-day-trips" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.tivatcarhire.com/ru/blog/tivat-family-day-trips" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.tivatcarhire.com/it/blog/tivat-family-day-trips" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.tivatcarhire.com/fr/blog/tivat-family-day-trips" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.tivatcarhire.com/me/blog/tivat-family-day-trips" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.tivatcarhire.com/blog/tivat-family-day-trips" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Tivat Island Flowers -->
+  <url>
+    <loc>https://www.tivatcarhire.com/blog/tivat-island-flowers</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tivatcarhire.com/blog/tivat-island-flowers" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.tivatcarhire.com/de/blog/tivat-island-flowers" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.tivatcarhire.com/ru/blog/tivat-island-flowers" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.tivatcarhire.com/it/blog/tivat-island-flowers" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.tivatcarhire.com/fr/blog/tivat-island-flowers" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.tivatcarhire.com/me/blog/tivat-island-flowers" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.tivatcarhire.com/blog/tivat-island-flowers" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Tivat Grocery Essentials -->
+  <url>
+    <loc>https://www.tivatcarhire.com/blog/tivat-grocery-essentials</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tivatcarhire.com/blog/tivat-grocery-essentials" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.tivatcarhire.com/de/blog/tivat-grocery-essentials" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.tivatcarhire.com/ru/blog/tivat-grocery-essentials" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.tivatcarhire.com/it/blog/tivat-grocery-essentials" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.tivatcarhire.com/fr/blog/tivat-grocery-essentials" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.tivatcarhire.com/me/blog/tivat-grocery-essentials" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.tivatcarhire.com/blog/tivat-grocery-essentials" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <!-- Blog: Tivat to Kotor Scenic -->
+  <url>
+    <loc>https://www.tivatcarhire.com/blog/tivat-to-kotor-scenic</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.tivatcarhire.com/blog/tivat-to-kotor-scenic" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.tivatcarhire.com/de/blog/tivat-to-kotor-scenic" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.tivatcarhire.com/ru/blog/tivat-to-kotor-scenic" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://www.tivatcarhire.com/it/blog/tivat-to-kotor-scenic" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.tivatcarhire.com/fr/blog/tivat-to-kotor-scenic" />
+    <xhtml:link rel="alternate" hreflang="cnr" href="https://www.tivatcarhire.com/me/blog/tivat-to-kotor-scenic" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.tivatcarhire.com/blog/tivat-to-kotor-scenic" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
   <!-- Contact -->
   <url><loc>https://www.tivatcarhire.com/contact</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
 
