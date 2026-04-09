@@ -15,6 +15,8 @@ export default function TivatGroceryEssentials() {
       <p>{t('blogGrocery.whyP1')}</p>
       <p>{t('blogGrocery.whyP2')}</p>
 
+      <img src="/img/blog-tivat-grocery-essentials-inline.webp" alt={t('blogGrocery.altShop')} loading="lazy" />
+
       <h2>{t('blogGrocery.h2Supermarkets')}</h2>
       <p>{t('blogGrocery.superP1')}</p>
       <ul>
@@ -22,8 +24,6 @@ export default function TivatGroceryEssentials() {
         <li><strong>{t('blogGrocery.shopHDLLabel')}</strong> {t('blogGrocery.shopHDLVal')}</li>
         <li><strong>{t('blogGrocery.shopPijacaLabel')}</strong> {t('blogGrocery.shopPijacaVal')}</li>
       </ul>
-
-      <img src="/img/blog-tivat-grocery-essentials-inline.webp" alt={t('blogGrocery.altShop')} loading="lazy" />
 
       <h2>{t('blogGrocery.h2Fuel')}</h2>
       <p>{t('blogGrocery.fuelP1')}</p>
