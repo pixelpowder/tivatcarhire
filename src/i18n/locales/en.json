@@ -369,6 +369,9 @@
     "cathedralText": "The Old Town is car-free and entirely walkable in 20 minutes end to end. The fortress hike (St. John / San Giovanni) starts from the north-east corner — 1,350 steps, allow 45 minutes up and 30 down. The Maritime Museum near the Sea Gate covers Boka Bay's naval history. Most restaurants cluster along the main square and the cathedral plaza.",
     "dayTripsTitle": "Onward from Kotor",
     "perastTrip": "Continue north along the bay road to Perast (8 minutes from Kotor). Boats to Our Lady of the Rocks island leave from Perast's waterfront — roughly 5 EUR return. Beyond Perast, the road climbs to Risan and then loops back toward Herceg Novi or connects via the Verige ferry shortcut across the bay mouth.",
+    "perastLinkPre": " Drive to ",
+    "perastLinkText": "Perast's baroque waterfront in 20 minutes",
+    "perastLinkPost": ".",
     "cetinjeTrip": "Head inland on the Kotor–Cetinje serpentine road — 25 hairpin bends climbing 1,000 metres above the bay. The viewpoint at the top (Krstac pass) is one of the most photographed spots in Montenegro. Cetinje itself is 45 minutes from Kotor and houses the old royal court and Cetinje Monastery.",
     "royalCourtText": "The monastery holds religious relics and sits at the centre of Montenegro's former royal capital. Combined with the serpentine drive, this makes a solid half-day trip from Kotor before returning to Tivat via the tunnel."
   },
@@ -387,6 +390,9 @@
     "dayTripsTitle": "Day Trips by Car",
     "svetiStefanTrip": "Drive 6 km south on the coastal road to the Sveti Stefan viewpoint. The pull-off is on the right, marked by a stone wall. From there, walk down to Milocer beach (public, free entry). The Queen's Beach next door requires a hotel pass.",
     "kotorTrip": "Head back through the Vrmac tunnel to Kotor — 25 minutes in reverse. Combine with Perast and the bay road for a full-day loop: Budva > Kotor > Perast > Verige ferry > Herceg Novi > back via the coastal road.",
+    "kotorLinkPre": " The ",
+    "kotorLinkText": "UNESCO Old Town of Kotor",
+    "kotorLinkPost": " is a 25-minute drive north.",
     "lovcenTrip": "The inland mountain road to Lovcen National Park starts near Cetinje. Allow 90 minutes from Budva. The Njegos Mausoleum sits at 1,657 metres — carry a jacket even in summer. The winding road has no guardrails in places, so daylight driving is strongly advised.",
     "gettingAroundTitle": "Parking and Fuel",
     "gettingAroundText": "Budva has two main paid car parks: the underground lot near the Old Town walls and the open lot behind the bus station. Both fill by mid-morning in summer. Free street parking exists along the Becici road but requires a 10-minute walk. The nearest fuel station to Budva centre is on the main road at the Becici exit; the Radanovici station is more convenient if you are heading back to TIV."
@@ -435,6 +441,9 @@
     "facilitiesText": "The terminal has one departures hall (upstairs) and one arrivals hall (ground floor). Inside you will find a cafe, a small duty-free shop, ATMs, and a tourist information desk. Outside the arrivals exit, taxis queue on the left, the short-stay car park is directly ahead, and the main road runs parallel on the right. A Jugopetrol fuel station is 800 metres to the right along the main road — useful for topping up before your return drop-off.",
     "whyTitle": "The Small-Airport Advantage",
     "whyText": "TIV has no inter-terminal transit, no car rental village, no shuttle bus loop. That means your car is closer to the baggage belt than it would be at almost any major European airport. Walk out, cross the road, find your vehicle. The total time from wheels-down to driving off averages 10 minutes for pre-booked customers — faster than clearing the taxi rank.",
+    "whyLinkPre": " Within 30 minutes you can be at ",
+    "whyLinkText": "Budva's riviera beaches",
+    "whyLinkPost": ".",
     "meetText": "Our agent meets you at the short-stay car park with keys and paperwork. We monitor flight arrivals in real time, so delays do not affect your pickup. If your flight lands at 2 am, we will be there at 2 am."
   },
   "podgoricaBody": {
@@ -467,7 +476,10 @@
     "facilitiesText": "TGD is a single-terminal airport with eight departure gates, two arrival gates, and roughly 5,500 m² of floor space. The car park holds 600+ vehicles with 25,000 m² of surface area — parking is never a problem here. Inside: a cafe, duty-free shop, ATM, and bureau de change.",
     "awardText": "Despite its modest size, TGD won the ACI Europe award for best airport under one million passengers — a recognition of its clean facilities and efficient layout.",
     "rentalTitle": "Car Pickup Process",
-    "rentalText": "Walk out of the arrivals hall and our agent meets you at the car park with your keys and documents. No shuttle bus, no off-site depot. Your car is right there. If you are driving to the coast, head south and follow signs for Virpazar / Sozina — the tunnel entrance is about 40 minutes from TGD. Fill up in Podgorica before entering the tunnel; fuel stations on the mountain route are infrequent."
+    "rentalText": "Walk out of the arrivals hall and our agent meets you at the car park with your keys and documents. No shuttle bus, no off-site depot. Your car is right there. If you are driving to the coast, head south and follow signs for Virpazar / Sozina — the tunnel entrance is about 40 minutes from TGD. Fill up in Podgorica before entering the tunnel; fuel stations on the mountain route are infrequent.",
+    "rentalLinkPre": " See our ",
+    "rentalLinkText": "Montenegro road trip guide",
+    "rentalLinkPost": " for route planning."
   },
   "dubrovnikAirportBody": {
     "h1": "Collecting Your Car at Dubrovnik Airport (DBV)",
@@ -476,6 +488,9 @@
     "p3": "One practical note: Croatian motorway tolls apply if you take the A1 from the airport toward the border. The toll is modest (under 5 EUR) and can be paid by card or cash at the booth. The alternative coastal road avoids the toll but adds 10 minutes.",
     "borderTitle": "Crossing into Montenegro",
     "borderText": "The Debeli Brijeg / Konfin checkpoint is the only coastal crossing between Croatia and Montenegro. In summer (July–August), expect 30–90 minute queues during mid-day. Crossing before 8 am or after 8 pm cuts wait times dramatically. Have your passport, rental contract, and Green Card ready in hand — not buried in a suitcase. Croatian exit and Montenegrin entry are processed at the same stop.",
+    "borderLinkPre": " Read our ",
+    "borderLinkText": "green card and border documents guide",
+    "borderLinkPost": ".",
     "facilitiesTitle": "DBV Airport Facilities",
     "facilitiesText1": "The terminal sits 20 km south-east of Dubrovnik Old Town on the E65 coastal highway. Short-stay parking is limited and expensive in season — if you are collecting a rental car, pick it up from the airport lot and drive directly rather than parking first. A bureau de change, ATMs, and a duty-free shop are inside the terminal.",
     "facilitiesText2": "Rental car desks are in the arrivals hall. Collect your paperwork inside, then walk to the car park outside. Some agencies use off-site lots with shuttle transfers — confirm in advance whether your car is on-site or requires a bus ride.",
@@ -489,6 +504,9 @@
     "p2": "TIV airport sits roughly halfway along the Bay of Kotor, which means you are already in the middle of the action when you collect your car. Kotor is north, Budva is south, Porto Montenegro is across the road, and inland Montenegro — Cetinje, Podgorica, Durmitor — branches off via tunnels and mountain passes.",
     "startTitle": "Leaving the Airport",
     "startText": "Exit the TIV car park and you hit the main road immediately. Turn left (north) for Kotor via the Vrmac tunnel (12 min) or the bay road (20 min). Turn right (south) for Budva via Radanovici (25 min). Straight ahead across the roundabout reaches Porto Montenegro marina in 3 minutes. The Jugopetrol fuel station is 800 metres to the right — fill up before heading out, especially if driving to Podgorica where mountain-route fuel stops are scarce.",
+    "startLinkPre": " Collect at ",
+    "startLinkText": "Tivat Airport car hire",
+    "startLinkPost": " and start driving immediately.",
     "timesTitle": "Realistic Drive Times from TIV",
     "timesText1": "Kotor: 12 min (tunnel) / 20 min (bay road). Perast: 20 min. Budva: 25 min. Herceg Novi: 35 min (Verige ferry) / 55 min (bay road). Sveti Stefan: 30 min. Cetinje: 60 min. Podgorica: 90 min (Sozina tunnel) / 2.5 hr (mountain road). Durmitor / Zabljak: 4 hr.",
     "timesText2": "These times assume dry conditions and light traffic. In July–August, add 15–20 minutes to any route passing through Budva or the Kotor approach road. The Verige ferry at Kamenari–Lepetane runs every 15 minutes, costs about 5 EUR, and saves 30+ minutes versus driving around the full bay to Herceg Novi.",
@@ -535,6 +553,9 @@
     "croatiaText": "The only coastal crossing. Located on the E65 between Herceg Novi and Dubrovnik. Croatian and Montenegrin passport control operate at the same stop — you do not leave the car. In July–August, mid-day queues reach 1–2 hours. Early morning (before 8 am) or late evening (after 8 pm) cuts the wait to under 15 minutes.",
     "croatiaTip": "Weekday mornings are fastest. Sunday afternoons returning from Dubrovnik are the worst. Have documents in your lap, not in the boot or a suitcase.",
     "croatiaFerry": "The Kamenari–Lepetane ferry across the Bay of Kotor mouth saves 45 minutes versus the long bay road to Herceg Novi. Take the ferry first, then drive to the border from Herceg Novi — total TIV-to-Dubrovnik time roughly 90 minutes plus border queue.",
+    "croatiaLinkPre": " Many visitors ",
+    "croatiaLinkText": "fly into Dubrovnik and drive south",
+    "croatiaLinkPost": ".",
     "albaniaTitle": "Montenegro to Albania",
     "albaniaText": "Two crossings: Sukobin/Muriqan on the coast near Ulcinj (faster, more tourist-friendly) and Hani i Hotit inland near Skadar Lake. The coastal crossing typically has shorter queues. Albanian road quality drops significantly after the border — drive cautiously, especially on rural routes south of Shkoder.",
     "albaniaNote": "Fill up before crossing — Albanian fuel stations are less frequent and card payment is not always available. Carry cash (EUR accepted widely in northern Albania).",

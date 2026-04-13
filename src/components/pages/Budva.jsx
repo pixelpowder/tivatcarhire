@@ -26,7 +26,7 @@ export default function Budva() {
 
       <h2>{t('budvaBody.dayTripsTitle')}</h2>
       <p>{t('budvaBody.svetiStefanTrip')}</p>
-      <p>{t('budvaBody.kotorTrip')} The <a href={localePath('/kotor')}>UNESCO Old Town of Kotor</a> is a 25-minute drive north.</p>
+      <p>{t('budvaBody.kotorTrip')}{t('budvaBody.kotorLinkPre')}<a href={localePath('/kotor')}>{t('budvaBody.kotorLinkText')}</a>{t('budvaBody.kotorLinkPost')}</p>
       <p>{t('budvaBody.lovcenTrip')}</p>
 
       <h2>{t('budvaBody.gettingAroundTitle')}</h2>

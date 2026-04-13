@@ -11,7 +11,7 @@ export default function Montenegro() {
       <p>{t('montenegroBody.p2')}</p>
 
       <h2>{t('montenegroBody.startTitle')}</h2>
-      <p>{t('montenegroBody.startText')} Collect at <a href={localePath('/tivat-airport')}>Tivat Airport car hire</a> and start driving immediately.</p>
+      <p>{t('montenegroBody.startText')}{t('montenegroBody.startLinkPre')}<a href={localePath('/tivat-airport')}>{t('montenegroBody.startLinkText')}</a>{t('montenegroBody.startLinkPost')}</p>
 
       <h2>{t('montenegroBody.timesTitle')}</h2>
       <p>{t('montenegroBody.timesText1')}</p>
