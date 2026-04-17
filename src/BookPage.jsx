@@ -13,8 +13,8 @@ export default function BookPage() {
   const iframeRef = useRef(null);
   const params = useSearchParams();
 
-  const pickupDate  = params.get('pickup_date');
-  const dropoffDate = params.get('dropoff_date');
+  const pickupDate  = params.get('pickup_date') || params.get('date_from');
+  const dropoffDate = params.get('dropoff_date') || params.get('date_to');
   const location    = params.get('location');
 
   const widgetParams = new URLSearchParams();
