@@ -829,7 +829,7 @@ export default function App() {
           <TrustStrip />
         </div>
         <Fleet />
-        <Reviews />
+        {/* <Reviews /> */}
         <HowItWorks />
         <BrandLogos />
         <Destinations />
