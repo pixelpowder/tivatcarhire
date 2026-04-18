@@ -3,7 +3,8 @@
     "book": "Rezerviši",
     "destinations": "Destinacije",
     "about": "O Nama",
-    "blog": "Blog"
+    "blog": "Blog",
+    "contact": "Kontakt"
   },
   "common": {
     "home": "Početna",
@@ -27,7 +28,8 @@
     "pickupDate": "Datum preuzimanja",
     "pickupTime": "Vrijeme",
     "dropoffDate": "Datum vraćanja",
-    "dropoffTime": "Vrijeme"
+    "dropoffTime": "Vrijeme",
+    "selectDates": "Odaberite datume"
   },
   "trust": {
     "noHiddenFees": "Bez Skrivenih Troškova",
@@ -92,7 +94,9 @@
     "bookText": "Pretražite dostupnost i cijene u realnom vremenu širom Crne Gore.",
     "helpTitle": "Trebate Pomoć?",
     "helpText": "Naš tim je dostupan putem WhatsApp, Viber ili telefona.",
-    "popularDest": "Popularne Destinacije"
+    "popularDest": "Popularne Destinacije",
+    "tivatAirport": "Aerodrom Tivat",
+    "dubrovnikAirport": "Aerodrom Dubrovnik"
   },
   "book": {
     "title": "Pronađite Vaš Auto",
@@ -114,7 +118,10 @@
     "searchCars": "Pretraži Auta",
     "privacyPolicy": "Politika Privatnosti",
     "terms": "Uslovi Korišćenja",
-    "cookiePolicy": "Politika Kolačića"
+    "cookiePolicy": "Politika Kolačića",
+    "testimonials": "Iskustva putnika",
+    "sitemap": "Mapa sajta",
+    "tivatAirport": "Aerodrom Tivat"
   },
   "notFound": {
     "code": "404",
@@ -129,7 +136,36 @@
   "about": {
     "title": "O Nama",
     "subtitle": "Pomažemo putnicima da istraže Crnu Goru od 2007.",
-    "seoDesc": "O Crna Gora Car Hire. Od 2007. pomažemo putnicima da istraže Crnu Goru sa pouzdanim automobilima, isporukom na aerodrom i lokalnom ekspertizom."
+    "seoDesc": "O Crna Gora Car Hire. Od 2007. pomažemo putnicima da istraže Crnu Goru sa pouzdanim automobilima, isporukom na aerodrom i lokalnom ekspertizom.",
+    "heading1": "Iznajmljivanje automobila u Tivatu",
+    "p1": "Iznajmljivanje automobila u Tivatu povezuje putovnike sa pouzdanim i pristupačnim automobilima za iznajmljivanje sa aerodroma Tivat i Porto Montenegro. Mi smo nezavisni partner koji radi sa provjerenim lokalnim partnerima, čineći lakšim za putnike koji pristižu u Tivat da istražuju ovaj sjajan dio Jadrana.",
+    "heading2": "Zašto Tivat?",
+    "p2": "Aerodrom Tivat je priobalni ulazni dio Crne Gore. Većina posetilaca Bay of Kotor, Budva Riviere i Porto Montenegro pristižu ovdje. Aerodrom je udaljen samo 4 km od grada i 20 minuta od Kotora. Ako imate automobil spreman pri dolasku, možete početi istraživati obalu na nekoliko minuta od slijetanja, bez transferi i bez čekanja.",
+    "heading3": "Šta nudimo",
+    "p3a": "Pružamo usluge iznajmljivanja automobila sa",
+    "p3Link1": "Aerodroma Tivat",
+    "p3b": ", sa dodatnim preuzimanjem na",
+    "p3Link2": "Porto Montenegro",
+    "p3c": ",",
+    "p3Link3": "Kotoru",
+    "p3d": ", Budvi i lokacijama duž obale i u unutrašnjosti.",
+    "promiseTitle": "Naš obavez",
+    "promise1": "Potpuno osiguranje sa opcijom nultog učešća",
+    "promise2": "Susret na aerodromu Tivat, donosimo automobil do vašeg dolaska",
+    "promise3": "Bez skrivenih naknada, cijena koju vidite je cijena koju plaćate",
+    "promise4": "Prelazak granice dozvoljeni prema Hrvatskoj, Bosni, Albaniji, Srbiji i Kosovu",
+    "promise5": "Besplatna otkazivanja na većini rezervacija",
+    "promise6": "Pomoć na putu 24/7 tokom cijelog putovanja",
+    "localTitle": "Lokalno znanje",
+    "localText": "Smešteni u Tivatu, poznajemo puteve, najbolje rute i skrivene biser koje vodič ne spominje. Bez obzira da li vozite sa",
+    "localLink1": "Aerodroma Tivat",
+    "localMid": "do",
+    "localLink2": "srednjovjekovnog starog grada Kotora",
+    "localMid2": ", uzevši prirodnjačku rutu kroz Bay of Kotor do",
+    "localLink3": "Perasta",
+    "localEnd": ", ili krećete u unutrašnjost prema Nacionalnom parku Durmitor, možemo vam pomoći da planirate savršeno road trip putovanje.",
+    "contactTitle": "Stupite u kontakt",
+    "contactText": "Imate li pitanja o iznajmljivanju automobila u Tivatu? Dostupni smo putem telefona, WhatsApp i Viber. Pretražite našu flotu na internetu i rezervirajte za nekoliko minuta, ili nam se obratite i pomoći ćemo vam da pronađete savršen automobil za vaše putovanje."
   },
   "kotor": {
     "title": "Rent a Car Kotor",
@@ -572,14 +608,12 @@
     "route4": "Podgorica → Beograd (Srbija): 5-6 sati putem E65 na sjever",
     "ctaText": "Trebate automobil sa prekograničnom dokumentacijom? Pretražite našu flotu — samo odaberite odredišne zemlje pri rezervaciji i mi ćemo urediti Zelenu kartu."
   },
-
   "blogHome": {
     "sectionLabel": "Vodiči za putovanje",
     "sectionTitle": "Otkrijte Tivat automobilom",
     "sectionSubtitle": "Insajderske rute, lokalni savjeti i ideje za jednodnevne izlete od Tivćanina koji svakodnevno vozi ovim putevima.",
     "viewAll": "Svi vodiči"
   },
-
   "blogIndex": {
     "heroTitle": "Blog o iznajmljivanju automobila u Tivtu",
     "heroSubtitle": "Praktični vodiči za vožnju, lokalne gastronomske adrese i jednodnevni itinereri — od nekoga ko zaista živi ovdje u Tivtu.",
@@ -604,31 +638,24 @@
     "card_kotor_title": "Tivat do Kotora: tunel ili panoramski put duž zaliva",
     "card_kotor_excerpt": "Dvije rute do istog grada opasanog zidinama — dvanaest minuta kroz Vrmac ili dvadeset duž obale. Koju izabrati, đe se zaustaviti i zašto lokalni stanovnici ponekad voze obje u jednom danu."
   },
-
   "blogAirport": {
     "title": "Vaš prvi sat nakon slijetanja na aerodrom Tivat",
     "subtitle": "Vodič korak po korak od lokalnog stanovnika: od slijetanja do izlaska sa parkinga.",
     "description": "Sve što se dešava između slijetanja vašeg aviona na TIV i izlaska sa parkinga u rentiranom automobilu. SIM kartice, bankomati, gorivo i u kom pravcu krenuti prvo.",
-
     "h2Touchdown": "Od slijetanja do izlaska iz terminala",
     "touchdownP1": "Aerodrom Tivat ima jednu jedinu pistu koja se završava praktično na obali Boke Kotorske. Nakon slijetanja, rulate oko devedeset sekundi do jedine terminalne zgrade. Ovdje nema aviomostova — silazite niz stepenice aviona, prelazite petnaest metara asfalta i ulazite kroz staklena vrata. Čitav terminal je manji od odlazne čekaonice većine evropskih aerodroma, i upravo zato tako dobro funkcioniše za putnike koji iznajmljuju automobil.",
     "touchdownP2": "Unutra, pasoška kontrola se sastoji od dvije kabine. Crnogorski granični službenici rade efikasno i red rijetko prelazi deset minuta, čak i kada dva leta slijeću u istom pola sata. Nakon pasoške kontrole, idete pravo u halu za preuzimanje prtljaga. Tu je jedna traka. Vaše torbe će se pojaviti na njoj. Jednostavnost je gotovo zbunjujuća ako ste navikli na Hitrou ili Frankfurt.",
-
     "h2Baggage": "Preuzimanje prtljaga i izlaz",
     "baggageP1": "Hala za preuzimanje prtljaga na TIV-u ima jednu traku, par kolica i mali carinski šalter koji gotovo nikad nije zauzet za unutarevropske letove. Prtljag se obično počinje pojavljivati u roku od pet minuta. Ako putujete samo sa ručnim prtljagom, proći ćete za manje od šezdeset sekundi.",
     "baggageP2": "Prođite pored carinske zone i kroz matirana staklena vrata. Sada ste ispred terminala. Pravo ispred vas, s druge strane jednog pristupnog puta, nalazi se kratkoročni parking. Tamo vas čeka vaš rentalni automobil. Ukupna udaljenost od trake za prtljag do parkinga je oko četrdeset metara — kraće od puta od hola većine hotela do njihovih parking garaža.",
-
     "altTerminal": "Terminalna zgrada aerodroma Tivat viđena sa pristupnog puta",
-
     "h2Car": "Preuzimanje automobila",
     "carP1": "Agent vaše rent-a-car kompanije će čekati u zoni parkinga, obično sa znakom ili jednostavno pored vozila. Na TIV-u nema šaltera za iznajmljivanje unutar terminala niti shuttle autobusa do udaljenih depoa — automobil je upravo tu. Primopredaja traje oko pet minuta: potpišite ugovor, zajedno pregledajte list oštećenja, preuzmite ključeve i podesite ogledala.",
     "carP2": "Prije nego što krenete, uzmite šezdeset sekundi da se upoznate sa automobilom. Provjerite pokazivač goriva, pronađite komande za svjetla i pobrinite se da znate đe je dugme za sva četiri. U crnogorskim tunelima svjetla moraju biti upaljena u svakom trenutku, a prvi tunel — Vrmac — srešćete u roku od tri kilometra od izlaza sa aerodroma ako krenete prema Kotoru.",
-
     "h2Fuel": "Gorivo, SIM kartice i prve nabavke",
     "fuelP1": "Skrenite desno sa aerodroma na glavni put i Jugopetrol benzinska stanica se pojavljuje nakon osamsto metara sa vaše desne strane. Ovo je najbliža benzinska pumpa TIV-u i ona koju lokalni stanovnici koriste prije vraćanja rentiranih automobila. Natočite ovdje ako vam je rezervoar ispod polovine. Dizel košta nešto manje od benzina, i obje pumpe prihvataju Visa i Mastercard.",
     "fuelP2": "Za lokalnu SIM karticu, prodavnice Telenora i m:tel-a se nalaze u centru Tivta, tri minute vožnje od aerodroma. Turistička prepaid SIM sa 10 GB podataka košta oko pet eura i uštedjeće vam bogatstvo na romingu. Za namirnice i vodu, pogledajte naš",
     "fuelLink": "vodič za prvu kupovinu",
-
     "h2Directions": "U kom pravcu krenuti prvo",
     "directionsP1": "Kada izađete sa parkinga aerodroma, stižete na T-raskrsnicu na glavnom putu. Vaše opcije su:",
     "dirNorthLabel": "Skrenite lijevo (sjever):",
@@ -637,10 +664,8 @@
     "dirSouthVal": "Budva preko Radanovića za 25 minuta. Ulaz u tunel Vrmac je 3 km niz ovaj put.",
     "dirStraightLabel": "Pravo / malo lijevo:",
     "dirStraightVal": "Marina Porto Montenegro i tivatska riva za 3 minute.",
-
     "h2Phone": "Telefon i internet",
     "phoneP": "Crna Gora koristi euro, pa bankomati na aerodromu izdaju eure direktno. Dva bankomata su u terminalu — jedan blizu dolazaka i jedan gore u odlascima. Oba prihvataju međunarodne Visa i Mastercard kartice. Za lokalnu SIM karticu, Telenor prodavnica u Ulici 21. novembra u centru Tivta otvara se u 8h i prodaje prepaid turističke pakete. Ako stignete kasnim letom, Voli supermarket blizu Porto Montenegra prodaje bazične Telenor SIM setove na kasi.",
-
     "glanceTitle": "Ukratko",
     "glanceWalk": "Terminal do automobila:",
     "glanceWalkVal": "40 metara, 2 minute",
@@ -651,37 +676,28 @@
     "glanceAtm": "Bankomati:",
     "glanceAtmVal": "2 u terminalu, izdavanje u eurima"
   },
-
   "blogPorto": {
     "title": "Porto Montenegro iza superjahti",
     "subtitle": "Djelovi tivatskog marinskog naselja koja se ne pojavljuju na Instagramu.",
     "description": "Lokalni vodič po Porto Montenegru: pomorski muzej, pristupačni restorani, bazen i večernje šetnje koje većina posjetilaca potpuno propušta.",
-
     "h2Beyond": "Više od marine",
     "beyondP1": "Porto Montenegro zauzima teren nekadašnjeg jugoslovenskog mornaričkog arsenala, i hodajući kroz kompleks još se osjeća ona vojna geometrija ispod poliranog kamena i stakla. Suvi dokovi đe su se servisirali podmornice sada su umjetničke galerije. Skladišta municije su butici. Torpedni testni mol je koktel-bar. To je čudna, fascinantna transformacija — a većina posjetilaca vidi samo vezove za superjahte na rivi.",
     "beyondP2": "Lokalni Tivćani koriste Porto drugačije od turista. Dolazimo na bazen radnim danima ujutro kada je napola prazan, jedemo u piceriji iza hotela Regent đe su cijene trećina onih u restoranima na rivi, i šetamo čitavim obodom uveče kada kamen čuva dnevnu toplinu a zaliv postaje bakren. Ako želite doživjeti Porto na način na koji to rade stanovnici, preskočite prvi red i istražite sporedne ulice.",
-
     "h2Naval": "Zbirka pomorskog nasljeđa",
     "navalP1": "Skriven iza glavne šetnice, pomorski muzej zauzima jednu od originalnih arsenalskih zgrada i priča priču o hiljadugodišnjem odnosu Boke Kotorske sa morem. Zbirka uključuje pomorske karte, makete brodova, uniforme Austrougarske flote i fotografije jugoslovenskog podmorničkog programa koji je operisao upravo na ovom mjestu do 1990-ih.",
     "navalP2": "Ulaz je besplatan i izložba traje oko četrdeset minuta. Sala posvećena bokeljskom bratstvu pomoraca — pomorskoj gildiji starijoj od Venecijanske mornaričke akademije — posebno je fascinantna. Većina turista prolazi pored ulaza jer spolja ne izgleda kao muzej. To je dio njegovog šarma.",
-
     "altMarina": "Marina Porto Montenegro sa planinama na zalasku sunca",
-
     "h2Food": "Đe jesti bez cijena za posadu jahti",
     "foodP1": "Restorani na rivi u Portu naplaćuju premijum cijene jer gledaju na superjahte. Zakoračite jedan blok u unutrašnjost i ekonomija se potpuno mijenja. Picerija iza Regenta pravi pravu napolitansku picu za sedam eura. Pekara na sjevernim vratima prodaje burek i pite sa spinatom od šest ujutro. Delikatesni pult Voli supermarketa, pet minuta hoda od marine, pravi svježe sendviče za manje od tri eura.",
     "foodP2": "Za pravi ručak, odvezite se pet minuta do tivatske rive van Porta. Restorani duž dijela Stari Grad služe svježu ribu iz zaliva — grilovani brancin ili orada — po otprilike pola cijene bilo čega unutar kapija marine. Lokalni stanovnici ovdje jedu redovno; turisti se rijetko upuštaju izvan oboda Porta.",
-
     "h2Pool": "Bazen i dan na plaži",
     "poolP": "Lido bazen Porto Montenegra je otvoren za dnevne posjetioce uz naknadu koja uključuje ležaljku, peškir i pristup bazenu i baru. U julu i avgustu se popuni do podneva, ali dođite radnim danom ujutro u junu ili septembru i možda ćete imati čitavu sekciju za sebe. Ako preferirate pravu plažu, odvezite se deset minuta južno do Plavog Horizonti na putu za Lušticu — više u našem",
     "poolLink": "vodiču za poluostrvo Luštica",
-
     "h2Evening": "Večernje šetnje i zalasci sunca",
     "eveningP1": "Najbolje vrijeme za posjetu Portu je između šest i osam uveče. Dnevni izletnici su otišli, terase restorana se pune mirisom grilovane ribe, a svjetlo na planinama s druge strane zaliva se mijenja od bijelog do zlatnog. Prošetajte čitavim obodom — traje oko dvadeset minuta i prolazi pored jaht-kluba, Regent plaže i starih suvim dokova đe se još vide šine za podmornice u betonu.",
     "eveningP2": "Na južnom kraju šetnice, kameni lukobran se proteže u zaliv. Lokalni stanovnici sjede ovdje na stijenama sa bocama vina Vranac i gledaju sunce kako tone iza planinskog vijenca Orjen. Vedrih večeri, silueta Herceg Novog je vidljiva s druge strane vode. Nema ulaznice, nema rezervacije i nema reda. Jednostavno dođite sa nečim za piće i nekim mjestom za sjedenje.",
-
     "h2Getting": "Kako stići od TIV-a",
     "gettingP": "Porto Montenegro je tri minute vožnje od aerodroma Tivat — skrenite lijevo sa parkinga, prođite prvi kružni tok pravo i kapije marine se pojavljuju na lijevoj strani. Parking unutar Porta je plaćen i ograničen ljeti; besplatni parking na sjevernoj strani pristupnog puta je dvije minute hoda od glavne šetnice. Možete i pješice od terminala aerodroma za petnaest minuta.",
-
     "glanceTitle": "Ukratko",
     "glanceDistance": "Od TIV-a:",
     "glanceDistanceVal": "3 min. vožnje, 15 min. pješke",
@@ -692,35 +708,27 @@
     "glanceBest": "Najbolje vrijeme:",
     "glanceBestVal": "Uveče, 18–20h za šetnje na zalasku sunca"
   },
-
   "blogDubrovnik": {
     "title": "Automobilom od Tivta do Dubrovnika duž obale",
     "subtitle": "Kompletan put sa prečicom trajektom, vremenom na granici i benzinskim stanicama.",
     "description": "Praktični automobilski vodič od aerodroma TIV do dubrovačkih zidina — trajekt Verige, obalna cesta kroz Herceg Novi, granični prelaz Debeli Brijeg i savjeti za izbjegavanje redova.",
-
     "h2Overview": "Zašto voziti umjesto letjeti",
     "overviewP1": "Dubrovnik je udaljen devedeset minuta vožnje od Tivta ako pogodite pravo vrijeme na granici. To ga čini najlakšim međunarodnim jednodnevnim izletom iz bilo koje tačke Boke Kotorske. Put prati obalu gotovo čitavom dužinom — obalnim putem do trajekta Verige, kroz Herceg Novi duž rive, pored Igala i gore do hrvatske granice na Debelom Brijegu. Nakon graničnog punkta, put prati jadransku obalu do Dubrovnika.",
     "overviewP2": "Letjeti između dva grada nema smisla osim ako ste već u tranzitu kroz čvorište. Aerodromi su preblizu, a put je previše slikovit da bi opravdao transfer. Vozite, i dobijate putovanje jednako kao i odredište — krečnjačke litice, ribarska sela i otvoreni Jadran koji se pojavljuje na ušću zaliva.",
-
     "h2Ferry": "Prečica trajektom Verige",
     "ferryP1": "Trajekt Verige prelazi najuži dio Boke Kotorske između Kamenara i Lepetana. Prelaz traje pet minuta. Trajekti saobraćaju svakih petnaest minuta ljeti i svakih trideset minuta zimi. Cijena je oko pet eura po automobilu, samo gotovina — kartice se ne primaju na brodu. Ova prečica vam štedi više od trideset minuta u odnosu na vožnju oko čitavog zaliva kroz Risan i Perast.",
     "ferryP2": "Od TIV-a, vozite na sjever duž obalnog puta pored Mua i Prčanja do trajektnog pristana u Lepetanima. Čekanje je obično manje od deset minuta osim petkom uveče i nedjeljom popodne u julu i avgustu kada se izletnici vraćaju. Čak i sa dugim redom, čekanje je kraće od alternative oko čitavog zaliva.",
-
     "altCoast": "Jadranska obala između Herceg Novog i Dubrovnika",
-
     "h2HercegNovi": "Kroz Herceg Novi",
     "hnP1": "Nakon što trajekt pristane u Kamenarima, vozite petnaest minuta duž sjevernog oboda zaliva do Herceg Novog. Put se vijuga kroz Bijelu i Đenoviće — mala obalna naselja đe ribari još krpe mreže na keju. Sam Herceg Novi se stepenasto penje strmom padinom iznad ulaza u zaliv, tvrđavski zidovi vidljivi sa puta. Ne morate se zaustavljati ovdje na putu za Dubrovnik, ali grad je odlično mjesto za pauzu za ručak na povratku.",
     "hnP2": "Nastavite kroz Herceg Novi glavnim putem E65, pored igalskih spa hotela i duge promenadne plaže. Put se penje iz grada kroz borovu šumu i maslinike. Hrvatska granica na Debelom Brijegu se pojavljuje deset minuta nakon posljednjeg semafora u Herceg Novom.",
-
     "h2Border": "Granični prelaz Debeli Brijeg",
     "borderP1": "Ovo je jedini obalni granični prelaz između Crne Gore i Hrvatske. Obje zemlje obrađuju pasoše na istom mjestu — prolazite crnogorski izlaz i hrvatski ulaz bez napuštanja automobila. Držite pri ruci pasoš, ugovor o najmu i Zelenu kartu. Za kompletne detalje o dokumentima, pogledajte naš",
     "borderLink": "vodič za granične prelaze",
     "borderP2": "Tajming je izuzetno važan. Između 10 i 16 časova u julu i avgustu, redovi mogu trajati do devedeset minuta. Pređite prije 8 ujutro ili poslije 20 časova i čekaćete manje od petnaest minuta. Jutarnji termini radnim danima su najbrži. Nedjeljom popodne — kada se jednodnevni izletnici vraćaju iz Dubrovnika — apsolutno su najgori. Planirajte vrijeme polaska prema granici, ne prema razgledanju.",
-
     "h2Arrival": "Dolazak u Dubrovnik",
     "arrivalP1": "Nakon granice, hrvatska obalna cesta prati Jadran na jug trideset minuta do Dubrovnika. Put prolazi kroz Cavtat — prijatan lučki gradić koji zaslužuje zaustavljanje — prije nego što se popne na greben iznad Dubrovnika odakle se čitav grad opasan zidinama pojavljuje ispod vas. To je jedan od velikih dolazaka u evropskoj automobilskoj kulturi.",
     "arrivalP2": "Parking u Dubrovniku je ograničen i skup. Podzemni parking Ilijina Glavica blizu Vrata od Pila je najpogodniji — oko četiri eura na sat. Otvoreni parking iznad stanice žičare je jeftiniji ali zahtijeva dvadeset minuta hoda nizbrdo do Starog grada. Ne pokušavajte voziti u sam Stari grad — samo za pješake, strogo kontrolisan, a ulice su preuske za bilo šta šire od kolica.",
-
     "h2Tips": "Praktični savjeti",
     "tipDocLabel": "Dokumenti:",
     "tipDocVal": "Pasoš, ugovor o najmu, Zelena karta. Držite ih u džepu na vratima, ne u gepeku.",
@@ -730,7 +738,6 @@
     "tipFuelVal": "Natočite u Herceg Novom. Hrvatsko gorivo je nešto skuplje.",
     "tipParkLabel": "Parking u Dubrovniku:",
     "tipParkVal": "Podzemni Ilijina Glavica ili parking žičare iznad Starog grada.",
-
     "glanceTitle": "Ukratko",
     "glanceDistance": "Ukupna udaljenost:",
     "glanceDistanceVal": "95 km od TIV-a",
@@ -741,20 +748,16 @@
     "glanceBorder": "Čekanje na granici:",
     "glanceBorderVal": "5–90 min. u zavisnosti od doba dana"
   },
-
   "blogLustica": {
     "title": "Kružna vožnja po poluostrvu Luštica",
     "subtitle": "Kamena sela, skrivene uvale i jedan od najmirnijih puteva zaliva.",
     "description": "Poludnevna kružna vožnja od Tivta kroz poluostrvo Luštica — napuštena zaselci, plaža Žanjice, uvala Mirište, novi resort Lustica Bay i praktični savjeti za uske puteve.",
-
     "h2Why": "Zašto se Luštica osjeća drugačije",
     "whyP1": "Luštica je planinski krak koji formira južnu obalu Boke Kotorske i osjeća se kao druga zemlja u poređenju sa živahnim obalnim gradovima na suprotnoj strani. Poluostrvo nema tranzitnog saobraćaja jer se put završava slijepom ulicom na vrhu. To znači da gotovo niko ne vozi ovuda osim ako ide na određenu plažu ili u resort Lustica Bay. Rezultat su prazni putevi, napuštena kamena sela koja su povratili smokve i divlja žalfija, i uvale za kupanje đe ćete možda biti jedina osoba u vodi.",
     "whyP2": "Od Tivta, kružna tura traje oko tri sata ako se zaustavite na dvije-tri plaže i zavirite u jedno od sela-duhova. Nije potreban četveropogon — glavni put je asfaltiran čitavom dužinom — ali neki prilazi do manjih plaža su makadamski i sa rupama. Standardni hečbek bez problema savladava sve na glavnoj ruti.",
-
     "h2Route": "Ruta od Tivta",
     "routeP1": "Napustite Tivat u smjeru juga pored aerodroma. Nakon dva kilometra, skrenite na lijevu raskrsnicu označenu za Krašiće i Lušticu. Put se odmah sužava i počinje da se penje kroz maslinike i polja sa suhozidima. Pogledi na zaliv se otvaraju sa desne strane — planine Kotora s druge strane vode, trajektna ruta dole, kontejnerski brodovi koji se polako kreću ka otvorenom moru.",
     "routeP2": "Nastavite kroz Krašiće i Radoviće. Kod Radovića, put se ponovo grana: lijevo prema Žanjicama i vrhu poluostrva, desno prema resortu Lustica Bay. Prvo skrenite lijevo za najdivljiji dio vožnje. Put se vijuga kroz zaselke đe je većina kuća prazna decenijama — kameni zidovi sa urušenim krovovima, bunari u dvorištima zarasli u kupine, povremeno restaurirana kućica sa novom terasom i bugenvilijom.",
-
     "h2Beaches": "Tri plaže vrijedne vožnje",
     "beachesP1": "Obala Luštice gleda na otvoreni Jadran umjesto na zaštićeni zaliv, pa je voda bistrija i talasi veći. Tri mjesta se ističu:",
     "beachZanjiceLabel": "Žanjice:",
@@ -763,21 +766,16 @@
     "beachMiristVal": "Pet minuta hoda južno od Žanjica stijenovitom stazom. Mnogo mirnije, bez sadržaja, okruženo borovima koji pružaju prirodni hlad. Ponesite vodu i peškir.",
     "beachDobreLabel": "Dobre Vode:",
     "beachDobreVal": "Mala uvala dostupna strmim makadamskim putem kod Krašića. Bez oznaka — pitajte u bilo kojem lokalnom kafiću i pokazaće vam skretanje. Stijenovit ulaz u vodu, ali plivanje je odlično.",
-
     "altBeach": "Obala poluostrva Luštica sa bistrom jadranskom vodom",
-
     "h2Villages": "Sela-duhovi i maslinici",
     "villagesP1": "Unutrašnjost Luštice je nekada bila gusto naseljena seoskim porodicama koje su gajile masline, bademe i grožđe na terasastim padinama. Kada se jugoslovenska ekonomija industrijalizovala nakon rata, većina porodica se preselila u Tivat ili Herceg Novi na fabričku radnu snagu. Sela su se ispraznila tokom dvije generacije i sada se nalaze u različitim stadijumima fotogeničnog propadanja. Klinci, Mrkovi i Brguli su najdostupniji — parkirajte na putu i uđite pješke.",
     "villagesP2": "Neka sela se polako restauriraju kao vikendice ili agroturizam. Ako vidite otvorena vrata i naseljenu terasu, obično možete pitati za put ili čašu vode. Preostali lokalni stanovnici su ponosni na ova mjesta i rado pričaju o njima. Nakon istraživanja, vratite se u Tivat putem kroz resort Lustica Bay na kafu u jednom od obalnih kafića. Više o okolini u našem",
     "villagesLink": "vodiču za Porto Montenegro",
-
     "h2Resort": "Lustica Bay: novi kompleks",
     "resortP1": "Na istočnom kraju poluostrva, resort Lustica Bay pretvara dio obale u planirano naselje sa marinom, hotelom Chedi, golf terenom, uređenim plažama i stambenim vilama. Razvoj se još širi ali postojeća infrastruktura je dotjerana i dobro održavana. Gosti koji nijesu rezidenti mogu koristiti bič-klubove, restorane i golf teren uz naknadu.",
     "resortP2": "Kontrast između napuštenih kamenih sela u unutrašnjosti Luštice i resort-a od stakla i čelika na njenom rubu je upečatljiv. Oboje vrijedne pogleda na istoj vožnji. Bič-klub resorta je ugodna pauza za ručak prije povratka u Tivat — grilovani kalamari su dobri, a ležaljke gledaju na otvoreni zaliv sa tvrdavskim ostrvom Mamula vidljivim u daljini.",
-
     "h2Practical": "Praktične napomene",
     "practicalP": "Natočite gorivo u Tivtu prije polaska na kružnu vožnju — na poluostrvu nema benzinskih pumpi. Signal mobilnog telefona nestaje u unutrašnjim dolinama, pa preuzmite offline mape prije polaska. Glavni put poluostrva je dvotračni ali se neki dijelovi sužavaju na jednotračni sa mjestima za mimoilaženje. Ako sretnete vozilo iz suprotnog smjera na uskom dijelu, obično vozač koji ide nizbrdo ustupa mjesto onom koji ide uzbrdo. Vozite polako i uživajte u samoći.",
-
     "glanceTitle": "Ukratko",
     "glanceLoop": "Dužina kružne ture:",
     "glanceLoopVal": "~45 km od Tivta i nazad",
@@ -788,37 +786,28 @@
     "glanceFuel": "Gorivo:",
     "glanceFuelVal": "Nema pumpi na poluostrvu — natočite u Tivtu"
   },
-
   "blogSolila": {
     "title": "Solila: slatine i posmatranje ptica u Tivtu",
     "subtitle": "Zaštićeno močvarno područje pet minuta od aerodromske piste.",
     "description": "Rezervat prirode Solila leži između aerodroma Tivat i Porto Montenegra. Flamingosi, čaplje i preko 100 vrsta ptica posjećuju ovo slano močvarno područje — skriveni dragulj za posmatrače ptica i fotografe.",
-
     "h2What": "Šta je Solila",
     "whatP1": "Solila je slanovodna močvara od 150 hektara smještena između južnog oboda aerodroma Tivat i puta ka Porto Montenegru. Do sredine dvadesetog vijeka, to je bila djelatna solana — stanovnici su ovdje vadili morsku so vijekovima. Kada se industrijska proizvodnja soli preselila drugdje, bazeni su se prirodno preplavili i postali jedno od najvažnijih staništa ptica u Crnoj Gori. Područje je proglašeno zaštićenim rezervatom prirode 2008. godine.",
     "whatP2": "Sa parkinga aerodroma možete stići do šetnice Solile za pet minuta vožnje ili petnaest minuta hoda duž trotoara. To je vrsta mjesta koje možete posjetiti trideset minuta između preuzimanja automobila i odlaska u hotel — ili provesti pola dana sa dvogledima i kamerom ako je ornitologija vaša strast.",
-
     "h2Birds": "Ptice",
     "birdsP1": "Preko sto vrsta ptica je zabilježeno na Solilima, čineći ga jednim od najbogatijih močvarnih lokaliteta na istočnoj jadranskoj obali. Najdramatičniji posjetioci su ružičasti flamingosi koji se ovdje zaustavljaju tokom proljetne i jesenje migracije. Vidjeti jato ružičastih flamingosa sa kontrolnim tornjem aerodroma Tivat u pozadini jedan je od najnadrealnijih prizora u Crnoj Gori. Obično stižu u martu i ponovo u oktobru, ostajući nekoliko nedjelja prije nego nastave južno ka Grčkoj ili sjeverno ka Kamargu.",
     "birdsP2": "Stalni stanovnici su sive čaplje, male bijele čaplje, kormorani i nekoliko vrsta žalara. Zimi, slatine privlače zviždare, kržulje i širokonosce. Proljeće donosi sabljarke i vlastelice koje se gnijezde u plitkim bazenima. Ponesite dvogled — šetnica vas drži na pristojnoj udaljenosti od područja gnijezdenja, a mnogi manji žalari su teško prepoznatljivi bez uvećanja.",
-
     "altSaltpan": "Slatine Solila sa barskim pticama i planinama Boke Kotorske u pozadini",
-
     "h2Walk": "Ruta šetnice",
     "walkP1": "Uzdignuta drvena šetnica se proteže duž istočnog ruba rezervata oko jedan kilometar. Informativne table na crnogorskom i engleskom identifikuju vrste ptica koje ćete najvjerovatnije vidjeti u svakoj sezoni. Šetnica je ravna, pristupačna invalidskim kolicima i povremeno zasjenjena tamarisom. Stalnim korakom traje petnaest do dvadeset minuta, duže ako se zaustavljate da fotografišete ptice na svakoj vidikovačkoj platformi.",
     "walkP2": "Staza se spaja sa makadamskim putem koji nastavlja južno ka tivatskoj rivi. Ako pješačite čitavu rutu — šetnica plus riva — stižete do Porto Montenegra za oko četrdeset minuta. Prijatna jutarnja šetnja prije nego što se zagrije, i prolazite kroz pejzaž koji se mijenja od močvare do urbane marine za manje od dva kilometra.",
-
     "h2Seasons": "Kada posjetiti",
     "seasonsP1": "Svaka sezona nudi nešto drugačije. Proljeće (mart do maj) donosi aktivnost gnijezdenja, migracione flamingose i divlje cvijeće duž šetnice. Ljeti je mirnije za ptice, ali večernje svjetlo na slatinama je izvanredno za fotografiju. Jesenja migracija (septembar do novembar) je drugi prozor za flamingose. Zima donosi zimujuće patke i najmanji broj posjetilaca — čitav rezervat može biti samo vaš. Za više prirode oko Tivta, pogledajte naš",
     "seasonsLink": "vodič za Ostrvo cvijeća",
     "seasonsP2": "Rano jutro i kasno popodne su najbolja vremena bez obzira na sezonu. Ptice su najaktivnije u zoru i sumrak, a nisko svjetlo čini da plitka voda sija zlatno. Podnevna žega tjera većinu vrsta u hlad ili dublju vodu đe ih je teže uočiti.",
-
     "h2Photography": "Savjeti za fotografiju",
     "photoP": "Šetnica gleda na istok, što znači da jutarnje svjetlo direktno osvjetljava ptice, a poslijepodnevno svjetlo dolazi s leđa — oboje su upotrebljivi, ali izlazak sunca daje najtoplije boje na slatinama. Objektiv od 200 mm je minimum za prepoznatljive fotografije ptica sa šetnice; 400 mm je bolji. Tamaris duž staze privlači grmuše i zebe koje je lakše fotografisati izbliza. Stativi su dozvoljeni na šetnici ali drvene daske vibriraju kada drugi posjetioci prolaze, pa monostojna ili ručna stabilizacija rade bolje.",
-
     "h2Practical": "Kako stići i praktične informacije",
     "practicalP": "Sa aerodroma TIV, izađite sa parkinga i skrenite desno. Nakon 400 metara, potražite smeđi znak rezervata prirode Solila na lijevoj strani. Mali zemljani parking prima šest do osam automobila. Nema ulaznice, nema radnog vremena i nema sadržaja — ponesite vodu, kremu za sunčanje i sredstvo protiv komaraca ljeti. Rezervatom upravlja odjeljenje za zaštitu životne sredine opštine Tivat, a volonterski dani čišćenja se održavaju dva puta godišnje ako želite doprinijeti.",
-
     "glanceTitle": "Ukratko",
     "glanceArea": "Veličina rezervata:",
     "glanceAreaVal": "150 hektara zaštićene slanovodne močvare",
@@ -829,41 +818,33 @@
     "glanceBest": "Najbolje za ptice:",
     "glanceBestVal": "Mart–maj (proljetna migracija) i sept.–nov. (jesenja migracija)"
   },
-
   "blogFamily": {
     "title": "Pet porodičnih izleta iz Tivta",
     "subtitle": "Kratke vožnje, plitke plaže i pauze za sladoled koje čine sve srećnim.",
     "description": "Pet isprobanih porodičnih jednodnevnih izleta iz Tivta — plaža Plavi Horizonti, mačke Kotora, vožnja čamcem u Perastu, Stari grad Budve i bazen Lustica Bay. Svaka ruta staje u jedno popodne.",
-
     "h2Intro": "Planiranje sa malim putnicima",
     "introP": "Tivat je jedna od najboljih baza u Crnoj Gori za porodice sa malom djecom. Aerodrom je sićušan, parking je na korak od terminala, i svaka destinacija na ovoj listi je udaljena manje od trideset minuta vožnje. To je važno kada imate auto-sjedište i malog koji zaspi u nepredvidivim trenucima. Isprobali smo svaki od ovih izleta sa sopstvenom djecom i kalibrisali ih za kapacitet pažnje petogodišnjaka: kratke vožnje, garantovano kupanje, najmanje jedna prilika za sladoled i dovoljno noviteta da putovanje bude zanimljivo bez da iko na zadnjem sjedištu izgubi živce.",
-
     "h2Trip1": "Izlet prvi: plaža Plavi Horizonti",
     "trip1Name": "Plavi Horizonti — put za Lušticu",
     "trip1P1": "Ovo je porodična plaža kod Tivta. Plitka, pjeskovita uvala na putu za Lušticu, petnaest minuta južno od aerodroma. Voda ostaje do koljena dvadeset metara od obale, čineći je sigurnom za malu djecu i neplivače. Bič-bar služi hranu i piće, ležaljke su na raspolaganju za iznajmljivanje, a parking je u zasjenjenom dijelu iza plaže. Ima pravih toaleta — rijetkost na crnogorskim plažama.",
     "trip1P2": "Stignite prije 10h ljeti da biste zauzeli mjesto pod borovima na južnom kraju plaže. Prirodni hlad ovdje znači da možete ostati čitav dan bez pregrijavanja. Voda je toplija od otvorenog Jadrana jer je uvala zaštićena od struja. Ponesite maske za ronjenje — kamene ivice uvale imaju male ribice koje djeca obožavaju posmatrati.",
-
     "h2Trip2": "Izlet drugi: Stari grad Kotor i Muzej mačaka",
     "trip2Name": "Kotor — kroz tunel Vrmac",
     "trip2P1": "Vozite dvanaest minuta kroz tunel Vrmac i parkirajte na parkingu Tabačina kod sjevernog zida Kotora. Stari grad je potpuno pješački, pa kolica za bebe funkcionišu na glatkim kamenim ulicama. Krenite prvo na glavni trg — sladoleđara na uglu prodaje odličnu stracciatella-u — zatim pronađite Muzej mačaka blizu sjevernih vrata. To je mala, neobična izložba o čuvenim lutalicama grada, sa suvenirima na temu mačaka za koje djeca gube glavu.",
     "trip2P2": "Ako vaša djeca imaju viška energije, uspon ka tvrđavi počinje od sjeveroistočnog ugla Starog grada. Prvi dio — oko dvjesta stepenika — vodi do crkve sa pogledom na zaliv i dobar je punkt za okretanje za mlade noge. Potpuni uspon od 1.350 stepenika do vrha je prikladniji za djecu stariju od osam godina. Ponesite boce sa vodom — nema prodavnica kad počnete da se penjete.",
-
     "h2Trip3": "Izlet treći: vožnja čamcem u Perastu",
     "trip3Name": "Perast — izlet čamcem na ostrvo",
     "trip3P1": "Perast leži dvadeset minuta sjeverno od Tivta obalnim putem. Jedina ulica na rivi je bez saobraćaja i okružena kafićima đe možete sjediti i gledati zaliv dok djeca trče po keju. Glavna atrakcija za porodice je petominutna vožnja taksi-čamcem do ostrva Gospa od Škrpjela — malog vještačkog ostrva sa crkvom, malim muzejom i dovoljno noviteta da fascinira djecu trideset minuta. Čamci polaze svakih petnaest minuta i koštaju oko pet eura povratna karta. Za slikovitu vožnju tamo, pogledajte naš",
     "trip3Link": "vodič za panoramski put Tivat-Kotor",
     "trip3P2": "Nakon posjete ostrvu, prošetajte na sjever duž rive Perasta do kioska sa sladoledom blizu zvonika. Ukus pistacija je lokalni favorit. Ako su vaša djeca još zainteresovana, Muzej Perasta u palati Bujović ima makete brodova i pomorske instrumente — izdržljivo za dvadesetominutnu posjetu bez muzejskog umora.",
-
     "h2Trip4": "Izlet četvrti: Stari grad Budve i plaža Mogren",
     "trip4Name": "Budva — grad u zidinama i plaža na litici",
     "trip4P1": "Budva je dvadeset pet minuta južno od Tivta kroz tunel Vrmac. Parkirajte u podzemnom parkingu kod zidina Starog grada. Poluostrvo u zidinama je dovoljno kompaktno da mala djeca mogu udobno hodati, a kaldrmsane ulice se otvaraju u male trgove sa fontanama i mačkama koje spavaju. Citadela na južnom vrhu ima niske zidove sa kojih djeca mogu viriti na more koje se razbija dole.",
     "trip4P2": "Od Citadele, pratite stazu usječenu u liticu na sjever do plaže Mogren — dvije pjeskovite uvale povezane kratkim tunelom kroz stijenu. Tunel je vrhunac za većinu djece. Plaža ima iznajmljivanje ležaljki, jednostavan kiosk i spasioca ljeti. Dubina se povećava postepeno, čineći je prikladnom za sigurne plivače. Vratite se do parkinga kroz Stari grad za sladoled u jednoj od prodavnica na trgu.",
-
     "h2Trip5": "Izlet peti: bazen i bič-klub Lustica Bay",
     "trip5Name": "Resort Lustica Bay — dan na bazenu",
     "trip5P1": "Kompleks Lustica Bay, deset minuta južno od Tivta na putu za poluostrvo, ima bazen i uređenu plažu otvorenu za goste koji nijesu rezidenti uz dnevnu naknadu. Bazen ima zasebnu dječiju sekciju sa plitkom vodom, a plaža ispod nudi iznajmljivanje kajaka i SUP dasaka. Osoblje govori engleski, svlačionice su čiste, i hrana se servira do ležaljke.",
     "trip5P2": "Ovo je najopuštenija opcija na listi — roditelji mogu čitati knjigu dok se djeca iscrpe u bazenu. Resort takođe ima mali avanturistički park blizu ulaza u hotel. Dnevne ulaznice se rasprodaju vikendom u špicu sezone, pa rezervišite online večer prije. Vrijeme vožnje od TIV-a je oko dvanaest minuta, a parking resorta je besplatan za dnevne goste.",
-
     "h2Packing": "Šta ponijeti za svaki izlet",
     "packSunLabel": "Zaštita od sunca:",
     "packSunVal": "SPF 50, šeširi, UV majice za kupanje. Mediteransko sunce je žestoko od 11 do 15h.",
@@ -874,38 +855,29 @@
     "packSnackLabel": "Grickalice:",
     "packSnackVal": "Voli supermarket blizu Porto Montenegra ima sve. Kupujte prije odlaska iz Tivta."
   },
-
   "blogIsland": {
     "title": "Ostrvo cvijeća: Prevlaka i crkve Miholjske",
     "subtitle": "Ostrva u zalivu sa ruševinama manastira, botaničkim vrtovima i skrivenim uvalama za kupanje.",
     "description": "Vodič za posjetu poluostrvu Prevlaka i ostrvu Sveti Marko kod Tivta — drevne ruševine manastira, mediteranski vrtovi i mirna mjesta za kupanje daleko od gužvi.",
-
     "h2What": "Dva ostrva, dvije priče",
     "whatP1": "Tivat leži na ušću plitkog zaliva posutog malim ostrvima, a dva od njih — Prevlaka (poznata i kao Ostrvo Cvijeća) i poluostrvo koje vodi do ruševina manastira Svetog Mihajla — dostupni su automobilom i pješke. Ovo nijesu tropska ostrva sa bijelim pijeskom; to su stijenoviti jadranski rtovi prekriveni mediteranskim borovima, divljim biljem i ruševnim zidovima srednjovjekovnih crkava. Njihov šarm leži u tišini, istoriji i kupanju.",
     "whatP2": "Prevlaka leži na vrhu uskog pojasa zemlje koji se proteže na jug od tivatske rive. Možete se odvesti do sto metara od ruševina manastira i preostalo prohodati pješke. Poluostrvo je nekada bilo pravo ostrvo, spojeno sa kopnom nasipom izgrađenim u devetnaestom vijeku. Naziv Ostrvo Cvijeća potiče od mediteranskog botaničkog vrta koji je pokrivao teren — čiji ostaci još cvjetaju između kamenih zidova.",
-
     "h2Getting": "Kako stići",
     "gettingP1": "Iz centra Tivta, vozite na jug duž obalne ceste pored trajektnog pristana. Nakon 2,5 kilometra, put se sužava na jednu traku i prelazi stari nasip na Prevlaku. Mali parking na kraju puta prima oko petnaest vozila. Ljeti, stignite prije 9h ili nakon 17h da biste našli mjesto — nema dodatnog parkinga i okretanje na uskom poluostrvu je nezgodno.",
     "gettingP2": "Vožnja od aerodroma TIV traje oko osam minuta. Skrenite lijevo od aerodroma, pratite rivu kroz Tivat i nastavite na jug pored trajektnog terminala. Ruta je ravna i jednostavna. Bez naplate, bez tunela, bez planinskih puteva — samo prijatna obalna vožnja sa zalivom na lijevoj strani.",
-
     "h2Gardens": "Botanički vrtovi",
     "gardensP1": "Originalni vrt je posađen u devetnaestom vijeku od strane plemićke porodice Buća, koja je uvela egzotične mediteranske vrste u prirodne borove i maslinikove šume. Palme, agave, oleandar i jasmin još rastu među ruševinama, a vazduh intenzivno miriše na ruzmarin i žalfiju toplim poslijepodnama. Nije to održavan botanički vrt u modernom smislu — niko ne potkresuje živicu niti označava vrste — ali divlja zaraštenost ima svoju ljepotu.",
     "gardensP2": "Šetnja vrtnim stazama traje oko trideset minuta. Staze su od zemlje i kamena, prohodne u sandalama ali lakše u patikama. Neke staze vode do malih stijenovitih platformi za kupanje na južnoj strani đe je voda bistra i duboka. Ponesite peškir i vodene cipele — ulaz u vodu je po glatkom kamenju, ne pijesku.",
-
     "altIsland": "Poluostrvo Prevlaka sa ruševinama manastira i borovima",
-
     "h2Walk": "Šetnja do manastira",
     "walkP1": "Ruševine manastira Svetog Mihajla (Arhangela Mihajla) nalaze se na najvišoj tačci poluostrva, okružene čempresima. Originalna crkva datira iz desetog vijeka, čineći je jednim od najstarijih vjerskih lokaliteta u Boki Kotorskoj. Arheolozi ovdje iskopavaju s prekidima već decenijama, i možete vidjeti otkrivene temeljne zidove, fragmente stubova i klesane kamene nadvratnike. Lokalitet nije ograđen niti čuvan — uđite i istražite slobodno. Za još jednu šetnju u prirodi blizu Tivta, pogledajte naš",
     "walkLink": "vodič za posmatranje ptica na Solilima",
     "walkP2": "Lokacija manastira bila je strateška — dominirala je pogledom na čitav ulaz u zaliv i otvoreni Jadran iza njega. Stanite kod južnog zida i vidjećete poluostrvo Luštica lijevo, tvrdavsko ostrvo Mamula pravo, i planine Herceg Novog preko vode desno. Vedrih dana, hrvatska obala je vidljiva u daljini. To je jedan od najboljih vidikovaca u Tivtu koji ne zahtijeva penjanje na planinu.",
-
     "h2History": "Kratka istorija",
     "historyP1": "Prevlaka je neprekidno naseljena najmanje od devetog vijeka. Benediktinski red je ovdje osnovao prvi manastir, koji je više puta rušen i obnavljan tokom osmanskih napada, mletačke vladavine i napoleonske okupacije. Na vrhuncu, manastir je imao skriptorijum koji je proizvodio iluminirane rukopise za crkve širom zaliva. Neki od tih rukopisa sačuvani su u Kotorskom pomorskom muzeju.",
     "historyP2": "U dvadesetom vijeku, jugoslovenska vlada je pretvorila poluostrvo u javni park i rekreaciono područje, posadivši dodatna stabla i izgradivši nasip koji ga spaja sa kopnom. Ruševine manastira su djelimično iskopane 1960-ih i ponovo 2000-ih. Danas lokalitetom upravlja opština Tivat kao područjem kulturnog nasljeđa, iako su signalizacija i sadržaji i dalje minimalni.",
-
     "h2Practical": "Praktične napomene",
     "practicalP": "Na Prevlaci nema prodavnica, kafića ni toaleta — ponesite sve što vam treba. Mjesta za kupanje nemaju spasioca. Hlad je obilan pod borovima ali direktno sunce jako udara po južnim stijenama ljeti. Komarci se pojavljuju uveče blizu nasipa đe se skuplja stajaća voda. Lokalitet je besplatan, otvoren čitave godine i nikad pretrpan — čak ni u avgustu, vjerovatno nećete dijeliti ruševine manastira sa više od šačice drugih posjetilaca.",
-
     "glanceTitle": "Ukratko",
     "glanceDrive": "Od TIV-a:",
     "glanceDriveVal": "8 min. vožnje, 2,5 km od centra Tivta",
@@ -916,16 +888,13 @@
     "glanceParking": "Parking:",
     "glanceParkingVal": "Mali parking na kraju puta, ~15 mjesta"
   },
-
   "blogGrocery": {
     "title": "Prva kupovina: prodavnice, SIM kartice i benzinske pumpe blizu TIV-a",
     "subtitle": "Đe se opskrbiti u roku od deset minuta od preuzimanja automobila.",
     "description": "Praktični vodič za supermarkete, prodavnice SIM kartica, benzinske pumpe, apoteke i bankomate u blizini aerodroma Tivat — sve što vam treba prije nego krenete ka smještaju.",
-
     "h2Why": "Zašto vaše prvo zaustavljanje treba biti supermarket",
     "whyP1": "Hotelske sobe u Crnoj Gori rijetko dolaze sa punim frižiderom, a apartmani za iznajmljivanje pretpostavljaju da ćete sami kupovati namirnice. Voda, kafa, hljeb i krema za sunčanje nijesu obezbijeđeni. Vaših prvih petnaest minuta sa rentalnim automobilom najbolje je provesti u supermarketu blizu aerodroma prije nego što odvezete do smještaja. To vas štedi od dolaska u seosku vilu na zalasku sunca i otkrića da je najbliža prodavnica trideset minuta vožnje nazad ka Tivtu.",
     "whyP2": "Crnogorski supermarketi imaju sve što evropski putnik očekuje — hladne napitke, svježe voće, mliječne proizvode, hljeb, toaletne potrepštine, sredstva za čišćenje i osnovne apotekarske artikle. Cijene su niže nego u Hrvatskoj ili Italiji, a izbor u većim prodavnicama je uporediv sa srednjim Lidlom ili Tesco Expressom. Kreditne kartice se prihvataju svuda u Tivtu; gotovina je potrebna samo za male ulične štandove i trajekt Verige.",
-
     "h2Supermarkets": "Tri supermarketa blizu TIV-a",
     "superP1": "Sva tri supermarketa su u roku od deset minuta vožnje od aerodroma:",
     "shopVoliLabel": "Voli:",
@@ -934,21 +903,16 @@
     "shopHDLVal": "Diskontni lanac sa nižim cijenama od Volija. Tivatska filijala je na putu ka Kotoru, pet minuta od TIV-a. Dobar za vodu na veliko, grickalice i sredstva za čišćenje. Manje svježih namirnica nego Voli ali sve je jeftinije.",
     "shopPijacaLabel": "Tivatska pijaca:",
     "shopPijacaVal": "Otvorena pijaca u centru Tivta. Otvorena ujutro svakog dana osim nedjelje. Lokalni poljoprivrednici prodaju paradajz, paprike, smokve, med, masline i domaći sir. Samo gotovina. Ovdje kupujete sastojke za pravi crnogorski doručak na svom balkonu.",
-
     "altShop": "Svježi proizvodi na tivatskoj pijaci",
-
     "h2Fuel": "Benzinske stanice",
     "fuelP1": "Dvije benzinske stanice opslužuju tivatsko područje. Jugopetrol leži 800 metara desno od izlaska sa aerodroma na glavni put — ovo je najbliža i ona koju većina rent-a-car kompanija očekuje za povratno punjenje. Druga Petrol stanica je u Radanovićima na putu za Budvu, oko deset minuta južno. Obje prihvataju Visa i Mastercard i prodaju dizel, bezolovni benzin i TNG.",
     "fuelP2": "Natočite prije odlaska u unutrašnjost ili na poluostrvo Luštica, đe uopšte nema benzinskih stanica. Ako idete u Dubrovnik, gorivo u Herceg Novom je jeftinije nego u Hrvatskoj. Više o aerodromu i logistici prvog sata u našem",
     "fuelLink": "vodiču za prvi sat na aerodromu",
-
     "h2Sim": "SIM kartice i mobilni internet",
     "simP1": "Roaming naknade EU se ne primjenjuju u Crnoj Gori — nije članica. Ako imate evropsku SIM, provjerite tarifu vašeg operatora za Crnu Goru prije slijetanja. Većina britanskih i EU tarifa naplaćuje između dva i šest eura po megabajtu bez dodatne opcije, što brzo crpi budžet koristeći navigacione aplikacije. Lokalna prepaid SIM je pametan izbor.",
     "simP2": "Telenor prodavnica u Ulici 21. novembra u centru Tivta prodaje turističke SIM setove za oko pet eura sa 10 GB podataka. m:tel prodavnica je dva vrata dalje sa sličnom ponudom. Oba se otvaraju u 8h radnim danima i 9h subotom. Ako stignete nedjeljom ili kasnim letom, supermarket Voli na kasi prodaje bazične Telenor SIM start pakete — pitajte na kasi.",
-
     "h2Pharmacy": "Apoteke i medicinski materijal",
     "pharmacyP": "Glavna apoteka u Tivtu je na uglu Ulice 21. novembra i Ulice Maršala Tita, pet minuta vožnje od aerodroma. Ima kremu za sunčanje, sredstvo protiv insekata, antihistaminike, osnovne potrepštine za prvu pomoć i lijekove na recept sa važećom evropskom preskripcijom. Druga apoteka radi u medicinskom centru u Ulici Nikole Đurkovića, otvorena radnim danima ujutro. Za hitne slučajeve van radnog vremena, apoteka bolnice Kotor radi 24 sata — dvanaest minuta kroz tunel Vrmac.",
-
     "h2Tips": "Brzi savjeti",
     "tipCashLabel": "Gotovina ili kartica:",
     "tipCashVal": "Kartice se prihvataju u svim supermarketima i na benzinskim pumpama. Nosite 20 EUR u gotovini za pijacu i trajekt Verige.",
@@ -959,26 +923,20 @@
     "tipWaterLabel": "Voda iz slavine:",
     "tipWaterVal": "Voda iz slavine u Tivtu je sigurna za piće. Kupite višekratnu bocu i punite umjesto da kupujete plastiku."
   },
-
   "blogKotor": {
     "title": "Tivat do Kotora: tunel ili panoramski put duž zaliva",
     "subtitle": "Dvije rute do istog grada u zidinama — i razlozi za svaku.",
     "description": "Poređenje vožnje između brzog tunela Vrmac i panoramskog obalnog puta od Tivta do Kotora. Vremena, stanice, parking i savjeti od lokalnog stanovnika koji vozi obje rute svake nedjelje.",
-
     "h2Two": "Dva puta, jedno odredište",
     "twoP1": "Kotor leži na suprotnoj strani planine Vrmac od Tivta. Planina stvara prirodni zid između dva grada, i postoje tačno dva načina da je zaobiđete: kroz tunel probušen pravo kroz stijenu, ili duž obalnog puta koji prati rivu oko podnožja planine. Lokalni stanovnici redovno koriste obje rute, birajući na osnovu vremenskog pritiska, vremena i raspoloženja. Nijedna nije definitvno bolja — služe različitim svrhama.",
     "twoP2": "Tunel vas dovede za dvanaest minuta ravno. Obalni put traje dvadeset minuta ali prolazi kroz ribarska sela, nudi tri vidikovca za zaustavljanje i prati vodu čitavim putem. Ako ostajete u Tivtu nedjelju dana, vozite tunel prvog dana kada ste umorni od putovanja, a obalni put sačuvajte za jutro kada imate vremena da se zaustavite i fotografišete.",
-
     "h2Tunnel": "Ruta tunelom Vrmac",
     "tunnelP1": "Izađite iz TIV-a i skrenite lijevo na glavni put. Nakon tri kilometra, ulaz u tunel Vrmac se pojavljuje na lijevoj strani. Tunel je dugačak 1,4 kilometra, dobro osvijetljen i ima dvije trake sa ograničenjem brzine od 60 km/h. Svjetla su obavezna unutra — većina rentalnih automobila ih automatski uključuje. Izlazite na kotorskoj strani na kružni tok iznad zaliva, sa zidinama starog grada vidljivim dole. Pratite znakove ka rivi.",
     "tunnelP2": "Ovo je ruta koju svaka rent-a-kar kompanija preporučuje jer je brza, direktna i nemoguće se izgubiti. Put je u odličnom stanju, tunel je besplatan, a saobraćaj je minimalan osim tokom ljetnih popodnevnih špiceva kada se svi vraćaju iz Kotora istovremeno. Ako stižete na TIV nakon dugog leta i samo želite brzo stići do smještaja, tunel je očigledan izbor.",
-
     "h2Bay": "Panoramski obalni put",
     "bayP1": "Obalni put kreće od istog izlaza sa aerodroma ali umjesto da uđete u tunel, nastavljate pravo duž rive. Put prolazi kroz Muo — ribarsko selo đe su šareni drveni čamci izvučeni na kej — zatim kroz Prčanj, đe Kapetanske kuće stoje duž rive. Ove raskošne kamene vile su sagradili bogati brodski kapetani tokom mletačkog perioda, a nekoliko ih je prelijepo restaurirano.",
     "bayP2": "Između Prčanja i Kotora, put se na mjestima sužava na jednu traku i prati zaliv toliko blizu da za vrijeme zimskih oluja prskalice dosežu automobil. Postoje tri neslužbena vidikovca đe se možete zaustaviti, fotografisati zaliv i posmatrati trajekt kako prelazi tjesnac u daljini. Finalni prilaz Kotoru je duž podnožja gradskih zidina, sa tvrđavom koja se penje planinom iznad vas. To je dramatičniji dolazak od izlaska iz tunela.",
-
     "altBay": "Obalni put Boke Kotorske između Mua i Prčanja sa planinama",
-
     "h2Stops": "Đe se zaustaviti na obalnom putu",
     "stopsP1": "Tri mjesta duž obalnog puta zaslužuju pauzu:",
     "stopMuoLabel": "Ribarski kej Muo:",
@@ -987,14 +945,11 @@
     "stopPrcanjVal": "Ovdje stoji najveća nedovršena crkva na jadranskoj obali — katedrala Rođenja Blažene Djevice Marije, početa u 18. vijeku i nikada dovršena. Fasada je impresivna sa puta.",
     "stopViewLabel": "Vidikovac (km 7):",
     "stopViewVal": "Neoznačeni makadamski proširenje na desnoj strani puta sa mjestom za tri automobila. Pogled obuhvata čitav unutrašnji zaliv: Perast, oba ostrva i planinski prsten.",
-
     "h2Parking": "Parking u Kotoru",
     "parkingP": "Obje rute završavaju na istom kružnom toku ispod zidina Kotora. Višespratni parking Tabačina je 100 metara od ovog kružnog toka — plaćen, pokriven i najbliža opcija Morskim vratima Starog grada. Ljeti se napuni do 10h, pa stignite rano. Parking kod Riječnih vrata duž potoka Škurda je jeftiniji i ponekad ima mjesta kada je Tabačina pun. U julu i avgustu, pomoćni parking funkcioniše na pristupnom putu sa shuttle-om. Za porodične stanice u Kotoru, pogledajte naš",
     "parkingLink": "vodič za porodične izlete",
-
     "h2Return": "Povratak: zašto uzeti drugu rutu",
     "returnP": "Evo lokalnog trika: ujutro vozite u Kotor kroz tunel da uštedite vrijeme, a vratite se obalnim putem kasno popodne kada je svjetlo na vodi zlatno. Obalni put gleda na zapad na povratku, što znači da zalazak sunca osvjetljava planine, voda postaje bakrena i čitav zaliv izgleda kao slika. Dodaje osam minuta povratku ali pretvara tranzitnu vožnju u pejzažni vrhunac vašeg dana. Crnogorci ovaj dio obalnog puta nazivaju jednom od najljepših obalnih vožnji u Evropi, i jednom izuzetno, marketing ne pretjeruje.",
-
     "glanceTitle": "Ukratko",
     "glanceTunnel": "Ruta tunelom:",
     "glanceTunnelVal": "12 min., direktno, bez naplate",
@@ -1004,5 +959,31 @@
     "glanceDistanceVal": "9 km (tunel) / 14 km (obalni put)",
     "glanceToll": "Naplata tunela:",
     "glanceTollVal": "Besplatno — bez naknade u oba smjera"
+  },
+  "contentPage": {
+    "youMightAlsoLike": "Možda će vam se svideti i",
+    "readyCta": "Spremni da vozite Tivat?",
+    "searchCars": "Pretražite automobile"
+  },
+  "relatedGuides": {
+    "secretChurches": "Skriveni kutci",
+    "vrmacRidge": "Prekrasne vožnje",
+    "swimmingSpots": "Najbolja mjesta za plivanje"
+  },
+  "navTop": {
+    "carRental": "Iznajmljivanje automobila",
+    "destinations": "Odredišta",
+    "travelGuides": "Vodiči putovanja",
+    "bokaBayRentals": "Ulazna kapija aerodroma"
+  },
+  "cookieBanner": {
+    "title": "Politika kolačića",
+    "text": "Koristimo kolačiće da poboljšamo vaše iskustvo. Nastavkom korištenja ovog sajta, slažete se sa našom",
+    "accept": "Prihvati",
+    "decline": "Odbij"
+  },
+  "contact": {
+    "title": "Kontaktirajte nas",
+    "seoDesc": "Kontaktirajte Tivat Car Hire. Email, WhatsApp i kontakt obrazac."
   }
 }

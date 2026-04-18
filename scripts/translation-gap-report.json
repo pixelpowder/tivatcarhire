@@ -1,0 +1,48 @@
+{
+  "enKeyCount": 793,
+  "missing": {
+    "de": [],
+    "fr": [],
+    "it": [],
+    "ru": [],
+    "me": []
+  },
+  "englishCopied": {
+    "de": [
+      "about.p3Link2",
+      "destCards.dubrovnik-airport.name",
+      "destCards.tivat.tag",
+      "destCards.podgorica.name",
+      "tivatBody.portoTitle",
+      "blogLustica.beachDobreLabel"
+    ],
+    "fr": [
+      "nav.destinations",
+      "footer.destinations",
+      "about.p3Link2",
+      "destCards.dubrovnik-airport.name",
+      "destCards.tivat.tag",
+      "destCards.podgorica.name",
+      "tivatBody.portoTitle",
+      "navTop.destinations"
+    ],
+    "it": [
+      "about.p3Link2",
+      "destCards.dubrovnik-airport.name",
+      "destCards.podgorica.name",
+      "tivatBody.portoTitle",
+      "blogLustica.beachDobreLabel"
+    ],
+    "ru": [
+      "about.p3Link2",
+      "destCards.podgorica.name",
+      "tivatBody.portoTitle"
+    ],
+    "me": [
+      "about.p3Link2",
+      "destCards.dubrovnik-airport.name",
+      "destCards.podgorica.name",
+      "blogLustica.beachDobreLabel"
+    ]
+  }
+}
