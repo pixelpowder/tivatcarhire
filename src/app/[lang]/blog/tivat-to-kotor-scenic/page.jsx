@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogKotor.title') + ' | Tivat Car Hire',
     description: t(lang, 'blogKotor.description'),
-    alternates: buildAlternates('blog/tivat-to-kotor-scenic'),
+    alternates: buildAlternates('blog/tivat-to-kotor-scenic', lang),
   };
 }
 

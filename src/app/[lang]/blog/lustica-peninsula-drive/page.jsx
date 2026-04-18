@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogLustica.title') + ' | Tivat Car Hire',
     description: t(lang, 'blogLustica.description'),
-    alternates: buildAlternates('blog/lustica-peninsula-drive'),
+    alternates: buildAlternates('blog/lustica-peninsula-drive', lang),
   };
 }
 

@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'border-crossing.title') + ' | Tivat Car Hire',
     description: t(lang, 'border-crossing.seoDesc'),
-    alternates: buildAlternates('border-crossing-guide'),
+    alternates: buildAlternates('border-crossing-guide', lang),
   };
 }
 

@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogAirport.title') + ' | Tivat Car Hire',
     description: t(lang, 'blogAirport.description'),
-    alternates: buildAlternates('blog/tivat-airport-first-hour'),
+    alternates: buildAlternates('blog/tivat-airport-first-hour', lang),
   };
 }
 

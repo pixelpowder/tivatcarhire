@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: 'Contact Us | Tivat Car Hire',
     description: 'Get in touch with Tivat Car Hire. We help you find the perfect rental car from Tivat Airport.',
-    alternates: buildAlternates('contact'),
+    alternates: buildAlternates('contact', lang),
   };
 }
 

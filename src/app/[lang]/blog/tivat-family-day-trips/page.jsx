@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogFamily.title') + ' | Tivat Car Hire',
     description: t(lang, 'blogFamily.description'),
-    alternates: buildAlternates('blog/tivat-family-day-trips'),
+    alternates: buildAlternates('blog/tivat-family-day-trips', lang),
   };
 }
 

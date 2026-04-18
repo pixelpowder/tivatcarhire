@@ -6,7 +6,7 @@ export async function generateMetadata({ params }) {
   return {
     title: t(lang, 'blogPorto.title') + ' | Tivat Car Hire',
     description: t(lang, 'blogPorto.description'),
-    alternates: buildAlternates('blog/porto-montenegro-guide'),
+    alternates: buildAlternates('blog/porto-montenegro-guide', lang),
   };
 }
 
