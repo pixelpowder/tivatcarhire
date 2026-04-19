@@ -14,8 +14,8 @@ export default function LangTivatFamilyDayTripsRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogFamily.title'),
-    "description": t('en', 'blogFamily.description'),
+    "headline": t(lang, 'blogFamily.title'),
+    "description": t(lang, 'blogFamily.description'),
     "image": "https://www.tivatcarhire.com/img/blog-tivat-family-day-trips.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

@@ -14,8 +14,8 @@ export default function LangPortoMontenegroGuideRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogPorto.title'),
-    "description": t('en', 'blogPorto.description'),
+    "headline": t(lang, 'blogPorto.title'),
+    "description": t(lang, 'blogPorto.description'),
     "image": "https://www.tivatcarhire.com/img/blog-porto-montenegro-guide.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

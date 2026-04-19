@@ -4,8 +4,8 @@ import { t, buildAlternates } from '@/src/app/metadata';
 export async function generateMetadata({ params }) {
   const { lang } = await params;
   return {
-    title: 'Contact Us | Tivat Car Hire',
-    description: 'Get in touch with Tivat Car Hire. We help you find the perfect rental car from Tivat Airport.',
+    title: t(lang, 'contact.title') + ' | Tivat Car Hire',
+    description: t(lang, 'contact.seoDesc'),
     alternates: buildAlternates('contact', lang),
   };
 }

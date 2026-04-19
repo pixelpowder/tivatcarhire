@@ -14,8 +14,8 @@ export default function LangTivatToDubrovnikCoastalRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogDubrovnik.title'),
-    "description": t('en', 'blogDubrovnik.description'),
+    "headline": t(lang, 'blogDubrovnik.title'),
+    "description": t(lang, 'blogDubrovnik.description'),
     "image": "https://www.tivatcarhire.com/img/blog-tivat-to-dubrovnik-coastal.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

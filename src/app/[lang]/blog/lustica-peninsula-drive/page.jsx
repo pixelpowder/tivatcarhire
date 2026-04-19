@@ -14,8 +14,8 @@ export default function LangLusticaPeninsulaDriveRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogLustica.title'),
-    "description": t('en', 'blogLustica.description'),
+    "headline": t(lang, 'blogLustica.title'),
+    "description": t(lang, 'blogLustica.description'),
     "image": "https://www.tivatcarhire.com/img/blog-lustica-peninsula-drive.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

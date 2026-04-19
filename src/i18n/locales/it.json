@@ -3,7 +3,7 @@
     "book": "Prenota",
     "destinations": "Destinazioni",
     "about": "Chi Siamo",
-    "blog": "Blog",
+    "blog": "Guida",
     "contact": "Contatti"
   },
   "common": {
@@ -984,6 +984,8 @@
   },
   "contact": {
     "title": "Contattaci",
-    "seoDesc": "Entra in contatto con Tivat Car Hire. Email, WhatsApp e modulo di contatto."
+    "seoDesc": "Entra in contatto con Tivat Car Hire. Email, WhatsApp e modulo di contatto.",
+    "heading": "Contattaci",
+    "intro": "Hai una domanda sul noleggio auto a Tivat? Contattaci e ti aiuteremo a trovare il veicolo perfetto per il tuo viaggio."
   }
 }

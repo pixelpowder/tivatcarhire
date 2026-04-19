@@ -14,8 +14,8 @@ export default function LangTivatSolilaNatureRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogSolila.title'),
-    "description": t('en', 'blogSolila.description'),
+    "headline": t(lang, 'blogSolila.title'),
+    "description": t(lang, 'blogSolila.description'),
     "image": "https://www.tivatcarhire.com/img/blog-tivat-solila-nature.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

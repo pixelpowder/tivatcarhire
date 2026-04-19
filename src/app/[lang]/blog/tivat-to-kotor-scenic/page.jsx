@@ -14,8 +14,8 @@ export default function LangTivatToKotorScenicRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogKotor.title'),
-    "description": t('en', 'blogKotor.description'),
+    "headline": t(lang, 'blogKotor.title'),
+    "description": t(lang, 'blogKotor.description'),
     "image": "https://www.tivatcarhire.com/img/blog-tivat-to-kotor-scenic.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

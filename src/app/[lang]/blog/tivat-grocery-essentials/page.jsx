@@ -14,8 +14,8 @@ export default function LangTivatGroceryEssentialsRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogGrocery.title'),
-    "description": t('en', 'blogGrocery.description'),
+    "headline": t(lang, 'blogGrocery.title'),
+    "description": t(lang, 'blogGrocery.description'),
     "image": "https://www.tivatcarhire.com/img/blog-tivat-grocery-essentials.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

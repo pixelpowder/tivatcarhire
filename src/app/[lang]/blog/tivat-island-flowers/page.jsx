@@ -14,8 +14,8 @@ export default function LangTivatIslandFlowersRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogIsland.title'),
-    "description": t('en', 'blogIsland.description'),
+    "headline": t(lang, 'blogIsland.title'),
+    "description": t(lang, 'blogIsland.description'),
     "image": "https://www.tivatcarhire.com/img/blog-tivat-island-flowers.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",

@@ -14,12 +14,8 @@ export default function Contact() {
       <div className="content-page" style={{ paddingTop: '120px', flex: 1 }}>
         <div className="container">
           <div style={{ maxWidth: '700px', margin: '0 auto', padding: '40px 0' }}>
-            <h1 style={{ fontSize: 'clamp(28px, 4vw, 42px)', fontWeight: 800, color: 'var(--navy)', marginBottom: '12px' }}>
-              Contact Us
-            </h1>
-            <p style={{ fontSize: '16px', color: 'var(--gray-600)', marginBottom: '40px', lineHeight: 1.6 }}>
-              Have a question about renting a car from Tivat? Get in touch and we'll help you find the perfect vehicle for your trip.
-            </p>
+            <h1 style={{ fontSize: 'clamp(28px, 4vw, 42px)', fontWeight: 800, color: 'var(--navy)', marginBottom: '12px' }}>{t('contact.heading')}</h1>
+            <p style={{ fontSize: '16px', color: 'var(--gray-600)', marginBottom: '40px', lineHeight: 1.6 }}>{t('contact.intro')}</p>
 
             <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '20px', marginBottom: '40px' }}>
               <a href={`mailto:${config.email}`} style={{ display: 'flex', alignItems: 'center', gap: '12px', padding: '20px', background: 'var(--gray-50)', borderRadius: '12px', textDecoration: 'none', color: 'var(--navy)' }}>

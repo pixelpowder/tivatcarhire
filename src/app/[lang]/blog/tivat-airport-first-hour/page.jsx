@@ -14,8 +14,8 @@ export default function LangTivatAirportFirstHourRoute() {
   const articleSchema = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": t('en', 'blogAirport.title'),
-    "description": t('en', 'blogAirport.description'),
+    "headline": t(lang, 'blogAirport.title'),
+    "description": t(lang, 'blogAirport.description'),
     "image": "https://www.tivatcarhire.com/img/blog-tivat-airport-first-hour.webp",
     "datePublished": "2026-04-08",
     "dateModified": "2026-04-08",
