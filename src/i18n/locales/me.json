@@ -48,18 +48,18 @@
   "howItWorks": {
     "label": "Kako Funkcioniše",
     "title": "Na Putu u 3 Koraka",
-    "subtitle": "Jednostavna rezervacija. Trenutna potvrda. Bez čekanja na aerodromu.",
+    "subtitle": "Sletite u TIV, uzmite prtljag, prošetajte do automobila. Bez šatla, bez reda za transfer.",
     "step1Title": "Izaberite Lokaciju",
-    "step1Desc": "Birajte između aerodroma, Kotora, Budve, Perasta i drugih tačaka za preuzimanje širom Crne Gore i šire.",
+    "step1Desc": "Dolasci aerodroma Tivat, marina Porto Montenegro, kapija starog grada Kotora, autobuska stanica Budva ili jedno od više od 28 mjesta širom zemlje.",
     "step2Title": "Izaberite Auto",
-    "step2Desc": "Pregledajte našu flotu od ekonomičnih gradskih automobila do premium SUV-ova. Filtrirajte po veličini, mjenjaču ili budžetu.",
+    "step2Desc": "Filtrirajte prema mjenjaču, broju putnika ili budžetu. Ekonomični hečbek modeli od €13/day, SUV za planinske puteve, automatici za one koji prvi put voze jadranske serpentine.",
     "step3Title": "Vozite Crnom Gorom",
-    "step3Desc": "Dočekujemo vas na izlazu. Vaš auto je spreman. Istražite obalu, planine i istorijske gradove."
+    "step3Desc": "Vaš automobil čeka na kratkotrajnom parkingu TIV, 40 metara od izlaza iz terminala. Desno za Budvu kroz tunel Vrmac, lijevo za Kotor duž zaliva."
   },
   "fleet": {
     "label": "Naša Flota",
     "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Pregledajte dostupnost i cijene u realnom vremenu, rezervišite direktno."
+    "subtitle": "Cijene uživo, zalihe u realnom vremenu, ono što vidite je ono što je na pisti u TIV."
   },
   "brands": {
     "label": "Provjereni brendovi u našoj floti"
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Top Destinacije",
     "title": "Istražite Crnu Goru",
-    "subtitle": "Od Bokokotorskog zaliva do albanske granice, svaka destinacija je drugi svijet."
+    "subtitle": "Aerodrom Tivat se nalazi na pola puta duž zaliva. Kotor je sjeverno, Budva južno, Porto Montenegro preko puta. Ništa nije daleko."
   },
   "features": {
     "label": "Zašto Mi",
@@ -77,7 +77,7 @@
   "reviews": {
     "label": "Recenzije",
     "title": "Omiljeni Među Putnicima",
-    "subtitle": "Stvarna iskustva stvarnih korisnika širom Crne Gore."
+    "subtitle": "Utisci putnika koji su preuzeli vozilo na dolascima u TIV."
   },
   "faq": {
     "label": "FAQ",
@@ -86,7 +86,7 @@
   },
   "cta": {
     "title": "Spremni da Istražite Crnu Goru?",
-    "subtitle": "Rezervišite za nekoliko minuta. Preuzmite na aerodromu. Vozite cijelom jadranskom obalom sopstvenim tempom.",
+    "subtitle": "Pretražite sada, rezervišite cijenu, otkažite besplatno ako se planovi promijene. Vaš automobil će čekati na kratkotrajnom parkingu TIV kada sletite.",
     "browseFleet": "Pregledaj Flotu"
   },
   "sidebar": {
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Pogrešno Skretanje",
-    "text": "Izgleda da ste skrenuli s puta. Ova cesta ne vodi nikuda, ali najbolje rute Crne Gore su na jedan klik.",
+    "text": "Ovaj put ne vodi nikuda, ali izlaz sa aerodroma je samo jedan klik daleko. Vratite se i izaberite rutu.",
     "backHome": "Nazad na Početnu",
     "searchCars": "Pretraži Auta"
   },
@@ -363,22 +363,22 @@
   },
   "aboutBody": {
     "h1": "Rent a car Crna Gora",
-    "p1": "Od 2007. godine, Crna Gora Car Hire povezuje putnike sa pouzdanim i pristupačnim rent-a-car vozilima širom Crna Gora. Ono što je počelo kao jednostavna ideja, olakšati posjetiocima istraživanje ovog zadivljujućeg kutka Adriatic, izraslo je u jednu od najpouzdanijih usluga iznajmljivanja vozila u zemlji.",
+    "p1": "Tivat Car Hire postoji iz jednog razloga: da putnike po dolasku što brže fizički moguće dovede do iznajmljenog vozila. TIV je kompaktan aerodrom sa jednim terminalom, bez pokretnih traka, bez vozova između terminala, bez šatlova. Preuzimanje prtljaga je 40 metara od kratkotrajnog parkinga. Tu držimo vozila, tako da od trake za prtljag do sjedišta vozača prođete za nekoliko minuta, a ne sati.",
     "h2": "Zašto smo počeli",
-    "p2": "Crna Gora je zemlja koja se najbolje doživljava sopstvenim tempom. Vijugavi obalni putevi, skrivena planinska sela i gradovi pod zaštitom UNESCO-a teško su dostupni javnim prevozom. Prepoznali smo priliku da putnicima pružimo slobodu da otkriju Crna Gora na svoj način, bez rasporeda turističkih autobusa, bez propuštenih vidikovaca, bez kompromisa.",
+    "p2": "Svakog ljeta, easyJet, Ryanair, TUI i Wizz Air kroz terminal manji od većine supermarketa propuštaju stotine hiljada putnika. Ta zbijenost je prednost, ali samo ako je Vaše vozilo već na licu mjesta. Depoi van aerodroma zahtijevaju transfere koji poništavaju vrijeme koje TIV uštedi svojom strukturom. Svako vozilo držimo u pješačkoj udaljenosti od dolazaka, tako da prednost malog aerodroma zaista radi za Vas.",
     "h3": "Šta nudimo",
-    "p3": "Pružamo usluge iznajmljivanja vozila širom Crna Gora, sa preuzimanjem i vraćanjem na aerodromu Tivat, aerodromu Podgorica, kao i na lokacijama duž obale i u unutrašnjosti. Naša flota obuhvata sve, od kompaktnih gradskih automobila do prostranih SUV vozila, sa potpunim osiguranjem i bez skrivenih troškova.",
+    "p3": "Preuzmite prtljag, izađite kroz vrata terminala, pređite preko prilazne trake do kratkotrajnog parkinga. Naš agent je tu sa Vašim ključevima i dokumentima. Potpišite, namjestite retrovizore i krenite. Desno prema Budvi kroz tunel Vrmac, lijevo duž zaliva prema Kotoru i Perastu ili pravo prema Porto Montenegru i Luštici. Jugopetrol pumpa je 800 metara dalje glavnim putem ako želite da natočite gorivo prije polaska.",
     "promiseTitle": "Naše obećanje",
     "promise1": "Potpuno osiguranje sa opcijom nulte franšize",
-    "promise2": "Doček na aerodromu, donosimo automobil direktno do sale za dolaske",
-    "promise3": "Bez skrivenih troškova, cijena koju vidite je cijena koju plaćate",
-    "promise4": "Dozvoljena prekogranična putovanja u Hrvatsku, Bosnu, Albaniju, Srbiju i Kosovo",
+    "promise2": "Dočekivanje na kratkotrajnom parkingu TIV, 40 m od terminala",
+    "promise3": "Transparentne cijene, iznos na kasi je konačan iznos",
+    "promise4": "Prekogranična zelena karta za Hrvatsku, Bosnu, Albaniju, Srbiju, Kosovo",
     "promise5": "Besplatno otkazivanje za većinu rezervacija",
     "promise6": "Pomoć na putu 24/7 tokom cijelog putovanja",
     "h4": "Lokalno znanje",
-    "p4": "Sa sjedištem u Crna Gora, poznajemo puteve, najbolje rute i skrivene dragulje koje turistički vodiči ne pominju. Bilo da vozite sa aerodroma Tivat do srednjovjekovnog starog grada Kotor, idete slikovitom rutom kroz Boku Kotorsku do Perast, ili se upućujete u unutrašnjost ka Nacionalnom parku Durmitor, možemo vam pomoći da isplanirate savršeno putovanje.",
+    "p4": "Ove puteve vozimo svakodnevno. Znamo da tunel Vrmac vožnju do Kotora skraćuje na 12 minuta, da trajekt Verige preko ulaza u zaliv štedi 45 minuta u odnosu na dugi put do Herceg Novog, da je pumpa Radanovići posljednje stajalište prije rivijere Budve, i da se parking Tabačina u Kotoru u julu puni već do 10 ujutru. Pitajte nas bilo šta pri preuzimanju, savjeti o rutama su besplatni i neograničeni.",
     "h5": "Kontaktirajte nas",
-    "p5": "Imate pitanje o iznajmljivanju automobila u Crna Gora? Dostupni smo putem telefona, WhatsApp i Viber. Pregledajte našu flotu online i rezervišite za nekoliko minuta, ili nam se javite i pomoći ćemo vam da pronađete savršen automobil za vaše putovanje."
+    "p5": "Imate pitanja prije leta? WhatsApp, Viber ili telefon, odgovaramo za nekoliko minuta tokom radnog vremena. Pretražite flotu na sajtu, rezervišite cijenu, a Vaš automobil će čekati na parkingu TIV čim Vaš let sleti."
   },
   "kotorBody": {
     "h1": "Kotor -- Lokalitet pod Zastitom UNESCO-a",

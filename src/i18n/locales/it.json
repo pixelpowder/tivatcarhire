@@ -48,18 +48,18 @@
   "howItWorks": {
     "label": "Come Funziona",
     "title": "In Strada in 3 Passi",
-    "subtitle": "Prenotazione semplice. Conferma immediata. Nessuna coda in aeroporto.",
+    "subtitle": "Atterri a TIV, ritiri i bagagli, cammini fino alla Sua auto. Nessuna navetta, nessuna coda al transfer.",
     "step1Title": "Scegli il Luogo",
-    "step1Desc": "Scegli tra aeroporti, Kotor, Budva, Perast e altri punti di ritiro in tutto il Montenegro e oltre.",
+    "step1Desc": "Arrivi all'aeroporto di Tivat, marina di Porto Montenegro, porta della città vecchia di Kotor, stazione degli autobus di Budva, o uno degli oltre 28 punti nel paese.",
     "step2Title": "Scegli la Tua Auto",
-    "step2Desc": "Sfoglia la nostra flotta dalle utilitarie ai SUV premium. Filtra per dimensione, cambio o budget.",
+    "step2Desc": "Filtri per cambio, numero di passeggeri o budget. Utilitarie economiche da €13/day, SUV per le strade di montagna, automatiche per i principianti sui tornanti adriatici.",
     "step3Title": "Guida in Montenegro",
-    "step3Desc": "Ti accogliamo agli arrivi. La tua auto è pronta. Esplora la costa, le montagne e le città storiche."
+    "step3Desc": "La Sua auto L'aspetta nel parcheggio breve TIV, a 40 metri dall'uscita del terminal. A destra per Budva attraverso il tunnel di Vrmac, a sinistra per Kotor lungo la baia."
   },
   "fleet": {
     "label": "La Nostra Flotta",
     "title": "Scegli la Tua Auto",
-    "subtitle": "Consulta disponibilità e prezzi in tempo reale, prenota direttamente."
+    "subtitle": "Prezzi in diretta, stock in tempo reale, ciò che vede è ciò che si trova sul piazzale di TIV."
   },
   "brands": {
     "label": "Marchi affidabili nella nostra flotta"
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Destinazioni Principali",
     "title": "Esplora il Montenegro",
-    "subtitle": "Dalle Bocche di Kotor al confine albanese, ogni destinazione è un mondo diverso."
+    "subtitle": "L'aeroporto di Tivat si trova a metà strada lungo la baia. Kotor a nord, Budva a sud, Porto Montenegro dall'altra parte della strada. Nulla è lontano."
   },
   "features": {
     "label": "Perché Sceglierci",
@@ -77,7 +77,7 @@
   "reviews": {
     "label": "Recensioni",
     "title": "Amato dai Viaggiatori",
-    "subtitle": "Esperienze reali di clienti reali in tutto il Montenegro."
+    "subtitle": "Feedback di viaggiatori che hanno ritirato l'auto agli arrivi di TIV."
   },
   "faq": {
     "label": "FAQ",
@@ -86,7 +86,7 @@
   },
   "cta": {
     "title": "Pronto a Esplorare il Montenegro?",
-    "subtitle": "Prenota in pochi minuti. Ritira in aeroporto. Percorri tutta la costa adriatica al tuo ritmo.",
+    "subtitle": "Cerchi ora, blocchi un prezzo, cancelli gratuitamente se i piani cambiano. La Sua auto La aspetterà nel parcheggio breve TIV quando atterrerà.",
     "browseFleet": "Sfoglia la Flotta"
   },
   "sidebar": {
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Strada Sbagliata",
-    "text": "Sembra che tu abbia preso una deviazione. Questa strada non porta da nessuna parte, ma le migliori rotte del Montenegro sono a un solo clic.",
+    "text": "Questa strada non porta da nessuna parte, ma l'uscita dell'aeroporto è a un clic di distanza. Torni indietro e scelga un percorso.",
     "backHome": "Torna alla Home",
     "searchCars": "Cerca Auto"
   },
@@ -363,22 +363,22 @@
   },
   "aboutBody": {
     "h1": "Noleggio Auto Tivat",
-    "p1": "Dal 2007, Tivat Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea, rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic, è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
+    "p1": "Tivat Car Hire esiste per una sola ragione: mettere i passeggeri in arrivo in un'auto a noleggio nel minor tempo fisicamente possibile. TIV è un aeroporto compatto con un unico terminal, senza tappeti mobili, senza treni tra terminal, senza navette. Il ritiro bagagli si trova a 40 metri dal parcheggio breve. Lì stazioniamo i veicoli, così si passa dal nastro al sedile di guida in pochi minuti, non in ore.",
     "h2": "Perché abbiamo iniziato",
-    "p2": "Il Montenegro è un Paese che si vive meglio al proprio ritmo. Le tortuose strade costiere, i villaggi di montagna nascosti e le città patrimonio UNESCO sono difficili da raggiungere con i mezzi pubblici. Abbiamo colto l'opportunità di offrire ai viaggiatori la libertà di scoprire il Montenegro alle proprie condizioni, niente orari di pullman turistici, niente panorami persi, nessun compromesso.",
+    "p2": "Ogni estate, easyJet, Ryanair, TUI e Wizz Air incanalano centinaia di migliaia di passeggeri attraverso un terminal più piccolo della maggior parte dei supermercati. Questa disposizione compatta è un vantaggio, ma solo se la Sua auto è già sul posto. I depositi fuori aeroporto richiedono transfer che vanificano il tempo risparmiato dalla struttura di TIV. Teniamo ogni veicolo a distanza di pochi passi dagli arrivi perché il vantaggio del piccolo aeroporto giochi davvero a Suo favore.",
     "h3": "Cosa offriamo",
-    "p3": "Offriamo servizi di autonoleggio in tutto il Montenegro, con ritiro e riconsegna presso l'aeroporto di Tivat, l'aeroporto di Podgorica e in diverse località lungo la costa e nell'entroterra. La nostra flotta spazia dalle auto compatte per la città ai SUV spaziosi, tutti con assicurazione completa e senza costi nascosti.",
+    "p3": "Ritiri i bagagli, esca dalle porte del terminal, attraversi la via di accesso fino al parcheggio breve. Il nostro agente è lì con le Sue chiavi e i documenti. Firmi, regoli gli specchietti e parta. A destra per Budva attraverso il tunnel di Vrmac, a sinistra lungo la strada della baia verso Kotor e Perast, o dritto per Porto Montenegro e Lustica Bay. Una stazione di servizio Jugopetrol si trova a 800 metri lungo la strada principale se desidera fare rifornimento prima di partire.",
     "promiseTitle": "La nostra promessa",
-    "promise1": "Assicurazione completa con opzione franchigia zero",
-    "promise2": "Accoglienza in aeroporto, portiamo l'auto direttamente all'area arrivi",
-    "promise3": "Nessun costo nascosto, il prezzo che vedi è il prezzo che paghi",
-    "promise4": "Viaggi transfrontalieri consentiti verso Croazia, Bosnia, Albania, Serbia e Kosovo",
-    "promise5": "Cancellazione gratuita sulla maggior parte delle prenotazioni",
-    "promise6": "Assistenza stradale 24/7 per tutta la durata del viaggio",
+    "promise1": "CDW e protezione furto, upgrade a franchigia zero disponibile",
+    "promise2": "Accoglienza al parcheggio breve TIV, a 40 m dal terminal",
+    "promise3": "Prezzi trasparenti, la cifra al checkout è la cifra finale",
+    "promise4": "Carta Verde transfrontaliera per Croazia, Bosnia, Albania, Serbia, Kosovo",
+    "promise5": "Cancellazione gratuita fino a 7 giorni prima del ritiro (30 giorni per il premium)",
+    "promise6": "Linea di assistenza stradale 24 ore su 24 gestita da meccanici locali",
     "h4": "Conoscenza locale",
-    "p4": "Con sede in Montenegro, conosciamo le strade, i percorsi migliori e le perle nascoste che le guide non menzionano. Che stiate guidando dall'aeroporto di Tivat al centro storico medievale di Kotor, percorrendo la strada panoramica attraverso le Bocche di Kotor fino a Perast, o dirigendovi verso l'entroterra fino al Parco Nazionale del Durmitor, possiamo aiutarvi a pianificare il viaggio in auto perfetto.",
+    "p4": "Percorriamo queste strade ogni giorno. Sappiamo che il tunnel di Vrmac riduce il tragitto verso Kotor a 12 minuti, che il traghetto Verige attraverso la bocca della baia fa risparmiare 45 minuti rispetto alla lunga strada per Herceg Novi, che la stazione Radanovici è l'ultima sosta prima della riviera di Budva, e che il parcheggio Tabacina di Kotor si riempie entro le 10 del mattino a luglio. Ci chieda qualsiasi cosa al ritiro, i consigli sul percorso sono gratuiti e illimitati.",
     "h5": "Contattaci",
-    "p5": "Hai domande sul noleggio auto in Montenegro? Siamo raggiungibili via telefono, WhatsApp e Viber. Sfoglia la nostra flotta online e prenota in pochi minuti, oppure contattaci e ti aiuteremo a trovare l'auto perfetta per il tuo viaggio."
+    "p5": "Ha domande prima di volare? WhatsApp, Viber o telefono, rispondiamo in pochi minuti durante gli orari operativi. Scorra la flotta online, blocchi un prezzo, e la Sua auto La aspetterà nel parcheggio TIV non appena il Suo volo atterrerà."
   },
   "kotorBody": {
     "h1": "Kotor, Patrimonio Mondiale dell'UNESCO",
@@ -978,7 +978,7 @@
   },
   "cookieBanner": {
     "title": "Politica sui Cookie",
-    "text": "Utilizziamo i cookie per migliorare la tua esperienza. Continuando a utilizzare questo sito accetti il nostro",
+    "text": "Utilizziamo cookie per migliorare la Sua esperienza. Continuando a usare questo sito, Lei accetta la nostra",
     "accept": "Accetta",
     "decline": "Rifiuta"
   },

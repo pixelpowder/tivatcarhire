@@ -48,13 +48,13 @@
   "howItWorks": {
     "label": "So funktioniert's",
     "title": "In 3 Schritten unterwegs",
-    "subtitle": "Einfache Buchung. Sofortige Bestätigung. Kein Anstehen am Flughafen.",
+    "subtitle": "Landen Sie in TIV, holen Sie Ihr Gepäck, gehen Sie zu Ihrem Fahrzeug. Kein Shuttlebus, keine Warteschlange am Transfer.",
     "step1Title": "Wählen Sie Ihren Abholort",
-    "step1Desc": "Wählen Sie aus Flughäfen, Kotor, Budva, Perast und weiteren Abholpunkten in ganz Montenegro und darüber hinaus.",
+    "step1Desc": "Ankunft am Flughafen Tivat, Marina Porto Montenegro, Tor zur Altstadt von Kotor, Busbahnhof Budva oder einer von über 28 Standorten im Land.",
     "step2Title": "Wählen Sie Ihr Auto",
-    "step2Desc": "Entdecken Sie unsere Flotte von sparsamen Kleinwagen bis zu Premium-SUVs. Filtern Sie nach Größe, Getriebe oder Budget.",
+    "step2Desc": "Filtern Sie nach Getriebe, Personenzahl oder Budget. Kompakte Hatchbacks ab €13/day, SUVs für Bergstraßen, Automatik für Neulinge auf den adriatischen Serpentinen.",
     "step3Title": "Fahren Sie durch Montenegro",
-    "step3Desc": "Wir empfangen Sie am Ankunftsbereich. Ihr Auto steht bereit. Entdecken Sie Küste, Berge und historische Städte."
+    "step3Desc": "Ihr Fahrzeug wartet auf dem TIV-Kurzzeitparkplatz, 40 Meter vom Terminalausgang entfernt. Rechts nach Budva durch den Vrmac-Tunnel, links nach Kotor entlang der Bucht."
   },
   "fleet": {
     "label": "Unsere Flotte",
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Top-Reiseziele",
     "title": "Montenegro entdecken",
-    "subtitle": "Von der Bay of Kotor bis zur albanischen Grenze, jedes Reiseziel eine andere Welt."
+    "subtitle": "Der Flughafen Tivat liegt auf halber Strecke entlang der Bucht. Kotor im Norden, Budva im Süden, Porto Montenegro direkt gegenüber. Nichts ist weit."
   },
   "features": {
     "label": "Warum wir",
@@ -77,7 +77,7 @@
   "reviews": {
     "label": "Bewertungen",
     "title": "Von Reisenden geliebt",
-    "subtitle": "Echte Erfahrungen von echten Kunden in ganz Montenegro."
+    "subtitle": "Rückmeldungen von Reisenden, die bei der Ankunft in TIV abgeholt haben."
   },
   "faq": {
     "label": "FAQ",
@@ -86,7 +86,7 @@
   },
   "cta": {
     "title": "Bereit, Montenegro zu entdecken?",
-    "subtitle": "In wenigen Minuten buchen. Am Flughafen abholen. Die gesamte Adriatic-Küste in Ihrem eigenen Tempo erkunden.",
+    "subtitle": "Jetzt suchen, Preis sichern, kostenlos stornieren, falls sich Pläne ändern. Ihr Fahrzeug wartet auf dem TIV-Kurzzeitparkplatz, sobald Sie landen.",
     "browseFleet": "Flotte ansehen"
   },
   "sidebar": {
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Falsch abgebogen",
-    "text": "Es sieht so aus, als hätten Sie einen Umweg genommen. Diese Straße führt nirgendwohin, aber Montenegros beste Routen sind nur einen Klick entfernt.",
+    "text": "Diese Straße führt ins Nichts, aber der Flughafenausgang ist nur einen Klick entfernt. Kehren Sie zurück und wählen Sie eine Route.",
     "backHome": "Zurück zur Startseite",
     "searchCars": "Autos suchen"
   },
@@ -363,22 +363,22 @@
   },
   "aboutBody": {
     "h1": "Montenegro Autovermietung",
-    "p1": "Seit 2007 verbindet Tivat Car Hire Reisende mit zuverlässigen und erschwinglichen Mietwagen in ganz Montenegro. Was als einfache Idee begann, Besuchern die Erkundung dieser atemberaubenden Ecke der Adriatic zu erleichtern, hat sich zu einem der vertrauenswürdigsten Mietwagenservices des Landes entwickelt.",
+    "p1": "Tivat Car Hire existiert aus einem einzigen Grund: ankommende Passagiere so schnell wie möglich in einen Mietwagen zu setzen. TIV ist ein kompakter Ein-Terminal-Flughafen, keine Laufbänder, keine Inter-Terminal-Bahnen, keine Shuttlebusse. Die Gepäckausgabe liegt 40 Meter vom Kurzzeitparkplatz entfernt. Wir stellen dort Fahrzeuge bereit, damit Sie innerhalb von Minuten statt Stunden vom Laufband auf den Fahrersitz wechseln.",
     "h2": "Warum wir angefangen haben",
-    "p2": "Montenegro ist ein Land, das man am besten in eigenem Tempo erlebt. Die kurvigen Küstenstraßen, versteckten Bergdörfer und UNESCO-Welterbestätten sind mit öffentlichen Verkehrsmitteln nur schwer erreichbar. Wir sahen die Möglichkeit, Reisenden die Freiheit zu geben, Montenegro auf eigene Faust zu entdecken, keine Reisebusfahrpläne, keine verpassten Aussichtspunkte, keine Kompromisse.",
+    "p2": "Jeden Sommer schleusen easyJet, Ryanair, TUI und Wizz Air Hunderttausende Passagiere durch ein Terminal, das kleiner ist als die meisten Supermärkte. Diese kompakte Struktur ist ein Vorteil, aber nur wenn Ihr Fahrzeug bereits vor Ort steht. Außerhalb des Flughafens gelegene Depots erfordern Transfers und verschleudern die Zeit, die TIV durch sein Layout spart. Wir halten jedes Fahrzeug in Gehweite zur Ankunft, damit Sie den Vorteil eines kleinen Flughafens tatsächlich nutzen können.",
     "h3": "Was wir anbieten",
-    "p3": "Wir bieten Mietwagenservices in ganz Montenegro an, mit Abholung und Rückgabe am Tivat Airport, Podgorica Airport sowie an Standorten entlang der Küste und im Landesinneren. Unsere Flotte reicht von kompakten Stadtwagen bis zu geräumigen SUVs, alle vollversichert und ohne versteckte Gebühren.",
+    "p3": "Gepäck holen, durch die Ausgangstüren des Terminals gehen, die Zufahrtsstraße zum Kurzzeitparkplatz überqueren. Unser Mitarbeiter wartet dort mit Schlüsseln und Unterlagen. Unterschreiben, Spiegel einstellen, losfahren. Rechts abbiegen Richtung Budva und Vrmac-Tunnel, links entlang der Buchtstraße nach Kotor und Perast, geradeaus nach Porto Montenegro und Lustica Bay. Eine Jugopetrol-Tankstelle liegt 800 Meter weiter an der Hauptstraße, falls Sie vor der Abfahrt tanken möchten.",
     "promiseTitle": "Unser Versprechen",
-    "promise1": "Vollkaskoversicherung mit Option auf null Selbstbeteiligung",
-    "promise2": "Persönliche Begrüßung am Flughafen, wir bringen das Auto direkt zur Ankunftshalle",
-    "promise3": "Keine versteckten Gebühren, der angezeigte Preis ist der Endpreis",
-    "promise4": "Grenzüberschreitende Fahrten nach Kroatien, Bosnien, Albanien, Serbien und Kosovo erlaubt",
+    "promise1": "CDW und Diebstahlschutz, Upgrade auf Null-Selbstbeteiligung verfügbar",
+    "promise2": "Meet-and-Greet auf dem TIV-Kurzzeitparkplatz, 40 m vom Terminal entfernt",
+    "promise3": "Transparente Preise, der Betrag an der Kasse ist der endgültige Betrag",
+    "promise4": "Grenzüberschreitende Grüne Karte für Kroatien, Bosnien, Albanien, Serbien, Kosovo",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
     "promise6": "24/7 Pannenhilfe während Ihrer gesamten Reise",
     "h4": "Lokales Wissen",
-    "p4": "Wir sind in Montenegro ansässig und kennen die Straßen, die besten Routen und die versteckten Schätze, die in keinem Reiseführer stehen. Ob Sie vom Tivat Airport zur mittelalterlichen Altstadt von Kotor fahren, die malerische Route durch die Bucht von Kotor nach Perast nehmen oder ins Landesinnere zum Durmitor-Nationalpark aufbrechen, wir helfen Ihnen, den perfekten Roadtrip zu planen.",
+    "p4": "Wir fahren diese Straßen täglich. Wir wissen, dass der Vrmac-Tunnel die Fahrt nach Kotor auf 12 Minuten verkürzt, dass die Verige-Fähre über die Buchtöffnung 45 Minuten gegenüber dem langen Weg nach Herceg Novi spart, dass die Tankstelle Radanovici die letzte Station vor der Riviera Budva ist und dass der Parkplatz Tabacina in Kotor im Juli bereits um 10 Uhr voll ist. Fragen Sie uns bei der Abholung alles, Routenberatung ist kostenlos und unbegrenzt.",
     "h5": "Kontaktieren Sie uns",
-    "p5": "Haben Sie Fragen zur Autovermietung in Montenegro? Wir sind per Telefon, WhatsApp und Viber erreichbar. Durchsuchen Sie unsere Flotte online und buchen Sie in wenigen Minuten, oder kontaktieren Sie uns und wir finden das perfekte Auto für Ihre Reise."
+    "p5": "Fragen vor dem Flug? WhatsApp, Viber oder Telefon, wir antworten während der Servicezeiten innerhalb von Minuten. Stöbern Sie online in der Flotte, sichern Sie sich einen Preis, und Ihr Fahrzeug wartet auf dem TIV-Parkplatz, sobald Ihr Flugzeug landet."
   },
   "kotorBody": {
     "h1": "Kotor, UNESCO-Weltkulturerbe",

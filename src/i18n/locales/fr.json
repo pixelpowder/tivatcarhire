@@ -48,18 +48,18 @@
   "howItWorks": {
     "label": "Comment Ça Marche",
     "title": "Sur la Route en 3 Étapes",
-    "subtitle": "Réservation simple. Confirmation instantanée. Aucune file d'attente à l'aéroport.",
+    "subtitle": "Atterrissez à TIV, récupérez vos bagages, marchez jusqu'à votre voiture. Pas de navette, pas de file d'attente au transfert.",
     "step1Title": "Choisissez Votre Lieu",
-    "step1Desc": "Sélectionnez parmi les aéroports, Kotor, Budva, Perast et d'autres points de prise en charge à travers le Monténégro et au-delà.",
+    "step1Desc": "Arrivées de l'aéroport de Tivat, marina de Porto Montenegro, porte de la vieille ville de Kotor, gare routière de Budva, ou l'un des plus de 28 points à travers le pays.",
     "step2Title": "Choisissez Votre Voiture",
-    "step2Desc": "Parcourez notre flotte, des citadines économiques aux SUV premium. Filtrez par taille, transmission ou budget.",
+    "step2Desc": "Filtrez par boîte de vitesses, nombre de passagers ou budget. Citadines économiques à partir de €13/day, SUV pour les routes de montagne, automatiques pour les novices des lacets adriatiques.",
     "step3Title": "Conduisez au Monténégro",
-    "step3Desc": "Nous vous accueillons aux arrivées. Votre voiture est prête. Explorez la côte, les montagnes et les villes historiques."
+    "step3Desc": "Votre voiture vous attend sur le parking courte durée TIV, à 40 mètres de la sortie du terminal. À droite pour Budva par le tunnel de Vrmac, à gauche pour Kotor le long de la baie."
   },
   "fleet": {
     "label": "Notre Flotte",
     "title": "Choisissez Votre Véhicule",
-    "subtitle": "Consultez la disponibilité et les prix en temps réel, réservez directement."
+    "subtitle": "Prix en direct, stock en temps réel, ce que vous voyez est ce qui est sur le tarmac à TIV."
   },
   "brands": {
     "label": "Marques de confiance dans notre flotte"
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Destinations Phares",
     "title": "Explorez le Monténégro",
-    "subtitle": "De la baie de Kotor à la frontière albanaise, chaque destination est un monde différent."
+    "subtitle": "L'aéroport de Tivat se trouve à mi chemin le long de la baie. Kotor au nord, Budva au sud, Porto Montenegro de l'autre côté de la route. Rien n'est loin."
   },
   "features": {
     "label": "Pourquoi Nous Choisir",
@@ -77,7 +77,7 @@
   "reviews": {
     "label": "Avis",
     "title": "Plébiscité par les Voyageurs",
-    "subtitle": "Des expériences authentiques de vrais clients à travers le Monténégro."
+    "subtitle": "Retours de voyageurs qui ont récupéré leur voiture aux arrivées de TIV."
   },
   "faq": {
     "label": "FAQ",
@@ -86,7 +86,7 @@
   },
   "cta": {
     "title": "Prêt à Explorer le Monténégro ?",
-    "subtitle": "Réservez en quelques minutes. Récupérez à l'aéroport. Parcourez toute la côte adriatique à votre rythme.",
+    "subtitle": "Cherchez maintenant, bloquez un prix, annulez gratuitement si vos plans changent. Votre voiture vous attendra sur le parking courte durée TIV à votre atterrissage.",
     "browseFleet": "Parcourir la Flotte"
   },
   "sidebar": {
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Mauvais Virage",
-    "text": "On dirait que vous avez fait un détour. Cette route ne mène nulle part, mais les plus belles routes du Monténégro sont à un clic.",
+    "text": "Cette route ne mène nulle part, mais la sortie de l'aéroport est à un clic de distance. Retournez et choisissez un itinéraire.",
     "backHome": "Retour à l'Accueil",
     "searchCars": "Rechercher"
   },
@@ -363,22 +363,22 @@
   },
   "aboutBody": {
     "h1": "Location de Voitures au Montenegro",
-    "p1": "Depuis 2007, Tivat Car Hire met en relation les voyageurs avec des voitures de location fiables et abordables à travers tout le Montenegro. Ce qui a commencé comme une idée simple, faciliter l'exploration de ce magnifique coin de l'Adriatic pour les visiteurs, est devenu l'un des services de location de voitures les plus fiables du pays.",
+    "p1": "Tivat Car Hire existe pour une seule raison: mettre les passagers à l'arrivée dans une voiture de location aussi vite que physiquement possible. TIV est un aéroport compact à terminal unique, sans tapis roulants, sans trains inter-terminaux, sans navettes. La livraison des bagages se trouve à 40 mètres du parking courte durée. Nous y stationnons les voitures pour que vous passiez du tapis au siège conducteur en quelques minutes, et non en quelques heures.",
     "h2": "Pourquoi nous avons commencé",
-    "p2": "Le Montenegro est un pays qui se découvre à son propre rythme. Les routes côtières sinueuses, les villages de montagne cachés et les villes classées au patrimoine de l'UNESCO sont difficilement accessibles en transports en commun. Nous avons vu l'opportunité d'offrir aux voyageurs la liberté de découvrir le Montenegro à leur façon, pas d'horaires de bus touristiques, pas de points de vue manqués, aucun compromis.",
+    "p2": "Chaque été, easyJet, Ryanair, TUI et Wizz Air font passer des centaines de milliers de passagers par un terminal plus petit que la plupart des supermarchés. Cette disposition compacte est un atout, mais seulement si votre voiture est déjà sur place. Les dépôts hors aéroport imposent des transferts qui annulent le temps économisé par la conception de TIV. Nous gardons chaque véhicule à portée de marche des arrivées pour que l'avantage du petit aéroport joue réellement en votre faveur.",
     "h3": "Ce que nous proposons",
-    "p3": "Nous proposons des services de location de voitures dans tout le Montenegro, avec prise en charge et restitution à l'aéroport de Tivat, à l'aéroport de Podgorica, ainsi que dans plusieurs points le long de la côte et à l'intérieur du pays. Notre flotte va des citadines compactes aux SUV spacieux, tous entièrement assurés et sans frais cachés.",
+    "p3": "Récupérez vos bagages, franchissez les portes de sortie du terminal, traversez la voie d'accès jusqu'au parking courte durée. Notre agent vous y attend avec vos clés et vos documents. Signez, réglez les rétroviseurs, prenez la route. À droite vers Budva par le tunnel de Vrmac, à gauche le long de la baie vers Kotor et Perast, ou tout droit vers Porto Montenegro et Lustica Bay. Une station service Jugopetrol se trouve à 800 mètres sur la route principale si vous devez faire le plein avant de partir.",
     "promiseTitle": "Notre engagement",
     "promise1": "Assurance tous risques avec option zéro franchise",
-    "promise2": "Accueil personnalisé à l'aéroport, nous amenons la voiture directement aux arrivées",
+    "promise2": "Accueil sur le parking courte durée TIV, à 40 m du terminal",
     "promise3": "Aucun frais caché, le prix affiché est le prix final",
-    "promise4": "Voyages transfrontaliers autorisés vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo",
-    "promise5": "Annulation gratuite sur la plupart des réservations",
-    "promise6": "Assistance routière 24h/24 et 7j/7 pendant toute la durée de votre voyage",
+    "promise4": "Carte Verte transfrontalière pour la Croatie, la Bosnie, l'Albanie, la Serbie, le Kosovo",
+    "promise5": "Annulation gratuite jusqu'à 7 jours avant la prise en charge (30 jours pour le premium)",
+    "promise6": "Ligne d'assistance routière 24h/24 et 7j/7 tenue par des mécaniciens locaux",
     "h4": "Connaissance locale",
-    "p4": "Basés au Montenegro, nous connaissons les routes, les meilleurs itinéraires et les trésors cachés que les guides touristiques ne mentionnent pas. Que vous conduisiez de l'aéroport de Tivat jusqu'à la vieille ville médiévale de Kotor, que vous empruntiez la route panoramique à travers les bouches de Kotor jusqu'à Perast, ou que vous vous dirigiez vers l'intérieur des terres jusqu'au parc national du Durmitor, nous pouvons vous aider à planifier le road trip parfait.",
+    "p4": "Nous parcourons ces routes chaque jour. Nous savons que le tunnel de Vrmac ramène le trajet vers Kotor à 12 minutes, que le ferry Verige à l'embouchure de la baie fait gagner 45 minutes par rapport à la longue route de Herceg Novi, que la station Radanovici est la dernière avant la riviera de Budva, et que le parking Tabacina de Kotor est plein dès 10 heures en juillet. Posez nous toutes vos questions à la prise en charge, les conseils d'itinéraire sont gratuits et illimités.",
     "h5": "Contactez-nous",
-    "p5": "Vous avez une question sur la location de voiture au Montenegro ? Nous sommes joignables par téléphone, WhatsApp et Viber. Parcourez notre flotte en ligne et réservez en quelques minutes, ou contactez-nous et nous vous aiderons à trouver la voiture idéale pour votre voyage."
+    "p5": "Des questions avant de décoller? WhatsApp, Viber ou téléphone, nous répondons en quelques minutes pendant les heures d'ouverture. Parcourez la flotte en ligne, bloquez un tarif, et votre voiture vous attendra sur le parking TIV dès que votre vol atterrira."
   },
   "kotorBody": {
     "h1": "Kotor, Site du patrimoine mondial de l'UNESCO",
