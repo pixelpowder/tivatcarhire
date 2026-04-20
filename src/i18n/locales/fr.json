@@ -323,7 +323,7 @@
     "tivat-airport": {
       "name": "Aéroport de Tivat",
       "tag": "Le plus populaire",
-      "desc": "Notre hub principal. Nous vous accueillons aux arrivées."
+      "desc": "À 15 minutes du centre de Tivat. Prise en charge et retour au TIV et à Porto Montenegro."
     },
     "kotor": {
       "name": "Kotor",
@@ -343,7 +343,7 @@
     "budva": {
       "name": "Budva",
       "tag": "30 min",
-      "desc": "Plages de la Riviera et remparts de la vieille ville."
+      "desc": "Plages, clubs et remparts de la vieille ville sur une péninsule, à 20 minutes du TIV."
     },
     "dubrovnik-airport": {
       "name": "Herceg Novi",
@@ -358,7 +358,7 @@
     "podgorica": {
       "name": "Podgorica",
       "tag": "Capitale",
-      "desc": "La capitale moderne du Montenegro, culture et commerce."
+      "desc": "Lac de Skadar, bars à vin et pont du Millénaire, à 1h15 par la route intérieure."
     }
   },
   "aboutBody": {
