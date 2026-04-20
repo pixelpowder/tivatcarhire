@@ -101,10 +101,10 @@
   "book": {
     "title": "Trouvez Votre Voiture",
     "seoTitle": "Réserver une Voiture",
-    "seoDesc": "Recherchez et réservez des voitures de location au Monténégro. Disponibilité en temps réel, confirmation instantanée, annulation gratuite."
+    "seoDesc": "Voitures de location à Tivat à 40 mètres du tapis de retrait des arrivées TIV. Confirmation instantanée, annulation gratuite sur la plupart des tarifs, et restitution à Porto Montenegro disponible."
   },
   "footer": {
-    "brandDesc": "Location de voiture à l'aéroport de Tivat et Porto Montenegro. Assurance tous risques, prise en charge aux arrivées et aucun frais caché.",
+    "brandDesc": "Location de voitures à la marina de Tivat pour les arrivées TIV et les clients de Porto Montenegro. Du retrait des bagages à votre voiture en deux minutes, assurance et frais d'aéroport inclus.",
     "quickLinks": "Liens Rapides",
     "guides": "Guides",
     "locations": "Nos Agences",
@@ -131,12 +131,12 @@
     "searchCars": "Rechercher"
   },
   "home": {
-    "seoDesc": "Louez une voiture au Monténégro à partir de 13 €/jour. Prise en charge à l'aéroport de Tivat, Podgorica, Kotor, Budva et plus de 28 points. Annulation gratuite, assurance complète, sans frais cachés. Réservez en ligne en quelques minutes."
+    "seoDesc": "Location de voitures à Tivat face à l'aéroport. Marina Porto Montenegro à 1 km, Kotor à 8 km, Budva à 22 km, et la péninsule de Luštica à 20 minutes de route vers le sud."
   },
   "about": {
     "title": "À Propos",
     "subtitle": "Nous aidons les voyageurs à explorer le Monténégro depuis 2007.",
-    "seoDesc": "À propos de Tivat Car Hire. Nous aidons les voyageurs à explorer le Monténégro depuis 2007 avec des voitures fiables, la livraison à l'aéroport et une expertise locale.",
+    "seoDesc": "Location de voitures à Tivat pour les clients de la marina et les arrivées à l'aéroport. Nous connaissons les numéros de postes à Porto Montenegro, les petites routes de Luštica, et le chemin le plus rapide vers la Vieille Ville de Kotor.",
     "heading1": "Location de voitures à Tivat",
     "p1": "Location de voitures à Tivat vous met en relation avec des voitures de location fiables et abordables depuis l'aéroport de Tivat et Porto Montenegro. Nous sommes un partenaire affilié indépendant travaillant avec des prestataires de confiance locaux, ce qui facilite l'exploration de ce magnifique coin de l'Adriatique pour les visiteurs arrivant à Tivat.",
     "heading2": "Pourquoi Tivat ?",
@@ -205,7 +205,7 @@
   "tivat": {
     "title": "Location de Voiture à Tivat",
     "subtitle": "La ville marina du Monténégro sur la baie de Kotor.",
-    "seoDesc": "Louez une voiture à Tivat, siège de la marina Porto Montenegro. Explorez les plages alentour, Kotor et la baie de Kotor avec une location abordable."
+    "seoDesc": "Tivat se trouve face à l'aéroport TIV. Porto Montenegro abrite 450 plus superyachts, Luštica Bay se situe à 10 minutes vers le sud, toutes les villes de Boka à moins de 30 minutes."
   },
   "montenegro": {
     "title": "Location de Voiture et Guide du Monténégro",
@@ -984,7 +984,7 @@
   },
   "contact": {
     "title": "Nous Contacter",
-    "seoDesc": "Contactez Tivat Car Hire. Email, WhatsApp et formulaire de contact.",
+    "seoDesc": "Contactez Tivat Car Hire pour les réservations, les retraits à la marina, ou les restitutions à Luštica. Email, WhatsApp, et un formulaire avec réponse dans les deux heures en semaine.",
     "heading": "Nous contacter",
     "intro": "Une question sur la location de voiture à Tivat ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour."
   }
