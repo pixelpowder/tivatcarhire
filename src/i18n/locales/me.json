@@ -101,7 +101,7 @@
   "book": {
     "title": "Pronađite Vaš Auto",
     "seoTitle": "Rezervišite Auto",
-    "seoDesc": "Automobili u izјavi iz Тivata udalјenі 40 metara od пaska putnika TIV аerоdroma. Trenutna potvrda, besplatno otkazivanje za većinu tarifa, i mogućnost"
+    "seoDesc": "Automobili u izјavi iz Тivata udalјenі 40 metara od пaska putnika TIV аerоdroma."
   },
   "footer": {
     "brandDesc": "Iznajmljivanje automobila u Tivatskoj marini za dolazake na TIV i goste Porta Montenegra. Od prtljage do vašeg automobila samo dva minuta, osiguranje i aerodromske takse uključene.",
@@ -131,12 +131,12 @@
     "searchCars": "Pretraži Auta"
   },
   "home": {
-    "seoDesc": "Iznajmljivanje automobila u Tivatу, direktno preko puta od аerоdromа. Marina Pоrtо Mоntenegro 1 km, Kotоr 8 km, Budva 22 km, i poluostrvo Luštica na 20"
+    "seoDesc": "Iznajmljivanje automobila u Tivatу, direktno preko puta od аerоdromа."
   },
   "about": {
     "title": "O Nama",
     "subtitle": "Pomažemo putnicima da istraže Crnu Goru od 2007.",
-    "seoDesc": "Iznajmljivanja u Tivatу za goste marine i dolazake na aerodrom. Poznajemo brojeve vezova u Portu Montenegru, seoske puteve Luštica, i najbrži put do",
+    "seoDesc": "Iznajmljivanja u Tivatу za goste marine i dolazake na aerodrom.",
     "heading1": "Iznajmljivanje automobila u Tivatu",
     "p1": "Iznajmljivanje automobila u Tivatu povezuje putovnike sa pouzdanim i pristupačnim automobilima za iznajmljivanje sa aerodroma Tivat i Porto Montenegro. Mi smo nezavisni partner koji radi sa provjerenim lokalnim partnerima, čineći lakšim za putnike koji pristižu u Tivat da istražuju ovaj sjajan dio Jadrana.",
     "heading2": "Zašto Tivat?",
@@ -180,22 +180,22 @@
   "budva": {
     "title": "Rent a Car Budva",
     "subtitle": "Rivijera Crne Gore, plaže, noćni život i šarm starog grada.",
-    "seoDesc": "Iznajmite auto u Budvi, Crna Gora. Odvezite se na plažu Mogren, Sveti Stefan i do najboljeg noćnog života rivijere. Puno osiguranje, bez skrivenih"
+    "seoDesc": "Iznajmite auto u Budvi, Crna Gora. Odvezite se na plažu Mogren, Sveti Stefan i do najboljeg noćnog života rivijere."
   },
   "perast": {
     "title": "Rent a Car Perast",
     "subtitle": "Barokni dragulj na Bokokotorskom zalivu.",
-    "seoDesc": "Iznajmite auto i posjetite Perast, barokni dragulj na Bokokotorskom zalivu. Pogledajte ostrvo Gospa od Škrpjela i veličanstvene palate uz obalu sopstvenim"
+    "seoDesc": "Iznajmite auto i posjetite Perast, barokni dragulj na Bokokotorskom zalivu."
   },
   "podgorica": {
     "title": "Rent a Car Podgorica",
     "subtitle": "Glavni grad Crne Gore, kultura, rijeke i moderni šarm.",
-    "seoDesc": "Rent a car u Podgorici, glavnom gradu Crne Gore. Istražite Skadarsko jezero, manastir Ostrog i Durmitor iznajmljenim autom. Preuzimanje na aerodromu"
+    "seoDesc": "Rent a car u Podgorici, glavnom gradu Crne Gore. Istražite Skadarsko jezero, manastir Ostrog i Durmitor iznajmljenim autom."
   },
   "podgorica-airport": {
     "title": "Rent a Car Aerodrom Podgorica",
     "subtitle": "Glavna međunarodna kapija Crne Gore.",
-    "seoDesc": "Preuzmite rent a car na aerodromu Podgorica (TGD). Isporučujemo vozilo do zone dolaska. Stignite do obale, Skadarskog jezera ili Nacionalnog parka"
+    "seoDesc": "Preuzmite rent a car na aerodromu Podgorica (TGD). Isporučujemo vozilo do zone dolaska."
   },
   "dubrovnik-airport": {
     "title": "Rent a Car Aerodrom Dubrovnik",
@@ -205,7 +205,7 @@
   "tivat": {
     "title": "Rent a Car Tivat",
     "subtitle": "Grad marina Crne Gore na Bokokotorskom zalivu.",
-    "seoDesc": "Tivat se nalazi preko puta od TIV аerоdroma. Marina Porto Montenegro sa 450 vezova i megajahti, zaliv Luštica deset minuta prema jugu, svi Boka gradovi u"
+    "seoDesc": "Tivat se nalazi preko puta od TIV аerоdroma. Marina Porto Montenegro sa 450 vezova i megajahti, zaliv Luštica deset minuta prema jugu, svi Boka gradovi."
   },
   "montenegro": {
     "title": "Rent a Car i Vodič za Crnu Goru",
@@ -984,7 +984,7 @@
   },
   "contact": {
     "title": "Kontaktirajte nas",
-    "seoDesc": "Kontaktirajte Tivat Car Hire za rezervacije, preuzimanja u marini, ili vraćanja u Luštica. Email, WhatsApp, i forma koja odgovara u roku od dva sata",
+    "seoDesc": "Kontaktirajte Tivat Car Hire za rezervacije, preuzimanja u marini, ili vraćanja u Luštica.",
     "heading": "Kontaktirajte nas",
     "intro": "Imate pitanje o iznajmljivanju automobila u Tivtu? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje."
   }

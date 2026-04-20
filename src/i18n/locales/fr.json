@@ -101,7 +101,7 @@
   "book": {
     "title": "Trouvez Votre Voiture",
     "seoTitle": "Réserver une Voiture",
-    "seoDesc": "Voitures de location à Tivat à 40 mètres du tapis de retrait des arrivées TIV. Confirmation instantanée, annulation gratuite sur la plupart des tarifs, et"
+    "seoDesc": "Voitures de location à Tivat à 40 mètres du tapis de retrait des arrivées TIV."
   },
   "footer": {
     "brandDesc": "Location de voitures à la marina de Tivat pour les arrivées TIV et les clients de Porto Montenegro. Du retrait des bagages à votre voiture en deux minutes, assurance et frais d'aéroport inclus.",
@@ -131,12 +131,12 @@
     "searchCars": "Rechercher"
   },
   "home": {
-    "seoDesc": "Location de voitures à Tivat face à l'aéroport. Marina Porto Montenegro à 1 km, Kotor à 8 km, Budva à 22 km, et la péninsule de Luštica à 20 minutes de"
+    "seoDesc": "Location de voitures à Tivat face à l'aéroport. Marina Porto Montenegro à 1 km, Kotor à 8 km, Budva à 22 km, et la péninsule de Luštica à 20 minutes."
   },
   "about": {
     "title": "À Propos",
     "subtitle": "Nous aidons les voyageurs à explorer le Monténégro depuis 2007.",
-    "seoDesc": "Location de voitures à Tivat pour les clients de la marina et les arrivées à l'aéroport. Nous connaissons les numéros de postes à Porto Montenegro, les",
+    "seoDesc": "Location de voitures à Tivat pour les clients de la marina et les arrivées à l'aéroport.",
     "heading1": "Location de voitures à Tivat",
     "p1": "Location de voitures à Tivat vous met en relation avec des voitures de location fiables et abordables depuis l'aéroport de Tivat et Porto Montenegro. Nous sommes un partenaire affilié indépendant travaillant avec des prestataires de confiance locaux, ce qui facilite l'exploration de ce magnifique coin de l'Adriatique pour les visiteurs arrivant à Tivat.",
     "heading2": "Pourquoi Tivat ?",
@@ -170,57 +170,57 @@
   "kotor": {
     "title": "Location de Voiture à Kotor",
     "subtitle": "Explorez le joyau UNESCO du Monténégro à votre rythme.",
-    "seoDesc": "Louez une voiture à Kotor, Monténégro. Explorez la vieille ville UNESCO, la baie de Kotor et Perast avec une location abordable et livraison gratuite à"
+    "seoDesc": "Louez une voiture à Kotor, Monténégro. Explorez la vieille ville UNESCO, la baie de Kotor et Perast avec une location abordable et livraison gratuite."
   },
   "tivat-airport": {
     "title": "Location de Voiture Aéroport Tivat",
     "subtitle": "Récupérez votre voiture aux arrivées.",
-    "seoDesc": "Récupérez votre voiture de location à l'aéroport de Tivat (TIV). Nous vous attendons aux arrivées avec votre véhicule. Rejoignez Kotor, Budva ou Porto"
+    "seoDesc": "Récupérez votre voiture de location à l'aéroport de Tivat (TIV). Nous vous attendons aux arrivées avec votre véhicule."
   },
   "budva": {
     "title": "Location de Voiture à Budva",
     "subtitle": "La riviera du Monténégro, plages, vie nocturne et charme de la vieille ville.",
-    "seoDesc": "Louez une voiture à Budva, Monténégro. Rejoignez la plage de Mogren, Sveti Stefan et la meilleure vie nocturne de la riviera. Assurance complète, sans"
+    "seoDesc": "Louez une voiture à Budva, Monténégro. Rejoignez la plage de Mogren, Sveti Stefan et la meilleure vie nocturne de la riviera."
   },
   "perast": {
     "title": "Location de Voiture à Perast",
     "subtitle": "Un joyau baroque sur la baie de Kotor.",
-    "seoDesc": "Louez une voiture et visitez Perast, un joyau baroque sur la baie de Kotor. Découvrez l'île Notre-Dame du Rocher et de superbes palais en bord de mer à"
+    "seoDesc": "Louez une voiture et visitez Perast, un joyau baroque sur la baie de Kotor."
   },
   "podgorica": {
     "title": "Location de Voiture à Podgorica",
     "subtitle": "La capitale du Monténégro, culture, rivières et charme moderne.",
-    "seoDesc": "Location de voiture à Podgorica, capitale du Monténégro. Explorez le lac Skadar, le monastère d'Ostrog et Durmitor en voiture. Prise en charge à"
+    "seoDesc": "Location de voiture à Podgorica, capitale du Monténégro. Explorez le lac Skadar, le monastère d'Ostrog et Durmitor en voiture."
   },
   "podgorica-airport": {
     "title": "Location de Voiture Aéroport Podgorica",
     "subtitle": "La principale porte internationale du Monténégro.",
-    "seoDesc": "Récupérez votre voiture à l'aéroport de Podgorica (TGD). Nous livrons votre véhicule aux arrivées. Rejoignez la côte, le lac Skadar ou le parc national de"
+    "seoDesc": "Récupérez votre voiture à l'aéroport de Podgorica (TGD). Nous livrons votre véhicule aux arrivées."
   },
   "dubrovnik-airport": {
     "title": "Location de Voiture Aéroport Dubrovnik",
     "subtitle": "Envolez-vous vers la Croatie, conduisez vers le Monténégro.",
-    "seoDesc": "Louez une voiture à l'aéroport de Dubrovnik et rejoignez le Monténégro. Passage de frontière en moins d'une heure. Assurance complète et carte verte"
+    "seoDesc": "Louez une voiture à l'aéroport de Dubrovnik et rejoignez le Monténégro. Passage de frontière en moins d'une heure."
   },
   "tivat": {
     "title": "Location de Voiture à Tivat",
     "subtitle": "La ville marina du Monténégro sur la baie de Kotor.",
-    "seoDesc": "Tivat se trouve face à l'aéroport TIV. Porto Montenegro abrite 450 plus superyachts, Luštica Bay se situe à 10 minutes vers le sud, toutes les villes de"
+    "seoDesc": "Tivat se trouve face à l'aéroport TIV. Porto Montenegro abrite 450 plus superyachts, Luštica Bay se situe à 10 minutes vers le sud, toutes les villes."
   },
   "montenegro": {
     "title": "Location de Voiture et Guide du Monténégro",
     "subtitle": "Tout ce que vous devez savoir sur la conduite au Monténégro.",
-    "seoDesc": "Guide complet de la conduite au Monténégro. Code de la route, limitations de vitesse, prix du carburant et les plus beaux itinéraires de la côte aux"
+    "seoDesc": "Guide complet de la conduite au Monténégro. Code de la route, limitations de vitesse, prix du carburant et les plus beaux itinéraires de la côte."
   },
   "border-crossing": {
     "title": "Guide Passage des Frontières Balkans",
     "subtitle": "Tout sur le passage des frontières avec votre voiture de location.",
-    "seoDesc": "Guide pour traverser les frontières depuis le Monténégro en voiture de location. Assurance carte verte, documents requis et conseils pour la Croatie, la"
+    "seoDesc": "Guide pour traverser les frontières depuis le Monténégro en voiture de location."
   },
   "privacy": {
     "title": "Politique de Confidentialité",
     "subtitle": "Comment nous traitons vos informations.",
-    "seoDesc": "Politique de confidentialité de Tivat Car Hire. Comment nous collectons, utilisons et protégeons vos données personnelles lors de la recherche de voitures"
+    "seoDesc": "Politique de confidentialité de Tivat Car Hire. Comment nous collectons, utilisons et protégeons vos données personnelles lors de la recherche de."
   },
   "terms": {
     "title": "Conditions Générales",
@@ -230,7 +230,7 @@
   "cookie-policy": {
     "title": "Politique de Cookies",
     "subtitle": "Comment nous utilisons les cookies sur ce site.",
-    "seoDesc": "Politique de cookies de Tivat Car Hire. Découvrez quels cookies nous utilisons, comment le widget de réservation stocke vos préférences et comment les"
+    "seoDesc": "Politique de cookies de Tivat Car Hire. Découvrez quels cookies nous utilisons, comment le widget de réservation stocke vos préférences et comment."
   },
   "featureCards": {
     "airportPickup": {
@@ -984,7 +984,7 @@
   },
   "contact": {
     "title": "Nous Contacter",
-    "seoDesc": "Contactez Tivat Car Hire pour les réservations, les retraits à la marina, ou les restitutions à Luštica. Email, WhatsApp, et un formulaire avec réponse",
+    "seoDesc": "Contactez Tivat Car Hire pour les réservations, les retraits à la marina, ou les restitutions à Luštica.",
     "heading": "Nous contacter",
     "intro": "Une question sur la location de voiture à Tivat ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour."
   }
