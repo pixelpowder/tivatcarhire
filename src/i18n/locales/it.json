@@ -59,7 +59,7 @@
   "fleet": {
     "label": "La Nostra Flotta",
     "title": "Scegli la Tua Auto",
-    "subtitle": "Consulta disponibilità e prezzi in tempo reale — prenota direttamente."
+    "subtitle": "Consulta disponibilità e prezzi in tempo reale, prenota direttamente."
   },
   "brands": {
     "label": "Marchi affidabili nella nostra flotta"
@@ -67,7 +67,7 @@
   "destinations": {
     "label": "Destinazioni Principali",
     "title": "Esplora il Montenegro",
-    "subtitle": "Dalle Bocche di Kotor al confine albanese — ogni destinazione è un mondo diverso."
+    "subtitle": "Dalle Bocche di Kotor al confine albanese, ogni destinazione è un mondo diverso."
   },
   "features": {
     "label": "Perché Sceglierci",
@@ -101,7 +101,7 @@
   "book": {
     "title": "Trova la Tua Auto",
     "seoTitle": "Prenota un'Auto",
-    "seoDesc": "Auto a noleggio a Tivat entro 40 metri dal ritiro arrivals di TIV. Conferma istantanea, cancellazione gratuita sulla maggior parte delle tariffe e reso a Porto Montenegro disponibile."
+    "seoDesc": "Auto a noleggio a Tivat entro 40 metri dal ritiro arrivals di TIV. Conferma istantanea, cancellazione gratuita sulla maggior parte delle tariffe e reso a"
   },
   "footer": {
     "brandDesc": "Noleggio auto marina a Tivat per gli arrivi TIV e gli ospiti di Porto Montenegro. Cammina dal ritiro bagagli alla tua auto in due minuti, assicurazione e tasse aeroportuali incluse.",
@@ -126,7 +126,7 @@
   "notFound": {
     "code": "404",
     "title": "Strada Sbagliata",
-    "text": "Sembra che tu abbia preso una deviazione. Questa strada non porta da nessuna parte — ma le migliori rotte del Montenegro sono a un solo clic.",
+    "text": "Sembra che tu abbia preso una deviazione. Questa strada non porta da nessuna parte, ma le migliori rotte del Montenegro sono a un solo clic.",
     "backHome": "Torna alla Home",
     "searchCars": "Cerca Auto"
   },
@@ -136,7 +136,7 @@
   "about": {
     "title": "Chi Siamo",
     "subtitle": "Aiutiamo i viaggiatori a esplorare il Montenegro dal 2007.",
-    "seoDesc": "Noleggi a Tivat per gli ospiti della marina e gli arrivi in aeroporto. Conosciamo i numeri dei posti barca di Porto Montenegro, le strade secondarie di Luštica e il percorso più veloce verso il centro storico di Kotor.",
+    "seoDesc": "Noleggi a Tivat per gli ospiti della marina e gli arrivi in aeroporto. Conosciamo i numeri dei posti barca di Porto Montenegro, le strade secondarie di",
     "heading1": "Noleggio Auto a Tivat",
     "p1": "Noleggio Auto a Tivat connette i viaggiatori con auto a noleggio affidabili e convenienti dall'Aeroporto di Tivat e Porto Montenegro. Siamo un affiliato indipendente che lavora con partner locali di fiducia, rendendo più facile per i visitatori che atterrano a Tivat esplorare questo angolo straordinario dell'Adriatico.",
     "heading2": "Perché Tivat?",
@@ -170,52 +170,52 @@
   "kotor": {
     "title": "Noleggio Auto a Kotor",
     "subtitle": "Esplora il gioiello UNESCO del Montenegro al tuo ritmo.",
-    "seoDesc": "Noleggia un'auto a Kotor, Montenegro. Esplora il centro storico UNESCO, le Bocche di Kotor e la vicina Perast con noleggio conveniente e consegna gratuita in aeroporto."
+    "seoDesc": "Noleggia un'auto a Kotor, Montenegro. Esplora il centro storico UNESCO, le Bocche di Kotor e la vicina Perast con noleggio conveniente e consegna gratuita"
   },
   "tivat-airport": {
     "title": "Noleggio Auto Aeroporto Tivat",
     "subtitle": "Ritira la tua auto a noleggio agli arrivi.",
-    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Tivat (TIV). Ti aspettiamo agli arrivi con il veicolo pronto. Raggiungi Kotor, Budva o Porto Montenegro in pochi minuti."
+    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Tivat (TIV). Ti aspettiamo agli arrivi con il veicolo pronto. Raggiungi Kotor, Budva o Porto Montenegro in"
   },
   "budva": {
     "title": "Noleggio Auto a Budva",
-    "subtitle": "La riviera del Montenegro — spiagge, vita notturna e fascino della città vecchia.",
-    "seoDesc": "Noleggia un'auto a Budva, Montenegro. Raggiungi la spiaggia di Mogren, Sveti Stefan e la migliore vita notturna della riviera. Assicurazione completa, nessun costo nascosto."
+    "subtitle": "La riviera del Montenegro, spiagge, vita notturna e fascino della città vecchia.",
+    "seoDesc": "Noleggia un'auto a Budva, Montenegro. Raggiungi la spiaggia di Mogren, Sveti Stefan e la migliore vita notturna della riviera. Assicurazione completa"
   },
   "perast": {
     "title": "Noleggio Auto a Perast",
     "subtitle": "Un gioiello barocco sulle Bocche di Kotor.",
-    "seoDesc": "Noleggia un'auto e visita Perast, un gioiello barocco sulle Bocche di Kotor. Ammira l'isola della Madonna dello Scalpello e splendidi palazzi sul lungomare al tuo ritmo."
+    "seoDesc": "Noleggia un'auto e visita Perast, un gioiello barocco sulle Bocche di Kotor. Ammira l'isola della Madonna dello Scalpello e splendidi palazzi sul"
   },
   "podgorica": {
     "title": "Noleggio Auto a Podgorica",
-    "subtitle": "La capitale del Montenegro — cultura, fiumi e fascino moderno.",
-    "seoDesc": "Noleggio auto a Podgorica, capitale del Montenegro. Esplora il Lago di Scutari, il Monastero di Ostrog e Durmitor con un'auto a noleggio. Ritiro in aeroporto disponibile."
+    "subtitle": "La capitale del Montenegro, cultura, fiumi e fascino moderno.",
+    "seoDesc": "Noleggio auto a Podgorica, capitale del Montenegro. Esplora il Lago di Scutari, il Monastero di Ostrog e Durmitor con un'auto a noleggio. Ritiro in"
   },
   "podgorica-airport": {
     "title": "Noleggio Auto Aeroporto Podgorica",
     "subtitle": "Il principale gateway internazionale del Montenegro.",
-    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Podgorica (TGD). Consegniamo il veicolo agli arrivi. Raggiungi la costa, il Lago di Scutari o il Parco Nazionale Durmitor."
+    "seoDesc": "Ritira la tua auto a noleggio all'aeroporto di Podgorica (TGD). Consegniamo il veicolo agli arrivi. Raggiungi la costa, il Lago di Scutari o il Parco"
   },
   "dubrovnik-airport": {
     "title": "Noleggio Auto Aeroporto Dubrovnik",
     "subtitle": "Vola in Croazia, guida verso il Montenegro.",
-    "seoDesc": "Noleggia un'auto all'aeroporto di Dubrovnik e guida verso il Montenegro. Attraversa il confine in meno di un'ora. Assicurazione completa e carta verde incluse."
+    "seoDesc": "Noleggia un'auto all'aeroporto di Dubrovnik e guida verso il Montenegro. Attraversa il confine in meno di un'ora. Assicurazione completa e carta verde"
   },
   "tivat": {
     "title": "Noleggio Auto a Tivat",
     "subtitle": "La città marina del Montenegro sulle Bocche di Kotor.",
-    "seoDesc": "Tivat sorge davanti all'aeroporto TIV. La marina Porto Montenegro ospita 450 superyacht, la Baia di Luštica dista 10 minuti verso sud, ogni città della Boka raggiungibile in meno di 30 minuti."
+    "seoDesc": "Tivat sorge davanti all'aeroporto TIV. La marina Porto Montenegro ospita 450 superyacht, la Baia di Luštica dista 10 minuti verso sud, ogni città della"
   },
   "montenegro": {
     "title": "Noleggio Auto e Guida Viaggio Montenegro",
     "subtitle": "Tutto ciò che devi sapere sulla guida in Montenegro.",
-    "seoDesc": "Guida completa alla guida in Montenegro. Regole stradali, limiti di velocità, prezzi del carburante e i migliori percorsi panoramici dalla costa alle montagne."
+    "seoDesc": "Guida completa alla guida in Montenegro. Regole stradali, limiti di velocità, prezzi del carburante e i migliori percorsi panoramici dalla costa alle"
   },
   "border-crossing": {
     "title": "Guida Attraversamento Frontiere Balcani",
     "subtitle": "Tutto sul passaggio delle frontiere con la tua auto a noleggio.",
-    "seoDesc": "Guida all'attraversamento delle frontiere dal Montenegro con auto a noleggio. Assicurazione carta verde, documenti necessari e consigli per Croazia, Bosnia, Albania e Serbia."
+    "seoDesc": "Guida all'attraversamento delle frontiere dal Montenegro con auto a noleggio. Assicurazione carta verde, documenti necessari e consigli per Croazia"
   },
   "privacy": {
     "title": "Informativa sulla Privacy",
@@ -235,7 +235,7 @@
   "featureCards": {
     "airportPickup": {
       "title": "Ritiro a 40 metri",
-      "desc": "La tua auto è nel parcheggio breve sosta del TIV. Esci dalla sala bagagli, attraversa la strada, sali in macchina — nessuna navetta, nessuna attesa."
+      "desc": "La tua auto è nel parcheggio breve sosta del TIV. Esci dalla sala bagagli, attraversa la strada, sali in macchina, nessuna navetta, nessuna attesa."
     },
     "fullInsurance": {
       "title": "Assicurazione completa inclusa",
@@ -247,11 +247,11 @@
     },
     "noHiddenFees": {
       "title": "Prezzi trasparenti",
-      "desc": "IVA, chilometraggio, supplemento aeroporto, kit di equipaggiamento — tutto incluso nel prezzo mostrato a schermo. Il totale al checkout è il totale che paghi al ritiro."
+      "desc": "IVA, chilometraggio, supplemento aeroporto, kit di equipaggiamento, tutto incluso nel prezzo mostrato a schermo. Il totale al checkout è il totale che paghi al ritiro."
     },
     "freeCancellation": {
       "title": "Cancellazione gratuita",
-      "desc": "Volo cancellato o orari della compagnia modificati? Cancella fino a 24 ore prima del ritiro senza costi — anche in caso di riprogrammazione delle tratte estive o invernali."
+      "desc": "Volo cancellato o orari della compagnia modificati? Cancella fino a 24 ore prima del ritiro senza costi, anche in caso di riprogrammazione delle tratte estive o invernali."
     },
     "crossBorder": {
       "title": "Viaggi transfrontalieri inclusi",
@@ -263,7 +263,7 @@
       "text": "Viaggio di lavoro con agenda fitta. Bagagli ritirati, auto nel parcheggio di fronte, e in 20 minuti dall'atterraggio ero al mio appuntamento a Porto Montenegro. La velocità di ritiro al TIV è difficile da battere."
     },
     "1": {
-      "text": "Abbiamo preso il traghetto Verige da Kamenari e pranzato sulla penisola di Lustica il pomeriggio stesso dell'arrivo. L'agente ci ha suggerito questa scorciatoia al momento del ritiro — 40 minuti risparmiati sulla strada della baia."
+      "text": "Abbiamo preso il traghetto Verige da Kamenari e pranzato sulla penisola di Lustica il pomeriggio stesso dell'arrivo. L'agente ci ha suggerito questa scorciatoia al momento del ritiro, 40 minuti risparmiati sulla strada della baia."
     },
     "2": {
       "text": "Ryanair fino a Tivat, auto pronta nel parcheggio, bambini allacciati, e stavamo parcheggiando davanti alle mura di Kotor prima che passasse un'ora. Il tunnel di Vrmac ha fatto una differenza enorme rispetto alla strada costiera."
@@ -276,7 +276,7 @@
     },
     "1": {
       "q": "Posso guidare il noleggio in Croazia o Albania?",
-      "a": "Sì. Comunicalo alla società di noleggio alla prenotazione in modo che preparino la carta verde. I viaggi transfrontalieri verso Croazia, Bosnia, Albania, Serbia e Kosovo sono consentiti — i documenti saranno nel vano portaoggetti al ritiro al TIV."
+      "a": "Sì. Comunicalo alla società di noleggio alla prenotazione in modo che preparino la carta verde. I viaggi transfrontalieri verso Croazia, Bosnia, Albania, Serbia e Kosovo sono consentiti, i documenti saranno nel vano portaoggetti al ritiro al TIV."
     },
     "2": {
       "q": "C'è un'età minima per noleggiare?",
@@ -284,11 +284,11 @@
     },
     "3": {
       "q": "Cosa è incluso nel prezzo di noleggio?",
-      "a": "CDW e protezione furto, IVA, kit di equipaggiamento (cassetta di pronto soccorso, triangolo di emergenza, gilet catarifrangente) e una politica carburante trasparente. Le condizioni chilometriche variano per veicolo — alcuni sono illimitati, altri con limite giornaliero indicato nell'annuncio."
+      "a": "CDW e protezione furto, IVA, kit di equipaggiamento (cassetta di pronto soccorso, triangolo di emergenza, gilet catarifrangente) e una politica carburante trasparente. Le condizioni chilometriche variano per veicolo, alcuni sono illimitati, altri con limite giornaliero indicato nell'annuncio."
     },
     "4": {
       "q": "Come funziona il ritiro all'aeroporto di Tivat?",
-      "a": "Tivat è un aeroporto a terminal unico. Dopo il ritiro bagagli, esci dal terminal e attraversa fino al parcheggio breve sosta — circa 40 metri. Il nostro agente ti aspetta lì con chiavi e documenti. Tempo totale dal tapis roulant bagagli alla guida: circa 10 minuti."
+      "a": "Tivat è un aeroporto a terminal unico. Dopo il ritiro bagagli, esci dal terminal e attraversa fino al parcheggio breve sosta, circa 40 metri. Il nostro agente ti aspetta lì con chiavi e documenti. Tempo totale dal tapis roulant bagagli alla guida: circa 10 minuti."
     },
     "5": {
       "q": "Posso riconsegnare il veicolo in un luogo diverso?",
@@ -300,7 +300,7 @@
     },
     "7": {
       "q": "È richiesto un deposito cauzionale?",
-      "a": "Gli importi del deposito variano per gruppo di veicolo — alcune auto economiche non richiedono alcun deposito. Quando è previsto un deposito, deve essere su una carta di credito fisica intestata al conducente principale e viene rimborsato alla restituzione del veicolo."
+      "a": "Gli importi del deposito variano per gruppo di veicolo, alcune auto economiche non richiedono alcun deposito. Quando è previsto un deposito, deve essere su una carta di credito fisica intestata al conducente principale e viene rimborsato alla restituzione del veicolo."
     },
     "8": {
       "q": "Dov'è il distributore di carburante più vicino al TIV?",
@@ -308,15 +308,15 @@
     },
     "9": {
       "q": "Ci sono commissioni nascoste?",
-      "a": "No. Tasse, supplemento aeroporto, kit di equipaggiamento — tutto incluso. Il prezzo al checkout è il prezzo che paghi al ritiro. Non vengono aggiunte commissioni al banco."
+      "a": "No. Tasse, supplemento aeroporto, kit di equipaggiamento, tutto incluso. Il prezzo al checkout è il prezzo che paghi al ritiro. Non vengono aggiunte commissioni al banco."
     },
     "10": {
       "q": "Quanto pago anticipatamente?",
-      "a": "Solo il 15–20 % del totale viene addebitato alla prenotazione per assicurare il veicolo. Il saldo viene pagato direttamente all'agente di noleggio in aeroporto al momento del ritiro."
+      "a": "Solo il 15-20 % del totale viene addebitato alla prenotazione per assicurare il veicolo. Il saldo viene pagato direttamente all'agente di noleggio in aeroporto al momento del ritiro."
     },
     "11": {
       "q": "Posso noleggiare senza carta di credito?",
-      "a": "Alcuni veicoli sono disponibili senza carta di credito — sono chiaramente contrassegnati con un badge senza carta nei risultati di ricerca. Filtra per trovarli durante la ricerca."
+      "a": "Alcuni veicoli sono disponibili senza carta di credito, sono chiaramente contrassegnati con un badge senza carta nei risultati di ricerca. Filtra per trovarli durante la ricerca."
     }
   },
   "destCards": {
@@ -358,32 +358,32 @@
     "podgorica": {
       "name": "Podgorica",
       "tag": "Capitale",
-      "desc": "La moderna capitale del Montenegro — cultura e commercio."
+      "desc": "La moderna capitale del Montenegro, cultura e commercio."
     }
   },
   "aboutBody": {
     "h1": "Noleggio Auto Tivat",
-    "p1": "Dal 2007, Tivat Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea — rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic — è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
+    "p1": "Dal 2007, Tivat Car Hire mette in contatto i viaggiatori con auto a noleggio affidabili e convenienti in tutto il Montenegro. Quella che è nata come una semplice idea, rendere più facile per i visitatori esplorare questo splendido angolo dell'Adriatic, è diventata uno dei servizi di autonoleggio più affidabili del Paese.",
     "h2": "Perché abbiamo iniziato",
-    "p2": "Il Montenegro è un Paese che si vive meglio al proprio ritmo. Le tortuose strade costiere, i villaggi di montagna nascosti e le città patrimonio UNESCO sono difficili da raggiungere con i mezzi pubblici. Abbiamo colto l'opportunità di offrire ai viaggiatori la libertà di scoprire il Montenegro alle proprie condizioni — niente orari di pullman turistici, niente panorami persi, nessun compromesso.",
+    "p2": "Il Montenegro è un Paese che si vive meglio al proprio ritmo. Le tortuose strade costiere, i villaggi di montagna nascosti e le città patrimonio UNESCO sono difficili da raggiungere con i mezzi pubblici. Abbiamo colto l'opportunità di offrire ai viaggiatori la libertà di scoprire il Montenegro alle proprie condizioni, niente orari di pullman turistici, niente panorami persi, nessun compromesso.",
     "h3": "Cosa offriamo",
     "p3": "Offriamo servizi di autonoleggio in tutto il Montenegro, con ritiro e riconsegna presso l'aeroporto di Tivat, l'aeroporto di Podgorica e in diverse località lungo la costa e nell'entroterra. La nostra flotta spazia dalle auto compatte per la città ai SUV spaziosi, tutti con assicurazione completa e senza costi nascosti.",
     "promiseTitle": "La nostra promessa",
     "promise1": "Assicurazione completa con opzione franchigia zero",
-    "promise2": "Accoglienza in aeroporto — portiamo l'auto direttamente all'area arrivi",
-    "promise3": "Nessun costo nascosto — il prezzo che vedi è il prezzo che paghi",
+    "promise2": "Accoglienza in aeroporto, portiamo l'auto direttamente all'area arrivi",
+    "promise3": "Nessun costo nascosto, il prezzo che vedi è il prezzo che paghi",
     "promise4": "Viaggi transfrontalieri consentiti verso Croazia, Bosnia, Albania, Serbia e Kosovo",
     "promise5": "Cancellazione gratuita sulla maggior parte delle prenotazioni",
     "promise6": "Assistenza stradale 24/7 per tutta la durata del viaggio",
     "h4": "Conoscenza locale",
     "p4": "Con sede in Montenegro, conosciamo le strade, i percorsi migliori e le perle nascoste che le guide non menzionano. Che stiate guidando dall'aeroporto di Tivat al centro storico medievale di Kotor, percorrendo la strada panoramica attraverso le Bocche di Kotor fino a Perast, o dirigendovi verso l'entroterra fino al Parco Nazionale del Durmitor, possiamo aiutarvi a pianificare il viaggio in auto perfetto.",
     "h5": "Contattaci",
-    "p5": "Hai domande sul noleggio auto in Montenegro? Siamo raggiungibili via telefono, WhatsApp e Viber. Sfoglia la nostra flotta online e prenota in pochi minuti — oppure contattaci e ti aiuteremo a trovare l'auto perfetta per il tuo viaggio."
+    "p5": "Hai domande sul noleggio auto in Montenegro? Siamo raggiungibili via telefono, WhatsApp e Viber. Sfoglia la nostra flotta online e prenota in pochi minuti, oppure contattaci e ti aiuteremo a trovare l'auto perfetta per il tuo viaggio."
   },
   "kotorBody": {
-    "h1": "Kotor — Patrimonio Mondiale dell'UNESCO",
+    "h1": "Kotor, Patrimonio Mondiale dell'UNESCO",
     "p1": "Kotor è una delle città costiere più affascinanti del Montenegro, che offre spiagge magnifiche, il fascino del centro storico e mura medievali che ospitano gallerie d'arte, caffè e ristoranti eccellenti. In quanto Patrimonio Mondiale dell'UNESCO, i monumenti della città sono concentrati nel centro storico splendidamente conservato.",
-    "p2": "Noleggiare un'auto a Kotor vi dà la libertà di esplorare le attrazioni locali e le città e aree naturali montenegrine vicine al vostro ritmo. La disponibilità di parcheggio varia stagionalmente, con il turismo estivo che crea scarsità nel centro — ma ci sono parcheggi più grandi sulle strade di accesso.",
+    "p2": "Noleggiare un'auto a Kotor vi dà la libertà di esplorare le attrazioni locali e le città e aree naturali montenegrine vicine al vostro ritmo. La disponibilità di parcheggio varia stagionalmente, con il turismo estivo che crea scarsità nel centro, ma ci sono parcheggi più grandi sulle strade di accesso.",
     "landmarksTitle": "Monumenti",
     "stJohnTitle": "Fortezza di San Giovanni",
     "stJohnText": "Un'imponente struttura che storicamente proteggeva la città dagli attacchi dei pirati. Caratteristiche degne di nota includono la Torre Contarini e la Chiesa della Madonna della Salute, che offre viste mozzafiato sul centro storico e sulla Baia di Kotor.",
@@ -391,16 +391,16 @@
     "cathedralText": "Costruita nell'809 d.C. e ricostruita nel 1124, questa cattedrale contiene una notevole architettura bizantina e opere d'arte che riflettono la ricca storia della regione.",
     "dayTripsTitle": "Gite Giornaliere da Kotor",
     "perastTrip": "Situata nella vicina Perast, questa chiesa si trova su un'isola artificiale nella Baia di Kotor. I pescatori vi hanno gettato pietre ogni anno dal 1452, facendo crescere gradualmente l'isola. L'accesso in traghetto costa circa 1 Euro; le barche private costano circa 5 Euro. Il tragitto in auto da Kotor dura meno di 30 minuti percorrendo la E65/E80 verso nord.",
-    "perastLinkPre": " Raggiungi il ",
+    "perastLinkPre": "Raggiungi il",
     "perastLinkText": "lungomare barocco di Perast in 20 minuti",
     "perastLinkPost": ".",
     "cetinjeTrip": "Costruito nel 1701, il monastero custodisce la mano di Giovanni Battista. Presenta decorazioni ornamentali e arte ortodossa. Il tragitto in auto da Kotor dura circa un'ora attraverso panoramiche strade di montagna.",
     "royalCourtText": "Il palazzo reale del Montenegro del 1871, che espone opere d'arte, manufatti e fotografie della storia reale del paese. Situato accanto al monastero nell'antica capitale reale."
   },
   "budvaBody": {
-    "h1": "Budva — Il Cuore della Riviera Montenegrina",
+    "h1": "Budva, Il Cuore della Riviera Montenegrina",
     "p1": "Budva è la destinazione balneare più popolare del Montenegro, che attira visitatori da tutta Europa con la sua splendida costa, la vivace vita notturna e il centro storico medievale splendidamente conservato. Con un'auto a noleggio, l'intera Riviera di Budva e oltre è a portata di mano.",
-    "p2": "La città si trova a circa 20 minuti a sud dell'Aeroporto di Tivat, rendendola una delle destinazioni costiere più facili da raggiungere dopo l'atterraggio. Budva combina 2.500 anni di storia con un'atmosfera vacanziera completamente moderna — antiche mura cittadine di giorno, vivaci bar sulla spiaggia di notte.",
+    "p2": "La città si trova a circa 20 minuti a sud dell'Aeroporto di Tivat, rendendola una delle destinazioni costiere più facili da raggiungere dopo l'atterraggio. Budva combina 2.500 anni di storia con un'atmosfera vacanziera completamente moderna, antiche mura cittadine di giorno, vivaci bar sulla spiaggia di notte.",
     "beachesTitle": "Spiagge",
     "beachesIntro": "La Riviera di Budva si estende per 21 chilometri, offrendo alcune delle più belle spiagge della costa adriatica:",
     "mogren": "Due spiagge di ciottoli collegate, raggiungibili attraverso un tunnel scavato nelle scogliere, a pochi minuti dal centro storico",
@@ -412,16 +412,16 @@
     "dayTripsTitle": "Gite Giornaliere da Budva",
     "svetiStefanTrip": "A soli 6 km a sud, questo fotogenico villaggio-isola fortificato è oggi un hotel di lusso, ma le viste dalla strada sovrastante sono spettacolari e gratuite. La spiaggia sul lato della terraferma è aperta a tutti.",
     "kotorTrip": "Un viaggio di 30 minuti in auto verso nord attraverso un suggestivo tunnel montano vi porta alla Baia di Kotor e al suo centro storico inserito nella lista UNESCO.",
-    "kotorLinkPre": " Il ",
+    "kotorLinkPre": "Il",
     "kotorLinkText": "centro storico UNESCO di Kotor",
-    "kotorLinkPost": " dista 25 minuti di auto verso nord.",
+    "kotorLinkPost": "dista 25 minuti di auto verso nord.",
     "lovcenTrip": "Dirigetevi verso l'interno per ammirare i paesaggi montani e il Mausoleo di Njegos, arroccato a 1.657 metri con viste su quattro paesi nelle giornate limpide. La strada tortuosa dalla costa è un'esperienza in sé.",
     "gettingAroundTitle": "Come Spostarsi",
     "gettingAroundText": "Mentre il centro storico di Budva è meglio esplorarlo a piedi, un'auto a noleggio è essenziale per raggiungere le migliori spiagge, i villaggi vicini e le attrazioni dell'entroterra. Il parcheggio è disponibile vicino alle mura del centro storico e in diversi parcheggi pubblici lungo la strada principale. In piena estate, arrivare presto assicura i posti migliori."
   },
   "perastBody": {
-    "h1": "Perast — Gemma Nascosta sulla Baia",
-    "p1": "Il piccolo villaggio di Perast si trova a breve distanza in auto — meno di 20 minuti — da Kotor. I turisti che noleggiano un'auto per il loro tour del Montenegro vorranno certamente percorrere l'autostrada E65/E80 per trascorrere del tempo in questo incantevole villaggio di pescatori.",
+    "h1": "Perast, Gemma Nascosta sulla Baia",
+    "p1": "Il piccolo villaggio di Perast si trova a breve distanza in auto, meno di 20 minuti, da Kotor. I turisti che noleggiano un'auto per il loro tour del Montenegro vorranno certamente percorrere l'autostrada E65/E80 per trascorrere del tempo in questo incantevole villaggio di pescatori.",
     "p2": "Sebbene abbia solo circa 850 abitanti, la lunga e colorata storia di Perast supera certamente le sue piccole dimensioni. Dal 1420 al 1797, la città appartenne alla Repubblica di Venezia ed era nota per i suoi maestri costruttori navali e marinai. Perast possiede molti splendidi ricordi del passato e alcuni eccellenti esempi di architettura barocca.",
     "islandsTitle": "Le Isole",
     "stGeorgeTitle": "Isola di San Giorgio",
@@ -434,8 +434,8 @@
     "monasteryText": "Situato appena a nord di Perast sulla strada per Risan, il Monastero di Banja presenta molti antichi pezzi religiosi provenienti da dinastie russe, greche e di Boka. Per raggiungere il monastero, continuate verso nord sulla E65/E80 per pochi chilometri."
   },
   "tivatBody": {
-    "h1": "Tivat — Città del Porto Turistico",
-    "p1": "Tivat è una delle città più recenti lungo la costa montenegrina, costruita poco più di un secolo fa. La città ospita uno dei soli due aeroporti pubblici del Montenegro — l'Aeroporto di Tivat — rendendola una base incredibilmente comoda per i visitatori che arrivano in aereo.",
+    "h1": "Tivat, Città del Porto Turistico",
+    "p1": "Tivat è una delle città più recenti lungo la costa montenegrina, costruita poco più di un secolo fa. La città ospita uno dei soli due aeroporti pubblici del Montenegro, l'Aeroporto di Tivat, rendendola una base incredibilmente comoda per i visitatori che arrivano in aereo.",
     "p2": "Questa località balneare ha una popolazione di circa 13.000 abitanti. I visitatori possono godersi le passeggiate sul lungomare, cenare nei bistrot fronte mare ed esplorare i negozi nascosti in stretti vicoli. Durante l'alta stagione, la città bilancia la tranquillità con una vivace attività turistica.",
     "beachesTitle": "Spiagge",
     "beachesText": "Tivat vanta 17 spiagge distribuite su 3 chilometri di costa, riconosciute tra le più belle del Mediterraneo. Le spiagge principali includono:",
@@ -462,14 +462,14 @@
     "facilitiesTitle": "Servizi dell'Aeroporto",
     "facilitiesText": "L'aeroporto offre caffetterie, telefoni pubblici, negozi di souvenir e shopping duty-free. I servizi di autobus collegano a Herceg Novi e Budva, con servizio taxi disponibile anche all'esterno del terminal.",
     "whyTitle": "Perché Noleggiare all'Aeroporto di Tivat?",
-    "whyText": "L'Aeroporto di Tivat è l'aeroporto più vicino alle destinazioni costiere più popolari del Montenegro. Pochi minuti dopo l'atterraggio, potrete guidare lungo la Baia di Kotor verso la città medievale fortificata, o dirigervi a sud verso le spiagge di Budva. Ritirare l'auto a Tivat significa nessun trasferimento, nessuna attesa per gli autobus — direttamente dal terminal alla strada aperta.",
-    "whyLinkPre": " Entro 30 minuti potete essere alle ",
+    "whyText": "L'Aeroporto di Tivat è l'aeroporto più vicino alle destinazioni costiere più popolari del Montenegro. Pochi minuti dopo l'atterraggio, potrete guidare lungo la Baia di Kotor verso la città medievale fortificata, o dirigervi a sud verso le spiagge di Budva. Ritirare l'auto a Tivat significa nessun trasferimento, nessuna attesa per gli autobus, direttamente dal terminal alla strada aperta.",
+    "whyLinkPre": "Entro 30 minuti potete essere alle",
     "whyLinkText": "spiagge della riviera di Budva",
     "whyLinkPost": ".",
     "meetText": "Vi accogliamo nella sala arrivi con il vostro nome su un cartello. La vostra auto è parcheggiata proprio fuori. Tempo totale dall'atterraggio alla guida: circa 10 minuti."
   },
   "podgoricaBody": {
-    "h1": "Podgorica — La Capitale",
+    "h1": "Podgorica, La Capitale",
     "p1": "La maggior parte dei turisti che volano in Montenegro inizierà il proprio viaggio all'Aeroporto di Podgorica (TGD), situato a 9 km dal centro città. Essendo sia la capitale che la città più grande del Montenegro, Podgorica ospita circa 170.000 residenti e si trova in posizione unica sulle rive di sei fiumi: la Moraca, la Ribnica, la Zeta, la Sitnica, la Mareza e la Cijevna.",
     "p2": "L'architettura della città riflette diverse influenze storiche. Il dominio ottomano ha lasciato il suo segno, mentre strutture medievali si affiancano a edifici funzionalisti dell'era comunista e moderne torri di vetro. Il Ponte del Millennio è diventato un simbolo dell'estetica moderna della città.",
     "p3": "Podgorica è la capitale culturale del paese. I turisti che si precipitano verso le città balneari o le montagne senza trascorrere del tempo qui perderanno certamente una parte importante del Montenegro.",
@@ -499,36 +499,36 @@
     "awardText": "Sebbene piccolo, l'Aeroporto di Podgorica è una struttura pluripremiata, avendo vinto il premio ACI Europe per il miglior aeroporto con meno di 1 milione di passeggeri.",
     "rentalTitle": "Ritirare l'Auto a Noleggio",
     "rentalText": "Vi accogliamo nella sala arrivi e portiamo l'auto direttamente da voi. Nessuna coda, nessun autobus navetta verso parcheggi esterni. Pochi minuti dopo aver superato la dogana, sarete già in strada verso la vostra destinazione.",
-    "rentalLinkPre": " Consultate la nostra ",
+    "rentalLinkPre": "Consultate la nostra",
     "rentalLinkText": "guida al viaggio in Montenegro",
-    "rentalLinkPost": " per la pianificazione del percorso."
+    "rentalLinkPost": "per la pianificazione del percorso."
   },
   "dubrovnikAirportBody": {
     "h1": "Noleggio Auto all'Aeroporto di Dubrovnik (DBV)",
     "p1": "Molti turisti che visitano il Montenegro scelgono di volare all'Aeroporto di Dubrovnik e noleggiare un'auto per guidare fino in Montenegro. L'aeroporto si trova a sole due ore di auto dalle località costiere di Budva, Perast e Kotor, ed è meglio collegato con molte compagnie aeree che non offrono ancora un servizio diretto per il Montenegro.",
-    "p2": "Poiché questa è una rotta così comune, attraversare il confine non è un compito difficile — a condizione che i visitatori abbiano tutti i documenti di noleggio e i documenti di viaggio in ordine.",
+    "p2": "Poiché questa è una rotta così comune, attraversare il confine non è un compito difficile, a condizione che i visitatori abbiano tutti i documenti di noleggio e i documenti di viaggio in ordine.",
     "p3": "Noleggiare un'auto per un viaggio in Montenegro è un'ottima idea. Permette ai visitatori di vedere questa parte del mondo alle proprie condizioni, con i propri tempi. Il traffico tra i paesi di questa regione è comune, quindi gli attraversamenti di frontiera sono generalmente semplici.",
     "borderTitle": "Consigli per l'Attraversamento del Confine",
     "borderText": "Durante la stagione turistica, il Montenegro si riempie di visitatori e lunghe attese per attraversare il confine non sono rare. Attraversare la mattina presto o la sera tardi è un modo per evitare la folla. Assicuratevi che la vostra compagnia di noleggio vi abbia fornito una Carta Verde per l'assicurazione transfrontaliera.",
-    "borderLinkPre": " Leggete la nostra ",
+    "borderLinkPre": "Leggete la nostra",
     "borderLinkText": "guida alla Carta Verde e ai documenti di frontiera",
     "borderLinkPost": ".",
     "facilitiesTitle": "Servizi dell'Aeroporto",
-    "facilitiesText1": "L'Aeroporto di Dubrovnik dispone di un moderno edificio terminale situato a meno di mezz'ora di auto dalla città di Dubrovnik sulla E65. L'aeroporto ha parcheggi limitati disponibili, con macchine che elaborano il pagamento in contanti e con carte di credito. Poiché il parcheggio è limitato — specialmente in alta stagione — i visitatori dovrebbero prenotare i loro posti in anticipo se possibile. È disponibile uno sconto per la prenotazione anticipata.",
+    "facilitiesText1": "L'Aeroporto di Dubrovnik dispone di un moderno edificio terminale situato a meno di mezz'ora di auto dalla città di Dubrovnik sulla E65. L'aeroporto ha parcheggi limitati disponibili, con macchine che elaborano il pagamento in contanti e con carte di credito. Poiché il parcheggio è limitato, specialmente in alta stagione, i visitatori dovrebbero prenotare i loro posti in anticipo se possibile. È disponibile uno sconto per la prenotazione anticipata.",
     "facilitiesText2": "All'interno dell'aeroporto si trovano un ufficio di cambio, una banca e un ufficio postale. Sono disponibili anche piccoli ristoranti, caffetterie, un negozio duty-free e un'edicola.",
     "gettingTitle": "Come Raggiungere il Montenegro",
     "gettingText1": "I trasporti pubblici sono disponibili all'aeroporto sotto forma di taxi situati all'esterno del terminal, oltre a servizi di autobus e navette. Per i viaggiatori diretti alla città di Dubrovnik, assicuratevi di prendere gli autobus che arrivano fino al centro città piuttosto che quelli che si fermano a Cavtat, per risparmiare un trasferimento.",
-    "gettingText2": "Il viaggio dall'Aeroporto di Dubrovnik alla costa montenegrina vi porta lungo una delle strade costiere più panoramiche d'Europa. Entro due ore passerete attraverso il confine e arriverete alla Baia di Kotor — uno degli approcci più spettacolari a qualsiasi destinazione nel Mediterraneo."
+    "gettingText2": "Il viaggio dall'Aeroporto di Dubrovnik alla costa montenegrina vi porta lungo una delle strade costiere più panoramiche d'Europa. Entro due ore passerete attraverso il confine e arriverete alla Baia di Kotor, uno degli approcci più spettacolari a qualsiasi destinazione nel Mediterraneo."
   },
   "montenegroBody": {
     "h1": "Esplorare il Montenegro in Auto",
     "p1": "Il Montenegro si distingue come una delle destinazioni europee più gratificanti per l'esplorazione in auto. Dalle spettacolari strade di montagna e i tranquilli villaggi dell'entroterra alle tortuose strade costiere lungo l'Adriatico, il paese offre paesaggi diversificati a distanze sorprendentemente brevi. Noleggiare un'auto fornisce accesso a luoghi ben oltre la portata dei trasporti pubblici.",
-    "p2": "Sebbene compatto nelle dimensioni, il Montenegro richiede tempi di percorrenza più lunghi di quanto le mappe suggeriscano. I tornanti di montagna, le strette strade costiere e i percorsi panoramici incoraggiano soste frequenti. I viaggiatori ottengono la libertà di vivere sia il viaggio che la destinazione — navigando baie simili a fiordi, città storiche e punti panoramici d'altura al proprio ritmo.",
+    "p2": "Sebbene compatto nelle dimensioni, il Montenegro richiede tempi di percorrenza più lunghi di quanto le mappe suggeriscano. I tornanti di montagna, le strette strade costiere e i percorsi panoramici incoraggiano soste frequenti. I viaggiatori ottengono la libertà di vivere sia il viaggio che la destinazione, navigando baie simili a fiordi, città storiche e punti panoramici d'altura al proprio ritmo.",
     "startTitle": "Come Iniziare",
-    "startText": "Molti visitatori ritirano l'auto a noleggio in uno degli aeroporti del Montenegro o all'Aeroporto di Dubrovnik in Croazia, a seconda della disponibilità dei voli. L'Aeroporto di Tivat è il più vicino alla costa — a soli 10 minuti da Kotor e 20 minuti da Budva. L'Aeroporto di Podgorica serve la capitale e l'interno. L'Aeroporto di Dubrovnik rimane popolare in quanto spesso dispone di più voli internazionali.",
-    "startLinkPre": " Ritira presso il ",
+    "startText": "Molti visitatori ritirano l'auto a noleggio in uno degli aeroporti del Montenegro o all'Aeroporto di Dubrovnik in Croazia, a seconda della disponibilità dei voli. L'Aeroporto di Tivat è il più vicino alla costa, a soli 10 minuti da Kotor e 20 minuti da Budva. L'Aeroporto di Podgorica serve la capitale e l'interno. L'Aeroporto di Dubrovnik rimane popolare in quanto spesso dispone di più voli internazionali.",
+    "startLinkPre": "Ritira presso il",
     "startLinkText": "noleggio auto dell'aeroporto di Tivat",
-    "startLinkPost": " e parti subito.",
+    "startLinkPost": "e parti subito.",
     "timesTitle": "Tempi di Percorrenza",
     "timesText1": "I tempi di percorrenza effettivi superano regolarmente quanto indicato dalle mappe. I tornanti di montagna, le strade costiere frastagliate, gli ostacoli rurali (incluso il bestiame) e la neve montana invernale contribuiscono tutti a viaggi più lunghi. L'esperienza panoramica costiera e della campagna giustifica ampiamente il tempo di viaggio prolungato.",
     "timesText2": "Il viaggio tra le città costiere varia tipicamente da trenta minuti a un'ora. Il tragitto da Herceg-Novi a Podgorica attraverso la E65/E80 richiede circa due ore.",
@@ -541,10 +541,10 @@
     "keyRulesTitle": "Regole Principali",
     "keyRule1": "Le cinture di sicurezza sono obbligatorie per tutti i passeggeri",
     "keyRule2": "L'uso del telefono cellulare durante la guida è proibito",
-    "keyRule3": "Bere e guidare è illegale — tolleranza zero",
+    "keyRule3": "Bere e guidare è illegale, tolleranza zero",
     "keyRule4": "I limiti di velocità sono rigorosamente applicati",
     "conditionsTitle": "Condizioni Stradali",
-    "conditionsText": "Le strade cittadine mantengono condizioni discrete. Le strade di montagna possono essere più impegnative, con guardrail minimi in alcuni punti. Alcuni conducenti guidano in modo aggressivo, quindi si consiglia prudenza in tutto il paese — in particolare sui passi di montagna e nei tratti costieri stretti.",
+    "conditionsText": "Le strade cittadine mantengono condizioni discrete. Le strade di montagna possono essere più impegnative, con guardrail minimi in alcuni punti. Alcuni conducenti guidano in modo aggressivo, quindi si consiglia prudenza in tutto il paese, in particolare sui passi di montagna e nei tratti costieri stretti.",
     "routesTitle": "Percorsi Principali",
     "e65Title": "E65/E80",
     "e65Text": "Il principale percorso costiero collega Herceg-Novi a Podgorica, passando per Kotor, Perast, Tivat e Budva. Questo è il percorso di guida più popolare e offre viste mozzafiato sulla Baia di Kotor.",
@@ -561,7 +561,7 @@
     "greenCardTitle": "Cos'è una Carta Verde?",
     "greenCardText": "Una Carta Verde è un certificato internazionale di assicurazione auto che dimostra che il vostro veicolo è assicurato nel paese in cui state entrando. È richiesta ad ogni attraversamento di frontiera nei Balcani.",
     "greenCard1": "Costo: circa 15 Euro per 15 giorni",
-    "greenCard2": "Dove ottenerla: la vostra compagnia di noleggio la organizza — basta confermare al momento della prenotazione",
+    "greenCard2": "Dove ottenerla: la vostra compagnia di noleggio la organizza, basta confermare al momento della prenotazione",
     "greenCard3": "Paesi coperti: Croazia, Bosnia, Albania, Kosovo, Serbia",
     "greenCardWarn": "Senza una Carta Verde, le guardie di frontiera non vi lasceranno passare. Controllate sempre che la carta copra tutti i paesi sul vostro itinerario pianificato prima di partire.",
     "docsTitle": "Documenti Necessari alla Frontiera",
@@ -572,10 +572,10 @@
     "doc5": "Documento di immatricolazione del veicolo (fornito con l'auto)",
     "crossingsTitle": "Attraversamenti di Frontiera dal Montenegro",
     "croatiaTitle": "Montenegro → Croazia",
-    "croatiaText": "L'attraversamento più popolare per i turisti. Il principale posto di blocco si trova a Debeli Brijeg sulla strada costiera (E65) tra Herceg Novi e Dubrovnik. Questo attraversamento diventa estremamente trafficato in estate — aspettatevi code di 1-2 ore durante l'alta stagione (luglio-agosto).",
+    "croatiaText": "L'attraversamento più popolare per i turisti. Il principale posto di blocco si trova a Debeli Brijeg sulla strada costiera (E65) tra Herceg Novi e Dubrovnik. Questo attraversamento diventa estremamente trafficato in estate, aspettatevi code di 1-2 ore durante l'alta stagione (luglio-agosto).",
     "croatiaTip": "Orari migliori per attraversare: la mattina presto (prima delle 8) o la sera tardi (dopo le 20). Le mattine dei giorni feriali sono significativamente più tranquille rispetto ai fine settimana.",
-    "croatiaFerry": "C'è anche la scorciatoia del traghetto Kamenari-Lepetane attraverso la Baia di Kotor che evita di percorrere l'intera baia — fa risparmiare circa 45 minuti.",
-    "croatiaLinkPre": " Molti visitatori ",
+    "croatiaFerry": "C'è anche la scorciatoia del traghetto Kamenari-Lepetane attraverso la Baia di Kotor che evita di percorrere l'intera baia, fa risparmiare circa 45 minuti.",
+    "croatiaLinkPre": "Molti visitatori",
     "croatiaLinkText": "volano a Dubrovnik e guidano verso sud",
     "croatiaLinkPost": ".",
     "albaniaTitle": "Montenegro → Albania",
@@ -586,13 +586,13 @@
     "serbiaTitle": "Montenegro → Serbia",
     "serbiaText": "Attraversate a Dobrakovo (sulla E65 a nord di Bijelo Polje). Questo attraversamento si collega direttamente al sistema autostradale serbo verso Belgrado.",
     "kosovoTitle": "Montenegro → Kosovo",
-    "kosovoText": "L'attraversamento a Kula (vicino a Rožaje) si collega a Peja/Peć in Kosovo. Verificate con la vostra compagnia di noleggio che il Kosovo sia incluso nella vostra Carta Verde — alcune polizze lo escludono.",
+    "kosovoText": "L'attraversamento a Kula (vicino a Rožaje) si collega a Peja/Peć in Kosovo. Verificate con la vostra compagnia di noleggio che il Kosovo sia incluso nella vostra Carta Verde, alcune polizze lo escludono.",
     "tipsTitle": "Consigli per Attraversamenti di Frontiera Senza Problemi",
-    "tip1": "Tenete tutti i documenti pronti prima di raggiungere il posto di blocco — non cercateli al finestrino",
+    "tip1": "Tenete tutti i documenti pronti prima di raggiungere il posto di blocco, non cercateli al finestrino",
     "tip2": "Spegnete il motore mentre aspettate in coda (le guardie di frontiera lo apprezzano)",
-    "tip3": "I fine settimana estivi sono i peggiori — pianificate di attraversare nei giorni feriali se possibile",
+    "tip3": "I fine settimana estivi sono i peggiori, pianificate di attraversare nei giorni feriali se possibile",
     "tip4": "L'attraversamento costiero croato (Debeli Brijeg) è il più trafficato; gli attraversamenti interni sono più tranquilli",
-    "tip5": "Tenete del contante in Euro — utile per i pedaggi e piccoli acquisti dall'altra parte",
+    "tip5": "Tenete del contante in Euro, utile per i pedaggi e piccoli acquisti dall'altra parte",
     "tip6": "Roaming dati mobile: verificate che il vostro piano copra il paese in cui state entrando",
     "lawsTitle": "Regole Stradali che Cambiano ai Confini",
     "lawsIntro": "Ogni paese ha leggi sul traffico leggermente diverse. Differenze principali da notare:",
@@ -606,7 +606,7 @@
     "route2": "Kotor → Mostar (Bosnia): 3-4 ore via Trebinje. Visitate il famoso ponte",
     "route3": "Budva → Shkodër (Albania): 2,5 ore via l'attraversamento costiero di Ulcinj",
     "route4": "Podgorica → Belgrado (Serbia): 5-6 ore via la E65 nord",
-    "ctaText": "Avete bisogno di un'auto con documentazione transfrontaliera pronta? Cercate nella nostra flotta — selezionate semplicemente i paesi di destinazione alla prenotazione e organizzeremo la Carta Verde."
+    "ctaText": "Avete bisogno di un'auto con documentazione transfrontaliera pronta? Cercate nella nostra flotta, selezionate semplicemente i paesi di destinazione alla prenotazione e organizzeremo la Carta Verde."
   },
   "blogHome": {
     "sectionLabel": "Guide di Viaggio",
@@ -620,7 +620,7 @@
     "breadcrumbBlog": "Blog",
     "readGuide": "Leggi la guida",
     "card_airport_title": "La tua prima ora dopo l'atterraggio al TIV",
-    "card_airport_excerpt": "Dal momento in cui le ruote toccano l'asfalto al primo espresso a Porto Montenegro — una guida passo dopo passo per ritirare l'auto, comprare una SIM e orientarsi nel piu piccolo grande aeroporto dell'Adriatico.",
+    "card_airport_excerpt": "Dal momento in cui le ruote toccano l'asfalto al primo espresso a Porto Montenegro, una guida passo dopo passo per ritirare l'auto, comprare una SIM e orientarsi nel piu piccolo grande aeroporto dell'Adriatico.",
     "card_porto_title": "Porto Montenegro oltre i superyacht",
     "card_porto_excerpt": "La maggior parte dei visitatori scatta una foto del porto turistico e se ne va. Ecco cosa fanno davvero i locali a Porto: il museo navale, il pool club senza coda e dove mangiare senza pagare prezzi da equipaggio di yacht.",
     "card_dubrovnik_title": "In auto da Tivat a Dubrovnik lungo la costa",
@@ -636,22 +636,22 @@
     "card_grocery_title": "Prima spesa: negozi, SIM e benzinai vicino al TIV",
     "card_grocery_excerpt": "Dove comprare acqua, crema solare e una SIM locale entro dieci minuti dal ritiro dell'auto. Piu stazioni di servizio, farmacie e bancomat che nessuna guida turistica menziona.",
     "card_kotor_title": "Tivat-Kotor: galleria o strada panoramica lungo la baia",
-    "card_kotor_excerpt": "Due percorsi per la stessa citta murata — dodici minuti attraverso il Vrmac o venti lungo il lungomare. Quale scegliere, dove fermarsi e perche i locali a volte li percorrono entrambi in un giorno."
+    "card_kotor_excerpt": "Due percorsi per la stessa citta murata, dodici minuti attraverso il Vrmac o venti lungo il lungomare. Quale scegliere, dove fermarsi e perche i locali a volte li percorrono entrambi in un giorno."
   },
   "blogAirport": {
     "title": "La tua prima ora dopo l'atterraggio all'aeroporto di Tivat",
     "subtitle": "Guida passo dopo passo di un locale: dall'atterraggio all'uscita dal parcheggio.",
     "description": "Tutto cio che accade tra l'atterraggio del vostro aereo al TIV e l'uscita dal parcheggio con l'auto a noleggio. SIM, bancomat, carburante e quale direzione prendere per prima.",
     "h2Touchdown": "Dall'atterraggio all'uscita dal terminal",
-    "touchdownP1": "L'aeroporto di Tivat ha un'unica pista che termina praticamente sulla riva delle Bocche di Cattaro. Dopo l'atterraggio, rullate circa novanta secondi fino all'unico edificio del terminal. Non ci sono finger — scendete dalla scaletta dell'aereo, attraversate quindici metri di asfalto ed entrate da un paio di porte a vetri. L'intero terminal e piu piccolo della sala partenze della maggior parte degli aeroporti europei, ed e proprio per questo che funziona cosi bene per chi noleggia un'auto.",
+    "touchdownP1": "L'aeroporto di Tivat ha un'unica pista che termina praticamente sulla riva delle Bocche di Cattaro. Dopo l'atterraggio, rullate circa novanta secondi fino all'unico edificio del terminal. Non ci sono finger, scendete dalla scaletta dell'aereo, attraversate quindici metri di asfalto ed entrate da un paio di porte a vetri. L'intero terminal e piu piccolo della sala partenze della maggior parte degli aeroporti europei, ed e proprio per questo che funziona cosi bene per chi noleggia un'auto.",
     "touchdownP2": "All'interno, il controllo passaporti consiste in due cabine. I doganieri montenegrini lavorano in modo efficiente e la coda supera raramente i dieci minuti, anche quando due voli atterrano entro mezz'ora. Dopo il controllo passaporti, procedete direttamente nella sala ritiro bagagli. C'e un nastro. I vostri bagagli appariranno li. La semplicita e quasi disorientante se siete abituati a Heathrow o Francoforte.",
     "h2Baggage": "Ritiro bagagli e uscita",
     "baggageP1": "La sala ritiro bagagli del TIV ha un nastro trasportatore, un paio di carrelli e un piccolo banco doganale che non e quasi mai presidiato per i voli intraeuropei. I bagagli di solito iniziano ad apparire entro cinque minuti. Se viaggiate leggeri con solo bagaglio a mano, uscirete in meno di sessanta secondi.",
-    "baggageP2": "Superate l'area doganale e attraversate le porte in vetro smerigliato. Ora siete fuori dal terminal. Direttamente di fronte, oltre una singola strada di accesso, c'e il parcheggio a breve termine. Li vi aspetta la vostra auto a noleggio. La distanza totale dal nastro bagagli al parcheggio e di circa quaranta metri — piu breve del percorso dalla hall della maggior parte degli hotel alle loro strutture di parcheggio.",
+    "baggageP2": "Superate l'area doganale e attraversate le porte in vetro smerigliato. Ora siete fuori dal terminal. Direttamente di fronte, oltre una singola strada di accesso, c'e il parcheggio a breve termine. Li vi aspetta la vostra auto a noleggio. La distanza totale dal nastro bagagli al parcheggio e di circa quaranta metri, piu breve del percorso dalla hall della maggior parte degli hotel alle loro strutture di parcheggio.",
     "altTerminal": "Edificio del terminal dell'aeroporto di Tivat visto dalla strada di accesso",
     "h2Car": "Ritiro dell'auto",
-    "carP1": "L'agente della vostra societa di noleggio vi aspettera nell'area del parcheggio, di solito con un cartello o semplicemente accanto al veicolo. Al TIV non ci sono banchi di noleggio all'interno del terminal e nessun autobus navetta per depositi esterni — l'auto e proprio li. La consegna richiede circa cinque minuti: firmare il contratto, controllare insieme il foglio dei danni esistenti, ricevere le chiavi e regolare gli specchietti.",
-    "carP2": "Prima di partire, prendetevi sessanta secondi per familiarizzare con l'auto. Controllate l'indicatore del carburante, individuate i comandi dei fari e assicuratevi di sapere dov'e il pulsante delle quattro frecce. Nelle gallerie montenegrine i fari devono essere sempre accesi, e incontrerete la prima galleria — il Vrmac — entro tre chilometri dall'uscita dell'aeroporto se vi dirigete verso Kotor.",
+    "carP1": "L'agente della vostra societa di noleggio vi aspettera nell'area del parcheggio, di solito con un cartello o semplicemente accanto al veicolo. Al TIV non ci sono banchi di noleggio all'interno del terminal e nessun autobus navetta per depositi esterni, l'auto e proprio li. La consegna richiede circa cinque minuti: firmare il contratto, controllare insieme il foglio dei danni esistenti, ricevere le chiavi e regolare gli specchietti.",
+    "carP2": "Prima di partire, prendetevi sessanta secondi per familiarizzare con l'auto. Controllate l'indicatore del carburante, individuate i comandi dei fari e assicuratevi di sapere dov'e il pulsante delle quattro frecce. Nelle gallerie montenegrine i fari devono essere sempre accesi, e incontrerete la prima galleria, il Vrmac, entro tre chilometri dall'uscita dell'aeroporto se vi dirigete verso Kotor.",
     "h2Fuel": "Carburante, SIM e primi acquisti",
     "fuelP1": "Svoltate a destra dall'aeroporto sulla strada principale e la stazione Jugopetrol appare dopo ottocento metri sulla destra. E la stazione di servizio piu vicina al TIV e quella che i locali usano prima di restituire le auto a noleggio. Fate il pieno qui se il serbatoio e sotto la meta. Il diesel costa leggermente meno della benzina, ed entrambe le pompe accettano Visa e Mastercard.",
     "fuelP2": "Per una SIM locale, i negozi Telenor e m:tel si trovano nel centro di Tivat, a tre minuti d'auto dall'aeroporto. Una SIM turistica prepagata con 10 GB di dati costa circa cinque euro e vi fa risparmiare una fortuna in roaming. Per alimentari e acqua, consultate la nostra",
@@ -665,7 +665,7 @@
     "dirStraightLabel": "Dritto / leggermente a sinistra:",
     "dirStraightVal": "Marina di Porto Montenegro e lungomare di Tivat in 3 minuti.",
     "h2Phone": "Telefono e internet",
-    "phoneP": "Il Montenegro usa l'euro, quindi i bancomat dell'aeroporto erogano euro direttamente. Ci sono due bancomat nel terminal — uno vicino agli arrivi e uno al piano superiore nelle partenze. Entrambi accettano Visa e Mastercard internazionali. Per una SIM locale, il negozio Telenor in Ulica 21 Novembra nel centro di Tivat apre alle 8 e vende pacchetti turistici prepagati. Se arrivate con un volo serale, il supermercato Voli vicino a Porto Montenegro vende kit SIM Telenor base alla cassa.",
+    "phoneP": "Il Montenegro usa l'euro, quindi i bancomat dell'aeroporto erogano euro direttamente. Ci sono due bancomat nel terminal, uno vicino agli arrivi e uno al piano superiore nelle partenze. Entrambi accettano Visa e Mastercard internazionali. Per una SIM locale, il negozio Telenor in Ulica 21 Novembra nel centro di Tivat apre alle 8 e vende pacchetti turistici prepagati. Se arrivate con un volo serale, il supermercato Voli vicino a Porto Montenegro vende kit SIM Telenor base alla cassa.",
     "glanceTitle": "In Breve",
     "glanceWalk": "Terminal all'auto:",
     "glanceWalkVal": "40 metri, 2 minuti",
@@ -681,23 +681,23 @@
     "subtitle": "Le parti del villaggio portuale di Tivat che non compaiono su Instagram.",
     "description": "Una guida locale a Porto Montenegro: il museo navale, ristoranti accessibili, il pool club e passeggiate serali che la maggior parte dei visitatori si perde completamente.",
     "h2Beyond": "Piu di una marina",
-    "beyondP1": "Porto Montenegro occupa il terreno dell'ex arsenale navale jugoslavo, e camminando nel complesso si avverte ancora quella geometria militare sotto la pietra levigata e il vetro. I bacini di carenaggio dove si riparavano i sottomarini sono ora gallerie d'arte. I depositi di munizioni ospitano boutique. Il molo di collaudo dei siluri e un cocktail bar. E una trasformazione strana e affascinante — e la maggior parte dei visitatori vede solo gli ormeggi dei superyacht sul lungomare.",
+    "beyondP1": "Porto Montenegro occupa il terreno dell'ex arsenale navale jugoslavo, e camminando nel complesso si avverte ancora quella geometria militare sotto la pietra levigata e il vetro. I bacini di carenaggio dove si riparavano i sottomarini sono ora gallerie d'arte. I depositi di munizioni ospitano boutique. Il molo di collaudo dei siluri e un cocktail bar. E una trasformazione strana e affascinante, e la maggior parte dei visitatori vede solo gli ormeggi dei superyacht sul lungomare.",
     "beyondP2": "I residenti di Tivat usano Porto in modo diverso dai turisti. Veniamo al pool club nei giorni feriali al mattino quando e mezzo vuoto, mangiamo nella pizzeria dietro l'hotel Regent dove i prezzi sono un terzo dei ristoranti sul lungomare, e passeggiamo lungo tutto il perimetro la sera quando la pietra conserva il calore del giorno e la baia diventa color rame. Se volete vivere Porto come i residenti, saltate la prima fila ed esplorate le stradine interne.",
     "h2Naval": "La Collezione del Patrimonio Navale",
     "navalP1": "Nascosto dietro la passeggiata principale, il museo navale occupa uno degli edifici originali dell'arsenale e racconta la storia del rapporto millenario delle Bocche di Cattaro con il mare. La collezione comprende carte nautiche, modelli di navi, uniformi della flotta austro-ungarica e fotografie del programma sottomarini jugoslavo che operava esattamente in questo luogo fino agli anni '90.",
-    "navalP2": "L'ingresso e gratuito e la visita dura circa quaranta minuti. La sala dedicata alla confraternita dei marinai di Boka — una corporazione marittima che precede l'accademia navale di Venezia — e particolarmente affascinante. La maggior parte dei turisti passa davanti all'ingresso perche dall'esterno non sembra un museo. E parte del suo fascino.",
+    "navalP2": "L'ingresso e gratuito e la visita dura circa quaranta minuti. La sala dedicata alla confraternita dei marinai di Boka, una corporazione marittima che precede l'accademia navale di Venezia, e particolarmente affascinante. La maggior parte dei turisti passa davanti all'ingresso perche dall'esterno non sembra un museo. E parte del suo fascino.",
     "altMarina": "Marina di Porto Montenegro con montagne al tramonto",
     "h2Food": "Dove mangiare senza prezzi da equipaggio yacht",
     "foodP1": "I ristoranti sul lungomare di Porto applicano prezzi premium perche si affacciano sui superyacht. Spostatevi di un isolato verso l'interno e l'economia cambia completamente. La pizzeria dietro il Regent fa vera pizza napoletana a sette euro. Il panificio al cancello nord vende burek e torte di spinaci dalle sei del mattino. Il bancone gastronomia del supermercato Voli, a cinque minuti a piedi dalla marina, prepara panini freschi a meno di tre euro.",
-    "foodP2": "Per un pranzo vero e proprio, guidate cinque minuti fino al lungomare di Tivat fuori da Porto. I ristoranti lungo il tratto Stari Grad servono pesce fresco dalla baia — branzino o orata alla griglia — a circa meta del prezzo di qualsiasi cosa dentro i cancelli della marina. I locali mangiano qui regolarmente; i turisti raramente si avventurano oltre il perimetro di Porto.",
+    "foodP2": "Per un pranzo vero e proprio, guidate cinque minuti fino al lungomare di Tivat fuori da Porto. I ristoranti lungo il tratto Stari Grad servono pesce fresco dalla baia, branzino o orata alla griglia, a circa meta del prezzo di qualsiasi cosa dentro i cancelli della marina. I locali mangiano qui regolarmente; i turisti raramente si avventurano oltre il perimetro di Porto.",
     "h2Pool": "Il Pool Club e la giornata in spiaggia",
-    "poolP": "Il Lido pool club di Porto Montenegro e aperto ai visitatori giornalieri a pagamento, che include lettino, telo e accesso alla piscina e al bar. A luglio e agosto si riempie entro mezzogiorno, ma visitatelo in un giorno feriale al mattino a giugno o settembre e potreste avere un'intera sezione per voi. Se preferite una vera spiaggia, guidate dieci minuti a sud verso Plavi Horizonti sulla strada per Lustica — maggiori dettagli nella nostra",
+    "poolP": "Il Lido pool club di Porto Montenegro e aperto ai visitatori giornalieri a pagamento, che include lettino, telo e accesso alla piscina e al bar. A luglio e agosto si riempie entro mezzogiorno, ma visitatelo in un giorno feriale al mattino a giugno o settembre e potreste avere un'intera sezione per voi. Se preferite una vera spiaggia, guidate dieci minuti a sud verso Plavi Horizonti sulla strada per Lustica, maggiori dettagli nella nostra",
     "poolLink": "guida alla penisola di Lustica",
     "h2Evening": "Passeggiate serali e tramonti",
-    "eveningP1": "Il momento migliore per visitare Porto e tra le sei e le otto di sera. I turisti giornalieri se ne sono andati, le terrazze dei ristoranti si riempiono del profumo di pesce alla griglia, e la luce sulle montagne dall'altra parte della baia cambia dal bianco all'oro. Percorrete l'intero perimetro — ci vogliono circa venti minuti e si passa dallo yacht club, dalla spiaggia del Regent e dai vecchi bacini di carenaggio dove si possono ancora vedere le rotaie dei sottomarini nel cemento.",
+    "eveningP1": "Il momento migliore per visitare Porto e tra le sei e le otto di sera. I turisti giornalieri se ne sono andati, le terrazze dei ristoranti si riempiono del profumo di pesce alla griglia, e la luce sulle montagne dall'altra parte della baia cambia dal bianco all'oro. Percorrete l'intero perimetro, ci vogliono circa venti minuti e si passa dallo yacht club, dalla spiaggia del Regent e dai vecchi bacini di carenaggio dove si possono ancora vedere le rotaie dei sottomarini nel cemento.",
     "eveningP2": "All'estremita sud della passeggiata, un frangiflutti in pietra si estende nella baia. I locali si siedono sulle rocce con bottiglie di vino Vranac e guardano il sole scendere dietro la catena montuosa dell'Orjen. Nelle serate limpide, la sagoma di Herceg Novi e visibile attraverso l'acqua. Non c'e biglietto d'ingresso, nessuna prenotazione e nessuna coda. Presentatevi con qualcosa da bere e un posto dove sedervi.",
     "h2Getting": "Come arrivare dal TIV",
-    "gettingP": "Porto Montenegro e a tre minuti d'auto dall'aeroporto di Tivat — svoltate a sinistra dal parcheggio, prendete la prima rotonda dritto e i cancelli della marina appaiono sulla sinistra. Il parcheggio dentro Porto e a pagamento e limitato in estate; il parcheggio gratuito sul lato nord della strada di accesso e a due minuti a piedi dalla passeggiata principale. Potete anche camminare dal terminal dell'aeroporto in quindici minuti.",
+    "gettingP": "Porto Montenegro e a tre minuti d'auto dall'aeroporto di Tivat, svoltate a sinistra dal parcheggio, prendete la prima rotonda dritto e i cancelli della marina appaiono sulla sinistra. Il parcheggio dentro Porto e a pagamento e limitato in estate; il parcheggio gratuito sul lato nord della strada di accesso e a due minuti a piedi dalla passeggiata principale. Potete anche camminare dal terminal dell'aeroporto in quindici minuti.",
     "glanceTitle": "In Breve",
     "glanceDistance": "Dal TIV:",
     "glanceDistanceVal": "3 min. d'auto, 15 min. a piedi",
@@ -706,29 +706,29 @@
     "glanceEntry": "Museo navale:",
     "glanceEntryVal": "Ingresso gratuito, 40 min. di visita",
     "glanceBest": "Orario migliore:",
-    "glanceBestVal": "Sera, 18–20 per passeggiate al tramonto"
+    "glanceBestVal": "Sera, 18-20 per passeggiate al tramonto"
   },
   "blogDubrovnik": {
     "title": "In auto da Tivat a Dubrovnik lungo la costa",
     "subtitle": "Il percorso completo con scorciatoia del traghetto, tempi alla frontiera e soste carburante.",
-    "description": "Una guida di guida pratica dall'aeroporto TIV alle mura di Dubrovnik — traghetto Verige, strada costiera di Herceg Novi, valico di Debeli Brijeg e consigli per evitare le code.",
+    "description": "Una guida di guida pratica dall'aeroporto TIV alle mura di Dubrovnik, traghetto Verige, strada costiera di Herceg Novi, valico di Debeli Brijeg e consigli per evitare le code.",
     "h2Overview": "Perche guidare invece di volare",
-    "overviewP1": "Dubrovnik si trova a novanta minuti d'auto da Tivat se si azzecca il tempo alla frontiera. Questo la rende la gita internazionale giornaliera piu facile da qualsiasi punto delle Bocche di Cattaro. Il percorso segue la costa quasi per intero — strada costiera fino al traghetto Verige, attraverso Herceg Novi lungo il lungomare, oltre Igalo e su fino alla frontiera croata a Debeli Brijeg. Dopo il checkpoint, la strada costeggia l'Adriatico fino a Dubrovnik.",
-    "overviewP2": "Volare tra le due citta non ha senso a meno che non siate gia in transito da un hub. Gli aeroporti sono troppo vicini e la strada e troppo panoramica per giustificare un trasferimento. Guidate, e avrete il viaggio oltre alla destinazione — falesie calcaree, villaggi di pescatori e l'Adriatico aperto che appare alla bocca della baia.",
+    "overviewP1": "Dubrovnik si trova a novanta minuti d'auto da Tivat se si azzecca il tempo alla frontiera. Questo la rende la gita internazionale giornaliera piu facile da qualsiasi punto delle Bocche di Cattaro. Il percorso segue la costa quasi per intero, strada costiera fino al traghetto Verige, attraverso Herceg Novi lungo il lungomare, oltre Igalo e su fino alla frontiera croata a Debeli Brijeg. Dopo il checkpoint, la strada costeggia l'Adriatico fino a Dubrovnik.",
+    "overviewP2": "Volare tra le due citta non ha senso a meno che non siate gia in transito da un hub. Gli aeroporti sono troppo vicini e la strada e troppo panoramica per giustificare un trasferimento. Guidate, e avrete il viaggio oltre alla destinazione, falesie calcaree, villaggi di pescatori e l'Adriatico aperto che appare alla bocca della baia.",
     "h2Ferry": "La scorciatoia del traghetto Verige",
-    "ferryP1": "Il traghetto Verige attraversa il punto piu stretto delle Bocche di Cattaro tra Kamenari e Lepetane. La traversata dura cinque minuti. I traghetti partono ogni quindici minuti in estate e ogni trenta in inverno. Il costo e di circa cinque euro per auto, solo contanti — niente carte a bordo. Questa scorciatoia vi fa risparmiare piu di trenta minuti rispetto alla guida lungo tutta la baia attraverso Risan e Perast.",
+    "ferryP1": "Il traghetto Verige attraversa il punto piu stretto delle Bocche di Cattaro tra Kamenari e Lepetane. La traversata dura cinque minuti. I traghetti partono ogni quindici minuti in estate e ogni trenta in inverno. Il costo e di circa cinque euro per auto, solo contanti, niente carte a bordo. Questa scorciatoia vi fa risparmiare piu di trenta minuti rispetto alla guida lungo tutta la baia attraverso Risan e Perast.",
     "ferryP2": "Dal TIV, guidate verso nord lungo la strada costiera oltre Muo e Prcanj fino all'approdo del traghetto a Lepetane. I tempi di attesa sono solitamente inferiori ai dieci minuti, tranne il venerdi sera e la domenica pomeriggio di luglio e agosto quando i turisti di ritorno intasano il percorso. Anche con coda lunga, l'attesa e comunque piu breve dell'alternativa intorno all'intera baia.",
     "altCoast": "Costa adriatica tra Herceg Novi e Dubrovnik",
     "h2HercegNovi": "Attraverso Herceg Novi",
-    "hnP1": "Dopo che il traghetto attracca a Kamenari, guidate quindici minuti lungo la riva nord della baia fino a Herceg Novi. La strada si snoda attraverso Bijela e Djenovici — piccoli insediamenti costieri dove i pescatori riparano ancora le reti sulla banchina. Herceg Novi si arrampica su un ripido pendio sopra l'ingresso della baia, le mura della fortezza visibili dalla strada. Non e necessario fermarsi qui in direzione Dubrovnik, ma la citta e un'ottima sosta pranzo al ritorno.",
+    "hnP1": "Dopo che il traghetto attracca a Kamenari, guidate quindici minuti lungo la riva nord della baia fino a Herceg Novi. La strada si snoda attraverso Bijela e Djenovici, piccoli insediamenti costieri dove i pescatori riparano ancora le reti sulla banchina. Herceg Novi si arrampica su un ripido pendio sopra l'ingresso della baia, le mura della fortezza visibili dalla strada. Non e necessario fermarsi qui in direzione Dubrovnik, ma la citta e un'ottima sosta pranzo al ritorno.",
     "hnP2": "Proseguite attraverso Herceg Novi sulla E65 principale, oltre gli hotel termali di Igalo e la lunga spiaggia del lungomare. La strada sale fuori citta attraverso pinete e uliveti. La frontiera croata a Debeli Brijeg appare dieci minuti dopo l'ultimo semaforo di Herceg Novi.",
     "h2Border": "Il valico di Debeli Brijeg",
-    "borderP1": "Questo e l'unico valico costiero tra Montenegro e Croazia. Entrambi i paesi controllano i passaporti nello stesso punto — si passa l'uscita montenegrina e l'ingresso croato senza scendere dall'auto. Tenete a portata di mano passaporto, contratto di noleggio e certificato Carta Verde. Per dettagli completi sui documenti, consultate la nostra",
+    "borderP1": "Questo e l'unico valico costiero tra Montenegro e Croazia. Entrambi i paesi controllano i passaporti nello stesso punto, si passa l'uscita montenegrina e l'ingresso croato senza scendere dall'auto. Tenete a portata di mano passaporto, contratto di noleggio e certificato Carta Verde. Per dettagli completi sui documenti, consultate la nostra",
     "borderLink": "guida ai valichi di frontiera",
-    "borderP2": "I tempi contano enormemente. Tra le 10 e le 16 di luglio e agosto, le code possono arrivare a novanta minuti. Attraversate prima delle 8 o dopo le 20 e aspetterete meno di quindici minuti. I giorni feriali al mattino sono i piu veloci. Le domeniche pomeriggio — quando i turisti giornalieri tornano da Dubrovnik — sono in assoluto le peggiori. Pianificate l'orario di partenza in base alla frontiera, non alle visite.",
+    "borderP2": "I tempi contano enormemente. Tra le 10 e le 16 di luglio e agosto, le code possono arrivare a novanta minuti. Attraversate prima delle 8 o dopo le 20 e aspetterete meno di quindici minuti. I giorni feriali al mattino sono i piu veloci. Le domeniche pomeriggio, quando i turisti giornalieri tornano da Dubrovnik, sono in assoluto le peggiori. Pianificate l'orario di partenza in base alla frontiera, non alle visite.",
     "h2Arrival": "Arrivo a Dubrovnik",
-    "arrivalP1": "Dopo la frontiera, la strada costiera croata segue l'Adriatico verso sud per trenta minuti fino a Dubrovnik. Il percorso passa attraverso Cavtat — una gradevole cittadina portuale che merita una sosta — prima di salire al crinale sopra Dubrovnik dove l'intera citta murata appare sotto di voi. E uno degli arrivi piu spettacolari della guida in Europa.",
-    "arrivalP2": "Il parcheggio a Dubrovnik e limitato e costoso. Il parcheggio sotterraneo di Ilijina Glavica vicino a Porta Pile e il piu comodo — circa quattro euro l'ora. Il parcheggio scoperto sopra la stazione della funivia e piu economico ma richiede venti minuti di cammino in discesa verso la Citta Vecchia. Non tentate di entrare nella citta vecchia in auto — solo pedonale, rigidamente sorvegliata, e le stradine sono troppo strette per qualsiasi cosa piu larga di una carriola.",
+    "arrivalP1": "Dopo la frontiera, la strada costiera croata segue l'Adriatico verso sud per trenta minuti fino a Dubrovnik. Il percorso passa attraverso Cavtat, una gradevole cittadina portuale che merita una sosta, prima di salire al crinale sopra Dubrovnik dove l'intera citta murata appare sotto di voi. E uno degli arrivi piu spettacolari della guida in Europa.",
+    "arrivalP2": "Il parcheggio a Dubrovnik e limitato e costoso. Il parcheggio sotterraneo di Ilijina Glavica vicino a Porta Pile e il piu comodo, circa quattro euro l'ora. Il parcheggio scoperto sopra la stazione della funivia e piu economico ma richiede venti minuti di cammino in discesa verso la Citta Vecchia. Non tentate di entrare nella citta vecchia in auto, solo pedonale, rigidamente sorvegliata, e le stradine sono troppo strette per qualsiasi cosa piu larga di una carriola.",
     "h2Tips": "Consigli pratici",
     "tipDocLabel": "Documenti:",
     "tipDocVal": "Passaporto, contratto di noleggio, Carta Verde. Teneteli nel vano portiera, non nel bagagliaio.",
@@ -746,18 +746,18 @@
     "glanceFerry": "Traghetto Verige:",
     "glanceFerryVal": "5 min. traversata, ~5 EUR solo contanti",
     "glanceBorder": "Attesa frontiera:",
-    "glanceBorderVal": "5–90 min. a seconda dell'ora"
+    "glanceBorderVal": "5-90 min. a seconda dell'ora"
   },
   "blogLustica": {
     "title": "Il giro della penisola di Lustica",
     "subtitle": "Villaggi di pietra, calette nascoste e una delle strade piu tranquille della baia.",
-    "description": "Un giro di mezza giornata da Tivat attraverso la penisola di Lustica — borghi abbandonati, spiaggia di Zanjice, caletta di Miriste, il nuovo resort Lustica Bay e consigli pratici per le strade strette.",
+    "description": "Un giro di mezza giornata da Tivat attraverso la penisola di Lustica, borghi abbandonati, spiaggia di Zanjice, caletta di Miriste, il nuovo resort Lustica Bay e consigli pratici per le strade strette.",
     "h2Why": "Perche Lustica sembra un altro mondo",
     "whyP1": "Lustica e il braccio montuoso che forma la sponda sud delle Bocche di Cattaro, e sembra un paese diverso rispetto alle animate citta costiere sul lato opposto. La penisola non ha traffico di transito perche la strada finisce in un vicolo cieco sulla punta. Questo significa che quasi nessuno guida fin qui a meno che non vada a una spiaggia specifica o al resort Lustica Bay. Il risultato sono strade vuote, villaggi di pietra abbandonati riconquistati da fichi e salvia selvatica, e calette dove potreste essere l'unica persona in acqua.",
-    "whyP2": "Da Tivat, il giro richiede circa tre ore se vi fermate a due o tre spiagge e curiosate in uno dei villaggi fantasma. Non serve un veicolo a quattro ruote motrici — la strada principale e asfaltata per tutto il percorso — ma alcune piste verso spiagge piu piccole sono sterrate e piene di buche. Una berlina standard gestisce tutto sul percorso principale senza problemi.",
+    "whyP2": "Da Tivat, il giro richiede circa tre ore se vi fermate a due o tre spiagge e curiosate in uno dei villaggi fantasma. Non serve un veicolo a quattro ruote motrici, la strada principale e asfaltata per tutto il percorso, ma alcune piste verso spiagge piu piccole sono sterrate e piene di buche. Una berlina standard gestisce tutto sul percorso principale senza problemi.",
     "h2Route": "Il percorso da Tivat",
-    "routeP1": "Uscite da Tivat in direzione sud oltre l'aeroporto. Dopo due chilometri, prendete il bivio a sinistra indicato per Krasici e Lustica. La strada si stringe immediatamente e inizia a salire attraverso uliveti e campi con muretti a secco. Le viste sulla baia si aprono sulla destra — le montagne di Kotor dall'altra parte, il percorso del traghetto sotto, le navi container che si muovono lentamente verso il mare aperto.",
-    "routeP2": "Proseguite attraverso Krasici e Radovici. A Radovici, la strada si biforca di nuovo: a sinistra verso Zanjice e la punta della penisola, a destra verso il resort Lustica Bay. Prendete prima a sinistra per la parte piu selvaggia del percorso. La strada si snoda attraverso borgate dove la maggior parte delle case e vuota da decenni — muri di pietra con tetti crollati, pozzi nei cortili soffocati dai rovi, occasionalmente un cottage restaurato con una nuova terrazza e bouganville.",
+    "routeP1": "Uscite da Tivat in direzione sud oltre l'aeroporto. Dopo due chilometri, prendete il bivio a sinistra indicato per Krasici e Lustica. La strada si stringe immediatamente e inizia a salire attraverso uliveti e campi con muretti a secco. Le viste sulla baia si aprono sulla destra, le montagne di Kotor dall'altra parte, il percorso del traghetto sotto, le navi container che si muovono lentamente verso il mare aperto.",
+    "routeP2": "Proseguite attraverso Krasici e Radovici. A Radovici, la strada si biforca di nuovo: a sinistra verso Zanjice e la punta della penisola, a destra verso il resort Lustica Bay. Prendete prima a sinistra per la parte piu selvaggia del percorso. La strada si snoda attraverso borgate dove la maggior parte delle case e vuota da decenni, muri di pietra con tetti crollati, pozzi nei cortili soffocati dai rovi, occasionalmente un cottage restaurato con una nuova terrazza e bouganville.",
     "h2Beaches": "Tre spiagge che meritano il viaggio",
     "beachesP1": "La costa di Lustica si affaccia sull'Adriatico aperto anziche sulla baia riparata, quindi l'acqua e piu limpida e le onde piu grandi. Tre posti spiccano:",
     "beachZanjiceLabel": "Zanjice:",
@@ -765,49 +765,49 @@
     "beachMiristLabel": "Miriste:",
     "beachMiristVal": "Cinque minuti a piedi a sud di Zanjice lungo un sentiero roccioso. Molto piu tranquilla, nessun servizio, circondata da pini che offrono ombra naturale. Portate acqua e asciugamano.",
     "beachDobreLabel": "Dobre Vode:",
-    "beachDobreVal": "Una caletta minuscola raggiungibile tramite una ripida pista sterrata vicino a Krasici. Non segnalata — chiedete in un bar locale e vi indicheranno la svolta. Ingresso in acqua roccioso, ma il nuoto e eccellente.",
+    "beachDobreVal": "Una caletta minuscola raggiungibile tramite una ripida pista sterrata vicino a Krasici. Non segnalata, chiedete in un bar locale e vi indicheranno la svolta. Ingresso in acqua roccioso, ma il nuoto e eccellente.",
     "altBeach": "Costa della penisola di Lustica con acqua limpida dell'Adriatico",
     "h2Villages": "Villaggi fantasma e uliveti",
-    "villagesP1": "L'interno di Lustica era un tempo densamente abitato da famiglie contadine che coltivavano olive, mandorle e uva su pendii terrazzati. Quando l'economia jugoslava si industrializzo dopo la guerra, la maggior parte delle famiglie si trasferi a Tivat o Herceg Novi per lavorare in fabbrica. I villaggi si svuotarono in due generazioni e ora si trovano in vari stadi di fotogenica decadenza. Klinci, Mrkovi e Brguli sono i piu accessibili — parcheggiate sulla strada ed entrate a piedi.",
+    "villagesP1": "L'interno di Lustica era un tempo densamente abitato da famiglie contadine che coltivavano olive, mandorle e uva su pendii terrazzati. Quando l'economia jugoslava si industrializzo dopo la guerra, la maggior parte delle famiglie si trasferi a Tivat o Herceg Novi per lavorare in fabbrica. I villaggi si svuotarono in due generazioni e ora si trovano in vari stadi di fotogenica decadenza. Klinci, Mrkovi e Brguli sono i piu accessibili, parcheggiate sulla strada ed entrate a piedi.",
     "villagesP2": "Alcuni villaggi vengono lentamente restaurati come case per il weekend o agriturismi. Se vedete un cancello aperto e una terrazza abitata, di solito potete chiedere indicazioni o un bicchiere d'acqua. I pochi locali rimasti sono orgogliosi di questi luoghi e felici di parlarne. Dopo l'esplorazione, tornate a Tivat dalla strada del resort Lustica Bay per un caffe in uno dei bar sul lungomare. Per saperne di piu sulla zona, consultate la nostra",
     "villagesLink": "guida a Porto Montenegro",
     "h2Resort": "Lustica Bay: il nuovo complesso",
     "resortP1": "All'estremita orientale della penisola, il resort Lustica Bay sta trasformando un tratto di costa in una comunita pianificata con marina, l'hotel Chedi, campo da golf, spiagge attrezzate e ville residenziali. Lo sviluppo e ancora in espansione ma l'infrastruttura esistente e curata e ben mantenuta. I non residenti possono accedere ai beach club, ristoranti e al campo da golf a pagamento.",
-    "resortP2": "Il contrasto tra i villaggi di pietra abbandonati nell'entroterra di Lustica e il resort di vetro e acciaio sul suo bordo e impressionante. Entrambi meritano di essere visti nello stesso giro. Il beach club del resort e una comoda sosta pranzo prima di tornare a Tivat — i calamari alla griglia sono buoni e i lettini si affacciano sulla baia aperta con l'isola-fortezza di Mamula visibile in lontananza.",
+    "resortP2": "Il contrasto tra i villaggi di pietra abbandonati nell'entroterra di Lustica e il resort di vetro e acciaio sul suo bordo e impressionante. Entrambi meritano di essere visti nello stesso giro. Il beach club del resort e una comoda sosta pranzo prima di tornare a Tivat, i calamari alla griglia sono buoni e i lettini si affacciano sulla baia aperta con l'isola-fortezza di Mamula visibile in lontananza.",
     "h2Practical": "Note pratiche",
-    "practicalP": "Fate il pieno a Tivat prima di iniziare il giro — non ci sono distributori sulla penisola. Il segnale del cellulare cade nelle valli interne, quindi scaricate le mappe offline prima di partire. La strada principale della penisola e a due corsie ma alcune sezioni si restringono a corsia unica con piazzole di scambio. Se incontrate un'auto in senso contrario su un tratto stretto, di solito chi scende fa marcia indietro per far passare chi sale. Guidate piano e godetevi il silenzio.",
+    "practicalP": "Fate il pieno a Tivat prima di iniziare il giro, non ci sono distributori sulla penisola. Il segnale del cellulare cade nelle valli interne, quindi scaricate le mappe offline prima di partire. La strada principale della penisola e a due corsie ma alcune sezioni si restringono a corsia unica con piazzole di scambio. Se incontrate un'auto in senso contrario su un tratto stretto, di solito chi scende fa marcia indietro per far passare chi sale. Guidate piano e godetevi il silenzio.",
     "glanceTitle": "In Breve",
     "glanceLoop": "Distanza del giro:",
     "glanceLoopVal": "~45 km andata e ritorno da Tivat",
     "glanceDrive": "Tempo di guida:",
-    "glanceDriveVal": "2–3 ore con soste in spiaggia",
+    "glanceDriveVal": "2-3 ore con soste in spiaggia",
     "glanceRoad": "Fondo stradale:",
     "glanceRoadVal": "Strada principale asfaltata, sterrato per alcune spiagge",
     "glanceFuel": "Carburante:",
-    "glanceFuelVal": "Nessun distributore sulla penisola — fate il pieno a Tivat"
+    "glanceFuelVal": "Nessun distributore sulla penisola, fate il pieno a Tivat"
   },
   "blogSolila": {
     "title": "Saline di Solila e birdwatching a Tivat",
     "subtitle": "Un'area umida protetta a cinque minuti dalla pista dell'aeroporto.",
-    "description": "La riserva naturale di Solila si trova tra l'aeroporto di Tivat e Porto Montenegro. Fenicotteri, aironi e oltre 100 specie di uccelli visitano questa zona umida salata — un gioiello nascosto per birdwatcher e fotografi.",
+    "description": "La riserva naturale di Solila si trova tra l'aeroporto di Tivat e Porto Montenegro. Fenicotteri, aironi e oltre 100 specie di uccelli visitano questa zona umida salata, un gioiello nascosto per birdwatcher e fotografi.",
     "h2What": "Cos'e Solila",
-    "whatP1": "Solila e una zona umida salata di 150 ettari situata tra il perimetro sud dell'aeroporto di Tivat e la strada per Porto Montenegro. Fino alla meta del ventesimo secolo era una salina attiva — i locali raccoglievano sale marino qui da secoli. Quando la produzione industriale di sale si sposto altrove, le vasche si allagarono naturalmente e divennero uno degli habitat per uccelli piu importanti del Montenegro. Il sito e stato dichiarato riserva naturale protetta nel 2008.",
-    "whatP2": "Dal parcheggio dell'aeroporto potete raggiungere la passerella di Solila in cinque minuti d'auto o quindici a piedi lungo il marciapiede. E il tipo di posto che potete visitare per trenta minuti tra il ritiro dell'auto e il tragitto verso l'hotel — o trascorrere mezza giornata con binocolo e macchina fotografica se l'ornitologia e la vostra passione.",
+    "whatP1": "Solila e una zona umida salata di 150 ettari situata tra il perimetro sud dell'aeroporto di Tivat e la strada per Porto Montenegro. Fino alla meta del ventesimo secolo era una salina attiva, i locali raccoglievano sale marino qui da secoli. Quando la produzione industriale di sale si sposto altrove, le vasche si allagarono naturalmente e divennero uno degli habitat per uccelli piu importanti del Montenegro. Il sito e stato dichiarato riserva naturale protetta nel 2008.",
+    "whatP2": "Dal parcheggio dell'aeroporto potete raggiungere la passerella di Solila in cinque minuti d'auto o quindici a piedi lungo il marciapiede. E il tipo di posto che potete visitare per trenta minuti tra il ritiro dell'auto e il tragitto verso l'hotel, o trascorrere mezza giornata con binocolo e macchina fotografica se l'ornitologia e la vostra passione.",
     "h2Birds": "Gli uccelli",
     "birdsP1": "Oltre cento specie di uccelli sono state registrate a Solila, rendendola uno dei siti umidi piu ricchi della costa adriatica orientale. I visitatori piu spettacolari sono i fenicotteri rosa che si fermano qui durante la migrazione primaverile e autunnale. Vedere uno stormo di fenicotteri rosa con la torre di controllo dell'aeroporto di Tivat sullo sfondo e uno degli spettacoli piu surreali del Montenegro. Arrivano tipicamente a marzo e di nuovo a ottobre, fermandosi per alcune settimane prima di proseguire verso sud in Grecia o verso nord in Camargue.",
-    "birdsP2": "I residenti tutto l'anno includono aironi cenerini, garzette, cormorani e diverse specie di piovanelli. In inverno, le saline attirano fischioni, alzavole e mestoloni. La primavera porta avocette e cavalieri d'Italia che nidificano nelle pozze basse. Portate il binocolo — la passerella vi tiene a distanza rispettosa dalle aree di nidificazione, e molti dei limicoli piu piccoli sono difficili da identificare senza ingrandimento.",
+    "birdsP2": "I residenti tutto l'anno includono aironi cenerini, garzette, cormorani e diverse specie di piovanelli. In inverno, le saline attirano fischioni, alzavole e mestoloni. La primavera porta avocette e cavalieri d'Italia che nidificano nelle pozze basse. Portate il binocolo, la passerella vi tiene a distanza rispettosa dalle aree di nidificazione, e molti dei limicoli piu piccoli sono difficili da identificare senza ingrandimento.",
     "altSaltpan": "Saline di Solila con uccelli trampolieri e montagne delle Bocche di Cattaro sullo sfondo",
     "h2Walk": "Il percorso della passerella",
     "walkP1": "Una passerella sopraelevata in legno corre lungo il bordo orientale della riserva per circa un chilometro. Pannelli interpretativi in montenegrino e inglese identificano le specie che avete piu probabilita di avvistare in ogni stagione. La passerella e pianeggiante, accessibile in sedia a rotelle e ombreggiata da tamerici occasionali. A passo regolare richiede quindici-venti minuti, di piu se vi fermate a fotografare uccelli a ogni piattaforma panoramica.",
-    "walkP2": "Il sentiero si collega a un percorso sterrato che prosegue verso sud fino al lungomare di Tivat. Se percorrete l'intero tragitto — passerella piu lungomare — arrivate a Porto Montenegro in circa quaranta minuti. E una piacevole passeggiata mattutina prima che il caldo aumenti, e attraversate un paesaggio che passa dalla zona umida alla marina urbana in meno di due chilometri.",
+    "walkP2": "Il sentiero si collega a un percorso sterrato che prosegue verso sud fino al lungomare di Tivat. Se percorrete l'intero tragitto, passerella piu lungomare, arrivate a Porto Montenegro in circa quaranta minuti. E una piacevole passeggiata mattutina prima che il caldo aumenti, e attraversate un paesaggio che passa dalla zona umida alla marina urbana in meno di due chilometri.",
     "h2Seasons": "Quando visitare",
-    "seasonsP1": "Ogni stagione offre qualcosa di diverso. La primavera (marzo-maggio) porta attivita di nidificazione, fenicotteri in migrazione e fiori selvatici lungo la passerella. L'estate e piu tranquilla per gli uccelli ma la luce serale sulle saline e straordinaria per la fotografia. La migrazione autunnale (settembre-novembre) e la seconda finestra per i fenicotteri. L'inverno porta anatre svernanti e il minor numero di visitatori — potreste avere l'intera riserva per voi. Per altra natura intorno a Tivat, consultate la nostra",
+    "seasonsP1": "Ogni stagione offre qualcosa di diverso. La primavera (marzo-maggio) porta attivita di nidificazione, fenicotteri in migrazione e fiori selvatici lungo la passerella. L'estate e piu tranquilla per gli uccelli ma la luce serale sulle saline e straordinaria per la fotografia. La migrazione autunnale (settembre-novembre) e la seconda finestra per i fenicotteri. L'inverno porta anatre svernanti e il minor numero di visitatori, potreste avere l'intera riserva per voi. Per altra natura intorno a Tivat, consultate la nostra",
     "seasonsLink": "guida all'Isola dei Fiori",
     "seasonsP2": "Il primo mattino e il tardo pomeriggio sono i momenti migliori indipendentemente dalla stagione. Gli uccelli sono piu attivi all'alba e al tramonto, e la luce radente fa brillare d'oro l'acqua bassa. Il caldo di mezzogiorno spinge la maggior parte delle specie all'ombra o in acque piu profonde dove sono piu difficili da avvistare.",
     "h2Photography": "Consigli fotografici",
-    "photoP": "La passerella e rivolta a est, il che significa che la luce del mattino illumina gli uccelli direttamente e quella pomeridiana viene da dietro — entrambe sono utilizzabili, ma l'alba produce i colori piu caldi sulle saline. Un obiettivo da 200 mm e il minimo per scatti di uccelli riconoscibili dalla passerella; 400 mm e meglio. Le tamerici lungo il percorso attirano sylvie e fringuelli che sono piu facili da fotografare da vicino. I treppiedi sono consentiti sulla passerella ma le tavole di legno vibrano quando passano altri visitatori, quindi un monopiede o la stabilizzazione portatile funzionano meglio.",
+    "photoP": "La passerella e rivolta a est, il che significa che la luce del mattino illumina gli uccelli direttamente e quella pomeridiana viene da dietro, entrambe sono utilizzabili, ma l'alba produce i colori piu caldi sulle saline. Un obiettivo da 200 mm e il minimo per scatti di uccelli riconoscibili dalla passerella; 400 mm e meglio. Le tamerici lungo il percorso attirano sylvie e fringuelli che sono piu facili da fotografare da vicino. I treppiedi sono consentiti sulla passerella ma le tavole di legno vibrano quando passano altri visitatori, quindi un monopiede o la stabilizzazione portatile funzionano meglio.",
     "h2Practical": "Come arrivare e informazioni pratiche",
-    "practicalP": "Dall'aeroporto TIV, uscite dal parcheggio e svoltate a destra. Dopo 400 metri, cercate il cartello marrone della riserva naturale Solila sulla sinistra. Un piccolo parcheggio sterrato contiene da sei a otto auto. Non c'e biglietto d'ingresso, non ci sono orari di apertura e non ci sono servizi — portate acqua, crema solare e repellente antizanzare in estate. La riserva e gestita dall'ufficio ambientale del comune di Tivat, e giornate di pulizia volontaria si svolgono due volte l'anno.",
+    "practicalP": "Dall'aeroporto TIV, uscite dal parcheggio e svoltate a destra. Dopo 400 metri, cercate il cartello marrone della riserva naturale Solila sulla sinistra. Un piccolo parcheggio sterrato contiene da sei a otto auto. Non c'e biglietto d'ingresso, non ci sono orari di apertura e non ci sono servizi, portate acqua, crema solare e repellente antizanzare in estate. La riserva e gestita dall'ufficio ambientale del comune di Tivat, e giornate di pulizia volontaria si svolgono due volte l'anno.",
     "glanceTitle": "In Breve",
     "glanceArea": "Dimensione riserva:",
     "glanceAreaVal": "150 ettari di area umida salata protetta",
@@ -816,40 +816,40 @@
     "glanceEntry": "Ingresso:",
     "glanceEntryVal": "Gratuito, aperto tutto l'anno",
     "glanceBest": "Periodo migliore per gli uccelli:",
-    "glanceBestVal": "Marzo–maggio (migrazione primaverile) e sett.–nov. (migrazione autunnale)"
+    "glanceBestVal": "Marzo, maggio (migrazione primaverile) e sett., nov. (migrazione autunnale)"
   },
   "blogFamily": {
     "title": "Cinque gite in famiglia da Tivat",
     "subtitle": "Brevi tragitti, spiagge basse e soste gelato che accontentano tutti.",
-    "description": "Cinque gite familiari testate da Tivat — spiaggia Plavi Horizonti, gatti di Kotor, giro in barca a Perast, Citta Vecchia di Budva e pool club Lustica Bay. Ogni percorso sta in un pomeriggio.",
+    "description": "Cinque gite familiari testate da Tivat, spiaggia Plavi Horizonti, gatti di Kotor, giro in barca a Perast, Citta Vecchia di Budva e pool club Lustica Bay. Ogni percorso sta in un pomeriggio.",
     "h2Intro": "Pianificare con piccoli passeggeri",
     "introP": "Tivat e una delle migliori basi in Montenegro per famiglie con bambini piccoli. L'aeroporto e minuscolo, il parcheggio e a pochi passi dal terminal e ogni destinazione in questa lista e a meno di trenta minuti d'auto. Questo conta quando si ha un seggiolino auto e un bambino che fa il pisolino a orari imprevedibili. Abbiamo testato ognuna di queste gite con i nostri figli e le abbiamo calibrate sull'attenzione di un bambino di cinque anni: brevi tragitti, nuoto garantito, almeno un'opportunita per il gelato e abbastanza novita per mantenere il viaggio interessante senza che nessuno crolli sul sedile posteriore.",
     "h2Trip1": "Gita uno: spiaggia di Plavi Horizonti",
-    "trip1Name": "Plavi Horizonti (Orizzonti Blu) — strada di Lustica",
-    "trip1P1": "Questa e la spiaggia per famiglie vicino a Tivat. Una caletta sabbiosa e bassa sulla strada di Lustica, quindici minuti a sud dell'aeroporto. L'acqua resta al ginocchio per venti metri dalla riva, rendendola sicura per i piu piccoli e i non nuotatori. Un bar serve cibo e bevande, i lettini sono a noleggio e il parcheggio e in un'area ombreggiata dietro la spiaggia. Ci sono servizi igienici veri — una rarita sulle spiagge montenegrine.",
-    "trip1P2": "Arrivate prima delle 10 in estate per prendere posto sotto i pini all'estremita sud della spiaggia. L'ombra naturale qui permette di restare tutto il giorno senza arrostire. L'acqua e piu calda dell'Adriatico aperto perche la caletta e riparata dalle correnti. Portate maschere da snorkeling — i bordi rocciosi della baia ospitano pesciolini che i bambini adorano osservare.",
+    "trip1Name": "Plavi Horizonti (Orizzonti Blu), strada di Lustica",
+    "trip1P1": "Questa e la spiaggia per famiglie vicino a Tivat. Una caletta sabbiosa e bassa sulla strada di Lustica, quindici minuti a sud dell'aeroporto. L'acqua resta al ginocchio per venti metri dalla riva, rendendola sicura per i piu piccoli e i non nuotatori. Un bar serve cibo e bevande, i lettini sono a noleggio e il parcheggio e in un'area ombreggiata dietro la spiaggia. Ci sono servizi igienici veri, una rarita sulle spiagge montenegrine.",
+    "trip1P2": "Arrivate prima delle 10 in estate per prendere posto sotto i pini all'estremita sud della spiaggia. L'ombra naturale qui permette di restare tutto il giorno senza arrostire. L'acqua e piu calda dell'Adriatico aperto perche la caletta e riparata dalle correnti. Portate maschere da snorkeling, i bordi rocciosi della baia ospitano pesciolini che i bambini adorano osservare.",
     "h2Trip2": "Gita due: Citta Vecchia di Kotor e museo dei gatti",
-    "trip2Name": "Kotor — attraverso la galleria Vrmac",
-    "trip2P1": "Guidate dodici minuti attraverso la galleria Vrmac e parcheggiate al parcheggio Tabacina vicino al muro nord di Kotor. La Citta Vecchia e interamente pedonale, quindi i passeggini funzionano sulle strade lisce in pietra. Dirigetevi prima alla piazza principale — la gelateria all'angolo vende ottima stracciatella — poi trovate il museo dei gatti vicino alla porta nord. E una piccola, curiosa esposizione sui famosi gatti randagi della citta, con souvenir a tema gatto per cui i bambini impazziscono.",
-    "trip2P2": "Se i vostri bambini hanno energia da spendere, la salita alla fortezza inizia dall'angolo nord-est della Citta Vecchia. Il primo tratto — circa duecento gradini — raggiunge una chiesa con vista sulla baia ed e un buon punto di ritorno per gambe giovani. La salita completa di 1.350 gradini fino alla cima e piu adatta a bambini sopra gli otto anni. Portate bottiglie d'acqua — non ci sono negozi una volta iniziata la salita.",
+    "trip2Name": "Kotor, attraverso la galleria Vrmac",
+    "trip2P1": "Guidate dodici minuti attraverso la galleria Vrmac e parcheggiate al parcheggio Tabacina vicino al muro nord di Kotor. La Citta Vecchia e interamente pedonale, quindi i passeggini funzionano sulle strade lisce in pietra. Dirigetevi prima alla piazza principale, la gelateria all'angolo vende ottima stracciatella, poi trovate il museo dei gatti vicino alla porta nord. E una piccola, curiosa esposizione sui famosi gatti randagi della citta, con souvenir a tema gatto per cui i bambini impazziscono.",
+    "trip2P2": "Se i vostri bambini hanno energia da spendere, la salita alla fortezza inizia dall'angolo nord-est della Citta Vecchia. Il primo tratto, circa duecento gradini, raggiunge una chiesa con vista sulla baia ed e un buon punto di ritorno per gambe giovani. La salita completa di 1.350 gradini fino alla cima e piu adatta a bambini sopra gli otto anni. Portate bottiglie d'acqua, non ci sono negozi una volta iniziata la salita.",
     "h2Trip3": "Gita tre: giro in barca a Perast",
-    "trip3Name": "Perast — escursione in barca all'isola",
-    "trip3P1": "Perast si trova venti minuti a nord di Tivat sulla strada costiera. L'unica via sul lungomare e chiusa al traffico e costeggiata da caffe dove potete sedervi e guardare la baia mentre i bambini corrono sulla banchina. L'attrazione principale per le famiglie e il giro in barca taxi di cinque minuti all'isola della Madonna dello Scalpello — un'isoletta artificiale con una chiesa, un piccolo museo e abbastanza novita per affascinare i bambini per trenta minuti. Le barche partono ogni quindici minuti e costano circa cinque euro andata e ritorno. Per il percorso panoramico, consultate la nostra",
+    "trip3Name": "Perast, escursione in barca all'isola",
+    "trip3P1": "Perast si trova venti minuti a nord di Tivat sulla strada costiera. L'unica via sul lungomare e chiusa al traffico e costeggiata da caffe dove potete sedervi e guardare la baia mentre i bambini corrono sulla banchina. L'attrazione principale per le famiglie e il giro in barca taxi di cinque minuti all'isola della Madonna dello Scalpello, un'isoletta artificiale con una chiesa, un piccolo museo e abbastanza novita per affascinare i bambini per trenta minuti. Le barche partono ogni quindici minuti e costano circa cinque euro andata e ritorno. Per il percorso panoramico, consultate la nostra",
     "trip3Link": "guida al percorso panoramico Tivat-Kotor",
-    "trip3P2": "Dopo la visita all'isola, camminate verso nord lungo il lungomare di Perast fino al chiosco del gelato vicino al campanile. Il gusto pistacchio e il preferito locale. Se i bambini sono ancora coinvolti, il Museo di Perast nel Palazzo Bujovic ha modelli di navi e strumenti nautici — gestibile per una visita di venti minuti senza stanchezza da museo.",
+    "trip3P2": "Dopo la visita all'isola, camminate verso nord lungo il lungomare di Perast fino al chiosco del gelato vicino al campanile. Il gusto pistacchio e il preferito locale. Se i bambini sono ancora coinvolti, il Museo di Perast nel Palazzo Bujovic ha modelli di navi e strumenti nautici, gestibile per una visita di venti minuti senza stanchezza da museo.",
     "h2Trip4": "Gita quattro: Citta Vecchia di Budva e spiaggia Mogren",
-    "trip4Name": "Budva — citta murata e spiaggia sulla scogliera",
+    "trip4Name": "Budva, citta murata e spiaggia sulla scogliera",
     "trip4P1": "Budva e a venticinque minuti a sud di Tivat attraverso la galleria Vrmac. Parcheggiate nel parcheggio sotterraneo vicino alle mura della Citta Vecchia. La penisola murata e abbastanza compatta per bambini piccoli, e le stradine lastricate si aprono su piazzette con fontane e gatti addormentati. La Cittadella alla punta sud ha muri bassi da cui i bambini possono sbirciare il mare che si infrange sotto.",
-    "trip4P2": "Dalla Cittadella, seguite il sentiero scavato nella scogliera verso nord fino alla spiaggia di Mogren — due calette sabbiose collegate da un breve tunnel scavato nella roccia. Il tunnel e il momento clou per la maggior parte dei bambini. La spiaggia ha noleggio lettini, un semplice chiosco e bagnini in estate. La profondita aumenta gradualmente, rendendola adatta a nuotatori sicuri. Tornate al parcheggio attraverso la Citta Vecchia per un gelato in uno dei negozi della piazza.",
+    "trip4P2": "Dalla Cittadella, seguite il sentiero scavato nella scogliera verso nord fino alla spiaggia di Mogren, due calette sabbiose collegate da un breve tunnel scavato nella roccia. Il tunnel e il momento clou per la maggior parte dei bambini. La spiaggia ha noleggio lettini, un semplice chiosco e bagnini in estate. La profondita aumenta gradualmente, rendendola adatta a nuotatori sicuri. Tornate al parcheggio attraverso la Citta Vecchia per un gelato in uno dei negozi della piazza.",
     "h2Trip5": "Gita cinque: piscina e beach club Lustica Bay",
-    "trip5Name": "Resort Lustica Bay — giornata in piscina",
+    "trip5Name": "Resort Lustica Bay, giornata in piscina",
     "trip5P1": "Il complesso Lustica Bay, dieci minuti a sud di Tivat sulla strada della penisola, ha un pool club e una spiaggia attrezzata aperti ai non residenti per un biglietto giornaliero. La piscina ha una sezione separata per bambini con acqua bassa, e la spiaggia sotto offre noleggio kayak e stand-up paddle. Il personale parla inglese, gli spogliatoi sono puliti e il cibo viene servito al lettino.",
-    "trip5P2": "Questa e l'opzione piu rilassante della lista — i genitori possono leggere un libro mentre i bambini si sfogano in piscina. Il resort gestisce anche un piccolo parco avventura vicino all'ingresso dell'hotel. I pass giornalieri si esauriscono nei weekend di punta estivi, quindi prenotate online la sera prima. Il tempo di percorrenza dal TIV e circa dodici minuti e il parcheggio del resort e gratuito per i visitatori giornalieri.",
+    "trip5P2": "Questa e l'opzione piu rilassante della lista, i genitori possono leggere un libro mentre i bambini si sfogano in piscina. Il resort gestisce anche un piccolo parco avventura vicino all'ingresso dell'hotel. I pass giornalieri si esauriscono nei weekend di punta estivi, quindi prenotate online la sera prima. Il tempo di percorrenza dal TIV e circa dodici minuti e il parcheggio del resort e gratuito per i visitatori giornalieri.",
     "h2Packing": "Cosa mettere in valigia per ogni gita",
     "packSunLabel": "Protezione solare:",
     "packSunVal": "SPF 50, cappelli, magliette UV per il nuoto. Il sole mediterraneo e forte dalle 11 alle 15.",
     "packWaterLabel": "Acqua:",
-    "packWaterVal": "Minimo un litro a persona. Riempite ai rubinetti dei bar — l'acqua del rubinetto montenegrina e potabile.",
+    "packWaterVal": "Minimo un litro a persona. Riempite ai rubinetti dei bar, l'acqua del rubinetto montenegrina e potabile.",
     "packShoesLabel": "Scarpe:",
     "packShoesVal": "Scarpette da scoglio per le spiagge di ciottoli, scarpe da ginnastica per i gradini della fortezza di Kotor.",
     "packSnackLabel": "Snack:",
@@ -858,43 +858,43 @@
   "blogIsland": {
     "title": "Isola dei Fiori: Prevlaka e le chiese di Miholjska",
     "subtitle": "Isole della baia con rovine del monastero, giardini botanici e calette nascoste per il bagno.",
-    "description": "Una guida alla visita della penisola di Prevlaka e dell'isola di Sveti Marko vicino a Tivat — antiche rovine monastiche, giardini mediterranei e angoli tranquilli per il bagno lontano dalla folla.",
+    "description": "Una guida alla visita della penisola di Prevlaka e dell'isola di Sveti Marko vicino a Tivat, antiche rovine monastiche, giardini mediterranei e angoli tranquilli per il bagno lontano dalla folla.",
     "h2What": "Due isole, due storie",
-    "whatP1": "Tivat si trova alla foce di una baia poco profonda punteggiata di piccole isole, e due di esse — Prevlaka (detta anche Ostrvo Cvijeca, Isola dei Fiori) e la penisola che porta alle rovine del monastero di Sveti Mihajlo — sono raggiungibili in auto e a piedi. Non sono isole tropicali con sabbia bianca; sono scogli adriatici ricoperti di pini mediterranei, erbe selvatiche e muri fatiscenti di chiese medievali. Il loro fascino sta nella quiete, nella storia e nel nuoto.",
-    "whatP2": "Prevlaka si trova sulla punta di una stretta lingua di terra che si estende a sud dal lungomare di Tivat. Potete guidare fino a cento metri dalle rovine del monastero e camminare il resto. La penisola era un tempo un'isola vera e propria, collegata alla terraferma da un terrapieno costruito nel diciannovesimo secolo. Il nome Ostrvo Cvijeca (Isola dei Fiori) deriva dal giardino botanico mediterraneo che copriva il terreno — i cui resti fioriscono ancora tra le mura di pietra.",
+    "whatP1": "Tivat si trova alla foce di una baia poco profonda punteggiata di piccole isole, e due di esse, Prevlaka (detta anche Ostrvo Cvijeca, Isola dei Fiori) e la penisola che porta alle rovine del monastero di Sveti Mihajlo, sono raggiungibili in auto e a piedi. Non sono isole tropicali con sabbia bianca; sono scogli adriatici ricoperti di pini mediterranei, erbe selvatiche e muri fatiscenti di chiese medievali. Il loro fascino sta nella quiete, nella storia e nel nuoto.",
+    "whatP2": "Prevlaka si trova sulla punta di una stretta lingua di terra che si estende a sud dal lungomare di Tivat. Potete guidare fino a cento metri dalle rovine del monastero e camminare il resto. La penisola era un tempo un'isola vera e propria, collegata alla terraferma da un terrapieno costruito nel diciannovesimo secolo. Il nome Ostrvo Cvijeca (Isola dei Fiori) deriva dal giardino botanico mediterraneo che copriva il terreno, i cui resti fioriscono ancora tra le mura di pietra.",
     "h2Getting": "Come arrivare",
-    "gettingP1": "Dal centro di Tivat, guidate verso sud lungo la strada del lungomare oltre il molo dei traghetti. Dopo 2,5 chilometri, la strada si restringe a una corsia e attraversa il vecchio terrapieno su Prevlaka. Un piccolo parcheggio alla fine della strada contiene circa quindici veicoli. In estate, arrivate prima delle 9 o dopo le 17 per trovare posto — non c'e parcheggio aggiuntivo e fare inversione sulla stretta lingua di terra e scomodo.",
-    "gettingP2": "Il tragitto dall'aeroporto TIV richiede circa otto minuti. Svoltate a sinistra dall'aeroporto, seguite il lungomare attraverso Tivat e proseguite a sud oltre il terminal dei traghetti. Il percorso e piano e semplice. Nessun pedaggio, nessuna galleria, nessuna strada di montagna — solo una piacevole guida costiera con la baia sulla sinistra.",
+    "gettingP1": "Dal centro di Tivat, guidate verso sud lungo la strada del lungomare oltre il molo dei traghetti. Dopo 2,5 chilometri, la strada si restringe a una corsia e attraversa il vecchio terrapieno su Prevlaka. Un piccolo parcheggio alla fine della strada contiene circa quindici veicoli. In estate, arrivate prima delle 9 o dopo le 17 per trovare posto, non c'e parcheggio aggiuntivo e fare inversione sulla stretta lingua di terra e scomodo.",
+    "gettingP2": "Il tragitto dall'aeroporto TIV richiede circa otto minuti. Svoltate a sinistra dall'aeroporto, seguite il lungomare attraverso Tivat e proseguite a sud oltre il terminal dei traghetti. Il percorso e piano e semplice. Nessun pedaggio, nessuna galleria, nessuna strada di montagna, solo una piacevole guida costiera con la baia sulla sinistra.",
     "h2Gardens": "I giardini botanici",
-    "gardensP1": "Il giardino originale fu piantato nel diciannovesimo secolo dalla famiglia nobile Buca, che introdusse specie mediterranee esotiche nei pini e uliveti naturali. Palme, agavi, oleandri e gelsomini crescono ancora tra le rovine, e l'aria profuma intensamente di rosmarino e salvia nei pomeriggi caldi. Non e un giardino botanico curato nel senso moderno — nessuno taglia le siepi o etichetta le specie — ma la crescita spontanea ha una bellezza propria.",
-    "gardensP2": "Percorrere i sentieri del giardino richiede circa trenta minuti. I sentieri sono di terra battuta e pietra, percorribili in sandali ma piu comodi con scarpe da ginnastica. Alcuni sentieri portano a piccole piattaforme rocciose per il bagno sul lato sud dove l'acqua e limpida e profonda. Portate un asciugamano e scarpette da scoglio — l'ingresso in acqua e su rocce lisce, non sabbia.",
+    "gardensP1": "Il giardino originale fu piantato nel diciannovesimo secolo dalla famiglia nobile Buca, che introdusse specie mediterranee esotiche nei pini e uliveti naturali. Palme, agavi, oleandri e gelsomini crescono ancora tra le rovine, e l'aria profuma intensamente di rosmarino e salvia nei pomeriggi caldi. Non e un giardino botanico curato nel senso moderno, nessuno taglia le siepi o etichetta le specie, ma la crescita spontanea ha una bellezza propria.",
+    "gardensP2": "Percorrere i sentieri del giardino richiede circa trenta minuti. I sentieri sono di terra battuta e pietra, percorribili in sandali ma piu comodi con scarpe da ginnastica. Alcuni sentieri portano a piccole piattaforme rocciose per il bagno sul lato sud dove l'acqua e limpida e profonda. Portate un asciugamano e scarpette da scoglio, l'ingresso in acqua e su rocce lisce, non sabbia.",
     "altIsland": "Penisola di Prevlaka con rovine del monastero e pini",
     "h2Walk": "La passeggiata al monastero",
-    "walkP1": "Le rovine del monastero di Sveti Mihajlo (San Michele Arcangelo) si trovano nel punto piu alto della penisola, circondato da cipressi. La chiesa originale risale al decimo secolo, rendendola uno dei siti religiosi piu antichi delle Bocche di Cattaro. Gli archeologi scavano qui a intermittenza da decenni, e potete vedere muri di fondazione esposti, frammenti di colonne e architravi in pietra scolpita. Il sito non e recintato e non e sorvegliato — entrate ed esplorate liberamente. Per un'altra passeggiata naturalistica vicino a Tivat, consultate la nostra",
+    "walkP1": "Le rovine del monastero di Sveti Mihajlo (San Michele Arcangelo) si trovano nel punto piu alto della penisola, circondato da cipressi. La chiesa originale risale al decimo secolo, rendendola uno dei siti religiosi piu antichi delle Bocche di Cattaro. Gli archeologi scavano qui a intermittenza da decenni, e potete vedere muri di fondazione esposti, frammenti di colonne e architravi in pietra scolpita. Il sito non e recintato e non e sorvegliato, entrate ed esplorate liberamente. Per un'altra passeggiata naturalistica vicino a Tivat, consultate la nostra",
     "walkLink": "guida al birdwatching di Solila",
-    "walkP2": "La posizione del monastero era strategica — dominava la vista sull'intero ingresso della baia e sull'Adriatico aperto oltre. Fermatevi al muro sud e vedrete la penisola di Lustica a sinistra, l'isola-fortezza di Mamula di fronte e le montagne di Herceg Novi dall'altra parte dell'acqua a destra. Nelle giornate limpide, la costa croata e visibile in lontananza. E uno dei migliori punti panoramici di Tivat che non richiede di scalare una montagna.",
+    "walkP2": "La posizione del monastero era strategica, dominava la vista sull'intero ingresso della baia e sull'Adriatico aperto oltre. Fermatevi al muro sud e vedrete la penisola di Lustica a sinistra, l'isola-fortezza di Mamula di fronte e le montagne di Herceg Novi dall'altra parte dell'acqua a destra. Nelle giornate limpide, la costa croata e visibile in lontananza. E uno dei migliori punti panoramici di Tivat che non richiede di scalare una montagna.",
     "h2History": "Breve storia",
     "historyP1": "Prevlaka e stata continuamente abitata almeno dal nono secolo. L'ordine benedettino fondo qui il primo monastero, che fu distrutto e ricostruito piu volte durante le incursioni ottomane, il dominio veneziano e l'occupazione napoleonica. Al suo apice, il monastero gestiva uno scriptorium che produceva manoscritti miniati per le chiese di tutta la baia. Alcuni di questi manoscritti sopravvivono nel Museo Marittimo di Kotor.",
     "historyP2": "Nel ventesimo secolo, il governo jugoslavo converti la penisola in un parco pubblico e area ricreativa, piantando alberi aggiuntivi e costruendo il terrapieno che la collega alla terraferma. Le rovine del monastero furono parzialmente scavate negli anni '60 e di nuovo negli anni 2000. Oggi il sito e gestito dal comune di Tivat come area del patrimonio culturale, sebbene la segnaletica e i servizi rimangano minimi.",
     "h2Practical": "Note pratiche",
-    "practicalP": "Non ci sono negozi, bar o servizi igienici su Prevlaka — portate tutto il necessario. Le zone per il bagno non hanno bagnini. L'ombra e abbondante sotto i pini ma il sole diretto colpisce forte le rocce esposte a sud in estate. Le zanzare compaiono la sera vicino al terrapieno dove si raccoglie acqua stagnante. Il sito e gratuito, aperto tutto l'anno e mai affollato — anche in agosto, difficilmente condividerete le rovine del monastero con piu di una manciata di altri visitatori.",
+    "practicalP": "Non ci sono negozi, bar o servizi igienici su Prevlaka, portate tutto il necessario. Le zone per il bagno non hanno bagnini. L'ombra e abbondante sotto i pini ma il sole diretto colpisce forte le rocce esposte a sud in estate. Le zanzare compaiono la sera vicino al terrapieno dove si raccoglie acqua stagnante. Il sito e gratuito, aperto tutto l'anno e mai affollato, anche in agosto, difficilmente condividerete le rovine del monastero con piu di una manciata di altri visitatori.",
     "glanceTitle": "In Breve",
     "glanceDrive": "Dal TIV:",
     "glanceDriveVal": "8 min. d'auto, 2,5 km dal centro di Tivat",
     "glanceEntry": "Ingresso:",
     "glanceEntryVal": "Gratuito, aperto tutto l'anno, senza orari",
     "glanceTime": "Durata della visita:",
-    "glanceTimeVal": "1–2 ore incluso il bagno",
+    "glanceTimeVal": "1-2 ore incluso il bagno",
     "glanceParking": "Parcheggio:",
     "glanceParkingVal": "Piccolo parcheggio a fine strada, ~15 posti"
   },
   "blogGrocery": {
     "title": "Prima spesa: negozi, SIM e benzinai vicino al TIV",
     "subtitle": "Dove fare scorta entro dieci minuti dal ritiro dell'auto.",
-    "description": "Una guida pratica a supermercati, negozi SIM, stazioni di servizio, farmacie e bancomat vicino all'aeroporto di Tivat — tutto cio che serve prima di dirigersi al vostro alloggio.",
+    "description": "Una guida pratica a supermercati, negozi SIM, stazioni di servizio, farmacie e bancomat vicino all'aeroporto di Tivat, tutto cio che serve prima di dirigersi al vostro alloggio.",
     "h2Why": "Perche la prima sosta dovrebbe essere un supermercato",
     "whyP1": "Le camere d'albergo in Montenegro raramente hanno un frigorifero rifornito, e gli appartamenti in affitto presumono che facciate la spesa da soli. Acqua, caffe, pane e crema solare non sono forniti. I primi quindici minuti con l'auto a noleggio vanno spesi al meglio in un supermercato vicino all'aeroporto prima di guidare verso il vostro alloggio. Questo vi evita di arrivare a una villa in campagna al tramonto e scoprire che il negozio piu vicino e a trenta minuti d'auto verso Tivat.",
-    "whyP2": "I supermercati montenegrini offrono tutto cio che un viaggiatore europeo si aspetta — bevande fredde, frutta fresca, latticini, pane, articoli per l'igiene, prodotti per la pulizia e prodotti da farmacia base. I prezzi sono inferiori a quelli di Croazia o Italia, e la selezione nei negozi piu grandi e paragonabile a un Lidl o Tesco Express medio. Le carte di credito sono accettate ovunque a Tivat; il contante serve solo per i piccoli venditori ambulanti e il traghetto Verige.",
+    "whyP2": "I supermercati montenegrini offrono tutto cio che un viaggiatore europeo si aspetta, bevande fredde, frutta fresca, latticini, pane, articoli per l'igiene, prodotti per la pulizia e prodotti da farmacia base. I prezzi sono inferiori a quelli di Croazia o Italia, e la selezione nei negozi piu grandi e paragonabile a un Lidl o Tesco Express medio. Le carte di credito sono accettate ovunque a Tivat; il contante serve solo per i piccoli venditori ambulanti e il traghetto Verige.",
     "h2Supermarkets": "I tre supermercati vicino al TIV",
     "superP1": "Tutti e tre i negozi sono raggiungibili in dieci minuti d'auto dall'aeroporto:",
     "shopVoliLabel": "Voli:",
@@ -905,19 +905,19 @@
     "shopPijacaVal": "Il mercato all'aperto nel centro di Tivat. Aperto la mattina tutti i giorni tranne la domenica. Agricoltori locali vendono pomodori, peperoni, fichi, miele, olive e formaggio fatto in casa. Solo contanti. Qui comprate gli ingredienti per una vera colazione montenegrina sul vostro balcone.",
     "altShop": "Prodotti freschi al mercato di Tivat",
     "h2Fuel": "Stazioni di servizio",
-    "fuelP1": "Due stazioni di servizio servono l'area di Tivat. Jugopetrol si trova a 800 metri a destra uscendo dall'aeroporto sulla strada principale — e la piu vicina e quella che la maggior parte delle societa di noleggio si aspetta usiate per il rifornimento alla riconsegna. Una seconda stazione Petrol e a Radanovici sulla strada per Budva, circa dieci minuti a sud. Entrambe accettano Visa e Mastercard e vendono diesel, benzina senza piombo e GPL.",
+    "fuelP1": "Due stazioni di servizio servono l'area di Tivat. Jugopetrol si trova a 800 metri a destra uscendo dall'aeroporto sulla strada principale, e la piu vicina e quella che la maggior parte delle societa di noleggio si aspetta usiate per il rifornimento alla riconsegna. Una seconda stazione Petrol e a Radanovici sulla strada per Budva, circa dieci minuti a sud. Entrambe accettano Visa e Mastercard e vendono diesel, benzina senza piombo e GPL.",
     "fuelP2": "Fate il pieno prima di dirigervi nell'entroterra o verso la penisola di Lustica, dove non ci sono stazioni. Se andate a Dubrovnik, il carburante a Herceg Novi e piu economico che in Croazia. Per maggiori informazioni sull'aeroporto e la logistica della prima ora, consultate la nostra",
     "fuelLink": "guida alla prima ora in aeroporto",
     "h2Sim": "SIM e dati mobili",
-    "simP1": "Le tariffe di roaming UE non si applicano in Montenegro — non e uno stato membro. Se avete una SIM europea, verificate la tariffa per il Montenegro del vostro operatore prima di atterrare. La maggior parte dei piani UK e UE addebita tra due e sei euro per megabyte senza opzione aggiuntiva, che prosciuga il budget rapidamente usando app di navigazione. Una SIM locale prepagata e la scelta intelligente.",
-    "simP2": "Il negozio Telenor in Ulica 21 Novembra nel centro di Tivat vende kit SIM turistici per circa cinque euro con 10 GB di dati. Il negozio m:tel e a due porte con un'offerta simile. Entrambi aprono alle 8 nei giorni feriali e alle 9 il sabato. Se arrivate di domenica o con un volo serale, il supermercato Voli alla cassa vende kit SIM Telenor base — chiedete alla cassa.",
+    "simP1": "Le tariffe di roaming UE non si applicano in Montenegro, non e uno stato membro. Se avete una SIM europea, verificate la tariffa per il Montenegro del vostro operatore prima di atterrare. La maggior parte dei piani UK e UE addebita tra due e sei euro per megabyte senza opzione aggiuntiva, che prosciuga il budget rapidamente usando app di navigazione. Una SIM locale prepagata e la scelta intelligente.",
+    "simP2": "Il negozio Telenor in Ulica 21 Novembra nel centro di Tivat vende kit SIM turistici per circa cinque euro con 10 GB di dati. Il negozio m:tel e a due porte con un'offerta simile. Entrambi aprono alle 8 nei giorni feriali e alle 9 il sabato. Se arrivate di domenica o con un volo serale, il supermercato Voli alla cassa vende kit SIM Telenor base, chiedete alla cassa.",
     "h2Pharmacy": "Farmacie e forniture mediche",
-    "pharmacyP": "La farmacia principale di Tivat e all'angolo di Ulica 21 Novembra e Ulica Marsala Tita, a cinque minuti d'auto dall'aeroporto. Ha crema solare, repellente per insetti, antistaminici, forniture di primo soccorso base e farmaci su prescrizione con ricetta europea valida. Una seconda farmacia opera nel centro medico in Ulica Nikole Djurkovica, aperta la mattina nei giorni feriali. Per emergenze fuori orario, la farmacia dell'ospedale di Kotor e aperta 24 ore — dodici minuti attraverso la galleria Vrmac.",
+    "pharmacyP": "La farmacia principale di Tivat e all'angolo di Ulica 21 Novembra e Ulica Marsala Tita, a cinque minuti d'auto dall'aeroporto. Ha crema solare, repellente per insetti, antistaminici, forniture di primo soccorso base e farmaci su prescrizione con ricetta europea valida. Una seconda farmacia opera nel centro medico in Ulica Nikole Djurkovica, aperta la mattina nei giorni feriali. Per emergenze fuori orario, la farmacia dell'ospedale di Kotor e aperta 24 ore, dodici minuti attraverso la galleria Vrmac.",
     "h2Tips": "Consigli rapidi",
     "tipCashLabel": "Contanti o carta:",
     "tipCashVal": "Carte accettate in tutti i supermercati e stazioni di servizio. Tenete 20 EUR in contanti per il mercato e il traghetto Verige.",
     "tipSundayLabel": "Orari domenicali:",
-    "tipSundayVal": "Voli aperto 8–20. HDL 8–14. Mercato chiuso.",
+    "tipSundayVal": "Voli aperto 8-20. HDL 8-14. Mercato chiuso.",
     "tipBagsLabel": "Buste della spesa:",
     "tipBagsVal": "Il Montenegro addebita le buste di plastica. Portate la vostra o comprate una borsa riutilizzabile alla cassa per 0,30 EUR.",
     "tipWaterLabel": "Acqua del rubinetto:",
@@ -925,16 +925,16 @@
   },
   "blogKotor": {
     "title": "Tivat-Kotor: galleria o strada panoramica lungo la baia",
-    "subtitle": "Due percorsi per la stessa citta murata — e motivi per scegliere ciascuno.",
+    "subtitle": "Due percorsi per la stessa citta murata, e motivi per scegliere ciascuno.",
     "description": "Un confronto di guida tra il veloce percorso della galleria Vrmac e la strada panoramica lungo la baia da Tivat a Kotor. Tempi, soste, parcheggi e consigli da un locale che li percorre entrambi ogni settimana.",
     "h2Two": "Due strade, una destinazione",
-    "twoP1": "Kotor si trova sul lato opposto del monte Vrmac rispetto a Tivat. La montagna crea un muro naturale tra le due citta, e ci sono esattamente due modi per aggirarla: attraverso la galleria scavata nella roccia, o lungo la strada costiera che segue il lungomare intorno alla base della montagna. I locali usano entrambi i percorsi regolarmente, scegliendo in base alla fretta, al tempo e all'umore. Nessuno dei due e definitivamente migliore — servono scopi diversi.",
+    "twoP1": "Kotor si trova sul lato opposto del monte Vrmac rispetto a Tivat. La montagna crea un muro naturale tra le due citta, e ci sono esattamente due modi per aggirarla: attraverso la galleria scavata nella roccia, o lungo la strada costiera che segue il lungomare intorno alla base della montagna. I locali usano entrambi i percorsi regolarmente, scegliendo in base alla fretta, al tempo e all'umore. Nessuno dei due e definitivamente migliore, servono scopi diversi.",
     "twoP2": "La galleria vi porta li in dodici minuti esatti. La strada costiera ne richiede venti ma passa attraverso villaggi di pescatori, offre tre punti panoramici per fermarsi e segue l'acqua per tutto il tragitto. Se restate a Tivat per una settimana, prendete la galleria il primo giorno quando siete stanchi dal viaggio, e tenete la strada costiera per una mattina in cui avete tempo per fermarvi e fotografare.",
     "h2Tunnel": "Il percorso della galleria Vrmac",
-    "tunnelP1": "Uscite dal TIV e svoltate a sinistra sulla strada principale. Dopo tre chilometri, l'ingresso della galleria Vrmac appare sulla sinistra. La galleria e lunga 1,4 chilometri, ben illuminata e ha due corsie con limite di 60 km/h. I fari sono obbligatori all'interno — la maggior parte delle auto a noleggio li accende automaticamente. Uscite sul lato di Kotor a una rotonda sopra la baia, con le mura della citta vecchia visibili sotto. Seguite le indicazioni verso il lungomare.",
+    "tunnelP1": "Uscite dal TIV e svoltate a sinistra sulla strada principale. Dopo tre chilometri, l'ingresso della galleria Vrmac appare sulla sinistra. La galleria e lunga 1,4 chilometri, ben illuminata e ha due corsie con limite di 60 km/h. I fari sono obbligatori all'interno, la maggior parte delle auto a noleggio li accende automaticamente. Uscite sul lato di Kotor a una rotonda sopra la baia, con le mura della citta vecchia visibili sotto. Seguite le indicazioni verso il lungomare.",
     "tunnelP2": "Questo e il percorso che ogni societa di noleggio raccomanda perche e veloce, diretto e impossibile perdersi. La strada e in ottime condizioni, la galleria non ha pedaggio e il traffico e minimo tranne nei pomeriggi di punta estivi quando tutti tornano da Kotor contemporaneamente. Se arrivate al TIV dopo un lungo volo e volete solo raggiungere il vostro alloggio velocemente, la galleria e la scelta ovvia.",
     "h2Bay": "La strada panoramica lungo la baia",
-    "bayP1": "La strada costiera parte dalla stessa uscita dell'aeroporto ma invece di entrare in galleria, proseguite dritto lungo il lungomare. La strada passa attraverso Muo — un villaggio di pescatori dove barche di legno colorate sono tirate sulla banchina — poi attraverso Prcanj, dove le Case dei Capitani si allineano sul lungomare. Queste eleganti ville in pietra furono costruite da ricchi capitani di nave durante il periodo veneziano, e diverse sono state splendidamente restaurate.",
+    "bayP1": "La strada costiera parte dalla stessa uscita dell'aeroporto ma invece di entrare in galleria, proseguite dritto lungo il lungomare. La strada passa attraverso Muo, un villaggio di pescatori dove barche di legno colorate sono tirate sulla banchina, poi attraverso Prcanj, dove le Case dei Capitani si allineano sul lungomare. Queste eleganti ville in pietra furono costruite da ricchi capitani di nave durante il periodo veneziano, e diverse sono state splendidamente restaurate.",
     "bayP2": "Tra Prcanj e Kotor, la strada si restringe a una corsia in alcuni punti e segue la baia cosi da vicino che durante le tempeste invernali gli spruzzi raggiungono l'auto. Ci sono tre punti panoramici informali dove potete fermarvi, fotografare la baia e osservare il traghetto che attraversa lo stretto in lontananza. L'approccio finale a Kotor e lungo la base delle mura della citta, con la fortezza che si arrampica sulla montagna sopra di voi. E un arrivo piu drammatico rispetto all'uscita dalla galleria.",
     "altBay": "Strada lungo la baia di Cattaro tra Muo e Prcanj con montagne",
     "h2Stops": "Dove fermarsi sulla strada costiera",
@@ -942,11 +942,11 @@
     "stopMuoLabel": "Banchina dei pescatori di Muo:",
     "stopMuoVal": "Parcheggiate sul ciglio della strada e camminate lungo la banchina in pietra. I pescatori vendono il pescato fresco la mattina. Un piccolo bar serve espresso con vista attraverso la baia verso Perast.",
     "stopPrcanjLabel": "Case dei Capitani di Prcanj:",
-    "stopPrcanjVal": "Qui sorge la piu grande chiesa incompiuta della costa adriatica — la cattedrale della Nativita della Vergine Maria, iniziata nel XVIII secolo e mai completata. La facciata e impressionante dalla strada.",
+    "stopPrcanjVal": "Qui sorge la piu grande chiesa incompiuta della costa adriatica, la cattedrale della Nativita della Vergine Maria, iniziata nel XVIII secolo e mai completata. La facciata e impressionante dalla strada.",
     "stopViewLabel": "Punto panoramico (km 7):",
     "stopViewVal": "Una piazzola sterrata non segnalata sulla destra della strada con spazio per tre auto. La vista abbraccia l'intera baia interna: Perast, entrambe le isole e la corona di montagne.",
     "h2Parking": "Parcheggio a Kotor",
-    "parkingP": "Entrambi i percorsi terminano alla stessa rotonda sotto le mura di Kotor. Il parcheggio multipiano Tabacina e a 100 metri da questa rotonda — a pagamento, coperto e l'opzione piu vicina alla Porta del Mare della Citta Vecchia. Si riempie entro le 10 in estate, quindi arrivate presto. Il parcheggio della Porta del Fiume lungo il torrente Skurda e piu economico e a volte ha posti quando Tabacina e pieno. A luglio e agosto, un parcheggio supplementare opera sulla strada di accesso con navetta. Per soste family-friendly a Kotor, consultate la nostra",
+    "parkingP": "Entrambi i percorsi terminano alla stessa rotonda sotto le mura di Kotor. Il parcheggio multipiano Tabacina e a 100 metri da questa rotonda, a pagamento, coperto e l'opzione piu vicina alla Porta del Mare della Citta Vecchia. Si riempie entro le 10 in estate, quindi arrivate presto. Il parcheggio della Porta del Fiume lungo il torrente Skurda e piu economico e a volte ha posti quando Tabacina e pieno. A luglio e agosto, un parcheggio supplementare opera sulla strada di accesso con navetta. Per soste family-friendly a Kotor, consultate la nostra",
     "parkingLink": "guida alle gite in famiglia",
     "h2Return": "Il ritorno: perche prendere l'altro percorso",
     "returnP": "Ecco il trucco dei locali: guidate verso Kotor attraverso la galleria la mattina per risparmiare tempo, poi tornate dalla strada costiera nel tardo pomeriggio quando la luce sull'acqua e dorata. La strada costiera e rivolta a ovest al ritorno, il che significa che il sole al tramonto illumina le montagne, l'acqua diventa color rame e l'intera baia sembra un dipinto. Aggiunge otto minuti al ritorno ma trasforma un trasferimento in un momento panoramico indimenticabile. I montenegrini chiamano questo tratto della strada costiera una delle piu belle strade costiere d'Europa, e per una volta il marketing non esagera.",
@@ -958,7 +958,7 @@
     "glanceDistance": "Distanza:",
     "glanceDistanceVal": "9 km (galleria) / 14 km (strada costiera)",
     "glanceToll": "Pedaggio galleria:",
-    "glanceTollVal": "Gratuito — nessun costo in entrambe le direzioni"
+    "glanceTollVal": "Gratuito, nessun costo in entrambe le direzioni"
   },
   "contentPage": {
     "youMightAlsoLike": "Potrebbe interessarti anche",
