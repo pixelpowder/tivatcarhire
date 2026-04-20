@@ -170,37 +170,37 @@
   "kotor": {
     "title": "Rent a Car Kotor",
     "subtitle": "Istražite UNESCO dragulj Crne Gore sopstvenim tempom.",
-    "seoDesc": "Iznajmite auto u Kotoru, Crna Gora. Istražite UNESCO stari grad, Bokokotorski zaliv i obližnji Perast uz povoljnu najam i besplatnu isporuku sa aerodroma."
+    "seoDesc": "Vozite 8 km od Porto Montenegra u Tivtu do starog grada Kotora za 12 minuta. Parking van zidina, ulaz kroz Morsku kapiju, uspon na Sveti Ivan za pogled."
   },
   "tivat-airport": {
     "title": "Rent a Car Aerodrom Tivat",
     "subtitle": "Preuzmite vaš auto na izlazu iz zone dolaska.",
-    "seoDesc": "Preuzmite rent a car na aerodromu Tivat (TIV). Čekamo vas na izlazu sa vašim vozilom. Stignite do Kotora, Budve ili Porto Montenegra za nekoliko minuta."
+    "seoDesc": "Aerodrom Tivat je 1 km od centra grada, 3 minuta vožnje. Preuzimanje u dolasku, ili u Porto Montenegru Marini za Tivat najam."
   },
   "budva": {
     "title": "Rent a Car Budva",
     "subtitle": "Rivijera Crne Gore, plaže, noćni život i šarm starog grada.",
-    "seoDesc": "Iznajmite auto u Budvi, Crna Gora. Odvezite se na plažu Mogren, Sveti Stefan i do najboljeg noćnog života rivijere."
+    "seoDesc": "Stignite u Budvu iz Tivta za 25 minuta obalnim putem, 22 km preko Jaza. Sedamnaest rivijera plaža, Stari grad pod bedemima i Sveti Stefan 7 km dalje."
   },
   "perast": {
     "title": "Rent a Car Perast",
     "subtitle": "Barokni dragulj na Bokokotorskom zalivu.",
-    "seoDesc": "Iznajmite auto i posjetite Perast, barokni dragulj na Bokokotorskom zalivu."
+    "seoDesc": "Perast je 20 km od Tivta, 25 minuta uz rub zaliva. Barokno selo, šesnaest crkava, ostrvo Gospe od Škrpjela brodom."
   },
   "podgorica": {
     "title": "Rent a Car Podgorica",
     "subtitle": "Glavni grad Crne Gore, kultura, rijeke i moderni šarm.",
-    "seoDesc": "Rent a car u Podgorici, glavnom gradu Crne Gore. Istražite Skadarsko jezero, manastir Ostrog i Durmitor iznajmljenim autom."
+    "seoDesc": "Vozite 85 km istočno od Tivta do Podgorice za 70 minuta kroz tunel Sozina. Skadarsko jezero, Ostrog i unutrašnji sjever u dometu."
   },
   "podgorica-airport": {
     "title": "Rent a Car Aerodrom Podgorica",
     "subtitle": "Glavna međunarodna kapija Crne Gore.",
-    "seoDesc": "Preuzmite rent a car na aerodromu Podgorica (TGD). Isporučujemo vozilo do zone dolaska."
+    "seoDesc": "Aerodrom Podgorica (TGD) je 95 km od Tivta, 85 minuta kroz tunel Sozina. Koristite kad letovi ne odgovaraju TIV sezonskom rasporedu."
   },
   "dubrovnik-airport": {
     "title": "Rent a Car Aerodrom Dubrovnik",
     "subtitle": "Doletite u Hrvatsku, odvezite se u Crnu Goru.",
-    "seoDesc": "Iznajmite auto na aerodromu Dubrovnik i odvezite se u Crnu Goru. Prelazak granice za manje od sat vremena. Puno osiguranje i zeleni karton uključeni."
+    "seoDesc": "Aerodrom Dubrovnik je 55 km od Tivta, 1 sat 20 preko trajekta Kamenari i prelaza Debeli Brijeg. Zelena karta spremna."
   },
   "tivat": {
     "title": "Rent a Car Tivat",
@@ -210,12 +210,12 @@
   "montenegro": {
     "title": "Rent a Car i Vodič za Crnu Goru",
     "subtitle": "Sve što treba da znate o vožnji u Crnoj Gori.",
-    "seoDesc": "Kompletan vodič za vožnju u Crnoj Gori. Saobraćajna pravila, ograničenja brzine, cijene goriva i najbolje panoramske rute od obale do planina."
+    "seoDesc": "Crnogorski put iz Tivta: obalni krug do Kotora i Budve, tunel Sozina do Skadarskog jezera, sjever do kanjona Durmitora. Zelena karta uračunata."
   },
   "border-crossing": {
     "title": "Vodič za Prelazak Granica na Balkanu",
     "subtitle": "Sve o prelaženju granica sa vašim rentiranim automobilom.",
-    "seoDesc": "Vodič za prelazak granica iz Crne Gore rentiranim autom. Osiguranje zeleni karton, potrebna dokumenta i savjeti za Hrvatsku, Bosnu, Albaniju i Srbiju."
+    "seoDesc": "Granični prelazi iz Tivta: Hrvatska preko trajekta Kamenari i Debelog Brijega 55 km, Bosna preko Trebinja 110 km, Albanija Sukobin 155 km."
   },
   "privacy": {
     "title": "Politika Privatnosti",
