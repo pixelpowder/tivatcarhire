@@ -15,22 +15,42 @@
     @media (prefers-color-scheme: dark) {
       html, body { background-color: #fff !important; color: #333 !important; }
     }
-    /* Hide widget sections immediately — before JS loads */
+    /* Hide widget promotional sections — use exact classes only, avoid wildcards that break car detail modals */
     .featuring-cool-cars,
-    .highlight-container,
-    [class*="featuring"],
-    [class*="top-pick"],
-    [class*="top_pick"],
-    [class*="banner"],
-    [class*="promo"],
-    [class*="winter"],
-    [class*="notification"] { display: none !important; height: 0 !important; overflow: hidden !important; visibility: hidden !important; }
+    .highlight-container { display: none !important; height: 0 !important; overflow: hidden !important; visibility: hidden !important; }
+
+    /* Fix for car detail lightbox — slides collapse to 0 height in iframe without explicit height */
+    .booking__lightbox { min-height: 600px !important; }
+    .booking__lightbox__gallery,
+    .booking__lightbox__gallery .swiper-wrapper { height: 100% !important; min-height: 500px !important; }
+    .booking__lightbox__gallery .swiper-slide {
+      height: auto !important;
+      min-height: 500px !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+    }
+    .booking__lightbox__gallery .swiper-zoom-container {
+      width: 100% !important;
+      height: 100% !important;
+      display: flex !important;
+      align-items: center !important;
+      justify-content: center !important;
+    }
+    .booking__lightbox__gallery img {
+      max-height: 80vh !important;
+      max-width: 100% !important;
+      width: auto !important;
+      height: auto !important;
+      object-fit: contain !important;
+      display: block !important;
+    }
   </style>
   <script>
     // Intercept widget style injections and recolour green → navy/blue
-    const NAVY  = '#062E2A';
-    const BLUE  = '#0D8B7D';
-    const LIGHT = '#E5F5F3';
+    const NAVY  = '#0A1929';
+    const BLUE  = '#1B3A5C';
+    const LIGHT = '#E8EEF5';
 
     // Colours to replace (widget greens)
     const replacements = [
@@ -39,11 +59,11 @@
       [/#00a651/gi, BLUE],
       [/#2ecc71/gi, BLUE],
       [/#27ae60/gi, BLUE],
-      [/rgb\(57,\s*181,\s*74\)/gi,  'rgb(13,139,125)'],
-      [/rgb\(76,\s*175,\s*80\)/gi,  'rgb(13,139,125)'],
-      [/rgb\(0,\s*166,\s*81\)/gi,   'rgb(13,139,125)'],
-      [/rgba\(57,\s*181,\s*74,/gi,  'rgba(13,139,125,'],
-      [/rgba\(76,\s*175,\s*80,/gi,  'rgba(13,139,125,'],
+      [/rgb\(57,\s*181,\s*74\)/gi,  'rgb(27,58,92)'],
+      [/rgb\(76,\s*175,\s*80\)/gi,  'rgb(27,58,92)'],
+      [/rgb\(0,\s*166,\s*81\)/gi,   'rgb(27,58,92)'],
+      [/rgba\(57,\s*181,\s*74,/gi,  'rgba(27,58,92,'],
+      [/rgba\(76,\s*175,\s*80,/gi,  'rgba(27,58,92,'],
     ];
 
     function recolour(css) {
@@ -86,7 +106,7 @@
       script.async = true;
       script.setAttribute('data-mrc-wl',   'true');
       script.setAttribute('data-affiliate','14905');
-      script.setAttribute('data-marker', 'tivatcarhire');
+      script.setAttribute('data-marker',   'kotorcarrental');
       script.setAttribute('data-country',  '133');
       script.setAttribute('data-city',     cityId);
       script.setAttribute('data-routing',  'on');
@@ -177,6 +197,27 @@
     }
     const ro = new ResizeObserver(sendHeight);
     ro.observe(document.body);
+
+    // When lightbox opens, tell parent to make iframe fullscreen-fixed so modal is in viewport
+    new MutationObserver((mutations) => {
+      for (const m of mutations) {
+        for (const node of m.addedNodes) {
+          if (node.nodeType !== 1) continue;
+          const lightbox = node.classList?.contains('booking__lightbox')
+            ? node
+            : node.querySelector?.('.booking__lightbox');
+          if (lightbox) {
+            window.parent.postMessage({ type: 'lightboxOpen' }, '*');
+          }
+        }
+        for (const node of m.removedNodes) {
+          if (node.nodeType !== 1) continue;
+          if (node.classList?.contains('booking__lightbox')) {
+            window.parent.postMessage({ type: 'lightboxClose' }, '*');
+          }
+        }
+      }
+    }).observe(document.body, { childList: true, subtree: true });
     window.addEventListener('load', sendHeight);
 
     // Inject brand overrides after widget CSS loads
@@ -187,17 +228,17 @@
       /* Search bar — match nav exactly */
       .search-cigarette,
       .search-cigarette__wrap,
-      .search-cigarette__row { background: rgb(6,46,42) !important; }
+      .search-cigarette__row { background: rgb(10,25,41) !important; }
       .search-cigarette__city,
       .search-cigarette__calendar,
-      .search-cigarette__place-time { border-color: rgba(255,255,255,0.15) !important; }
+      .search-cigarette__place-time { border-color: rgba(255,255,255,0.12) !important; }
       .search-cigarette__trigger,
       .search-cigarette__pinned,
       .dropdown,
       .search-place-time { color: #fff !important; }
       .search-cigarette__placeholder { color: rgba(255,255,255,0.55) !important; }
       .search-filters,
-      .search-filters__wrap { border-color: rgba(255,255,255,0.2) !important; color: #fff !important; background: rgb(6,46,42) !important; }
+      .search-filters__wrap { border-color: rgba(255,255,255,0.2) !important; color: #fff !important; background: rgb(10,25,41) !important; }
       .search-cigarette__calendar { background: #fff !important; border-radius: 8px; }
       .search-calendar,
       .search-calendar__date,
@@ -208,30 +249,30 @@
       .date-range__days,
       .date-range__dash,
       .search-cigarette__calendar .search-cigarette__trigger,
-      .search-cigarette__calendar .search-cigarette__placeholder { color: rgb(6,46,42) !important; }
+      .search-cigarette__calendar .search-cigarette__placeholder { color: rgb(10,25,41) !important; }
 
       /* Calendar selected range — fix invisible white-on-white text */
       .calendar-day.calendar-highlighted {
-        background: rgba(13,139,125,0.12) !important;
-        color: rgb(6,46,42) !important;
+        background: rgba(27,58,92,0.12) !important;
+        color: rgb(10,25,41) !important;
       }
       .calendar-day.calendar-selected {
-        background: rgb(13,139,125) !important;
+        background: rgb(27,58,92) !important;
         color: #fff !important;
       }
 
       /* Low deposit badge — wildcard to beat inline styles */
       .product-sticker--low-deposit,
-      [class*="low-deposit"] { background: rgb(13,139,125) !important; color: #fff !important; border-color: rgb(13,139,125) !important; }
+      [class*="low-deposit"] { background: rgb(27,58,92) !important; color: #fff !important; border-color: rgb(27,58,92) !important; }
 
       /* Buttons */
-      .button { background: rgb(13,139,125) !important; border-color: rgb(13,139,125) !important; color: #fff !important; }
-      .button:hover { background: rgb(10,112,104) !important; }
-      .embla__button { background: rgb(13,139,125) !important; border-color: rgb(13,139,125) !important; }
+      .button { background: rgb(27,58,92) !important; border-color: rgb(27,58,92) !important; color: #fff !important; }
+      .button:hover { background: rgb(20,45,74) !important; }
+      .embla__button { background: rgb(27,58,92) !important; border-color: rgb(27,58,92) !important; }
 
       /* Progress & accents */
-      .search__progress { background: rgb(13,139,125) !important; }
-      .vehicle-card-info__badge { color: rgb(13,139,125) !important; }
+      .search__progress { background: rgb(27,58,92) !important; }
+      .vehicle-card-info__badge { color: rgb(27,58,92) !important; }
 
       /* Hide promotional banners and filter badges */
       [class*="banner"], [class*="promo"], [class*="winter"], [class*="notification"],
