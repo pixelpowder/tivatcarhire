@@ -25,7 +25,7 @@ export default function TivatAirport() {
       <img src="/img/boka-bay.webp" alt="Bay of Kotor aerial view" loading="lazy" />
 
       <h2>{t('tivatAirportBody.whyTitle')}</h2>
-      <p>{t('tivatAirportBody.whyText')}{t('tivatAirportBody.whyLinkPre')}<a href={localePath('/budva')}>{t('tivatAirportBody.whyLinkText')}</a>{t('tivatAirportBody.whyLinkPost')}</p>
+      <p>{t('tivatAirportBody.whyText')}{t('tivatAirportBody.whyLinkPre')} <a href={localePath('/budva')}>{t('tivatAirportBody.whyLinkText')}</a> {t('tivatAirportBody.whyLinkPost')}</p>
       <p>{t('tivatAirportBody.meetText')}</p>
     </ContentPage>
   );

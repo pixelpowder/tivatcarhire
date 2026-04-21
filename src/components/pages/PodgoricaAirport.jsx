@@ -27,7 +27,7 @@ export default function PodgoricaAirport() {
       <p>{t('podgoricaAirportBody.awardText')}</p>
 
       <h2>{t('podgoricaAirportBody.rentalTitle')}</h2>
-      <p>{t('podgoricaAirportBody.rentalText')}{t('podgoricaAirportBody.rentalLinkPre')}<a href={localePath('/montenegro')}>{t('podgoricaAirportBody.rentalLinkText')}</a>{t('podgoricaAirportBody.rentalLinkPost')}</p>
+      <p>{t('podgoricaAirportBody.rentalText')}{t('podgoricaAirportBody.rentalLinkPre')} <a href={localePath('/montenegro')}>{t('podgoricaAirportBody.rentalLinkText')}</a> {t('podgoricaAirportBody.rentalLinkPost')}</p>
     </ContentPage>
   );
 }
