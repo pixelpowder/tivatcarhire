@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import PortoMontenegroGuide from '@/src/components/pages/blog/PortoMontenegroGuide';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogPorto.title') + ' | Tivat Car Hire';
+  const description = t('en', 'blogPorto.description');
   return {
-    title: t('en', 'blogPorto.title') + ' | Tivat Car Hire',
-    description: t('en', 'blogPorto.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/porto-montenegro-guide'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

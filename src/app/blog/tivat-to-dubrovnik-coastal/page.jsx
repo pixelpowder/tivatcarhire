@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import TivatToDubrovnikCoastal from '@/src/components/pages/blog/TivatToDubrovnikCoastal';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogDubrovnik.title') + ' | Tivat Car Hire';
+  const description = t('en', 'blogDubrovnik.description');
   return {
-    title: t('en', 'blogDubrovnik.title') + ' | Tivat Car Hire',
-    description: t('en', 'blogDubrovnik.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/tivat-to-dubrovnik-coastal'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

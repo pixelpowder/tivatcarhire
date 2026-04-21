@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import LusticaPeninsulaDrive from '@/src/components/pages/blog/LusticaPeninsulaDrive';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogLustica.title') + ' | Tivat Car Hire';
+  const description = t('en', 'blogLustica.description');
   return {
-    title: t('en', 'blogLustica.title') + ' | Tivat Car Hire',
-    description: t('en', 'blogLustica.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/lustica-peninsula-drive'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 

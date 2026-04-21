@@ -2,10 +2,13 @@ import { t, buildAlternates } from '../../metadata';
 import TivatToKotorScenic from '@/src/components/pages/blog/TivatToKotorScenic';
 
 export async function generateMetadata() {
+  const title = t('en', 'blogKotor.title') + ' | Tivat Car Hire';
+  const description = t('en', 'blogKotor.description');
   return {
-    title: t('en', 'blogKotor.title') + ' | Tivat Car Hire',
-    description: t('en', 'blogKotor.description'),
+    title: title,
+    description: description,
     alternates: buildAlternates('blog/tivat-to-kotor-scenic'),
+    openGraph: { title, description, type: 'website' },
   };
 }
 
