@@ -21,6 +21,15 @@ export function t(lang, key) {
 const SITE_NAME = 'Tivat Car Hire';
 const BASE_URL = 'https://www.tivatcarhire.com';
 
+export const OG_LOCALE = {
+  en: 'en_US',
+  de: 'de_DE',
+  fr: 'fr_FR',
+  it: 'it_IT',
+  ru: 'ru_RU',
+  me: 'sr_ME',
+};
+
 export function buildAlternates(slug, lang = 'en') {
   const path = slug ? `/${slug}` : '';
   const canonicalPath = !lang || lang === 'en' ? path : `/${lang}${path}`;

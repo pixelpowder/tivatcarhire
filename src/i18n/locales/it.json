@@ -4,7 +4,8 @@
     "destinations": "Destinazioni",
     "about": "Chi Siamo",
     "blog": "Guida",
-    "contact": "Contatti"
+    "contact": "Contatti",
+    "fleet": "Flotta"
   },
   "common": {
     "home": "Home",
@@ -987,5 +988,30 @@
     "seoDesc": "Scrivi a Tivat Car Hire per prenotazioni, ritiri in marina o resi a Luštica. Email, WhatsApp e un modulo che risponde entro due ore nei giorni feriali.",
     "heading": "Contattaci",
     "intro": "Hai una domanda sul noleggio auto a Tivat? Contattaci e ti aiuteremo a trovare il veicolo perfetto per il tuo viaggio."
+  },
+  "cars": {
+    "readGuide": "Leggi la guida"
+  },
+  "fleetShowcase": {
+    "label": "Conosci la tua auto",
+    "title": "Guide per ogni auto della nostra flotta",
+    "subtitle": "Specifiche, consumi, dimensioni del bagagliaio e in cosa ciascuna auto rende davvero al meglio sulle strade del Montenegro.",
+    "viewAll": "Tutte le guide della flotta",
+    "tabs": {
+      "all": "Tutti",
+      "economy": "Economy",
+      "midsize": "Media",
+      "premium": "Premium",
+      "suv": "SUV",
+      "van": "Van"
+    }
+  },
+  "fleetIndex": {
+    "title": "La nostra flotta a Tivat",
+    "subtitle": "Sette auto a noleggio scelte per la vita alla marina Porto Montenegro, la penisola di Luštica e il traghetto Lepetane–Kamenari.",
+    "seoDesc": "Auto a noleggio a Tivat e alla marina Porto Montenegro — sette veicoli scelti per gli stalli della marina, le strade costiere della Luštica e il traghetto Lepetane–Kamenari.",
+    "intro1": "Questa flotta è calibrata sul ritmo di una vacanza in Tivat città, non su una settimana di arrivi in aeroporto. La maggior parte dei nostri ospiti si sistema in un appartamento a Porto Montenegro o in una villa a Donja Lastva e vuole un’auto delle giuste dimensioni per gli stalli della marina, le piazzole con parchimetro di Pine Walk e la stretta griglia costiera sopra la Piazza Principale di Tivat. Le sette auto qui sotto sono quelle che funzionano davvero: una Clio e una Polo compatte per la spesa, una Fiat 500 quando il parcheggio è il vero vincolo, una Yaris ibrida per le mattine silenziose in marina, e una 308 o una Megane quando la giornata in famiglia a Luštica o la traversata in traghetto verso Dubrovnik chiede più bagagliaio.",
+    "intro2": "La geografia di Tivat premia la misura giusta. I parcheggi a pagamento di Porto Montenegro costano 2–3 € l’ora, e gli stalli più stretti al piano terra del complesso rifiutano qualsiasi auto oltre i 4,1 m senza due manovre. La strada costiera via Donja Lastva fino alla rampa del traghetto Lepetane richiede quindici minuti, e il traghetto attraversa lo stretto di Verige verso Kamenari ogni quarto d’ora: portarci una media diesel è comodo, una piccola economy è perfettamente adeguata, e una Fiat 500 ci sta a pennello. La stessa geometria si ripete sulla strada di Luštica verso Krašići, Đurašević e le spiagge di Plavi Horizonti: asfalto continuo, ma abbastanza stretto da far pagare alla VW Golf la sua raffinatezza in scambi di stallo.",
+    "intro3": "Due regole al ritiro. Primo: l’aeroporto TIV è a soli cinque minuti e quasi certamente non dovete dimensionare l’auto per l’aeroporto — siete già arrivati. Scegliete per Luštica, Kotor e Dubrovnik invece. Secondo: pensate al carburante. Una settimana a base marina Porto Montenegro più gite gira sui 400 km; su una Yaris Hybrid sono meno di 40 € di benzina, su una 308 diesel circa 45 €, sulla Fiat 500 una cinquantina. Tutte e sette le auto qui sotto sono economiche secondo gli standard europei; la scelta si gioca alla fine sul bagagliaio, sulla posizione di guida e sull’utilità del tettuccio apribile in un pomeriggio di Luštica."
   }
 }

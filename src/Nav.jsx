@@ -38,9 +38,10 @@ export default function Nav({ logoHref }) {
 
   const navLinks = [
     { label: t('nav.book'), href: localePath('/book') },
+    { label: t('nav.fleet', 'Fleet'), href: localePath('/cars') },
     { label: t('nav.destinations'), href: localePath('/#destinations') },
     { label: t('nav.about'), href: localePath('/about') },
-    { label: t('nav.blog') || 'Blog', href: localePath('/blog') },
+    { label: t('nav.blog', 'Blog'), href: localePath('/blog') },
     { label: t('nav.contact'), href: localePath('/contact') },
   ];
 

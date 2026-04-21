@@ -18,12 +18,14 @@ function getNestedValue(obj, path) {
 export default function useTranslation() {
   const lang = useLanguage();
 
-  function t(key) {
+  function t(key, fallbackText) {
     const value = getNestedValue(translations[lang], key);
     if (value !== undefined) return value;
     // Fallback to English
     const fallback = getNestedValue(translations[DEFAULT_LANG], key);
     if (fallback !== undefined) return fallback;
+    // Caller-provided fallback (for new keys not yet in any locale)
+    if (fallbackText !== undefined) return fallbackText;
     return key; // Return key itself as last resort
   }
 
