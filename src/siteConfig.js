@@ -4,7 +4,7 @@ const siteConfig = {
   domain: "tivatcarhire.com",
   phone: "",
   email: "info@tivatcarhire.com",
-  address: "Tivat, Montenegro",
+  address: "Tabacina BB, Kotor, 85330",
 
   hero: {
     headline: "Car Hire in Tivat",
