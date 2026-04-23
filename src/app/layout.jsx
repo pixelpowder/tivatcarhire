@@ -17,16 +17,22 @@ export const metadata = {
   metadataBase: new URL('https://www.tivatcarhire.com'),
 };
 
-async function activeLocale() {
+async function activeContext() {
   const h = await headers();
   const pathname = h.get('x-pathname') || h.get('x-invoke-path') || '';
-  const first = pathname.replace(/^\//, '').split('/')[0];
-  if (SUPPORTED_LANGS.includes(first) && first !== DEFAULT_LANG) return first;
-  return DEFAULT_LANG;
+  const segs = pathname.replace(/^\//, '').split('/').filter(Boolean);
+  let lang = DEFAULT_LANG;
+  let rest = segs;
+  if (segs[0] && SUPPORTED_LANGS.includes(segs[0]) && segs[0] !== DEFAULT_LANG) {
+    lang = segs[0];
+    rest = segs.slice(1);
+  }
+  const isHomepage = rest.length === 0;
+  return { lang, isHomepage };
 }
 
 export default async function RootLayout({ children }) {
-  const lang = await activeLocale();
+  const { lang, isHomepage } = await activeContext();
   const htmlLang = LANG_HREFLANG[lang] || lang;
 
   return (
@@ -34,7 +40,7 @@ export default async function RootLayout({ children }) {
       <head>
         <link rel="preload" href="/hero-video.mp4" as="video" type="video/mp4" />
         <link rel="preload" href="/img/hero-tivat.webp" as="image" type="image/webp" />
-        <LocaleAwareSchema lang={lang} />
+        <LocaleAwareSchema lang={lang} isHomepage={isHomepage} />
       </head>
       <body>
         <DynamicLanguageProvider initialLang={lang}>
