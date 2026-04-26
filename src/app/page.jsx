@@ -2,7 +2,7 @@ import { t, buildAlternates } from './metadata';
 import HomeClient from '@/src/HomeClient';
 
 export async function generateMetadata() {
-  const title = 'Tivat Car Hire — Tivat Airport & Porto Montenegro Pickup | Tivat Car Hire';
+  const title = 'Tivat Car Hire, Tivat Airport & Porto Montenegro Pickup | Tivat Car Hire';
   const description = t('en', 'home.seoDesc');
   return {
     title: title,

@@ -11,9 +11,9 @@ import { SUPPORTED_LANGS, DEFAULT_LANG, LANG_HREFLANG } from '@/src/i18n/languag
 import LocaleAwareSchema from '@/src/components/LocaleAwareSchema';
 
 export const metadata = {
-  title: 'Tivat Car Hire — Airport Gateway to Montenegro',
+  title: 'Tivat Car Hire, Airport Gateway to Montenegro',
   description:
-    'Montenegro\'s coastal gateway — collect your car at Tivat Airport in 5 minutes flat. Kotor is 20 min north, Budva 30 min south. From €13/day, full insurance included.',
+    'Montenegro\'s coastal gateway, collect your car at Tivat Airport in 5 minutes flat. Kotor is 20 min north, Budva 30 min south. From €13/day, full insurance included.',
   metadataBase: new URL('https://www.tivatcarhire.com'),
 };
 

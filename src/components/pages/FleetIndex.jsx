@@ -13,7 +13,7 @@ export default function FleetIndex() {
       subtitle={t('fleetIndex.subtitle') !== 'fleetIndex.subtitle' ? t('fleetIndex.subtitle') : 'Seven rental cars for Tivat town, Porto Montenegro marina and the Lustica peninsula loop.'}
       image="/img/fleet/renault-clio.jpg"
       heroPosition="center"
-      description={t('fleetIndex.seoDesc') !== 'fleetIndex.seoDesc' ? t('fleetIndex.seoDesc') : 'Browse the Tivat Car Hire fleet — specs, fuel economy, and what each car is best for around Porto Montenegro, Tivat town and the peninsula.'}
+      description={t('fleetIndex.seoDesc') !== 'fleetIndex.seoDesc' ? t('fleetIndex.seoDesc') : 'Browse the Tivat Car Hire fleet, specs, fuel economy, and what each car is best for around Porto Montenegro, Tivat town and the peninsula.'}
     >
       <p>{t('fleetIndex.intro1')}</p>
 

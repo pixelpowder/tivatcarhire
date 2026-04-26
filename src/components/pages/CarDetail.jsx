@@ -26,13 +26,13 @@ import {
 
 // Tivat-town-specific inline photo per car — marina, Lustica, bay loops.
 const INLINE_PHOTOS = {
-  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: 'Coastal road along the Bay of Kotor',              caption: 'The bay road from Tivat to Lepetane — the default rental at its most natural pace.' },
-  'vw-polo':        { src: '/img/fleet-inline/road-mountains.jpg',    alt: 'Road climbing out of the Bay of Kotor',            caption: 'The Vrmac tunnel approach from the Tivat side — the Polo keeps composed where smaller triples scrabble.' },
-  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Adriatic highway inland from Tivat',               caption: 'The push across to Podgorica via Sozina — the 308\u2019s diesel settles into its stride here.' },
-  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg',          alt: 'Road hugging the Tivat shoreline',                 caption: 'The Pine Walk road out toward Donja Lastva — the Megane swallows family kit and distance together.' },
-  'fiat-500':       { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Narrow coastal lane threading through Lustica',    caption: 'The coastal lanes of Luštica toward Krašići — sunroof open, the Fiat 500 at its most charming.' },
-  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Tree-lined road between Tivat and Kotor',          caption: 'The wooded stretches between Tivat and Perast — DSG + diesel, the Golf reads the road for you.' },
-  'toyota-yaris':   { src: '/img/fleet-inline/aerial-mountains.jpg',  alt: 'Aerial view of the Bay of Kotor from above Tivat', caption: 'A week of marina-based exploring costs under €40 in fuel — the Yaris Hybrid quietly earns its keep.' },
+  'renault-clio':   { src: '/img/fleet-inline/coastal-road.jpg',      alt: 'Coastal road along the Bay of Kotor',              caption: 'The bay road from Tivat to Lepetane, the default rental at its most natural pace.' },
+  'vw-polo':        { src: '/img/fleet-inline/road-mountains.jpg',    alt: 'Road climbing out of the Bay of Kotor',            caption: 'The Vrmac tunnel approach from the Tivat side, the Polo keeps composed where smaller triples scrabble.' },
+  'peugeot-308':    { src: '/img/fleet-inline/mountain-highway.jpg',  alt: 'Adriatic highway inland from Tivat',               caption: 'The push across to Podgorica via Sozina, the 308\u2019s diesel settles into its stride here.' },
+  'renault-megane': { src: '/img/fleet-inline/sea-road.jpg',          alt: 'Road hugging the Tivat shoreline',                 caption: 'The Pine Walk road out toward Donja Lastva, the Megane swallows family kit and distance together.' },
+  'fiat-500':       { src: '/img/fleet-inline/rocky-road.jpg',        alt: 'Narrow coastal lane threading through Lustica',    caption: 'The coastal lanes of Luštica toward Krašići, sunroof open, the Fiat 500 at its most charming.' },
+  'vw-golf':        { src: '/img/fleet-inline/forest-road.jpg',       alt: 'Tree-lined road between Tivat and Kotor',          caption: 'The wooded stretches between Tivat and Perast, DSG + diesel, the Golf reads the road for you.' },
+  'toyota-yaris':   { src: '/img/fleet-inline/aerial-mountains.jpg',  alt: 'Aerial view of the Bay of Kotor from above Tivat', caption: 'A week of marina-based exploring costs under €40 in fuel, the Yaris Hybrid quietly earns its keep.' },
   _default:         { src: '/img/fleet-inline/sunset-montenegro.jpg', alt: 'Sunset over Porto Montenegro',                     caption: 'Tivat roads weave marina, bay and peninsula inside the same afternoon.' },
 };
 

@@ -9,7 +9,7 @@ export async function generateMetadata({ params }) {
   const descTranslated = t(lang, descKey);
   const description = descTranslated !== descKey
     ? descTranslated
-    : 'Browse the Tivat Car Hire fleet — economy, mid-size and crossover cars from Porto Montenegro and TIV airport.';
+    : 'Browse the Tivat Car Hire fleet, economy, mid-size and crossover cars from Porto Montenegro and TIV airport.';
   const titleTranslated = t(lang, 'fleetIndex.title');
   const baseTitle = titleTranslated !== 'fleetIndex.title' ? titleTranslated : 'Our Fleet';
   const title = `${baseTitle} | Tivat Car Hire`;
