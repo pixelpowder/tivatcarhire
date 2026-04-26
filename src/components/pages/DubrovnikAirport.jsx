@@ -11,7 +11,7 @@ export default function DubrovnikAirport() {
       description={t("dubrovnik-airport.seoDesc")}
       image="/img/tivat-airport.webp"
     >
-      <img src="/img/tivat-airport.webp" alt="Airport terminal building" loading="lazy" />
+      <img src="/img/tivat-airport.webp" alt={t('dubrovnikAirportBody.imgAlt1') || 'Airport terminal building'} loading="lazy" />
       <h2>{t('dubrovnikAirportBody.h1')}</h2>
       <p>{t('dubrovnikAirportBody.p1')}</p>
       <p>{t('dubrovnikAirportBody.p2')}</p>
@@ -24,7 +24,7 @@ export default function DubrovnikAirport() {
       <p>{t('dubrovnikAirportBody.facilitiesText1')}</p>
       <p>{t('dubrovnikAirportBody.facilitiesText2')}</p>
 
-      <img src="/img/herceg-novi.webp" alt="Coastal road toward Montenegro" loading="lazy" />
+      <img src="/img/herceg-novi.webp" alt={t('dubrovnikAirportBody.imgAlt2') || 'Coastal road toward Montenegro'} loading="lazy" />
 
       <h2>{t('dubrovnikAirportBody.gettingTitle')}</h2>
       <p>{t('dubrovnikAirportBody.gettingText1')}</p>

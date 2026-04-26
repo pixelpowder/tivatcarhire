@@ -5,7 +5,7 @@ export default function Kotor() {
   const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("kotor.title")} subtitle={t("kotor.subtitle")} description={t("kotor.seoDesc")} image="/img/kotor-nearby.webp">
-      <img src="/img/kotor-nearby.webp" alt="Kotor Old Town walls and bay" loading="lazy" />
+      <img src="/img/kotor-nearby.webp" alt={t('kotorBody.imgAlt1') || 'Kotor Old Town walls and bay'} loading="lazy" />
       <h2>{t('kotorBody.h1')}</h2>
       <p>{t('kotorBody.p1')}</p>
       <p>{t('kotorBody.p2')}</p>
@@ -17,7 +17,7 @@ export default function Kotor() {
       <h3>{t('kotorBody.cathedralTitle')}</h3>
       <p>{t('kotorBody.cathedralText')}</p>
 
-      <img src="/img/kotor-old-town.webp" alt="Kotor Old Town streets" loading="lazy" />
+      <img src="/img/kotor-old-town.webp" alt={t('kotorBody.imgAlt2') || 'Kotor Old Town streets'} loading="lazy" />
 
       <h2>{t('kotorBody.dayTripsTitle')}</h2>
       <p>{t('kotorBody.perastTrip')}{t('kotorBody.perastLinkPre')} <a href={localePath('/perast')}>{t('kotorBody.perastLinkText')}</a> {t('kotorBody.perastLinkPost')}</p>

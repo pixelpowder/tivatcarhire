@@ -5,7 +5,7 @@ export default function Budva() {
   const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("budva.title")} subtitle={t("budva.subtitle")} description={t("budva.seoDesc")} image="/img/budva-nearby.webp">
-      <img src="/img/budva-nearby.webp" alt="Budva Riviera coastline" loading="lazy" />
+      <img src="/img/budva-nearby.webp" alt={t('budvaBody.imgAlt1') || 'Budva Riviera coastline'} loading="lazy" />
       <h2>{t('budvaBody.h1')}</h2>
       <p>{t('budvaBody.p1')}</p>
       <p>{t('budvaBody.p2')}</p>
@@ -22,7 +22,7 @@ export default function Budva() {
       <h2>{t('budvaBody.oldTownTitle')}</h2>
       <p>{t('budvaBody.oldTownText')}</p>
 
-      <img src="/img/yacht-marina.webp" alt="Budva coastline view" loading="lazy" />
+      <img src="/img/yacht-marina.webp" alt={t('budvaBody.imgAlt2') || 'Budva coastline view'} loading="lazy" />
 
       <h2>{t('budvaBody.dayTripsTitle')}</h2>
       <p>{t('budvaBody.svetiStefanTrip')}</p>

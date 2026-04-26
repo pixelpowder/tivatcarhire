@@ -102,7 +102,8 @@
   "book": {
     "title": "Finden Sie Ihr Auto",
     "seoTitle": "Auto buchen",
-    "seoDesc": "Mietwagen in Tivat im Umkreis von 40 Metern zum TIV Ankunftsgürtel."
+    "seoDesc": "Mietwagen in Tivat im Umkreis von 40 Metern zum TIV Ankunftsgürtel.",
+    "iframeTitle": "Mietwagenbuchung"
   },
   "footer": {
     "brandDesc": "Autovermietung in Tivat Marina für TIV Ankünfte und Porto Montenegro Gäste. Vom Gepäckband zu Ihrem Auto in zwei Minuten, Versicherung und Flughafengebühren inklusive.",
@@ -129,7 +130,8 @@
     "title": "Falsch abgebogen",
     "text": "Diese Straße führt ins Nichts, aber der Flughafenausgang ist nur einen Klick entfernt. Kehren Sie zurück und wählen Sie eine Route.",
     "backHome": "Zurück zur Startseite",
-    "searchCars": "Autos suchen"
+    "searchCars": "Autos suchen",
+    "metaTitle": "Page Not Found"
   },
   "home": {
     "seoDesc": "Autovermietung in Tivat direkt gegenüber vom Flughafen. Porto Montenegro Marina 1 km, Kotor 8 km, Budva 22 km, und die Luštica Halbinsel nur 20."
@@ -152,7 +154,7 @@
     "p3d": ", Budva und weiteren Standorten an der Küste und im Inland.",
     "promiseTitle": "Unser Versprechen",
     "promise1": "Vollversicherung mit Optionen für keinen Selbstbehalt",
-    "promise2": "Meet-and-Greet am Flughafen Tivat, wir bringen das Auto zur Ankunft",
+    "promise2": "Persönliche Begrüßung am Flughafen Tivat, wir bringen das Auto zur Ankunft",
     "promise3": "Keine versteckten Gebühren, der Preis ist der Preis, den Sie zahlen",
     "promise4": "Grenzüberschreitende Reisen nach Kroatien, Bosnien, Albanien, Serbien und dem Kosovo gestattet",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
@@ -292,32 +294,16 @@
       "a": "Tivat ist ein Einzelterminal-Flughafen. Nach der Gepäckausgabe verlassen Sie das Terminal und überqueren die Straße zum Kurzzeit-Parkplatz, etwa 40 Meter. Unser Agent erwartet Sie dort mit Schlüssel und Unterlagen. Gesamtzeit vom Gepäckband bis zum Losfahren: ca. 10 Minuten."
     },
     "5": {
-      "q": "Kann ich das Fahrzeug an einem anderen Ort zurückgeben?",
-      "a": "Ja. Einwegmieten sind in über 28 Städten in Montenegro möglich. TIV abholen und in Budva, Kotor, Podgorica oder sogar Dubrovnik zurückgeben. Einfach unterschiedliche Abhol- und Rückgabeorte bei der Buchung wählen."
-    },
-    "6": {
       "q": "Wie lautet die Stornierungsrichtlinie?",
       "a": "Kostenlose Stornierung bis 7 Tage vor Mietbeginn für Standardfahrzeuge, bis 30 Tage für Premium- und Cabrio-Kategorien. Bei allen Rückerstattungen fällt eine Zahlungsgebühr von 6 % an."
     },
-    "7": {
+    "6": {
       "q": "Ist eine Kaution erforderlich?",
       "a": "Kautionsbeträge variieren je nach Fahrzeuggruppe, einige Economy-Fahrzeuge benötigen keine Kaution. Wenn eine Kaution anfällt, muss sie auf einer physischen Kreditkarte des Hauptfahrers hinterlegt werden und wird bei Rückgabe erstattet."
     },
-    "8": {
+    "7": {
       "q": "Wo ist die nächste Tankstelle am TIV?",
       "a": "Eine Jugopetrol-Station befindet sich 800 Meter vom Flughafenausgang auf der Hauptstraße Richtung Tivat-Stadt, eine Petrol-Station in Radanovici auf der Budva-Straße. Beide akzeptieren Karte und Bargeld."
-    },
-    "9": {
-      "q": "Gibt es versteckte Gebühren?",
-      "a": "Nein. Steuern, Flughafenzuschlag, Ausrüstungskit, alles inklusive. Der Checkout-Preis ist der Preis, den Sie bei der Abholung zahlen. An der Abholstation kommen keine zusätzlichen Gebühren hinzu."
-    },
-    "10": {
-      "q": "Wie viel zahle ich bei der Buchung?",
-      "a": "Nur 15-20 % des Gesamtbetrags werden bei der Buchung zur Fahrzeugreservierung berechnet. Den Restbetrag zahlen Sie direkt beim Mietagenten am Flughafen bei der Abholung."
-    },
-    "11": {
-      "q": "Kann ich ohne Kreditkarte mieten?",
-      "a": "Einige Fahrzeuge sind ohne Kreditkarte verfügbar, diese sind in den Suchergebnissen mit einem entsprechenden Badge deutlich gekennzeichnet. Filtern Sie danach bei Ihrer Suche."
     }
   },
   "destCards": {
@@ -371,7 +357,7 @@
     "p3": "Gepäck holen, durch die Ausgangstüren des Terminals gehen, die Zufahrtsstraße zum Kurzzeitparkplatz überqueren. Unser Mitarbeiter wartet dort mit Schlüsseln und Unterlagen. Unterschreiben, Spiegel einstellen, losfahren. Rechts abbiegen Richtung Budva und Vrmac-Tunnel, links entlang der Buchtstraße nach Kotor und Perast, geradeaus nach Porto Montenegro und Lustica Bay. Eine Jugopetrol-Tankstelle liegt 800 Meter weiter an der Hauptstraße, falls Sie vor der Abfahrt tanken möchten.",
     "promiseTitle": "Unser Versprechen",
     "promise1": "CDW und Diebstahlschutz, Upgrade auf Null-Selbstbeteiligung verfügbar",
-    "promise2": "Meet-and-Greet auf dem TIV-Kurzzeitparkplatz, 40 m vom Terminal entfernt",
+    "promise2": "Persönliche Begrüßung auf dem TIV-Kurzzeitparkplatz, 40 m vom Terminal entfernt",
     "promise3": "Transparente Preise, der Betrag an der Kasse ist der endgültige Betrag",
     "promise4": "Grenzüberschreitende Grüne Karte für Kroatien, Bosnien, Albanien, Serbien, Kosovo",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
@@ -379,7 +365,9 @@
     "h4": "Lokales Wissen",
     "p4": "Wir fahren diese Straßen täglich. Wir wissen, dass der Vrmac-Tunnel die Fahrt nach Kotor auf 12 Minuten verkürzt, dass die Verige-Fähre über die Buchtöffnung 45 Minuten gegenüber dem langen Weg nach Herceg Novi spart, dass die Tankstelle Radanovici die letzte Station vor der Riviera Budva ist und dass der Parkplatz Tabacina in Kotor im Juli bereits um 10 Uhr voll ist. Fragen Sie uns bei der Abholung alles, Routenberatung ist kostenlos und unbegrenzt.",
     "h5": "Kontaktieren Sie uns",
-    "p5": "Fragen vor dem Flug? WhatsApp, Viber oder Telefon, wir antworten während der Servicezeiten innerhalb von Minuten. Stöbern Sie online in der Flotte, sichern Sie sich einen Preis, und Ihr Fahrzeug wartet auf dem TIV-Parkplatz, sobald Ihr Flugzeug landet."
+    "p5": "Fragen vor dem Flug? WhatsApp, Viber oder Telefon, wir antworten während der Servicezeiten innerhalb von Minuten. Stöbern Sie online in der Flotte, sichern Sie sich einen Preis, und Ihr Fahrzeug wartet auf dem TIV-Parkplatz, sobald Ihr Flugzeug landet.",
+    "imgAlt1": "Terminal des Flughafens Tivat",
+    "imgAlt2": "Bucht von Kotor von der Straße aus"
   },
   "kotorBody": {
     "h1": "Kotor, UNESCO-Weltkulturerbe",
@@ -396,7 +384,9 @@
     "perastLinkText": "barocken Uferpromenade von Perast",
     "perastLinkPost": ".",
     "cetinjeTrip": "Das 1701 erbaute Kloster beherbergt die Hand Johannes des Täufers. Die Fahrt von Kotor dauert etwa eine Stunde durch malerische Bergstraßen.",
-    "royalCourtText": "Montenegros königlicher Palast von 1871 in der ehemaligen königlichen Hauptstadt."
+    "royalCourtText": "Montenegros königlicher Palast von 1871 in der ehemaligen königlichen Hauptstadt.",
+    "imgAlt1": "Mauern der Altstadt von Kotor und die Bucht",
+    "imgAlt2": "Gassen der Altstadt von Kotor"
   },
   "budvaBody": {
     "h1": "Budva, Das Herz der Montenegrinischen Riviera",
@@ -418,7 +408,9 @@
     "kotorLinkPost": "ist 25 Autominuten nördlich.",
     "lovcenTrip": "Fahren Sie ins Landesinnere für Berglandschaften und das Njegoš-Mausoleum, das auf 1.657 Metern Höhe thront und an klaren Tagen Ausblicke auf vier Länder bietet. Die kurvenreiche Straße von der Küste ist ein Erlebnis für sich.",
     "gettingAroundTitle": "Fortbewegung",
-    "gettingAroundText": "Während Budvas Altstadt am besten zu Fuß erkundet wird, ist ein Mietwagen unverzichtbar, um die besten Strände, nahegelegene Dörfer und Attraktionen im Landesinneren zu erreichen. Parkplätze sind in der Nähe der Altstadtmauern und auf mehreren öffentlichen Parkplätzen entlang der Hauptstraße vorhanden. Im Hochsommer sichert frühes Ankommen die besten Plätze."
+    "gettingAroundText": "Während Budvas Altstadt am besten zu Fuß erkundet wird, ist ein Mietwagen unverzichtbar, um die besten Strände, nahegelegene Dörfer und Attraktionen im Landesinneren zu erreichen. Parkplätze sind in der Nähe der Altstadtmauern und auf mehreren öffentlichen Parkplätzen entlang der Hauptstraße vorhanden. Im Hochsommer sichert frühes Ankommen die besten Plätze.",
+    "imgAlt1": "Küste der Riviera von Budva",
+    "imgAlt2": "Blick auf die Küste von Budva"
   },
   "perastBody": {
     "h1": "Perast, Verborgenes Juwel an der Bucht",
@@ -432,7 +424,9 @@
     "historicTitle": "Historische Sehenswürdigkeiten",
     "historicText": "Die Stadt verfügt über zahlreiche Paläste, Kathedralen und mehrere Wachtürme, die einst die Stadt schützten. Für diejenigen, die sich eingehend mit der Geschichte von Perast beschäftigen möchten, beherbergt das Museum von Perast zahlreiche Artefakte, Archive, Gemälde, Skulpturen und Stadtchroniken. Das Museum befindet sich im alten Palata Buiovich, den viele als das schönste Gebäude an der montenegrinischen Küste betrachten.",
     "monasteryTitle": "Kloster Banja",
-    "monasteryText": "Das Kloster Banja liegt nördlich von Perast an der Straße nach Risan und beherbergt viele alte religiöse Stücke aus russischen, griechischen und Boka-Dynastien. Um das Kloster zu erreichen, fahren Sie einfach wenige Kilometer weiter nördlich auf der E65/E80."
+    "monasteryText": "Das Kloster Banja liegt nördlich von Perast an der Straße nach Risan und beherbergt viele alte religiöse Stücke aus russischen, griechischen und Boka-Dynastien. Um das Kloster zu erreichen, fahren Sie einfach wenige Kilometer weiter nördlich auf der E65/E80.",
+    "imgAlt1": "Uferpromenade von Perast und Inseln in der Bucht",
+    "imgAlt2": "Bucht von Kotor von der Straße aus"
   },
   "tivatBody": {
     "h1": "Tivat, Hafenstadt",
@@ -449,7 +443,9 @@
     "monasteryText": "Ruinen aus dem 10. Jahrhundert auf der Halbinsel Prevlaka, mit laufenden archäologischen Arbeiten, die die antike Geschichte des Ortes freilegen.",
     "churchTitle": "Kirche Sveti Antun Padovanski",
     "churchText": "Diese 1734 erbaute Kirche enthält religiöse Gemälde und Artefakte und bietet einen wunderschönen Blick über die Bucht.",
-    "museumText": "Nur 10 Autominuten entfernt in Kotor zeigt das Schifffahrtsmuseum das reiche Seefahrtserbe Montenegros und historische Bildungszentren."
+    "museumText": "Nur 10 Autominuten entfernt in Kotor zeigt das Schifffahrtsmuseum das reiche Seefahrtserbe Montenegros und historische Bildungszentren.",
+    "imgAlt1": "Tivater Uferpromenade und Porto Montenegro",
+    "imgAlt2": "Liegeplätze in der Marina Porto Montenegro"
   },
   "tivatAirportBody": {
     "h1": "Autovermietung am Flughafen Tivat (TIV)",
@@ -467,7 +463,9 @@
     "whyLinkPre": "Innerhalb von 30 Minuten können Sie an",
     "whyLinkText": "Budvas Riviera-Stränden",
     "whyLinkPost": "sein.",
-    "meetText": "Wir empfangen Sie in der Ankunftshalle mit Ihrem Namen auf einem Schild. Ihr Auto steht direkt draußen bereit. Gesamtzeit von der Landung bis zur Abfahrt: etwa 10 Minuten."
+    "meetText": "Wir empfangen Sie in der Ankunftshalle mit Ihrem Namen auf einem Schild. Ihr Auto steht direkt draußen bereit. Gesamtzeit von der Landung bis zur Abfahrt: etwa 10 Minuten.",
+    "imgAlt1": "Terminal des Flughafens Tivat",
+    "imgAlt2": "Luftaufnahme der Bucht von Kotor"
   },
   "podgoricaBody": {
     "h1": "Podgorica, Die Hauptstadt",
@@ -481,7 +479,9 @@
     "skadarText": "Möglicherweise der schönste See Europas, gelegen an der Grenze zwischen Montenegro und Albanien als Nationalpark. Heimat von Millionen von Pelikanen, ist er der größte See auf dem Balkan und ein Muss für Naturliebhaber.",
     "danilovgradTitle": "Danilovgrad",
     "danilovgradText": "Eine malerische Flussstadt etwa dreißig Minuten westlich von Podgorica, mit Flussstränden, Bootsfahrten, Galerien und dem nahegelegenen Kloster Zdrebaonik.",
-    "zabljak": "Eine Alpenstadt in der Gebirgsregion Durmitor, auf 1.500 Metern über dem Meeresspiegel und 170 Kilometer von Podgorica entfernt. Ein Ganzjahresziel, das im Winter Skifahren und im Sommer Wandern, Rafting und Mountainbiken bietet."
+    "zabljak": "Eine Alpenstadt in der Gebirgsregion Durmitor, auf 1.500 Metern über dem Meeresspiegel und 170 Kilometer von Podgorica entfernt. Ein Ganzjahresziel, das im Winter Skifahren und im Sommer Wandern, Rafting und Mountainbiken bietet.",
+    "imgAlt1": "Podgorica Millennium Bridge",
+    "imgAlt2": "Terminal des Flughafens Podgorica"
   },
   "podgoricaAirportBody": {
     "h1": "Autovermietung am Flughafen Podgorica (TGD)",
@@ -502,7 +502,8 @@
     "rentalText": "Wir empfangen Sie in der Ankunftshalle und bringen den Wagen direkt zu Ihnen. Keine Warteschlangen, keine Shuttlebusse zu externen Parkplätzen. Innerhalb weniger Minuten nach der Zollabfertigung sind Sie auf dem Weg zu Ihrem Ziel.",
     "rentalLinkPre": "Sehen Sie unseren",
     "rentalLinkText": "Montenegro-Reiseführer",
-    "rentalLinkPost": "für die Routenplanung."
+    "rentalLinkPost": "für die Routenplanung.",
+    "imgAlt1": "Terminal des Flughafens Podgorica"
   },
   "dubrovnikAirportBody": {
     "h1": "Autovermietung am Flughafen Dubrovnik (DBV)",
@@ -519,7 +520,9 @@
     "facilitiesText2": "Im Flughafen befinden sich eine Wechselstube, eine Bank und eine Post. Kleine Restaurants, Cafés, ein Duty-Free-Shop und ein Zeitungskiosk sind ebenfalls vorhanden.",
     "gettingTitle": "Anreise nach Montenegro",
     "gettingText1": "Am Flughafen stehen öffentliche Verkehrsmittel in Form von Taxis vor dem Terminal sowie Busverbindungen und Shuttles zur Verfügung. Reisende, die in die Stadt Dubrovnik möchten, sollten darauf achten, die Busse zu nehmen, die bis ins Stadtzentrum fahren.",
-    "gettingText2": "Die Fahrt vom Flughafen Dubrovnik an die Küste Montenegros führt Sie über eine der landschaftlich schönsten Küstenstraßen Europas. Innerhalb von zwei Stunden passieren Sie die Grenze und erreichen die Bay of Kotor, eine der dramatischsten Annäherungen an ein Reiseziel im gesamten Mittelmeerraum."
+    "gettingText2": "Die Fahrt vom Flughafen Dubrovnik an die Küste Montenegros führt Sie über eine der landschaftlich schönsten Küstenstraßen Europas. Innerhalb von zwei Stunden passieren Sie die Grenze und erreichen die Bay of Kotor, eine der dramatischsten Annäherungen an ein Reiseziel im gesamten Mittelmeerraum.",
+    "imgAlt1": "Terminalgebäude des Flughafens Dubrovnik",
+    "imgAlt2": "Küstenstraße Richtung Montenegro"
   },
   "montenegroBody": {
     "h1": "Montenegro mit dem Auto entdecken",
@@ -554,7 +557,9 @@
     "borderTitle": "Grenzübergänge",
     "borderText": "Grenzüberschreitende Fahrten sind mit den richtigen Dokumenten unkompliziert. An den Kontrollpunkten kann es in der Hochsaison zu erheblichen Staus kommen, wobei kilometerlange Autoschlangen an beliebten Übergängen üblich sind. Die besten Überquerungszeiten sind an Wochentagen morgens oder spätabends.",
     "nationTitle": "Eine junge Nation",
-    "nationText": "Montenegro erlangte im Juni 2006 seine Unabhängigkeit und ist damit eine der jüngsten Nationen der Welt. Der Tourismus wächst stetig und bietet im Vergleich zu den Nachbarländern ein exotischeres und etwas ursprünglicheres Abenteuer. Die Landschaft vereint grüne Berge, die von Fjorden mit tiefblauem Adriawasser durchzogen sind, eine Vielfalt an Stränden und die Geheimnisse alter Altstädte."
+    "nationText": "Montenegro erlangte im Juni 2006 seine Unabhängigkeit und ist damit eine der jüngsten Nationen der Welt. Der Tourismus wächst stetig und bietet im Vergleich zu den Nachbarländern ein exotischeres und etwas ursprünglicheres Abenteuer. Die Landschaft vereint grüne Berge, die von Fjorden mit tiefblauem Adriawasser durchzogen sind, eine Vielfalt an Stränden und die Geheimnisse alter Altstädte.",
+    "imgAlt1": "Küstenstraße in Montenegro",
+    "imgAlt2": "Blick auf die Bucht von Kotor"
   },
   "borderCrossingBody": {
     "h1": "Kann ich meinen Mietwagen über Grenzen mitnehmen?",
@@ -607,7 +612,9 @@
     "route2": "Kotor → Mostar (Bosnien): 3-4 Stunden über Trebinje. Besuchen Sie die berühmte Brücke",
     "route3": "Budva → Shkodër (Albanien): 2,5 Stunden über den Küstenübergang bei Ulcinj",
     "route4": "Podgorica → Belgrad (Serbien): 5-6 Stunden über die E65 Richtung Norden",
-    "ctaText": "Benötigen Sie ein Auto mit fertig vorbereiteten Grenzübergangs-Dokumenten? Durchsuchen Sie unsere Flotte, wählen Sie einfach bei der Buchung Ihre Zielländer aus und wir kümmern uns um die Grüne Karte."
+    "ctaText": "Benötigen Sie ein Auto mit fertig vorbereiteten Grenzübergangs-Dokumenten? Durchsuchen Sie unsere Flotte, wählen Sie einfach bei der Buchung Ihre Zielländer aus und wir kümmern uns um die Grüne Karte.",
+    "imgAlt1": "Festungsmauern von Dubrovnik",
+    "imgAlt2": "Stari-Most-Brücke in Mostar"
   },
   "blogHome": {
     "sectionLabel": "Reiseführer",
@@ -765,7 +772,7 @@
     "beachZanjiceVal": "Der beliebteste Strand der Halbinsel. Weisse Kiesel, glasklares Wasser, ein paar Strandbars und ein kleiner Parkplatz. Kommen Sie im Sommer vor 10 Uhr, um einen Platz zu sichern.",
     "beachMiristLabel": "Miriste:",
     "beachMiristVal": "Fünf Gehminuten südlich von Zanjice entlang eines Felswegs. Viel ruhiger, keine Einrichtungen, umgeben von Pinien, die natürlichen Schatten spenden. Bringen Sie Wasser und ein Handtuch mit.",
-    "beachDobreLabel": "Dobre Vode:",
+    "beachDobreLabel": "Strand Dobre Vode:",
     "beachDobreVal": "Eine winzige Bucht, erreichbar über einen steilen Schotterweg bei Krasici. Nicht ausgeschildert, fragen Sie in einem lokalen Cafe und man zeigt Ihnen die Abzweigung. Felsiger Einstieg ins Wasser, aber hervorragend zum Schwimmen.",
     "altBeach": "Küste der Lustica-Halbinsel mit klarem Adriawasser",
     "h2Villages": "Geisterdörfer und Olivenhaine",
@@ -854,7 +861,8 @@
     "packShoesLabel": "Schuhe:",
     "packShoesVal": "Badeschuhe für Kieselstrände, Turnschuhe für die Festungstreppen in Kotor.",
     "packSnackLabel": "Snacks:",
-    "packSnackVal": "Der Voli-Supermarkt nahe Porto Montenegro hat alles. Kaufen Sie ein, bevor Sie Tivat verlassen."
+    "packSnackVal": "Der Voli-Supermarkt nahe Porto Montenegro hat alles. Kaufen Sie ein, bevor Sie Tivat verlassen.",
+    "altFamily": "Familie am Strand von Tivat"
   },
   "blogIsland": {
     "title": "Blumeninsel: Prevlaka und die Miholjska-Kirchen",
@@ -985,12 +993,72 @@
   },
   "contact": {
     "title": "Kontaktieren Sie uns",
-    "seoDesc": "Kontaktieren Sie Tivat Car Hire für Buchungen, Marina-Abhol oder Luštica Rückgabe.",
+    "seoDesc": "Fragen zur Automiete in Tivat? Schreib uns auf WhatsApp, per E-Mail oder nutze das Formular unten.",
     "heading": "Kontaktieren Sie uns",
-    "intro": "Haben Sie eine Frage zur Automiete in Tivat? Kontaktieren Sie uns, und wir helfen Ihnen, das passende Fahrzeug für Ihre Reise zu finden."
+    "intro": "Haben Sie eine Frage zur Automiete in Tivat? Kontaktieren Sie uns, und wir helfen Ihnen, das passende Fahrzeug für Ihre Reise zu finden.",
+    "emailLabel": "E-Mail",
+    "whatsappLabel": "WhatsApp",
+    "chatCta": "Schreiben Sie uns",
+    "formHeading": "Senden Sie uns eine Nachricht",
+    "nameLabel": "Ihr Name",
+    "emailFieldLabel": "Ihre E-Mail",
+    "messagePlaceholder": "Wie können wir helfen?",
+    "sendButton": "Nachricht senden",
+    "thanks": "Danke für Ihre Nachricht, wir antworten innerhalb weniger Stunden."
   },
   "cars": {
-    "readGuide": "Ratgeber lesen"
+    "readGuide": "Ratgeber lesen",
+    "renault-clio": {
+      "name": "Renault Clio",
+      "category": "Economy",
+      "tagline": "Der marina-freundliche Standard, kompakt, sparsam, passt in die kurzen Buchten von Porto Montenegro"
+    },
+    "vw-polo": {
+      "name": "VW Polo",
+      "category": "Economy",
+      "tagline": "Solider deutscher Kompakter, der die Lepetane-Fährschlange mühelos meistert"
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "category": "Mid-Size",
+      "tagline": "Mittelklasse-Diesel-Automatik, der ruhige Cruiser für die Strecken nach Podgorica und Dubrovnik"
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "category": "Mid-Size",
+      "tagline": "Größter Kofferraum der Mittelklasse, der Standard für Strandgepäck und Familienausflüge"
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "category": "City",
+      "tagline": "Kompaktes Cabriolet für sonnige Tage, perfekt für die Lustica-Schleife und Marina-Spaziergänge"
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "category": "Mid-Size",
+      "tagline": "Vernünftiger Allrounder mit DSG-Komfort für lange Strecken in der Region"
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "category": "Economy",
+      "tagline": "Hybrid-Stadtflitzer, der für die Stop-Start-Geografie von Tivat wie geschaffen ist"
+    },
+    "overviewTitle": "Auf einen Blick",
+    "whoForTitle": "Für wen ist dieses Auto?",
+    "regionalTitle": "Bester regionaler Einsatz",
+    "articleTitle": "Auf Montenegros Straßen",
+    "sections": {
+      "behindWheel": "Am Steuer",
+      "onRoads": "Auf Montenegros Straßen",
+      "spaceLoad": "Platz und Beladung",
+      "bestFor": "Beste Touren mit diesem Auto",
+      "practical": "Praktische Hinweise",
+      "verdict": "Das Fazit"
+    },
+    "featuresTitle": "Im Innenraum",
+    "relatedTitle": "Wohin Sie dieses Auto bringt",
+    "checkAvailability": "Verfügbarkeit und aktuelle Preise prüfen",
+    "nextBtn": "Nächstes Modell"
   },
   "fleetShowcase": {
     "label": "Kennen Sie Ihr Auto",
@@ -1012,6 +1080,126 @@
     "seoDesc": "Mietwagen in Tivat Stadt und der Marina Porto Montenegro, sieben Fahrzeuge gewählt für Marina-Buchten, Luštica-Küstenstraßen und die Fähre Lepetane–Kamenari.",
     "intro1": "Diese Flotte ist auf den Rhythmus eines Tivat-Stadt-Urlaubs zugeschnitten, nicht auf eine Ankunftswoche am Flughafen. Die meisten Gäste wohnen in einer Porto-Montenegro-Wohnung oder einer Villa in Donja Lastva und brauchen ein Auto in der richtigen Größe für Marina-Buchten, die gebührenpflichtigen Plätze am Pine Walk und das enge Küstenraster über dem Tivater Hauptplatz. Die sieben Autos unten funktionieren wirklich: ein kompakter Clio und Polo für Einkaufsfahrten, ein Fiat 500, wenn Parken das eigentliche Problem ist, ein Yaris Hybrid für stille Marina-Morgen, und ein 308 oder Megane, wenn der Luštica-Familientag oder die Dubrovnik-Fährüberfahrt mehr Kofferraum verlangt.",
     "intro2": "Die Tivater Geografie belohnt die richtige Größe. Die bezahlten Parkplätze von Porto Montenegro kosten 2–3 € pro Stunde, und die engeren Buchten im Erdgeschoss des Komplexes lehnen alles über 4,1 Meter ohne zweimaliges Rangieren ab. Die Küstenstraße über Donja Lastva zur Fährrampe Lepetane dauert fünfzehn Minuten, und die Fähre selbst quert die Verige-Straße nach Kamenari im Viertelstundentakt, ein Mittelklasse-Diesel quert bequem, ein kleiner Economy-Wagen ist völlig in Ordnung, und ein Fiat 500 ist geradezu reizend. Die gleiche Geometrie wiederholt sich auf der Luštica-Straße nach Krašići, Đurašević und den Stränden von Plavi Horizonti: durchgehend asphaltiert, aber eng genug, dass ein VW Golf seine Verfeinerung mit Buchten-Wechseln bezahlt.",
-    "intro3": "Zwei Regeln an der Abholung. Erstens: Der Flughafen TIV liegt nur fünf Minuten entfernt, und Sie müssen das Auto fast sicher nicht für den Flughafen dimensionieren, Sie sind bereits angekommen. Wählen Sie stattdessen nach Luštica, Kotor und Dubrovnik. Zweitens: Denken Sie an den Sprit. Eine Woche Porto-Montenegro-Marina-Fahrten plus Tagesausflüge ergeben rund 400 km; in einem Yaris Hybrid unter 40 €, in einem 308 Diesel rund 45 €, in einem Fiat 500 etwa 50 €. Alle sieben Autos unten sind nach europäischen Maßstäben günstig im Unterhalt; die Wahl hängt am Ende an Kofferraum, Sitzposition und daran, ob an einem Luštica-Nachmittag ein Schiebedach zählt."
+    "intro3": "Zwei Regeln an der Abholung. Erstens: Der Flughafen TIV liegt nur fünf Minuten entfernt, und Sie müssen das Auto fast sicher nicht für den Flughafen dimensionieren, Sie sind bereits angekommen. Wählen Sie stattdessen nach Luštica, Kotor und Dubrovnik. Zweitens: Denken Sie an den Sprit. Eine Woche Porto-Montenegro-Marina-Fahrten plus Tagesausflüge ergeben rund 400 km; in einem Yaris Hybrid unter 40 €, in einem 308 Diesel rund 45 €, in einem Fiat 500 etwa 50 €. Alle sieben Autos unten sind nach europäischen Maßstäben günstig im Unterhalt; die Wahl hängt am Ende an Kofferraum, Sitzposition und daran, ob an einem Luštica-Nachmittag ein Schiebedach zählt.",
+    "ogImageAlt": "Mietwagenflotte Tivat"
+  },
+  "locationsSection": {
+    "label": "Abholstationen",
+    "title": "Wo können Sie abholen?",
+    "subtitle": "Mehrere Standorte in ganz Montenegro für maximalen Komfort."
+  },
+  "aria": {
+    "whatsapp": "Chat auf WhatsApp",
+    "scrollTop": "Nach oben scrollen"
+  },
+  "carSpecs": {
+    "seats": "Seats",
+    "transmission": "Gearbox",
+    "fuel": "Fuel",
+    "luggage": "Luggage",
+    "bootSize": "Boot",
+    "mpg": "Economy"
+  },
+  "cookiePolicy": {
+    "lastUpdatedLabel": "Zuletzt aktualisiert:",
+    "lastUpdatedDate": "April 2026",
+    "h2Section1": "Was sind Cookies?",
+    "p1": "Cookies sind kleine Textdateien, die beim Besuch einer Website auf Ihrem Gerät gespeichert werden. Sie helfen der Website, sich Ihre Einstellungen zu merken und zu verstehen, wie Sie sie nutzen.",
+    "h2Section2": "Verwendete Cookies",
+    "h3Essential": "Essenzielle Cookies",
+    "essentialIntro": "Diese sind für das Funktionieren der Website notwendig. Sie können nicht deaktiviert werden.",
+    "sessionLabel": "Sitzungs-Cookies:",
+    "sessionText": "verwalten Ihre Browsing-Sitzung, während Sie auf der Website navigieren",
+    "preferenceLabel": "Präferenz-Cookies:",
+    "preferenceText": "speichern Ihre Sprach- und Standortauswahl",
+    "h3ThirdParty": "Cookies von Drittanbietern",
+    "thirdPartyIntro": "Unser Mietwagen-Buchungs-Widget (bereitgestellt von LocalRent) kann Cookies setzen, um:",
+    "thirdParty1": "Ihre Suchpräferenzen (Daten, Ort) zu speichern",
+    "thirdParty2": "Ihre Sitzung während des Buchungsvorgangs aufrechtzuerhalten",
+    "thirdParty3": "Affiliate-Empfehlungen zu verfolgen",
+    "thirdPartyOutro": "Diese Cookies werden von LocalRent gesetzt und unterliegen deren Datenschutzrichtlinie.",
+    "h2Managing": "Cookies verwalten",
+    "managingIntro": "Sie können Cookies über Ihre Browser-Einstellungen steuern. Die meisten Browser erlauben Ihnen:",
+    "managing1": "Zu sehen, welche Cookies gespeichert sind",
+    "managing2": "Einzelne oder alle Cookies zu löschen",
+    "managing3": "Cookies bestimmter Websites zu blockieren",
+    "managing4": "Alle Cookies von Drittanbietern zu blockieren",
+    "managingOutro": "Beachten Sie, dass das Blockieren essenzieller Cookies die Funktionalität des Buchungs-Widgets beeinträchtigen kann.",
+    "h2Contact": "Kontakt",
+    "contactText": "Fragen zu unserer Verwendung von Cookies? Kontaktieren Sie uns unter info@tivatcarhire.com."
+  },
+  "privacyBody": {
+    "lastUpdatedLabel": "Zuletzt aktualisiert:",
+    "lastUpdatedDate": "April 2026",
+    "h2Who": "Wer wir sind",
+    "whoText": "Tivat Car Hire ist ein unabhängiger Partner, der Reisende mit Autovermietern in Tivat, Montenegro, verbindet. Unsere Website befindet sich unter tivatcarhire.com. Wenn Sie unsere Website nutzen, erfassen wir möglicherweise bestimmte Informationen, wie unten beschrieben.",
+    "h2Collect": "Welche Informationen wir erfassen",
+    "h3YouProvide": "Informationen, die Sie bereitstellen",
+    "youProvideText": "Wenn Sie unser Buchungsformular nutzen, erfassen wir den Abholort, die Daten und die Zeiten, die Sie eingeben, um verfügbare Fahrzeuge zu finden. Diese Informationen werden an unseren Partner (LocalRent) weitergegeben, um Suchergebnisse zu generieren. Wir erfassen oder speichern keine Zahlungsdaten, alle Zahlungen werden direkt vom Vermieter abgewickelt.",
+    "h3Auto": "Automatisch erfasste Informationen",
+    "usageLabel": "Nutzungsdaten:",
+    "usageText": "besuchte Seiten, auf der Website verbrachte Zeit, verweisende Website",
+    "deviceLabel": "Geräteinformationen:",
+    "deviceText": "Browsertyp, Betriebssystem, Bildschirmauflösung",
+    "ipLabel": "IP-Adresse:",
+    "ipText": "wird zur ungefähren Standortbestimmung und für Sicherheitszwecke verwendet",
+    "h2Use": "Wie wir Ihre Informationen verwenden",
+    "use1": "Um Sie mit Verfügbarkeit und Preisen von Mietwagen zu verbinden",
+    "use2": "Um unsere Website und Benutzererfahrung zu verbessern",
+    "use3": "Um zu verstehen, wie Besucher unsere Website nutzen (Analyse)",
+    "use4": "Um Anfragen über WhatsApp, Viber oder E-Mail zu beantworten",
+    "h2ThirdParty": "Dienste von Drittanbietern",
+    "thirdPartyIntro": "Unsere Website verwendet die folgenden Dienste von Drittanbietern:",
+    "localRentLabel": "LocalRent:",
+    "localRentText": "Buchungs-Widget für Mietwagen, verarbeitet Ihre Suchanfragen und wickelt alle Buchungen und Zahlungen ab",
+    "vercelLabel": ":",
+    "vercelText": "Website-Hosting",
+    "pexelsLabel": ":",
+    "pexelsText": "Stock-Fotografie",
+    "thirdPartyOutro": "Jeder dieser Dienste hat seine eigene Datenschutzrichtlinie für den Umgang mit Daten.",
+    "h2Cookies": "Cookies",
+    "cookiesPre": "Wir verwenden minimale Cookies, die für das Funktionieren der Website notwendig sind. Das LocalRent-Buchungs-Widget kann eigene Cookies für Sitzungsverwaltung und Präferenzen setzen. Siehe unsere",
+    "cookiesLink": "Cookie-Richtlinie",
+    "cookiesPost": "für Details.",
+    "h2Rights": "Ihre Rechte",
+    "rightsIntro": "Sie haben das Recht:",
+    "right1": "Auskunft über alle persönlichen Daten zu verlangen, die wir über Sie speichern",
+    "right2": "Berichtigung oder Löschung Ihrer Daten zu verlangen",
+    "right3": "Einwilligung zur Datenverarbeitung zu widerrufen",
+    "right4": "Beschwerde bei einer Datenschutzbehörde einzulegen",
+    "h2Contact": "Kontakt",
+    "contactText": "Bei datenschutzbezogenen Fragen kontaktieren Sie uns per E-Mail unter info@tivatcarhire.com."
+  },
+  "termsBody": {
+    "lastUpdatedLabel": "Zuletzt aktualisiert:",
+    "lastUpdatedDate": "April 2026",
+    "h2About": "Über diese Website",
+    "pAbout": "Tivat Car Hire (tivatcarhire.com) ist eine Partner-Website, die Reisende mit Autovermietungsdiensten in Tivat, Montenegro, verbindet. Wir sind kein Autovermietungsunternehmen, sondern arbeiten mit LocalRent zusammen, um Echtzeit-Verfügbarkeit und Buchungsdienste anzubieten.",
+    "h2Booking": "Buchungs- und Mietbedingungen",
+    "pBooking1": "Alle über unsere Website getätigten Mietwagenbuchungen werden von unserem Partner LocalRent bearbeitet und durchgeführt. Wenn Sie eine Buchung abschließen, gehen Sie einen Mietvertrag direkt mit dem Fahrzeuganbieter ein, nicht mit Tivat Car Hire.",
+    "pBooking2": "Die Mietbedingungen, einschließlich Stornierungsbedingungen, Versicherungsschutz, Altersanforderungen und Zahlungsbedingungen, werden vom Fahrzeuganbieter festgelegt und während des Buchungsvorgangs angezeigt. Wir empfehlen, diese Bedingungen sorgfältig zu lesen, bevor Sie eine Buchung bestätigen.",
+    "h2Role": "Unsere Rolle",
+    "pRoleProvide": "Wir bieten:",
+    "roleProvide1": "Eine Suchoberfläche zum Durchsuchen verfügbarer Mietfahrzeuge",
+    "roleProvide2": "Reise- und Zielortinformationen über Montenegro",
+    "roleProvide3": "Kundensupport bei Anfragen vor der Buchung",
+    "pRoleNot": "Wir bieten nicht:",
+    "roleNot1": "Besitz, Betrieb oder Wartung von Mietfahrzeugen",
+    "roleNot2": "Zahlungsabwicklung oder Rückerstattungen",
+    "roleNot3": "Festlegung von Mietpreisen, Versicherungsbedingungen oder Stornierungsrichtlinien",
+    "h2Pricing": "Preise",
+    "pPricing": "Die auf unserer Website angezeigten Preise werden in Echtzeit von unserem Buchungspartner bereitgestellt und können sich ändern. Der endgültige Preis wird zum Zeitpunkt der Buchung bestätigt. Alle Preise enthalten Mehrwertsteuer und Pflichtversicherung, sofern nicht anders angegeben.",
+    "h2Content": "Website-Inhalte",
+    "pContent": "Wir bemühen uns nach Kräften, sicherzustellen, dass die Informationen auf dieser Website korrekt und aktuell sind. Reiseinformationen, Verkehrsregeln und Grenzübergangsanforderungen können sich jedoch ändern. Wir empfehlen, kritische Details (insbesondere Grenzübergangsdokumente und Verkehrsregeln) vor Ihrer Reise bei offiziellen Quellen zu überprüfen.",
+    "h2Liability": "Haftungsbeschränkung",
+    "pLiabilityIntro": "Tivat Car Hire agiert als Vermittler und haftet nicht für:",
+    "liability1": "Den Zustand oder die Verfügbarkeit von Mietfahrzeugen",
+    "liability2": "Handlungen oder Unterlassungen von Vermietern",
+    "liability3": "Verluste durch Grenzübergangsprobleme oder Dokumentationsfehler",
+    "liability4": "Preisänderungen nach Buchungsbestätigung",
+    "h2IP": "Geistiges Eigentum",
+    "pIP": "Alle Inhalte dieser Website, einschließlich Text, Design und Grafiken, sind Eigentum von Tivat Car Hire, sofern nicht anders angegeben. Stockfotografie wird unter Lizenz von verwendet.",
+    "h2Contact": "Kontakt",
+    "pContact": "Fragen zu diesen Bedingungen? Kontaktieren Sie uns unter info@tivatcarhire.com."
   }
 }

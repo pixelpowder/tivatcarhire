@@ -6,7 +6,7 @@ export default function TivatAirport() {
   const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("tivat-airport.title")} subtitle={t("tivat-airport.subtitle")} description={t("tivat-airport.seoDesc")} image="/img/tivat-airport.webp">
-      <img src="/img/tivat-airport.webp" alt="Tivat Airport terminal" loading="lazy" />
+      <img src="/img/tivat-airport.webp" alt={t('tivatAirportBody.imgAlt1') || 'Tivat Airport terminal'} loading="lazy" />
       <h2>{t('tivatAirportBody.h1')}</h2>
       <p>{t('tivatAirportBody.p1')}</p>
       <p>{t('tivatAirportBody.p2')}</p>
@@ -22,7 +22,7 @@ export default function TivatAirport() {
       <h2>{t('tivatAirportBody.facilitiesTitle')}</h2>
       <p>{t('tivatAirportBody.facilitiesText')}</p>
 
-      <img src="/img/boka-bay.webp" alt="Bay of Kotor aerial view" loading="lazy" />
+      <img src="/img/boka-bay.webp" alt={t('tivatAirportBody.imgAlt2') || 'Bay of Kotor aerial view'} loading="lazy" />
 
       <h2>{t('tivatAirportBody.whyTitle')}</h2>
       <p>{t('tivatAirportBody.whyText')}{t('tivatAirportBody.whyLinkPre')} <a href={localePath('/budva')}>{t('tivatAirportBody.whyLinkText')}</a> {t('tivatAirportBody.whyLinkPost')}</p>

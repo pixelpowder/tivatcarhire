@@ -5,7 +5,7 @@ export default function PodgoricaAirport() {
   const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("podgorica-airport.title")} subtitle={t("podgorica-airport.subtitle")} description={t("podgorica-airport.seoDesc")} image="/img/podgorica-airport.webp">
-      <img src="/img/podgorica-airport.webp" alt="Podgorica Airport terminal" loading="lazy" />
+      <img src="/img/podgorica-airport.webp" alt={t('podgoricaAirportBody.imgAlt1') || 'Podgorica Airport terminal'} loading="lazy" />
       <h2>{t('podgoricaAirportBody.h1')}</h2>
       <p>{t('podgoricaAirportBody.p1')}</p>
       <p>{t('podgoricaAirportBody.p2')}</p>

@@ -5,7 +5,7 @@ export default function Perast() {
   const { t } = useTranslation();
   return (
     <ContentPage title={t("perast.title")} subtitle={t("perast.subtitle")} description={t("perast.seoDesc")} image="/img/boka-bay.webp">
-      <img src="/img/boka-bay.webp" alt="Perast waterfront and bay islands" loading="lazy" />
+      <img src="/img/boka-bay.webp" alt={t('perastBody.imgAlt1') || 'Perast waterfront and bay islands'} loading="lazy" />
       <h2>{t('perastBody.h1')}</h2>
       <p>{t('perastBody.p1')}</p>
       <p>{t('perastBody.p2')}</p>
@@ -16,7 +16,7 @@ export default function Perast() {
       <h3>{t('perastBody.ladyOfRocksTitle')}</h3>
       <p>{t('perastBody.ladyOfRocksText')}</p>
 
-      <img src="/img/kotor-nearby.webp" alt="Bay of Kotor from the road" loading="lazy" />
+      <img src="/img/kotor-nearby.webp" alt={t('perastBody.imgAlt2') || 'Bay of Kotor from the road'} loading="lazy" />
 
       <h2>{t('perastBody.historicTitle')}</h2>
       <p>{t('perastBody.historicText')}</p>

@@ -260,12 +260,11 @@ const siteConfig = {
     { q: "Is there a minimum age to rent?", a: "Age and experience requirements depend on the vehicle category. Economy cars typically require 21+, premium vehicles 25+. These details appear during the search before you commit to a booking." },
     { q: "What is included in the rental price?", a: "CDW and theft protection, VAT, an equipment kit (first-aid box, warning triangle, reflective vest), and a transparent fuel policy. Mileage terms vary by vehicle, some are unlimited, others capped at a daily kilometre allowance shown on the listing." },
     { q: "How does TIV airport pickup work?", a: "Tivat is a single-terminal airport. After you clear baggage reclaim, walk out the terminal exit and cross to the short-stay car park, roughly 40 metres. Our agent meets you there with the keys and paperwork. Total time from bag belt to driving: about 10 minutes." },
-    { q: "Can I drop off at a different location?", a: "Yes. One-way rentals are supported across 28+ towns in Montenegro. Pick up at TIV and drop off in Budva, Kotor, Podgorica, or across the border in Dubrovnik. Select different pickup and drop-off points during booking." },
     { q: "What is the cancellation policy?", a: "Free cancellation up to 7 days before the rental start date for standard vehicles, up to 30 days for premium and convertible categories. A 6% payment processing fee applies to all refunds." },
     { q: "Is a deposit required?", a: "Deposit amounts vary by vehicle group, some economy cars require no deposit at all. When a deposit applies, it must be on a physical credit card in the main driver's name and is refunded on return of the vehicle." },
     { q: "Where is the nearest fuel station to TIV?", a: "There is a Jugopetrol station 800 metres from the airport exit on the main road toward Tivat town, and a Petrol station in Radanovici on the Budva road. Both accept card and cash payment." },
     { q: "Are there any hidden fees?", a: "No. Taxes, airport surcharge, equipment kit, all included. The price at checkout is the price you pay at pickup. We do not add fees at the desk." },
-    { q: "How much do I pay upfront?", a: "Only 15–20% of the total is charged at booking to secure the car. The balance is paid directly to the rental agent at the airport when you collect." },
+    { q: "How much do I pay upfront?", a: "Only 15-20% of the total is charged at booking to secure the car. The balance is paid directly to the rental agent at the airport when you collect." },
     { q: "Can I rent without a credit card?", a: "Some vehicles are available without a credit card, these are clearly marked with a card-free badge in the search results. Filter for them during your search." },
   ],
 

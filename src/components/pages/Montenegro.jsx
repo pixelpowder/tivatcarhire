@@ -5,7 +5,7 @@ export default function Montenegro() {
   const { t, localePath } = useTranslation();
   return (
     <ContentPage title={t("montenegro.title")} subtitle={t("montenegro.subtitle")} description={t("montenegro.seoDesc")} image="/img/coastal-road.webp">
-      <img src="/img/coastal-road.webp" alt="Montenegro coastal driving road" loading="lazy" />
+      <img src="/img/coastal-road.webp" alt={t('montenegroBody.imgAlt1') || 'Montenegro coastal driving road'} loading="lazy" />
       <h2>{t('montenegroBody.h1')}</h2>
       <p>{t('montenegroBody.p1')}</p>
       <p>{t('montenegroBody.p2')}</p>
@@ -34,7 +34,7 @@ export default function Montenegro() {
         <li>{t('montenegroBody.keyRule4')}</li>
       </ul>
 
-      <img src="/img/boka-bay.webp" alt="Bay of Kotor road view" loading="lazy" />
+      <img src="/img/boka-bay.webp" alt={t('montenegroBody.imgAlt2') || 'Bay of Kotor road view'} loading="lazy" />
 
       <h2>{t('montenegroBody.conditionsTitle')}</h2>
       <p>{t('montenegroBody.conditionsText')}</p>

@@ -102,7 +102,8 @@
   "book": {
     "title": "Pronađite Vaš Auto",
     "seoTitle": "Rezervišite Auto",
-    "seoDesc": "Automobili u izјavi iz Тivata udalјenі 40 metara od пaska putnika TIV аerоdroma."
+    "seoDesc": "Automobili u izјavi iz Тivata udalјenі 40 metara od пaska putnika TIV аerоdroma.",
+    "iframeTitle": "Rezervacija najma vozila"
   },
   "footer": {
     "brandDesc": "Iznajmljivanje automobila u Tivatskoj marini za dolazake na TIV i goste Porta Montenegra. Od prtljage do vašeg automobila samo dva minuta, osiguranje i aerodromske takse uključene.",
@@ -129,7 +130,8 @@
     "title": "Pogrešno Skretanje",
     "text": "Ovaj put ne vodi nikuda, ali izlaz sa aerodroma je samo jedan klik daleko. Vratite se i izaberite rutu.",
     "backHome": "Nazad na Početnu",
-    "searchCars": "Pretraži Auta"
+    "searchCars": "Pretraži Auta",
+    "metaTitle": "Page Not Found"
   },
   "home": {
     "seoDesc": "Iznajmljivanje automobila u Tivatу, direktno preko puta od аerоdromа."
@@ -164,7 +166,7 @@
     "localLink2": "srednjovjekovnog starog grada Kotora",
     "localMid2": ", uzevši prirodnjačku rutu kroz Bay of Kotor do",
     "localLink3": "Perasta",
-    "localEnd": ", ili krećete u unutrašnjost prema Nacionalnom parku Durmitor, možemo vam pomoći da planirate savršeno road trip putovanje.",
+    "localEnd": ", ili krećete u unutrašnjost prema Nacionalnom parku Durmitor, možemo vam pomoći da isplanirate savršeno putovanje automobilom.",
     "contactTitle": "Stupite u kontakt",
     "contactText": "Imate li pitanja o iznajmljivanju automobila u Tivatu? Dostupni smo putem telefona, WhatsApp i Viber. Pretražite našu flotu na internetu i rezervirajte za nekoliko minuta, ili nam se obratite i pomoći ćemo vam da pronađete savršen automobil za vaše putovanje."
   },
@@ -292,32 +294,16 @@
       "a": "Tivat je aerodrom s jednim terminalom. Kada preuzmete prtljag, izađite iz terminala i pređite do kratkoročnog parkinga, otprilike 40 metara. Naš agent vas dočekuje tamo s ključevima i dokumentima. Ukupno vrijeme od trake za prtljag do vožnje: oko 10 minuta."
     },
     "5": {
-      "q": "Mogu li vratiti vozilo na drugoj lokaciji?",
-      "a": "Da. Jednosmjerno iznajmljivanje je dostupno u više od 28 gradova u Crnoj Gori. Preuzmite na TIV-u, a vratite u Budvi, Kotoru, Podgorici ili čak Dubrovniku. Odaberite različita mjesta preuzimanja i vraćanja pri rezervaciji."
-    },
-    "6": {
       "q": "Koja je politika otkazivanja?",
       "a": "Besplatno otkazivanje do 7 dana prije početka iznajmljivanja za standardna vozila, do 30 dana za premium i kabriolet kategorije. Naknada za obradu plaćanja od 6 % primjenjuje se na sve povrate novca."
     },
-    "7": {
+    "6": {
       "q": "Da li je potreban depozit?",
       "a": "Iznos depozita varira po grupi vozila, neka ekonomična vozila ne zahtijevaju nikakav depozit. Kada se depozit traži, mora biti na fizičkoj kreditnoj kartici na ime glavnog vozača i vraća se po povratku vozila."
     },
-    "8": {
+    "7": {
       "q": "Gdje je najbliža benzinska stanica TIV-u?",
       "a": "Jugopetrol stanica se nalazi 800 metara od izlaza aerodroma na glavnoj cesti prema gradu Tivtu, a Petrol stanica u Radanovićima na putu prema Budvi. Obje prihvataju karticu i gotovinu."
-    },
-    "9": {
-      "q": "Ima li skrivenih naknada?",
-      "a": "Ne. Porezi, aerodromska naknada, oprema, sve uključeno. Cijena pri plaćanju je cijena koju plaćate pri preuzimanju. Na šalteru se ne dodaju nikakve naknade."
-    },
-    "10": {
-      "q": "Koliko plaćam unaprijed?",
-      "a": "Samo 15-20 % ukupnog iznosa naplaćuje se pri rezervaciji za osiguranje vozila. Ostatak plaćate direktno agentu za iznajmljivanje na aerodromu pri preuzimanju."
-    },
-    "11": {
-      "q": "Mogu li iznajmiti bez kreditne kartice?",
-      "a": "Neka vozila su dostupna bez kreditne kartice, jasno su označena bedžom bez kartice u rezultatima pretrage. Filtrirajte po tom kriteriju tokom pretrage."
     }
   },
   "destCards": {
@@ -379,7 +365,9 @@
     "h4": "Lokalno znanje",
     "p4": "Ove puteve vozimo svakodnevno. Znamo da tunel Vrmac vožnju do Kotora skraćuje na 12 minuta, da trajekt Verige preko ulaza u zaliv štedi 45 minuta u odnosu na dugi put do Herceg Novog, da je pumpa Radanovići posljednje stajalište prije rivijere Budve, i da se parking Tabačina u Kotoru u julu puni već do 10 ujutru. Pitajte nas bilo šta pri preuzimanju, savjeti o rutama su besplatni i neograničeni.",
     "h5": "Kontaktirajte nas",
-    "p5": "Imate pitanja prije leta? WhatsApp, Viber ili telefon, odgovaramo za nekoliko minuta tokom radnog vremena. Pretražite flotu na sajtu, rezervišite cijenu, a Vaš automobil će čekati na parkingu TIV čim Vaš let sleti."
+    "p5": "Imate pitanja prije leta? WhatsApp, Viber ili telefon, odgovaramo za nekoliko minuta tokom radnog vremena. Pretražite flotu na sajtu, rezervišite cijenu, a Vaš automobil će čekati na parkingu TIV čim Vaš let sleti.",
+    "imgAlt1": "Zgrada terminala aerodroma Tivat",
+    "imgAlt2": "Bokokotorski zaliv sa puta"
   },
   "kotorBody": {
     "h1": "Kotor -- Lokalitet pod Zastitom UNESCO-a",
@@ -396,7 +384,9 @@
     "perastLinkText": "barokne obale Perasta za 20 minuta",
     "perastLinkPost": ".",
     "cetinjeTrip": "Sagrađen 1701. godine, manastir čuva ruku Jovana Krstitelja. Odlikuje se bogatom dekoracijom i pravoslavnom umjetnošću. Vožnja iz Kotora traje približno jedan sat kroz slikovite planinske puteve.",
-    "royalCourtText": "Crnogorska kraljevska palata iz 1871. godine, u kojoj su izloženi umjetnički predmeti, artefakti i fotografije iz kraljevske istorije zemlje. Nalazi se pored manastira u nekadašnjoj kraljevskoj prijestonici."
+    "royalCourtText": "Crnogorska kraljevska palata iz 1871. godine, u kojoj su izloženi umjetnički predmeti, artefakti i fotografije iz kraljevske istorije zemlje. Nalazi se pored manastira u nekadašnjoj kraljevskoj prijestonici.",
+    "imgAlt1": "Zidine starog grada Kotora i zaliv",
+    "imgAlt2": "Ulice starog grada Kotora"
   },
   "budvaBody": {
     "h1": "Budva -- Srce Crnogorske Rivijere",
@@ -418,7 +408,9 @@
     "kotorLinkPost": "je 25 minuta vožnje na sjever.",
     "lovcenTrip": "Uputite se u unutrašnjost ka planinskim pejzažima i Njegoševom mauzoleju, smještenom na 1.657 metara nadmorske visine, sa pogledom na četiri zemlje po vedrom danu. Vijugavi put od obale je doživljaj sam po sebi.",
     "gettingAroundTitle": "Kretanje",
-    "gettingAroundText": "Dok je Budvanski Stari Grad najbolje istraživati pješice, iznajmljeni automobil je neophodan za dolazak do najljepših plaža, obližnjih sela i atrakcija u unutrašnjosti. Parking je dostupan u blizini zidina Starog grada i na nekoliko javnih parkirališta duž glavnog puta. U vrhu ljeta, rani dolazak osigurava najbolja mjesta."
+    "gettingAroundText": "Dok je Budvanski Stari Grad najbolje istraživati pješice, iznajmljeni automobil je neophodan za dolazak do najljepših plaža, obližnjih sela i atrakcija u unutrašnjosti. Parking je dostupan u blizini zidina Starog grada i na nekoliko javnih parkirališta duž glavnog puta. U vrhu ljeta, rani dolazak osigurava najbolja mjesta.",
+    "imgAlt1": "Obala Budvanske rivijere",
+    "imgAlt2": "Pogled na obalu Budve"
   },
   "perastBody": {
     "h1": "Perast -- Skriveni Dragulj na Zalivu",
@@ -432,7 +424,9 @@
     "historicTitle": "Istorijski Lokaliteti",
     "historicText": "Grad se može pohvaliti brojnim palatama, katedralama i nekoliko stražarskih kula koje su nekada štitile grad. Za one koji žele detaljno naučiti o istoriji Perasta, Muzej Perasta sadrži mnoge artefakte, arhive, slike, skulpture i gradske zapise. Muzej se nalazi u staroj Palati Bujović, koju mnogi smatraju najljepšom zgradom na crnogorskoj obali.",
     "monasteryTitle": "Manastir Banja",
-    "monasteryText": "Smješten sjeverno od Perasta na putu prema Risnu, manastir Banja sadrži mnoge drevne vjerske predmete iz ruskih, grčkih i bokeljskih dinastija. Da biste stigli do manastira, nastavite na sjever putem E65/E80 samo nekoliko kilometara."
+    "monasteryText": "Smješten sjeverno od Perasta na putu prema Risnu, manastir Banja sadrži mnoge drevne vjerske predmete iz ruskih, grčkih i bokeljskih dinastija. Da biste stigli do manastira, nastavite na sjever putem E65/E80 samo nekoliko kilometara.",
+    "imgAlt1": "Obala Perasta i ostrva u zalivu",
+    "imgAlt2": "Bokokotorski zaliv sa puta"
   },
   "tivatBody": {
     "h1": "Tivat -- Grad Marine",
@@ -449,7 +443,9 @@
     "monasteryText": "Ruševine iz 10. vijeka smještene na poluostrvu Prevlaka, sa tekućim arheološkim radovima koji otkrivaju drevnu istoriju lokaliteta.",
     "churchTitle": "Crkva Sv. Antuna Padovanskog",
     "churchText": "Sagrađena 1734. godine, ova crkva sadrži religiozne slike i artefakte, sa prekrasnim pogledom na zaliv.",
-    "museumText": "Na samo 10 minuta vožnje u Kotoru, Pomorski muzej prikazuje bogato pomorsko nasljeđe Crne Gore i istorijske obrazovne centre."
+    "museumText": "Na samo 10 minuta vožnje u Kotoru, Pomorski muzej prikazuje bogato pomorsko nasljeđe Crne Gore i istorijske obrazovne centre.",
+    "imgAlt1": "Tivatska obala i Porto Montenegro",
+    "imgAlt2": "Vezovi marine Porto Montenegro"
   },
   "tivatAirportBody": {
     "h1": "Iznajmljivanje Automobila na Aerodromu Tivat (TIV)",
@@ -467,7 +463,9 @@
     "whyLinkPre": "Za 30 minuta možete biti na",
     "whyLinkText": "plažama Budvanske rivijere",
     "whyLinkPost": ".",
-    "meetText": "Dočekujemo vas u hali za dolaske sa vašim imenom na tabli. Vaš automobil je parkiran odmah ispred. Ukupno vrijeme od slijetanja do vožnje: oko 10 minuta."
+    "meetText": "Dočekujemo vas u hali za dolaske sa vašim imenom na tabli. Vaš automobil je parkiran odmah ispred. Ukupno vrijeme od slijetanja do vožnje: oko 10 minuta.",
+    "imgAlt1": "Terminal aerodroma Tivat",
+    "imgAlt2": "Pogled iz vazduha na Bokokotorski zaliv"
   },
   "podgoricaBody": {
     "h1": "Podgorica -- Glavni Grad",
@@ -481,7 +479,9 @@
     "skadarText": "Potencijalno najljepše jezero u Evropi, smješteno na crnogorsko-albanskoj granici kao Nacionalni park. Dom milionima pelikana, to je najveće jezero na Balkanu i obavezna destinacija za ljubitelje prirode.",
     "danilovgradTitle": "Danilovgrad",
     "danilovgradText": "Slikovit riječni grad približno trideset minuta zapadno od Podgorice, koji nudi riječne plaže, vožnje čamcem, galerije i obližnji manastir Zdrebaonik.",
-    "zabljak": "Alpski grad u planinskom regionu Durmitora, na 1.500 metara nadmorske visine i 170 kilometara od Podgorice. Cjelogodišnja destinacija koja nudi skijanje zimi te planinarenje, rafting i brdski biciklizam ljeti."
+    "zabljak": "Alpski grad u planinskom regionu Durmitora, na 1.500 metara nadmorske visine i 170 kilometara od Podgorice. Cjelogodišnja destinacija koja nudi skijanje zimi te planinarenje, rafting i brdski biciklizam ljeti.",
+    "imgAlt1": "Podgorica Millennium Bridge",
+    "imgAlt2": "Terminal aerodroma Podgorica"
   },
   "podgoricaAirportBody": {
     "h1": "Iznajmljivanje Automobila na Aerodromu Podgorica (TGD)",
@@ -502,7 +502,8 @@
     "rentalText": "Dočekujemo vas u hali za dolaske i dovodimo automobil do vas. Bez redova, bez shuttle autobusa do udaljenih parkirališta. U roku od nekoliko minuta nakon prolaska carinske kontrole, bićete na putu prema vašoj destinaciji.",
     "rentalLinkPre": "Pogledajte naš",
     "rentalLinkText": "vodič za putovanje po Crnoj Gori",
-    "rentalLinkPost": "za planiranje rute."
+    "rentalLinkPost": "za planiranje rute.",
+    "imgAlt1": "Terminal aerodroma Podgorica"
   },
   "dubrovnikAirportBody": {
     "h1": "Iznajmljivanje Automobila na Aerodromu Dubrovnik (DBV)",
@@ -519,7 +520,9 @@
     "facilitiesText2": "Unutar aerodroma nalazi se mjenjačnica, banka i pošta. Takođe su dostupni mali restorani, kafići, bescarinska prodavnica i kiosk sa novinama.",
     "gettingTitle": "Kako Stići do Crne Gore",
     "gettingText1": "Javni prevoz je dostupan na aerodromu u vidu taksija ispred terminala, te autobuskih linija i shuttle prevoza. Za putnika koji se upućuju prema gradu Dubrovniku, obavezno uzmite autobuse koji idu do samog centra grada, umjesto onih koji staju u Cavtatu, kako biste izbjegli presjedanje.",
-    "gettingText2": "Vožnja od aerodroma Dubrovnik do crnogorske obale vodi vas duž jednog od najslikovitijih obalnih puteva u Evropi. U roku od dva sata proći ćete granicu i stići do Bokokotorskog zaliva, jednog od najdramatičnijih prilaza bilo kojoj destinaciji na Mediteranu."
+    "gettingText2": "Vožnja od aerodroma Dubrovnik do crnogorske obale vodi vas duž jednog od najslikovitijih obalnih puteva u Evropi. U roku od dva sata proći ćete granicu i stići do Bokokotorskog zaliva, jednog od najdramatičnijih prilaza bilo kojoj destinaciji na Mediteranu.",
+    "imgAlt1": "Zgrada terminala aerodroma Dubrovnik",
+    "imgAlt2": "Obalski put prema Crnoj Gori"
   },
   "montenegroBody": {
     "h1": "Istraživanje Crne Gore Automobilom",
@@ -554,7 +557,9 @@
     "borderTitle": "Granični Prelazi",
     "borderText": "Prekogranično putovanje je jednostavno sa ispravnom dokumentacijom. Kontrolni punktovi mogu doživjeti veliku gužvu tokom sezone, sa kilometarskim kolonama automobila uobičajenim na popularnim prelazima. Optimalna vremena za prelazak su radnim danima ujutru ili kasno uveče.",
     "nationTitle": "Mlada Nacija",
-    "nationText": "Crna Gora je stekla nezavisnost u junu 2006. godine, čineći je jednom od najmlađih nacija na svijetu. Razvoj turizma nastavlja da raste, nudeći egzotičniju i nešto grublju avanturu u poređenju sa susjednim zemljama. Pejzaž kombinuje zelene planine kroz koje se probijaju fjordovi puni duboke plave jadranske vode, raznolikost plaža i misterije drevnih starih gradova."
+    "nationText": "Crna Gora je stekla nezavisnost u junu 2006. godine, čineći je jednom od najmlađih nacija na svijetu. Razvoj turizma nastavlja da raste, nudeći egzotičniju i nešto grublju avanturu u poređenju sa susjednim zemljama. Pejzaž kombinuje zelene planine kroz koje se probijaju fjordovi puni duboke plave jadranske vode, raznolikost plaža i misterije drevnih starih gradova.",
+    "imgAlt1": "Obalski put u Crnoj Gori",
+    "imgAlt2": "Pogled na Bokokotorski zaliv"
   },
   "borderCrossingBody": {
     "h1": "Mogu Li Odvesti Iznajmljeni Auto Preko Granice?",
@@ -607,7 +612,9 @@
     "route2": "Kotor → Mostar (Bosna): 3-4 sata preko Trebinja. Posjetite čuveni most",
     "route3": "Budva → Skadar (Albanija): 2,5 sata preko obalnog prelaza kod Ulcinja",
     "route4": "Podgorica → Beograd (Srbija): 5-6 sati putem E65 na sjever",
-    "ctaText": "Trebate automobil sa prekograničnom dokumentacijom? Pretražite našu flotu, samo odaberite odredišne zemlje pri rezervaciji i mi ćemo urediti Zelenu kartu."
+    "ctaText": "Trebate automobil sa prekograničnom dokumentacijom? Pretražite našu flotu, samo odaberite odredišne zemlje pri rezervaciji i mi ćemo urediti Zelenu kartu.",
+    "imgAlt1": "Zidine tvrđave Dubrovnik",
+    "imgAlt2": "Most Stari Most u Mostaru"
   },
   "blogHome": {
     "sectionLabel": "Vodiči za putovanje",
@@ -854,7 +861,8 @@
     "packShoesLabel": "Obuća:",
     "packShoesVal": "Vodene cipele za šljunkovite plaže, patike za stepenice tvrđave u Kotoru.",
     "packSnackLabel": "Grickalice:",
-    "packSnackVal": "Voli supermarket blizu Porto Montenegra ima sve. Kupujte prije odlaska iz Tivta."
+    "packSnackVal": "Voli supermarket blizu Porto Montenegra ima sve. Kupujte prije odlaska iz Tivta.",
+    "altFamily": "Porodica na tivatskoj plaži"
   },
   "blogIsland": {
     "title": "Ostrvo cvijeća: Prevlaka i crkve Miholjske",
@@ -985,12 +993,72 @@
   },
   "contact": {
     "title": "Kontaktirajte nas",
-    "seoDesc": "Kontaktirajte Tivat Car Hire za rezervacije, preuzimanja u marini, ili vraćanja u Luštica.",
+    "seoDesc": "Pitanja o iznajmljivanju u Budvi? Poruka nam preko WhatsApp-a, email-a ili formulara ispod. Odgovori u roku od dva sata radnim danima, istog dana vikendom.",
     "heading": "Kontaktirajte nas",
-    "intro": "Imate pitanje o iznajmljivanju automobila u Tivtu? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje."
+    "intro": "Imate pitanje o iznajmljivanju automobila u Budvi? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje.",
+    "emailLabel": "E-pošta",
+    "whatsappLabel": "WhatsApp",
+    "chatCta": "Pišite nam",
+    "formHeading": "Pošaljite nam poruku",
+    "nameLabel": "Vaše ime",
+    "emailFieldLabel": "Vaš e-mail",
+    "messagePlaceholder": "Kako možemo pomoći?",
+    "sendButton": "Pošalji poruku",
+    "thanks": "Hvala što ste nam se javili, odgovorićemo u roku od nekoliko sati."
   },
   "cars": {
-    "readGuide": "Pročitaj vodič"
+    "readGuide": "Pročitaj vodič",
+    "renault-clio": {
+      "name": "Renault Clio",
+      "category": "Economy",
+      "tagline": "Marini prilagođen standardni izbor, kompaktan, štedljiv na gorivu, staje u kratke parking-mjesta Porto Montenegra"
+    },
+    "vw-polo": {
+      "name": "VW Polo",
+      "category": "Economy",
+      "tagline": "Solidan njemački kompakt koji izdrži red za trajekt Lepetane"
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "category": "Mid-Size",
+      "tagline": "Srednje klase dizel automatik, mirni krstaš za rute do Podgorice i Dubrovnika"
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "category": "Mid-Size",
+      "tagline": "Najveći prtljažnik u srednjoj klasi, standardno rješenje za plažnu opremu i porodične izlete"
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "category": "City",
+      "tagline": "Kompaktan kabriolet za sunčane dane, savršen za Lušticu i šetnje marinom"
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "category": "Mid-Size",
+      "tagline": "Razuman univerzalac sa DSG udobnošću za duge dionice u regionu"
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "category": "Economy",
+      "tagline": "Hibridni gradski auto savršen za stop-start gradsku vožnju u Tivtu"
+    },
+    "overviewTitle": "Ukratko",
+    "whoForTitle": "Za koga je ovaj automobil?",
+    "regionalTitle": "Najbolja regionalna upotreba",
+    "articleTitle": "Na crnogorskim putevima",
+    "sections": {
+      "behindWheel": "Iza volana",
+      "onRoads": "Na crnogorskim putevima",
+      "spaceLoad": "Prostor i prtljag",
+      "bestFor": "Najbolja putovanja za ovaj automobil",
+      "practical": "Praktične napomene",
+      "verdict": "Zaključak"
+    },
+    "featuresTitle": "Unutrašnjost",
+    "relatedTitle": "Kuda vas ovaj automobil vodi",
+    "checkAvailability": "Provjerite dostupnost i cijene uživo",
+    "nextBtn": "Sljedeći u floti"
   },
   "fleetShowcase": {
     "label": "Upoznajte svoj auto",
@@ -1012,6 +1080,126 @@
     "seoDesc": "Rent-a-car u Tivtu i marini Porto Montenegro, sedam vozila izabranih za parking u marini, obalne puteve Luštice i trajekt Lepetane–Kamenari.",
     "intro1": "Ova flota je podešena za ritam tivatske gradske sedmice, a ne za aerodromsko-dolaznu sedmicu. Većina naših gostiju se smjesti u stanu u Porto Montenegru ili vili u Donjoj Lastvi i želi auto dimenzioniran za marina-bokseve, obilježena mjesta na Pine Walku i usku obalnu rešetku iznad Glavnog trga u Tivtu. Sedam automobila ispod su oni koji stvarno rade: kompaktni Clio i Polo za trčanje u prodavnicu, Fiat 500 kada je parkiranje pravo ograničenje, hibridni Yaris za tihe jutra u marini, i 308 ili Megane kada luštički porodični dan ili trajektni prelazak u Dubrovnik traži veći prtljažnik.",
     "intro2": "Tivatska geografija nagrađuje pravu veličinu. Plativi lotovi Porto Montenegra koštaju 2–3 € po satu, a uži prvospratni boksovi u samom kompleksu odbijaju sve preko 4,1 metar bez dva pokušaja. Obalni put preko Donje Lastve do rampe trajekta Lepetane traje petnaest minuta, a sam trajekt prelazi Verige prema Kamenarima svakih petnaest minuta, prevoženje srednjeg dizela preko je udobno, mali ekonomski auto je savršeno u redu, a Fiat 500 je pravo zadovoljstvo. Ista geometrija se ponavlja na luštičkom putu prema Krašićima, Đuraševićima i plažama Plavi Horizont: cio put asfaltiran, ali dovoljno uzak da VW Golf plati rafiniranost mijenjanjem bokseva.",
-    "intro3": "Dva pravila pri preuzimanju. Prvo: aerodrom TIV je samo pet minuta i skoro sigurno ne morate dimenzionisati auto za aerodrom, već ste stigli. Birajte za Lušticu, Kotor i Dubrovnik umjesto toga. Drugo: razmišljajte o gorivu. Sedmica vožnje bazirane u Porto Montenegru plus jednodnevni izleti iznose oko 400 km; na Yaris Hybrid to je ispod 40 € u benzinu, na dizel 308 oko 45 €, na Fiat 500 oko 50. Svih sedam automobila ispod su jeftini za održavanje po evropskim standardima, ali izbor između njih na kraju se svodi na prtljažnik, vozačku poziciju i da li vam krov-otvor znači na luštičkom popodnevu."
+    "intro3": "Dva pravila pri preuzimanju. Prvo: aerodrom TIV je samo pet minuta i skoro sigurno ne morate dimenzionisati auto za aerodrom, već ste stigli. Birajte za Lušticu, Kotor i Dubrovnik umjesto toga. Drugo: razmišljajte o gorivu. Sedmica vožnje bazirane u Porto Montenegru plus jednodnevni izleti iznose oko 400 km; na Yaris Hybrid to je ispod 40 € u benzinu, na dizel 308 oko 45 €, na Fiat 500 oko 50. Svih sedam automobila ispod su jeftini za održavanje po evropskim standardima, ali izbor između njih na kraju se svodi na prtljažnik, vozačku poziciju i da li vam krov-otvor znači na luštičkom popodnevu.",
+    "ogImageAlt": "Flota za iznajmljivanje u Tivtu"
+  },
+  "locationsSection": {
+    "label": "Mjesta preuzimanja",
+    "title": "Gdje možete preuzeti?",
+    "subtitle": "Više lokacija širom Crne Gore za maksimalnu udobnost."
+  },
+  "aria": {
+    "whatsapp": "Razgovor na WhatsApp",
+    "scrollTop": "Pomjeri na vrh"
+  },
+  "carSpecs": {
+    "seats": "Seats",
+    "transmission": "Gearbox",
+    "fuel": "Fuel",
+    "luggage": "Luggage",
+    "bootSize": "Boot",
+    "mpg": "Economy"
+  },
+  "cookiePolicy": {
+    "lastUpdatedLabel": "Posljednje ažuriranje:",
+    "lastUpdatedDate": "April 2026.",
+    "h2Section1": "Šta su kolačići?",
+    "p1": "Kolačići su mali tekstualni fajlovi koji se čuvaju na vašem uređaju kada posjetite web sajt. Pomažu sajtu da zapamti vaša podešavanja i razumije kako ga koristite.",
+    "h2Section2": "Kolačići koje koristimo",
+    "h3Essential": "Neophodni kolačići",
+    "essentialIntro": "Oni su neophodni za funkcionisanje sajta. Ne mogu se isključiti.",
+    "sessionLabel": "Sesijski kolačići:",
+    "sessionText": "održavaju vašu sesiju pretraživanja dok se krećete kroz sajt",
+    "preferenceLabel": "Kolačići preferencija:",
+    "preferenceText": "pamte vaš odabir jezika i lokacije",
+    "h3ThirdParty": "Kolačići trećih strana",
+    "thirdPartyIntro": "Naš vidžet za rezervaciju iznajmljivanja vozila (pruža LocalRent) može postavljati kolačiće za:",
+    "thirdParty1": "Pamćenje vaših preferencija pretrage (datumi, lokacija)",
+    "thirdParty2": "Održavanje vaše sesije tokom procesa rezervacije",
+    "thirdParty3": "Praćenje partnerskih preporuka",
+    "thirdPartyOutro": "Ove kolačiće postavlja LocalRent i regulisani su njihovom politikom privatnosti.",
+    "h2Managing": "Upravljanje kolačićima",
+    "managingIntro": "Kolačiće možete kontrolisati kroz podešavanja pretraživača. Većina pretraživača vam omogućava da:",
+    "managing1": "Vidite koji su kolačići sačuvani",
+    "managing2": "Obrišete pojedinačne ili sve kolačiće",
+    "managing3": "Blokirate kolačiće sa određenih sajtova",
+    "managing4": "Blokirate sve kolačiće trećih strana",
+    "managingOutro": "Imajte na umu da blokiranje neophodnih kolačića može uticati na funkcionalnost vidžeta za rezervaciju.",
+    "h2Contact": "Kontakt",
+    "contactText": "Pitanja o našoj upotrebi kolačića? Kontaktirajte nas na info@tivatcarhire.com."
+  },
+  "privacyBody": {
+    "lastUpdatedLabel": "Posljednje ažuriranje:",
+    "lastUpdatedDate": "April 2026.",
+    "h2Who": "Ko smo mi",
+    "whoText": "Tivat Car Hire posluje kao nezavisni partnerski sajt koji povezuje putnike sa kompanijama za iznajmljivanje vozila u Budvi, Crna Gora. Naša web stranica se nalazi na adresi tivatcarhire.com. Kada koristite naš sajt, možemo prikupljati određene informacije kao što je opisano u nastavku.",
+    "h2Collect": "Koje informacije prikupljamo",
+    "h3YouProvide": "Informacije koje vi pružate",
+    "youProvideText": "Kada koristite našu formu za pretragu, prikupljamo lokaciju preuzimanja, datume i vremena koje unosite kako bismo pronašli dostupna vozila. Ove informacije prosljeđuju se našem partneru (LocalRent) za generisanje rezultata pretrage. Ne prikupljamo niti čuvamo podatke o plaćanju, sve uplate obrađuje direktno pružalac usluga iznajmljivanja.",
+    "h3Auto": "Informacije koje se prikupljaju automatski",
+    "usageLabel": "Podaci o korišćenju:",
+    "usageText": "posjećene stranice, vrijeme provedeno na sajtu, web stranica sa koje ste došli",
+    "deviceLabel": "Informacije o uređaju:",
+    "deviceText": "tip pretraživača, operativni sistem, rezolucija ekrana",
+    "ipLabel": "IP adresa:",
+    "ipText": "koristi se za približnu lokaciju i bezbjednosne svrhe",
+    "h2Use": "Kako koristimo vaše informacije",
+    "use1": "Da bismo vas povezali sa dostupnošću i cijenama iznajmljivanja vozila",
+    "use2": "Da bismo unaprijedili naš sajt i korisničko iskustvo",
+    "use3": "Da bismo razumjeli kako posjetioci koriste naš sajt (analitika)",
+    "use4": "Da bismo odgovorili na upite preko WhatsApp-a, Viber-a ili emaila",
+    "h2ThirdParty": "Usluge trećih strana",
+    "thirdPartyIntro": "Naš sajt koristi sljedeće usluge trećih strana:",
+    "localRentLabel": "LocalRent:",
+    "localRentText": "vidžet za rezervaciju iznajmljivanja vozila, obrađuje vaše upite za pretragu i upravlja svim rezervacijama i plaćanjima",
+    "vercelLabel": ":",
+    "vercelText": "hosting web sajta",
+    "pexelsLabel": ":",
+    "pexelsText": "stok fotografija",
+    "thirdPartyOutro": "Svaka od ovih usluga ima vlastitu politiku privatnosti koja reguliše kako rukuju podacima.",
+    "h2Cookies": "Kolačići",
+    "cookiesPre": "Koristimo minimalan broj kolačića neophodnih za funkcionisanje sajta. LocalRent vidžet za rezervaciju može postavljati svoje kolačiće za upravljanje sesijom i preferencijama. Pogledajte našu",
+    "cookiesLink": "Politiku kolačića",
+    "cookiesPost": "za detalje.",
+    "h2Rights": "Vaša prava",
+    "rightsIntro": "Imate pravo da:",
+    "right1": "Zatražite pristup svim ličnim podacima koje imamo o vama",
+    "right2": "Zatražite ispravku ili brisanje vaših podataka",
+    "right3": "Povučete saglasnost za obradu podataka",
+    "right4": "Podnesete žalbu organu za zaštitu podataka",
+    "h2Contact": "Kontakt",
+    "contactText": "Za sva pitanja u vezi sa privatnošću, kontaktirajte nas putem emaila na info@tivatcarhire.com."
+  },
+  "termsBody": {
+    "lastUpdatedLabel": "Posljednje ažuriranje:",
+    "lastUpdatedDate": "April 2026",
+    "h2About": "O ovoj veb stranici",
+    "pAbout": "Tivat Car Hire (tivatcarhire.com) je partnerska veb stranica koja povezuje putnike sa uslugama iznajmljivanja automobila u Budvi, Crna Gora. Nismo kompanija za iznajmljivanje automobila, sarađujemo sa LocalRent kako bismo obezbijedili dostupnost u realnom vremenu i usluge rezervacije.",
+    "h2Booking": "Uslovi rezervacije i iznajmljivanja",
+    "pBooking1": "Sve rezervacije iznajmljivanja automobila izvršene putem naše stranice obrađuje i ispunjava naš partner, LocalRent. Kada završite rezervaciju, sklapate ugovor o iznajmljivanju direktno sa pružaocem vozila, a ne sa Tivat Car Hire.",
+    "pBooking2": "Uslove iznajmljivanja, uključujući politike otkazivanja, osiguranje, starosne uslove i uslove plaćanja, postavlja pružalac vozila i prikazani su tokom procesa rezervacije. Preporučujemo da pažljivo pročitate ove uslove prije potvrde bilo kakve rezervacije.",
+    "h2Role": "Naša uloga",
+    "pRoleProvide": "Pružamo:",
+    "roleProvide1": "Pretraživač za pregled dostupnih vozila za iznajmljivanje",
+    "roleProvide2": "Informacije o destinacijama i putovanjima u Crnoj Gori",
+    "roleProvide3": "Korisničku podršku za upite prije rezervacije",
+    "pRoleNot": "Ne radimo:",
+    "roleNot1": "Posjedovanje, upravljanje ili održavanje vozila za iznajmljivanje",
+    "roleNot2": "Obradu plaćanja ili povraćaj sredstava",
+    "roleNot3": "Određivanje cijena, uslova osiguranja ili politika otkazivanja",
+    "h2Pricing": "Cijene",
+    "pPricing": "Cijene prikazane na našoj stranici daje naš partner za rezervacije u realnom vremenu i podložne su promjenama. Konačna cijena se potvrđuje u trenutku rezervacije. Sve cijene uključuju PDV i obavezno osiguranje, osim ako nije drugačije navedeno.",
+    "h2Content": "Sadržaj stranice",
+    "pContent": "Trudimo se da informacije na ovoj stranici budu tačne i ažurne. Međutim, informacije o putovanjima, propisi o vožnji i zahtjevi za prelazak granice mogu se mijenjati. Preporučujemo da provjerite ključne detalje (posebno dokumente za prelazak granice i pravila vožnje) kod zvaničnih izvora prije puta.",
+    "h2Liability": "Ograničenje odgovornosti",
+    "pLiabilityIntro": "Tivat Car Hire djeluje kao posrednik i nije odgovoran za:",
+    "liability1": "Stanje ili dostupnost vozila za iznajmljivanje",
+    "liability2": "Postupke ili propuste pružalaca iznajmljivanja",
+    "liability3": "Gubitke usljed problema sa prelaskom granice ili dokumentacijom",
+    "liability4": "Promjene cijena nakon potvrde rezervacije",
+    "h2IP": "Intelektualna svojina",
+    "pIP": "Sav sadržaj na ovoj stranici, uključujući tekst, dizajn i grafiku, vlasništvo je Tivat Car Hire osim ako nije drugačije navedeno. Stok fotografije se koriste pod licencom",
+    "h2Contact": "Kontakt",
+    "pContact": "Pitanja o ovim uslovima? Kontaktirajte nas na info@tivatcarhire.com."
   }
 }

@@ -102,7 +102,8 @@
   "book": {
     "title": "Trouvez Votre Voiture",
     "seoTitle": "Réserver une Voiture",
-    "seoDesc": "Voitures de location à Tivat à 40 mètres du tapis de retrait des arrivées TIV."
+    "seoDesc": "Voitures de location à Tivat à 40 mètres du tapis de retrait des arrivées TIV.",
+    "iframeTitle": "Réservation de location"
   },
   "footer": {
     "brandDesc": "Location de voitures à la marina de Tivat pour les arrivées TIV et les clients de Porto Montenegro. Du retrait des bagages à votre voiture en deux minutes, assurance et frais d'aéroport inclus.",
@@ -129,7 +130,8 @@
     "title": "Mauvais Virage",
     "text": "Cette route ne mène nulle part, mais la sortie de l'aéroport est à un clic de distance. Retournez et choisissez un itinéraire.",
     "backHome": "Retour à l'Accueil",
-    "searchCars": "Rechercher"
+    "searchCars": "Rechercher",
+    "metaTitle": "Page Not Found"
   },
   "home": {
     "seoDesc": "Location de voitures à Tivat face à l'aéroport. Marina Porto Montenegro à 1 km, Kotor à 8 km, Budva à 22 km, et la péninsule de Luštica à 20 minutes."
@@ -292,32 +294,16 @@
       "a": "Tivat est un aéroport à terminal unique. Après la récupération des bagages, sortez du terminal et traversez jusqu'au parking courte durée, environ 40 mètres. Notre agent vous y attend avec les clés et les documents. Durée totale du tapis bagages à la conduite : environ 10 minutes."
     },
     "5": {
-      "q": "Puis-je restituer le véhicule dans un lieu différent ?",
-      "a": "Oui. Les locations en aller simple sont disponibles dans plus de 28 villes du Monténégro. Prenez en charge à TIV et restituez à Budva, Kotor, Podgorica ou même à Dubrovnik. Sélectionnez des lieux de prise en charge et de restitution différents lors de la réservation."
-    },
-    "6": {
       "q": "Quelle est la politique d'annulation ?",
       "a": "Annulation gratuite jusqu'à 7 jours avant la date de début de location pour les véhicules standard, jusqu'à 30 jours pour les catégories premium et cabriolet. Des frais de traitement de paiement de 6 % s'appliquent à tous les remboursements."
     },
-    "7": {
+    "6": {
       "q": "Un dépôt de garantie est-il requis ?",
       "a": "Le montant du dépôt varie selon le groupe de véhicule, certaines voitures économiques ne nécessitent aucun dépôt. Lorsqu'un dépôt est requis, il doit être effectué sur une carte de crédit physique au nom du conducteur principal et est remboursé au retour du véhicule."
     },
-    "8": {
+    "7": {
       "q": "Où se trouve la station-service la plus proche de TIV ?",
       "a": "Une station Jugopetrol se trouve à 800 mètres de la sortie de l'aéroport sur la route principale vers la ville de Tivat, et une station Petrol à Radanovici sur la route de Budva. Les deux acceptent carte et espèces."
-    },
-    "9": {
-      "q": "Y a-t-il des frais cachés ?",
-      "a": "Non. Taxes, supplément aéroport, kit d'équipement, tout inclus. Le prix affiché au paiement est celui que vous réglez à la prise en charge. Aucun frais supplémentaire n'est ajouté au comptoir."
-    },
-    "10": {
-      "q": "Combien dois-je payer à l'avance ?",
-      "a": "Seulement 15 à 20 % du total est prélevé à la réservation pour sécuriser le véhicule. Le solde est réglé directement à l'agent de location à l'aéroport lors de la prise en charge."
-    },
-    "11": {
-      "q": "Puis-je louer sans carte de crédit ?",
-      "a": "Certains véhicules sont disponibles sans carte de crédit, ils sont clairement identifiés par un badge sans carte dans les résultats de recherche. Utilisez le filtre lors de votre recherche."
     }
   },
   "destCards": {
@@ -379,7 +365,9 @@
     "h4": "Connaissance locale",
     "p4": "Nous parcourons ces routes chaque jour. Nous savons que le tunnel de Vrmac ramène le trajet vers Kotor à 12 minutes, que le ferry Verige à l'embouchure de la baie fait gagner 45 minutes par rapport à la longue route de Herceg Novi, que la station Radanovici est la dernière avant la riviera de Budva, et que le parking Tabacina de Kotor est plein dès 10 heures en juillet. Posez nous toutes vos questions à la prise en charge, les conseils d'itinéraire sont gratuits et illimités.",
     "h5": "Contactez-nous",
-    "p5": "Des questions avant de décoller? WhatsApp, Viber ou téléphone, nous répondons en quelques minutes pendant les heures d'ouverture. Parcourez la flotte en ligne, bloquez un tarif, et votre voiture vous attendra sur le parking TIV dès que votre vol atterrira."
+    "p5": "Des questions avant de décoller? WhatsApp, Viber ou téléphone, nous répondons en quelques minutes pendant les heures d'ouverture. Parcourez la flotte en ligne, bloquez un tarif, et votre voiture vous attendra sur le parking TIV dès que votre vol atterrira.",
+    "imgAlt1": "Bâtiment du terminal de l aéroport de Tivat",
+    "imgAlt2": "Baie de Kotor depuis la route"
   },
   "kotorBody": {
     "h1": "Kotor, Site du patrimoine mondial de l'UNESCO",
@@ -396,7 +384,9 @@
     "perastLinkText": "front de mer baroque de Perast en 20 minutes",
     "perastLinkPost": ".",
     "cetinjeTrip": "Construit en 1701, le monastère abrite la main de Jean-Baptiste. Il présente une décoration ornée et de l'art orthodoxe. Le trajet en voiture depuis Kotor prend environ une heure à travers des routes de montagne pittoresques.",
-    "royalCourtText": "Le palais royal du Monténégro datant de 1871, exposant des œuvres d'art, des objets et des photographies de l'histoire royale du pays. Situé à côté du monastère dans l'ancienne capitale royale."
+    "royalCourtText": "Le palais royal du Monténégro datant de 1871, exposant des œuvres d'art, des objets et des photographies de l'histoire royale du pays. Situé à côté du monastère dans l'ancienne capitale royale.",
+    "imgAlt1": "Murs de la vieille ville de Kotor et la baie",
+    "imgAlt2": "Rues de la vieille ville de Kotor"
   },
   "budvaBody": {
     "h1": "Budva, Le cœur de la Riviera monténégrine",
@@ -418,7 +408,9 @@
     "kotorLinkPost": "est à 25 minutes de route au nord.",
     "lovcenTrip": "Dirigez-vous vers l'intérieur des terres pour découvrir les paysages de montagne et le mausolée de Njegos, perché à 1 657 mètres d'altitude avec une vue sur quatre pays par temps clair. La route sinueuse depuis la côte est une expérience en soi.",
     "gettingAroundTitle": "Se déplacer",
-    "gettingAroundText": "Bien que la vieille ville de Budva se découvre idéalement à pied, une voiture de location est indispensable pour atteindre les meilleures plages, les villages voisins et les attractions de l'intérieur des terres. Des parkings sont disponibles près des remparts de la vieille ville et dans plusieurs parkings publics le long de la route principale. En plein été, arriver tôt permet de s'assurer les meilleures places."
+    "gettingAroundText": "Bien que la vieille ville de Budva se découvre idéalement à pied, une voiture de location est indispensable pour atteindre les meilleures plages, les villages voisins et les attractions de l'intérieur des terres. Des parkings sont disponibles près des remparts de la vieille ville et dans plusieurs parkings publics le long de la route principale. En plein été, arriver tôt permet de s'assurer les meilleures places.",
+    "imgAlt1": "Littoral de la Riviera de Budva",
+    "imgAlt2": "Vue sur le littoral de Budva"
   },
   "perastBody": {
     "h1": "Perast, Joyau caché de la baie",
@@ -432,7 +424,9 @@
     "historicTitle": "Sites historiques",
     "historicText": "La ville compte de nombreux palais, cathédrales et plusieurs tours de guet qui protégeaient autrefois la cité. Pour ceux qui souhaitent découvrir l'histoire de Perast en détail, le musée de Perast contient de nombreux objets, archives, peintures, sculptures et documents municipaux. Le musée est installé dans l'ancien Palata Buiovich, que beaucoup considèrent comme le plus beau bâtiment de la côte monténégrine.",
     "monasteryTitle": "Monastère de Banja",
-    "monasteryText": "Situé juste au nord de Perast sur la route de Risan, le monastère de Banja abrite de nombreuses pièces religieuses anciennes provenant des dynasties russes, grecques et de Boka. Pour atteindre le monastère, continuez vers le nord sur la E65/E80 sur quelques kilomètres seulement."
+    "monasteryText": "Situé juste au nord de Perast sur la route de Risan, le monastère de Banja abrite de nombreuses pièces religieuses anciennes provenant des dynasties russes, grecques et de Boka. Pour atteindre le monastère, continuez vers le nord sur la E65/E80 sur quelques kilomètres seulement.",
+    "imgAlt1": "Front de mer de Perast et îles de la baie",
+    "imgAlt2": "Baie de Kotor depuis la route"
   },
   "tivatBody": {
     "h1": "Tivat, Ville de la marina",
@@ -449,7 +443,9 @@
     "monasteryText": "Ruines du Xe siècle situées sur la presqu'île de Prevlaka, avec des travaux archéologiques en cours révélant l'histoire ancienne du site.",
     "churchTitle": "Église de Sveti Antun Padovanski",
     "churchText": "Construite en 1734, cette église renferme des peintures et objets religieux, avec de belles vues sur la baie.",
-    "museumText": "À seulement 10 minutes en voiture à Kotor, le musée maritime expose le riche patrimoine maritime du Monténégro et ses centres d'apprentissage historique."
+    "museumText": "À seulement 10 minutes en voiture à Kotor, le musée maritime expose le riche patrimoine maritime du Monténégro et ses centres d'apprentissage historique.",
+    "imgAlt1": "Front de mer de Tivat et Porto Montenegro",
+    "imgAlt2": "Postes d amarrage de la marina Porto Montenegro"
   },
   "tivatAirportBody": {
     "h1": "Location de voiture à l'aéroport de Tivat (TIV)",
@@ -467,7 +463,9 @@
     "whyLinkPre": "En 30 minutes, vous pouvez être aux",
     "whyLinkText": "plages de la riviera de Budva",
     "whyLinkPost": ".",
-    "meetText": "Nous vous accueillons dans le hall des arrivées avec votre nom sur un panneau. Votre voiture est garée juste devant. Temps total entre l'atterrissage et la prise de la route : environ 10 minutes."
+    "meetText": "Nous vous accueillons dans le hall des arrivées avec votre nom sur un panneau. Votre voiture est garée juste devant. Temps total entre l'atterrissage et la prise de la route : environ 10 minutes.",
+    "imgAlt1": "Terminal de l aéroport de Tivat",
+    "imgAlt2": "Vue aérienne de la baie de Kotor"
   },
   "podgoricaBody": {
     "h1": "Podgorica, La capitale",
@@ -481,7 +479,9 @@
     "skadarText": "Potentiellement le plus beau lac d'Europe, situé à la frontière entre le Monténégro et l'Albanie en tant que parc national. Abritant des millions de pélicans, c'est le plus grand lac des Balkans et une visite incontournable pour les amoureux de la nature.",
     "danilovgradTitle": "Danilovgrad",
     "danilovgradText": "Une ville fluviale pittoresque à environ trente minutes à l'ouest de Podgorica, proposant des plages au bord de la rivière, des promenades en bateau, des galeries et le monastère de Zdrebaonik à proximité.",
-    "zabljak": "Une ville alpine dans la région montagneuse du Durmitor, perchée à 1 500 mètres d'altitude et à 170 kilomètres de Podgorica. Une destination toute l'année offrant le ski en hiver et la randonnée, le rafting et le VTT en été."
+    "zabljak": "Une ville alpine dans la région montagneuse du Durmitor, perchée à 1 500 mètres d'altitude et à 170 kilomètres de Podgorica. Une destination toute l'année offrant le ski en hiver et la randonnée, le rafting et le VTT en été.",
+    "imgAlt1": "Podgorica Millennium Bridge",
+    "imgAlt2": "Terminal de l aéroport de Podgorica"
   },
   "podgoricaAirportBody": {
     "h1": "Location de voiture à l'aéroport de Podgorica (TGD)",
@@ -502,7 +502,8 @@
     "rentalText": "Nous vous accueillons dans le hall des arrivées et amenons la voiture jusqu'à vous. Pas de files d'attente, pas de navettes vers des parkings extérieurs. Quelques minutes après avoir passé la douane, vous serez sur la route en direction de votre destination.",
     "rentalLinkPre": "Consultez notre",
     "rentalLinkText": "guide de voyage au Monténégro",
-    "rentalLinkPost": "pour la planification de l'itinéraire."
+    "rentalLinkPost": "pour la planification de l'itinéraire.",
+    "imgAlt1": "Terminal de l aéroport de Podgorica"
   },
   "dubrovnikAirportBody": {
     "h1": "Louer une voiture à l'aéroport de Dubrovnik (DBV)",
@@ -519,7 +520,9 @@
     "facilitiesText2": "À l'intérieur de l'aéroport, on trouve un bureau de change, une banque et un bureau de poste. De petits restaurants, des cafés, une boutique hors taxes et un kiosque à journaux sont également disponibles.",
     "gettingTitle": "Se rendre au Monténégro",
     "gettingText1": "Les transports en commun sont disponibles à l'aéroport sous la forme de taxis situés devant le terminal, ainsi que des services de bus et de navettes. Pour les voyageurs se rendant dans la ville de Dubrovnik, assurez-vous de prendre les bus qui vont jusqu'au centre-ville plutôt que ceux qui s'arrêtent à Cavtat, pour vous éviter une correspondance.",
-    "gettingText2": "Le trajet de l'aéroport de Dubrovnik à la côte monténégrine vous emmène le long de l'une des plus belles routes côtières d'Europe. En moins de deux heures, vous passerez la frontière et arriverez à la baie de Kotor, l'une des approches les plus spectaculaires de toute destination en Méditerranée."
+    "gettingText2": "Le trajet de l'aéroport de Dubrovnik à la côte monténégrine vous emmène le long de l'une des plus belles routes côtières d'Europe. En moins de deux heures, vous passerez la frontière et arriverez à la baie de Kotor, l'une des approches les plus spectaculaires de toute destination en Méditerranée.",
+    "imgAlt1": "Bâtiment du terminal de l aéroport de Dubrovnik",
+    "imgAlt2": "Route côtière vers le Monténégro"
   },
   "montenegroBody": {
     "h1": "Explorer le Monténégro en voiture",
@@ -554,7 +557,9 @@
     "borderTitle": "Passages de frontière",
     "borderText": "Les voyages transfrontaliers sont simples avec les bons documents. Les postes de contrôle peuvent connaître de fortes congestions en haute saison, avec des files de voitures longues d'un kilomètre aux passages les plus fréquentés. Les meilleurs moments pour traverser sont les matinées en semaine ou tard le soir.",
     "nationTitle": "Une jeune nation",
-    "nationText": "Le Monténégro a acquis son indépendance en juin 2006, ce qui en fait l'une des plus jeunes nations du monde. Le développement du tourisme continue de croître, offrant une aventure plus exotique et légèrement plus sauvage par rapport aux pays voisins. Le paysage combine des montagnes verdoyantes traversées par des fjords remplis des eaux bleu profond de l'Adriatique, une variété de plages et les mystères des vieilles villes anciennes."
+    "nationText": "Le Monténégro a acquis son indépendance en juin 2006, ce qui en fait l'une des plus jeunes nations du monde. Le développement du tourisme continue de croître, offrant une aventure plus exotique et légèrement plus sauvage par rapport aux pays voisins. Le paysage combine des montagnes verdoyantes traversées par des fjords remplis des eaux bleu profond de l'Adriatique, une variété de plages et les mystères des vieilles villes anciennes.",
+    "imgAlt1": "Route côtière au Monténégro",
+    "imgAlt2": "Vue sur la baie de Kotor"
   },
   "borderCrossingBody": {
     "h1": "Puis-je emmener ma voiture de location au-delà des frontières ?",
@@ -607,7 +612,9 @@
     "route2": "Kotor → Mostar (Bosnie) : 3-4 heures via Trebinje. Visitez le célèbre pont",
     "route3": "Budva → Shkodër (Albanie) : 2h30 via le passage côtier d'Ulcinj",
     "route4": "Podgorica → Belgrade (Serbie) : 5-6 heures via la E65 nord",
-    "ctaText": "Besoin d'une voiture avec les documents transfrontaliers prêts ? Consultez notre flotte, sélectionnez simplement vos pays de destination lors de la réservation et nous nous occupons de la Carte Verte."
+    "ctaText": "Besoin d'une voiture avec les documents transfrontaliers prêts ? Consultez notre flotte, sélectionnez simplement vos pays de destination lors de la réservation et nous nous occupons de la Carte Verte.",
+    "imgAlt1": "Murs de la forteresse de Dubrovnik",
+    "imgAlt2": "Pont Stari Most à Mostar"
   },
   "blogHome": {
     "sectionLabel": "Guides de Voyage",
@@ -669,7 +676,7 @@
     "phoneP": "Le Montenegro utilise l'euro, donc les distributeurs a l'aeroport delivrent des euros directement. Il y a deux distributeurs dans le terminal, un pres des arrivees et un a l'etage dans les departs. Les deux acceptent les cartes Visa et Mastercard internationales. Pour une SIM locale, la boutique Telenor sur Ulica 21 Novembra dans le centre de Tivat ouvre a 8h et vend des forfaits touristiques prepayes. Si vous arrivez par un vol tardif, le supermarche Voli pres de Porto Montenegro vend des kits SIM Telenor de base en caisse.",
     "glanceTitle": "En Bref",
     "glanceWalk": "Terminal a la voiture :",
-    "glanceWalkVal": "40 metres, 2 minutes",
+    "glanceWalkVal": "40 mètres, 2 minutes",
     "glanceFuel": "Station la plus proche :",
     "glanceFuelVal": "Jugopetrol, 800 m a droite de la sortie de l'aeroport",
     "glanceSim": "Carte SIM :",
@@ -854,7 +861,8 @@
     "packShoesLabel": "Chaussures :",
     "packShoesVal": "Chaussures aquatiques pour les plages de galets, baskets pour les marches de la forteresse de Kotor.",
     "packSnackLabel": "En-cas :",
-    "packSnackVal": "Le supermarche Voli pres de Porto Montenegro a tout. Faites vos courses avant de quitter Tivat."
+    "packSnackVal": "Le supermarche Voli pres de Porto Montenegro a tout. Faites vos courses avant de quitter Tivat.",
+    "altFamily": "Famille sur la plage de Tivat"
   },
   "blogIsland": {
     "title": "L'ile aux Fleurs : Prevlaka et les eglises de Miholjska",
@@ -984,13 +992,73 @@
     "decline": "Refuser"
   },
   "contact": {
-    "title": "Nous Contacter",
-    "seoDesc": "Contactez Tivat Car Hire pour les réservations, les retraits à la marina, ou les restitutions à Luštica.",
+    "title": "Nous contacter",
+    "seoDesc": "Des questions sur la location à Tivat ? Contactez-nous sur WhatsApp, par email ou via le formulaire ci-dessous.",
     "heading": "Nous contacter",
-    "intro": "Une question sur la location de voiture à Tivat ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour."
+    "intro": "Une question sur la location de voiture à Tivat ? Contactez-nous, nous vous aiderons à trouver le véhicule idéal pour votre séjour.",
+    "emailLabel": "E-mail",
+    "whatsappLabel": "WhatsApp",
+    "chatCta": "Discutez avec nous",
+    "formHeading": "Envoyez-nous un message",
+    "nameLabel": "Votre nom",
+    "emailFieldLabel": "Votre e-mail",
+    "messagePlaceholder": "Comment pouvons-nous aider?",
+    "sendButton": "Envoyer le message",
+    "thanks": "Merci de nous avoir contactés, nous répondrons dans quelques heures."
   },
   "cars": {
-    "readGuide": "Lire le guide"
+    "readGuide": "Lire le guide",
+    "renault-clio": {
+      "name": "Renault Clio",
+      "category": "Economy",
+      "tagline": "Le choix par défaut adapté à la marina, compact, économe, se gare dans les places courtes de Porto Montenegro"
+    },
+    "vw-polo": {
+      "name": "VW Polo",
+      "category": "Economy",
+      "tagline": "Compacte allemande solide qui supporte la file d attente du ferry de Lepetane"
+    },
+    "peugeot-308": {
+      "name": "Peugeot 308",
+      "category": "Mid-Size",
+      "tagline": "Berline diesel automatique, le cruiser calme pour les trajets vers Podgorica et Dubrovnik"
+    },
+    "renault-megane": {
+      "name": "Renault Megane",
+      "category": "Mid-Size",
+      "tagline": "Le plus grand coffre de la classe intermédiaire, le choix par défaut pour le matériel de plage et les sorties en famille"
+    },
+    "fiat-500": {
+      "name": "Fiat 500",
+      "category": "City",
+      "tagline": "Cabriolet compact pour les journées ensoleillées, parfait pour la boucle de Lustica et les balades à la marina"
+    },
+    "vw-golf": {
+      "name": "VW Golf",
+      "category": "Mid-Size",
+      "tagline": "Polyvalente raisonnable avec confort DSG pour les longs trajets régionaux"
+    },
+    "toyota-yaris": {
+      "name": "Toyota Yaris",
+      "category": "Economy",
+      "tagline": "Citadine hybride taillée pour la géographie Stop-Start de Tivat"
+    },
+    "overviewTitle": "En un coup d’œil",
+    "whoForTitle": "À qui est destinée cette voiture ?",
+    "regionalTitle": "Meilleur usage régional",
+    "articleTitle": "Sur les routes du Monténégro",
+    "sections": {
+      "behindWheel": "Au volant",
+      "onRoads": "Sur les routes du Monténégro",
+      "spaceLoad": "Espace et chargement",
+      "bestFor": "Les meilleurs trajets pour cette voiture",
+      "practical": "Notes pratiques",
+      "verdict": "Le verdict"
+    },
+    "featuresTitle": "À l’intérieur",
+    "relatedTitle": "Où cette voiture vous emmène",
+    "checkAvailability": "Vérifier la disponibilité et les tarifs en direct",
+    "nextBtn": "Suivant dans la flotte"
   },
   "fleetShowcase": {
     "label": "Connaissez votre voiture",
@@ -1012,6 +1080,126 @@
     "seoDesc": "Voitures de location à Tivat et à la marina Porto Montenegro, sept véhicules choisis pour les places de marina, les routes côtières de Luštica et le bac Lepetane–Kamenari.",
     "intro1": "Cette flotte est calibrée pour le rythme d’un séjour à Tivat-même, pas pour une semaine d’arrivée à l’aéroport. La plupart de nos clients s’installent dans un appartement à Porto Montenegro ou une villa à Donja Lastva et veulent une voiture dimensionnée pour les places de marina, les emplacements horodatés de Pine Walk et la grille côtière étroite au-dessus de la Place Principale de Tivat. Les sept voitures ci-dessous sont celles qui fonctionnent vraiment : une Clio et une Polo compactes pour les courses, une Fiat 500 quand le stationnement est la vraie contrainte, une Yaris hybride pour les matinées silencieuses à la marina, et une 308 ou une Megane quand la journée en famille à Luštica ou la traversée en ferry vers Dubrovnik demande plus de coffre.",
     "intro2": "La géographie de Tivat récompense le bon calibrage. Les parkings payants de Porto Montenegro coûtent 2–3 € de l’heure, et les places plus serrées au rez-de-chaussée du complexe rejettent tout ce qui dépasse 4,1 m sans deux manœuvres. La route côtière par Donja Lastva jusqu’à la rampe du bac de Lepetane prend quinze minutes, et le bac lui-même traverse le détroit de Verige vers Kamenari tous les quarts d’heure : y emmener une moyenne diesel est confortable, une petite économique est parfaitement bien, et une Fiat 500 y est franchement charmante. La même géométrie se répète sur la route de Luštica vers Krašići, Đurašević et les plages de Plavi Horizonti : goudronnée de bout en bout, mais assez étroite pour qu’une VW Golf paie son raffinement en changements de place.",
-    "intro3": "Deux règles au retrait. Un : l’aéroport TIV n’est qu’à cinq minutes et vous n’avez presque certainement pas besoin de dimensionner la voiture pour l’aéroport, vous êtes déjà arrivé. Choisissez pour Luštica, Kotor et Dubrovnik à la place. Deux : pensez au carburant. Une semaine à base marina de Porto Montenegro plus excursions fait environ 400 km ; sur une Yaris Hybride cela fait moins de 40 € d’essence, sur une 308 diesel environ 45 €, sur la Fiat 500 une cinquantaine. Les sept voitures ci-dessous sont économiques selon les standards européens ; le choix se joue finalement sur le coffre, la position de conduite et l’utilité d’un toit ouvrant un après-midi à Luštica."
+    "intro3": "Deux règles au retrait. Un : l’aéroport TIV n’est qu’à cinq minutes et vous n’avez presque certainement pas besoin de dimensionner la voiture pour l’aéroport, vous êtes déjà arrivé. Choisissez pour Luštica, Kotor et Dubrovnik à la place. Deux : pensez au carburant. Une semaine à base marina de Porto Montenegro plus excursions fait environ 400 km ; sur une Yaris Hybride cela fait moins de 40 € d’essence, sur une 308 diesel environ 45 €, sur la Fiat 500 une cinquantaine. Les sept voitures ci-dessous sont économiques selon les standards européens ; le choix se joue finalement sur le coffre, la position de conduite et l’utilité d’un toit ouvrant un après-midi à Luštica.",
+    "ogImageAlt": "Flotte de location à Tivat"
+  },
+  "locationsSection": {
+    "label": "Points de retrait",
+    "title": "Où pouvez-vous retirer ?",
+    "subtitle": "Plusieurs points de retrait à travers le Monténégro pour un maximum de commodité."
+  },
+  "aria": {
+    "whatsapp": "Discuter sur WhatsApp",
+    "scrollTop": "Faire défiler vers le haut"
+  },
+  "carSpecs": {
+    "seats": "Seats",
+    "transmission": "Gearbox",
+    "fuel": "Fuel",
+    "luggage": "Luggage",
+    "bootSize": "Boot",
+    "mpg": "Economy"
+  },
+  "cookiePolicy": {
+    "lastUpdatedLabel": "Dernière mise à jour :",
+    "lastUpdatedDate": "Avril 2026",
+    "h2Section1": "Que sont les cookies ?",
+    "p1": "Les cookies sont de petits fichiers texte stockés sur votre appareil lorsque vous visitez un site Web. Ils aident le site à mémoriser vos préférences et à comprendre comment vous l'utilisez.",
+    "h2Section2": "Cookies que nous utilisons",
+    "h3Essential": "Cookies essentiels",
+    "essentialIntro": "Ils sont nécessaires au fonctionnement du site. Ils ne peuvent pas être désactivés.",
+    "sessionLabel": "Cookies de session :",
+    "sessionText": "maintiennent votre session de navigation pendant que vous parcourez le site",
+    "preferenceLabel": "Cookies de préférences :",
+    "preferenceText": "mémorisent vos sélections de langue et de localisation",
+    "h3ThirdParty": "Cookies tiers",
+    "thirdPartyIntro": "Notre widget de réservation de location de voitures (fourni par LocalRent) peut placer des cookies pour :",
+    "thirdParty1": "Mémoriser vos préférences de recherche (dates, lieu)",
+    "thirdParty2": "Maintenir votre session pendant le processus de réservation",
+    "thirdParty3": "Suivre les références d'affiliation",
+    "thirdPartyOutro": "Ces cookies sont placés par LocalRent et sont régis par sa politique de confidentialité.",
+    "h2Managing": "Gestion des cookies",
+    "managingIntro": "Vous pouvez contrôler les cookies via les paramètres de votre navigateur. La plupart des navigateurs vous permettent de :",
+    "managing1": "Voir les cookies stockés",
+    "managing2": "Supprimer tout ou partie des cookies",
+    "managing3": "Bloquer les cookies de sites spécifiques",
+    "managing4": "Bloquer tous les cookies tiers",
+    "managingOutro": "Notez que le blocage des cookies essentiels peut affecter le fonctionnement du widget de réservation.",
+    "h2Contact": "Contact",
+    "contactText": "Des questions sur notre utilisation des cookies ? Contactez-nous à info@tivatcarhire.com."
+  },
+  "privacyBody": {
+    "lastUpdatedLabel": "Dernière mise à jour :",
+    "lastUpdatedDate": "Avril 2026",
+    "h2Who": "Qui nous sommes",
+    "whoText": "Tivat Car Hire est un partenaire affilié indépendant qui met en relation les voyageurs avec des loueurs de voitures à Tivat, au Monténégro. Notre site Web se trouve à l'adresse tivatcarhire.com. Lorsque vous utilisez notre site, nous pouvons collecter certaines informations comme décrit ci-dessous.",
+    "h2Collect": "Quelles informations nous collectons",
+    "h3YouProvide": "Informations que vous fournissez",
+    "youProvideText": "Lorsque vous utilisez notre formulaire de recherche, nous collectons le lieu de prise en charge, les dates et les heures que vous saisissez afin de trouver les véhicules disponibles. Ces informations sont transmises à notre partenaire (LocalRent) pour générer les résultats de recherche. Nous ne collectons ni ne stockons de détails de paiement, tous les paiements sont traités directement par le loueur.",
+    "h3Auto": "Informations collectées automatiquement",
+    "usageLabel": "Données d'utilisation :",
+    "usageText": "pages visitées, temps passé sur le site, site Web référent",
+    "deviceLabel": "Informations sur l'appareil :",
+    "deviceText": "type de navigateur, système d'exploitation, résolution d'écran",
+    "ipLabel": "Adresse IP :",
+    "ipText": "utilisée pour la localisation approximative et à des fins de sécurité",
+    "h2Use": "Comment nous utilisons vos informations",
+    "use1": "Pour vous mettre en relation avec la disponibilité et les tarifs des locations",
+    "use2": "Pour améliorer notre site et l'expérience utilisateur",
+    "use3": "Pour comprendre comment les visiteurs utilisent notre site (analyse)",
+    "use4": "Pour répondre aux demandes via WhatsApp, Viber ou e-mail",
+    "h2ThirdParty": "Services tiers",
+    "thirdPartyIntro": "Notre site utilise les services tiers suivants :",
+    "localRentLabel": "LocalRent :",
+    "localRentText": "widget de réservation de location de voitures, traite vos requêtes de recherche et gère toutes les réservations et paiements",
+    "vercelLabel": ":",
+    "vercelText": "hébergement de site Web",
+    "pexelsLabel": ":",
+    "pexelsText": "photographie de stock",
+    "thirdPartyOutro": "Chacun de ces services a sa propre politique de confidentialité régissant sa gestion des données.",
+    "h2Cookies": "Cookies",
+    "cookiesPre": "Nous utilisons un minimum de cookies nécessaires au fonctionnement du site. Le widget de réservation LocalRent peut placer ses propres cookies pour la gestion de session et les préférences. Consultez notre",
+    "cookiesLink": "Politique de cookies",
+    "cookiesPost": "pour plus de détails.",
+    "h2Rights": "Vos droits",
+    "rightsIntro": "Vous avez le droit de :",
+    "right1": "Demander l'accès à toutes les données personnelles que nous détenons sur vous",
+    "right2": "Demander la correction ou la suppression de vos données",
+    "right3": "Retirer votre consentement au traitement des données",
+    "right4": "Déposer une plainte auprès d'une autorité de protection des données",
+    "h2Contact": "Contact",
+    "contactText": "Pour toute question relative à la confidentialité, contactez-nous par e-mail à info@tivatcarhire.com."
+  },
+  "termsBody": {
+    "lastUpdatedLabel": "Dernière mise à jour :",
+    "lastUpdatedDate": "Avril 2026",
+    "h2About": "À propos de ce site",
+    "pAbout": "Tivat Car Hire (tivatcarhire.com) est un site affilié qui met en relation les voyageurs avec des services de location de voitures à Tivat, au Monténégro. Nous ne sommes pas une société de location de voitures, nous travaillons en partenariat avec LocalRent pour offrir une disponibilité en temps réel et des services de réservation.",
+    "h2Booking": "Conditions de réservation et de location",
+    "pBooking1": "Toutes les réservations de location de voitures effectuées via notre site sont traitées et exécutées par notre partenaire, LocalRent. Lorsque vous finalisez une réservation, vous concluez un contrat de location directement avec le fournisseur du véhicule, et non avec Tivat Car Hire.",
+    "pBooking2": "Les conditions de location, y compris les politiques d'annulation, la couverture d'assurance, les exigences d'âge et les conditions de paiement, sont fixées par le fournisseur du véhicule et affichées pendant le processus de réservation. Nous vous recommandons de lire attentivement ces conditions avant de confirmer toute réservation.",
+    "h2Role": "Notre rôle",
+    "pRoleProvide": "Nous fournissons :",
+    "roleProvide1": "Une interface de recherche pour parcourir les véhicules de location disponibles",
+    "roleProvide2": "Des informations sur les destinations et les voyages au Monténégro",
+    "roleProvide3": "Un service client pour les demandes avant réservation",
+    "pRoleNot": "Nous ne faisons pas :",
+    "roleNot1": "Posséder, exploiter ou entretenir des véhicules de location",
+    "roleNot2": "Traiter les paiements ni gérer les remboursements",
+    "roleNot3": "Fixer les prix de location, les conditions d'assurance ou les politiques d'annulation",
+    "h2Pricing": "Tarification",
+    "pPricing": "Les prix affichés sur notre site sont fournis en temps réel par notre partenaire de réservation et peuvent changer. Le prix final est confirmé au moment de la réservation. Tous les prix incluent la TVA et l'assurance obligatoire, sauf indication contraire.",
+    "h2Content": "Contenu du site",
+    "pContent": "Nous mettons tout en œuvre pour que les informations de ce site soient exactes et à jour. Cependant, les informations de voyage, les réglementations routières et les exigences de passage des frontières peuvent changer. Nous recommandons de vérifier les détails essentiels (en particulier les documents de passage des frontières et le code de la route) auprès de sources officielles avant votre voyage.",
+    "h2Liability": "Limitation de responsabilité",
+    "pLiabilityIntro": "Tivat Car Hire agit en tant qu'intermédiaire et n'est pas responsable de :",
+    "liability1": "L'état ou la disponibilité des véhicules de location",
+    "liability2": "Actions ou omissions des fournisseurs de location",
+    "liability3": "Pertes liées à des problèmes de passage de frontière ou de documentation",
+    "liability4": "Changements de prix après confirmation de la réservation",
+    "h2IP": "Propriété intellectuelle",
+    "pIP": "Tout le contenu de ce site, y compris le texte, le design et les graphiques, appartient à Tivat Car Hire sauf mention contraire. Les photos d'archives sont utilisées sous licence",
+    "h2Contact": "Contact",
+    "pContact": "Des questions sur ces conditions ? Contactez-nous à info@tivatcarhire.com."
   }
 }

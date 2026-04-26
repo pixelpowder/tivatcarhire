@@ -1,7 +1,8 @@
 import NotFound from '@/src/components/pages/NotFound';
+import { t } from './metadata';
 
 export const metadata = {
-  title: 'Page Not Found | Tivat Car Hire',
+  title: `${t('en', 'notFound.metaTitle') !== 'notFound.metaTitle' ? t('en', 'notFound.metaTitle') : 'Page Not Found'} | Tivat Car Hire`,
 };
 
 export default function NotFoundPage() {

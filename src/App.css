@@ -635,7 +635,7 @@
 /* Mobile: background-image for hero */
 @media (max-width: 768px) {
   .hero-wrapper__bg {
-    background-image: url('/img/hero-tivat.webp');
+    background-image: var(--hero-image);
     background-size: cover;
     background-position: center 30%;
   }

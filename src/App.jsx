@@ -248,7 +248,7 @@ function Hero() {
             <div className="booking-card__fields">
               <LocationField value={pickup} onChange={setPickup} />
               <div className="booking-field booking-field--dates">
-                <label>{t('hero.pickupDate')} — {t('hero.dropoffDate')}</label>
+                <label>{t('hero.pickupDate')} - {t('hero.dropoffDate')}</label>
                 <DatePicker
                   selectsRange
                   startDate={startDate}
@@ -627,13 +627,14 @@ function Reviews() {
 
 /* ─── LOCATIONS ────────────────────────────────────────── */
 function Locations() {
+  const { t } = useTranslation();
   return (
     <section className="section" id="locations">
       <div className="container">
         <div className="section-header">
-          <span className="section-label">Pickup Points</span>
-          <h2 className="section-title">Where Can You Collect?</h2>
-          <p className="section-subtitle">Pickup from Tivat Airport, Porto Montenegro, and across the coast.</p>
+          <span className="section-label">{t('locationsSection.label') || 'Pickup Points'}</span>
+          <h2 className="section-title">{t('locationsSection.title') || 'Where Can You Collect?'}</h2>
+          <p className="section-subtitle">{t('locationsSection.subtitle') || 'Pickup from Tivat Airport, Porto Montenegro, and across the coast.'}</p>
         </div>
 
         <div className="locations-grid">
@@ -842,13 +843,14 @@ function StickyMobileCTA() {
 
 /* ─── SCROLL TO TOP ────────────────────────────────────── */
 function WhatsAppFab() {
+  const { t } = useTranslation();
   return (
     <a
       href={`https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20from%20Tivat.`}
       target="_blank"
       rel="noopener noreferrer"
       className="whatsapp-fab"
-      aria-label="Chat on WhatsApp"
+      aria-label={t('aria.whatsapp') || 'Chat on WhatsApp'}
     >
       <MessageCircle size={22} />
     </a>
@@ -856,6 +858,7 @@ function WhatsAppFab() {
 }
 
 function ScrollToTop() {
+  const { t } = useTranslation();
   const [show, setShow] = useState(false);
 
   useEffect(() => {
@@ -870,7 +873,7 @@ function ScrollToTop() {
     <button
       className="scroll-top"
       onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-      aria-label="Scroll to top"
+      aria-label={t('aria.scrollTop') || 'Scroll to top'}
     >
       <ChevronRight size={20} style={{ transform: 'rotate(-90deg)' }} />
     </button>
@@ -893,7 +896,7 @@ export default function App() {
       <Nav />
       <main>
         <div className="hero-wrapper">
-          <div className="hero-wrapper__bg">
+          <div className="hero-wrapper__bg" style={{ '--hero-image': `url(${config.hero.image})` }}>
             {typeof navigator !== 'undefined' && (!navigator.connection || navigator.connection.effectiveType === '4g') && (
               <video className="hero__video" autoPlay muted loop playsInline preload="auto"
                 onPlaying={e => e.target.classList.add('playing')}
