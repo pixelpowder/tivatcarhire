@@ -255,6 +255,7 @@ const siteConfig = {
   ],
 
   faq: [
+    { q: "Can I drop off at a different location?", a: "Yes. One-way rentals are supported across 28+ towns in Montenegro. Pick up at TIV and drop off in Budva, Kotor, Podgorica, or across the border in Dubrovnik. Select different pickup and drop-off points during booking." },
     { q: "What documents do I need at TIV pickup?", a: "A driving licence with Latin-script details, a passport, and a physical credit card in the main driver's name. If your licence uses only non-Latin characters, bring an International Driving Permit. Electronic licences and photocopies are not accepted." },
     { q: "Can I drive the rental car to Croatia or Albania?", a: "Yes. Notify the rental company at booking so they prepare the Green Card insurance certificate. Cross-border travel to Croatia, Bosnia, Albania, Serbia, and Kosovo is permitted, documents will be in the glovebox when you collect at TIV." },
     { q: "Is there a minimum age to rent?", a: "Age and experience requirements depend on the vehicle category. Economy cars typically require 21+, premium vehicles 25+. These details appear during the search before you commit to a booking." },
