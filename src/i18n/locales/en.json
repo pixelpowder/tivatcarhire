@@ -315,7 +315,7 @@
     "kotor": {
       "name": "Kotor",
       "tag": "12 min tunnel",
-      "desc": "Through Vrmac tunnel to the UNESCO walled town."
+      "desc": "Through Vrmac tunnel to the walled town."
     },
     "podgorica-airport": {
       "name": "Podgorica Airport",
@@ -404,7 +404,7 @@
     "svetiStefanTrip": "Drive 6 km south on the coastal road to the Sveti Stefan viewpoint. The pull-off is on the right, marked by a stone wall. From there, walk down to Milocer beach (public, free entry). The Queen's Beach next door requires a hotel pass.",
     "kotorTrip": "Head back through the Vrmac tunnel to Kotor, 25 minutes in reverse. Combine with Perast and the bay road for a full-day loop: Budva > Kotor > Perast > Verige ferry > Herceg Novi > back via the coastal road.",
     "kotorLinkPre": "The",
-    "kotorLinkText": "UNESCO Old Town of Kotor",
+    "kotorLinkText": "Old Town of Kotor",
     "kotorLinkPost": "is a 25-minute drive north.",
     "lovcenTrip": "The inland mountain road to Lovcen National Park starts near Cetinje. Allow 90 minutes from Budva. The Njegos Mausoleum sits at 1,657 metres, carry a jacket even in summer. The winding road has no guardrails in places, so daylight driving is strongly advised.",
     "gettingAroundTitle": "Parking and Fuel",

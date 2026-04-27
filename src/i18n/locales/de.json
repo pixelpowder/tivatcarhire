@@ -172,7 +172,7 @@
   },
   "kotor": {
     "title": "Mietwagen in Kotor",
-    "subtitle": "Entdecken Sie Montenegros UNESCO-Juwel in Ihrem eigenen Tempo.",
+    "subtitle": "Entdecken Sie Montenegros-Juwel in Ihrem eigenen Tempo.",
     "seoDesc": "Von Tivat Porto Montenegro zur Altstadt Kotor: 8 km in 12 Minuten. Parken außerhalb der Mauern, Eingang Seetor, Aufstieg Sveti Ivan."
   },
   "tivat-airport": {
@@ -314,7 +314,7 @@
     },
     "kotor": {
       "name": "Kotor",
-      "tag": "UNESCO-Welterbe",
+      "tag": "historische Altstadt",
       "desc": "Mittelalterliche ummauerte Stadt an der Adria."
     },
     "podgorica-airport": {
@@ -370,8 +370,8 @@
     "imgAlt2": "Bucht von Kotor von der Straße aus"
   },
   "kotorBody": {
-    "h1": "Kotor, UNESCO-Weltkulturerbe",
-    "p1": "Kotor ist eine der schönsten Küstenstädte Montenegros und bietet herrliche Strände, den historischen Charme der Altstadt sowie mittelalterliche Mauern, hinter denen sich Kunstgalerien, Cafés und ausgezeichnete Restaurants verbergen. Als UNESCO-Weltkulturerbe konzentrieren sich die Sehenswürdigkeiten der Stadt in der wunderschön erhaltenen Altstadt.",
+    "h1": "Kotor, Welterbe",
+    "p1": "Kotor ist eine der schönsten Küstenstädte Montenegros und bietet herrliche Strände, den historischen Charme der Altstadt sowie mittelalterliche Mauern, hinter denen sich Kunstgalerien, Cafés und ausgezeichnete Restaurants verbergen. Als Welterbe konzentrieren sich die Sehenswürdigkeiten der Stadt in der wunderschön erhaltenen Altstadt.",
     "p2": "Mit einem Mietwagen in Kotor haben Sie die Freiheit, lokale Sehenswürdigkeiten sowie nahegelegene montenegrinische Städte und Naturgebiete in Ihrem eigenen Tempo zu erkunden.",
     "landmarksTitle": "Sehenswürdigkeiten",
     "stJohnTitle": "Festung St. John",
@@ -402,9 +402,9 @@
     "oldTownText": "Budvas Altstadt (Stari Grad) ist eine kompakte, ummauerte Zitadelle auf einer kleinen Halbinsel. Innerhalb der Mauern finden Sie enge Kopfsteinpflasterstraßen, venezianische Architektur, kleine Kirchen aus dem 7. Jahrhundert und eine lebhafte Mischung aus Restaurants, Galerien und Boutiquen. Die Festung Citadela an der Südspitze bietet einen Panoramablick auf die Küste und die nahe gelegenen Inseln.",
     "dayTripsTitle": "Tagesausflüge ab Budva",
     "svetiStefanTrip": "Nur 6 km südlich gelegen, ist dieses fotogene befestigte Inseldorf heute ein Luxushotel, aber die Aussicht von der Straße oberhalb ist spektakulär und kostenlos. Der Strand auf der Festlandseite ist für alle zugänglich.",
-    "kotorTrip": "Eine 30-minütige Fahrt nach Norden durch einen beeindruckenden Bergtunnel bringt Sie zur Bucht von Kotor und ihrer UNESCO-gelisteten Altstadt.",
+    "kotorTrip": "Eine 30-minütige Fahrt nach Norden durch einen beeindruckenden Bergtunnel bringt Sie zur Bucht von Kotor und ihrer historische Altstadt.",
     "kotorLinkPre": "Die",
-    "kotorLinkText": "UNESCO-Altstadt von Kotor",
+    "kotorLinkText": "Altstadt von Kotor",
     "kotorLinkPost": "ist 25 Autominuten nördlich.",
     "lovcenTrip": "Fahren Sie ins Landesinnere für Berglandschaften und das Njegoš-Mausoleum, das auf 1.657 Metern Höhe thront und an klaren Tagen Ausblicke auf vier Länder bietet. Die kurvenreiche Straße von der Küste ist ein Erlebnis für sich.",
     "gettingAroundTitle": "Fortbewegung",

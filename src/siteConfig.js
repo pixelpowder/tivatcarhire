@@ -289,7 +289,7 @@ const siteConfig = {
       name: "Kotor",
       slug: "kotor",
       tag: "20 min",
-      desc: "UNESCO walled town on the Bay of Kotor.",
+      desc: "walled town on the Bay of Kotor.",
       image: "/img/kotor-nearby.webp",
     },
     {

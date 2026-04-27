@@ -172,7 +172,7 @@
   },
   "kotor": {
     "title": "Location de Voiture à Kotor",
-    "subtitle": "Explorez le joyau UNESCO du Monténégro à votre rythme.",
+    "subtitle": "Explorez le joyau du Monténégro à votre rythme.",
     "seoDesc": "De Porto Montenegro à Tivat à la vieille ville de Kotor: 8 km en 12 minutes. Parking hors murs, entrée porte de mer, montée Sveti Ivan."
   },
   "tivat-airport": {
@@ -314,7 +314,7 @@
     },
     "kotor": {
       "name": "Kotor",
-      "tag": "Site UNESCO",
+      "tag": "site historique",
       "desc": "Cité médiévale fortifiée sur l'Adriatique."
     },
     "podgorica-airport": {
@@ -370,8 +370,8 @@
     "imgAlt2": "Baie de Kotor depuis la route"
   },
   "kotorBody": {
-    "h1": "Kotor, Site du patrimoine mondial de l'UNESCO",
-    "p1": "Kotor est l'une des villes côtières les plus magnifiques du Monténégro, offrant de superbes plages, le charme historique de sa vieille ville et des remparts médiévaux abritant des galeries d'art, des cafés et d'excellents restaurants. En tant que site du patrimoine mondial de l'UNESCO, les monuments de la ville sont concentrés dans la vieille ville admirablement préservée.",
+    "h1": "Kotor, site historique",
+    "p1": "Kotor est l'une des villes côtières les plus magnifiques du Monténégro, offrant de superbes plages, le charme historique de sa vieille ville et des remparts médiévaux abritant des galeries d'art, des cafés et d'excellents restaurants. En tant que site historique, les monuments de la ville sont concentrés dans la vieille ville admirablement préservée.",
     "p2": "Louer une voiture à Kotor vous donne la liberté d'explorer les attractions locales ainsi que les villes et espaces naturels voisins du Monténégro à votre propre rythme. La disponibilité du stationnement varie selon la saison, le tourisme estival créant une pénurie dans le centre, mais il existe des parkings plus grands sur les routes d'accès.",
     "landmarksTitle": "Monuments",
     "stJohnTitle": "Forteresse Saint-Jean",
@@ -402,9 +402,9 @@
     "oldTownText": "La vieille ville de Budva (Stari Grad) est une citadelle fortifiée compacte située sur une petite presqu'île. À l'intérieur des remparts, vous découvrirez des ruelles pavées étroites, une architecture de l'époque vénitienne, de petites églises remontant au VIIe siècle, ainsi qu'un mélange animé de restaurants, galeries et boutiques. La forteresse Citadela à la pointe sud offre des vues panoramiques sur la côte et les îles voisines.",
     "dayTripsTitle": "Excursions d'une journée depuis Budva",
     "svetiStefanTrip": "À seulement 6 km au sud, ce pittoresque village insulaire fortifié est aujourd'hui un hôtel de luxe, mais les vues depuis la route en surplomb sont spectaculaires et gratuites. La plage côté continent est ouverte à tous.",
-    "kotorTrip": "Un trajet de 30 minutes vers le nord à travers un impressionnant tunnel de montagne vous amène à la baie de Kotor et à sa vieille ville classée au patrimoine mondial de l'UNESCO.",
+    "kotorTrip": "Un trajet de 30 minutes vers le nord à travers un impressionnant tunnel de montagne vous amène à la baie de Kotor et à sa vieille ville classée au patrimoine historique.",
     "kotorLinkPre": "La",
-    "kotorLinkText": "vieille ville UNESCO de Kotor",
+    "kotorLinkText": "vieille ville de Kotor",
     "kotorLinkPost": "est à 25 minutes de route au nord.",
     "lovcenTrip": "Dirigez-vous vers l'intérieur des terres pour découvrir les paysages de montagne et le mausolée de Njegos, perché à 1 657 mètres d'altitude avec une vue sur quatre pays par temps clair. La route sinueuse depuis la côte est une expérience en soi.",
     "gettingAroundTitle": "Se déplacer",

@@ -172,7 +172,7 @@
   },
   "kotor": {
     "title": "Noleggio Auto a Kotor",
-    "subtitle": "Esplora il gioiello UNESCO del Montenegro al tuo ritmo.",
+    "subtitle": "Esplora il gioiello del Montenegro al tuo ritmo.",
     "seoDesc": "Da Porto Montenegro a Tivat alla città vecchia di Kotor: 8 km in 12 minuti. Parcheggio fuori le mura, ingresso Porta di Mare, Sveti Ivan."
   },
   "tivat-airport": {
@@ -314,7 +314,7 @@
     },
     "kotor": {
       "name": "Kotor",
-      "tag": "Sito UNESCO",
+      "tag": "Sito",
       "desc": "Città medievale murata sull'Adriatico."
     },
     "podgorica-airport": {
@@ -402,9 +402,9 @@
     "oldTownText": "Il centro storico di Budva (Stari Grad) è una compatta cittadella fortificata su una piccola penisola. All'interno delle mura troverete strette stradine acciottolate, architettura dell'epoca veneziana, piccole chiese risalenti al VII secolo e un vivace mix di ristoranti, gallerie e boutique. La fortezza Citadela sulla punta meridionale offre viste panoramiche sulla costa e sulle isole vicine.",
     "dayTripsTitle": "Gite Giornaliere da Budva",
     "svetiStefanTrip": "A soli 6 km a sud, questo fotogenico villaggio-isola fortificato è oggi un hotel di lusso, ma le viste dalla strada sovrastante sono spettacolari e gratuite. La spiaggia sul lato della terraferma è aperta a tutti.",
-    "kotorTrip": "Un viaggio di 30 minuti in auto verso nord attraverso un suggestivo tunnel montano vi porta alla Baia di Kotor e al suo centro storico inserito nella lista UNESCO.",
+    "kotorTrip": "Un viaggio di 30 minuti in auto verso nord attraverso un suggestivo tunnel montano vi porta alla Baia di Kotor e al suo centro storico inserito nella lista.",
     "kotorLinkPre": "Il",
-    "kotorLinkText": "centro storico UNESCO di Kotor",
+    "kotorLinkText": "centro storico di Kotor",
     "kotorLinkPost": "dista 25 minuti di auto verso nord.",
     "lovcenTrip": "Dirigetevi verso l'interno per ammirare i paesaggi montani e il Mausoleo di Njegos, arroccato a 1.657 metri con viste su quattro paesi nelle giornate limpide. La strada tortuosa dalla costa è un'esperienza in sé.",
     "gettingAroundTitle": "Come Spostarsi",

@@ -172,7 +172,7 @@
   },
   "kotor": {
     "title": "Rent a Car Kotor",
-    "subtitle": "Istražite UNESCO dragulj Crne Gore sopstvenim tempom.",
+    "subtitle": "Istražite dragulj Crne Gore sopstvenim tempom.",
     "seoDesc": "Vozite 8 km od Porto Montenegra u Tivtu do starog grada Kotora za 12 minuta. Parking van zidina, ulaz kroz Morsku kapiju, uspon na Sveti Ivan za pogled."
   },
   "tivat-airport": {
@@ -314,7 +314,7 @@
     },
     "kotor": {
       "name": "Kotor",
-      "tag": "UNESCO lokalitet",
+      "tag": "lokalitet",
       "desc": "Srednjovjekovni utvrđeni grad na Jadranu."
     },
     "podgorica-airport": {
@@ -370,8 +370,8 @@
     "imgAlt2": "Bokokotorski zaliv sa puta"
   },
   "kotorBody": {
-    "h1": "Kotor -- Lokalitet pod Zastitom UNESCO-a",
-    "p1": "Kotor je jedan od najljepših primorskih gradova Crne Gore, koji nudi prekrasne plaže, šarm istorijskog Starog grada i srednjovjekovne zidine unutar kojih se nalaze umjetničke galerije, kafići i odlični restorani. Kao lokalitet pod zaštitom UNESCO-a, znamenitosti grada su koncentrisane u predivno očuvanom Starom gradu.",
+    "h1": "Kotor -- Lokalitet pod Zastitom-a",
+    "p1": "Kotor je jedan od najljepših primorskih gradova Crne Gore, koji nudi prekrasne plaže, šarm istorijskog Starog grada i srednjovjekovne zidine unutar kojih se nalaze umjetničke galerije, kafići i odlični restorani. Kao lokalitet pod zaštitom-a, znamenitosti grada su koncentrisane u predivno očuvanom Starom gradu.",
     "p2": "Iznajmljivanje automobila u Kotoru daje vam slobodu da istražujete lokalne atrakcije i obližnje crnogorske gradove i prirodna područja sopstvenim tempom. Dostupnost parkinga varira sezonski, jer ljetnji turizam stvara nestašicu u centru, ali postoje veća parkirališta na prilaznim putevima.",
     "landmarksTitle": "Znamenitosti",
     "stJohnTitle": "Tvrđava Sv. Ivana",
@@ -402,9 +402,9 @@
     "oldTownText": "Budvanski Stari Grad je kompaktna utvrđena citadela na malom poluostrvu. Unutar zidina naći ćete uske popločane ulice, venecijansku arhitekturu, male crkve koje datiraju iz 7. vijeka, te živahnu mješavinu restorana, galerija i butika. Tvrđava Citadela na južnom vrhu nudi panoramske poglede na obalu i obližnja ostrva.",
     "dayTripsTitle": "Jednodnevni Izleti iz Budve",
     "svetiStefanTrip": "Samo 6 km južno, ovo fotogenično utvrđeno ostrvsko selo sada je luksuzni hotel, ali pogledi sa puta iznad su spektakularni i besplatni. Plaža na kopnenoj strani je otvorena za sve.",
-    "kotorTrip": "Vožnja od 30 minuta na sjever kroz dramatičan planinski tunel dovodi vas do Bokokotorskog zaliva i njegovog Starog grada pod zaštitom UNESCO-a.",
+    "kotorTrip": "Vožnja od 30 minuta na sjever kroz dramatičan planinski tunel dovodi vas do Bokokotorskog zaliva i njegovog Starog grada pod zaštitom-a.",
     "kotorLinkPre": "",
-    "kotorLinkText": "Kotorski Stari Grad pod zaštitom UNESCO-a",
+    "kotorLinkText": "Kotorski Stari Grad pod zaštitom-a",
     "kotorLinkPost": "je 25 minuta vožnje na sjever.",
     "lovcenTrip": "Uputite se u unutrašnjost ka planinskim pejzažima i Njegoševom mauzoleju, smještenom na 1.657 metara nadmorske visine, sa pogledom na četiri zemlje po vedrom danu. Vijugavi put od obale je doživljaj sam po sebi.",
     "gettingAroundTitle": "Kretanje",
