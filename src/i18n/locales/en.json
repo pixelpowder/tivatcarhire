@@ -153,11 +153,11 @@
     "p3Link3": "Kotor",
     "p3d": ", Budva, and locations across the coast and interior.",
     "promiseTitle": "Our Promise",
-    "promise1": "Full insurance with zero excess options available",
-    "promise2": "Tivat Airport meet-and-greet, we bring the car to you at arrivals",
+    "promise1": "Full insurance with zero-excess upgrades, plus Personal Accident Insurance and Theft Protection at checkout for marina-perimeter overnight bays",
+    "promise2": "Porto Montenegro and Tivat town pickup, ideal for guests already berthed or in long-stay apartments",
     "promise3": "No hidden fees, the price you see is the price you pay",
-    "promise4": "Cross-border travel permitted to Croatia, Bosnia, Albania, Serbia, and Kosovo",
-    "promise5": "Free cancellation on most bookings",
+    "promise4": "Three-tier cross-border: Tier 1 for the Kamenari ferry to Dubrovnik, Tier 2 if you extend to Albania or Kosovo, Tier 3 for longer regional loops",
+    "promise5": "Confirmed extras: Winter Pack, three child seat sizes (booster for the Plavi Horizonti school crowd), wireless hotspot for superyacht-crew long-stayers, local SIM, ski and snowboard racks, roof rack for Lustica kayaks and SUPs, electric scooter with charger for marina-to-Pine-Walk-to-Main-Square errands",
     "promise6": "Local rental providers, full insurance and low or no-deposit options",
     "localTitle": "Local Knowledge",
     "localText": "Based in Tivat, we know the roads, the best routes, and the hidden gems that guidebooks miss. Whether you're driving from",
@@ -257,8 +257,8 @@
       "desc": "Flight moved? Change of plan? Cancel up to 24 hours before pickup at no cost. Useful when airline schedules shift between summer and winter."
     },
     "crossBorder": {
-      "title": "Cross-Border Ready",
-      "desc": "Green card paperwork prepared at booking. Drive to Dubrovnik, Mostar, Shkoder, or Belgrade, the documents will be in the glovebox when you collect."
+      "title": "Three-Tier Cross-Border",
+      "desc": "Tier 1 for neighbours minus Albania and Kosovo (Kamenari ferry then Dubrovnik), Tier 2 adds Albania and Kosovo for a Shkoder extension, Tier 3 covers distant routes. Pick your tier at booking, Green Card waits in the glovebox at the marina."
     }
   },
   "testimonials": {
@@ -278,8 +278,8 @@
       "a": "A driving licence with Latin-script details, a passport, and a physical credit card in the main driver's name. If your licence uses only non-Latin characters, bring an International Driving Permit. Electronic licences and photocopies are not accepted."
     },
     "1": {
-      "q": "Can I drive the rental car to Croatia or Albania?",
-      "a": "Yes. Notify the rental company at booking so they prepare the Green Card insurance certificate. Cross-border travel to Croatia, Bosnia, Albania, Serbia, and Kosovo is permitted, documents will be in the glovebox."
+      "q": "Can I drive the rental car across borders from Tivat?",
+      "a": "Yes, on a three-tier cross-border fee structure. Tier 1 covers neighbouring countries excluding Albania and Kosovo, ideal for the Kamenari-Lepetane ferry and a Dubrovnik day from the marina. Tier 2 adds Albania and Kosovo if you are extending south to Shkoder or Peja. Tier 3 covers neighbouring and distant countries for longer regional loops. Flag your route at booking and the Green Card will be ready in the glovebox before you leave Porto Montenegro."
     },
     "2": {
       "q": "Is there a minimum age to rent?",
@@ -287,7 +287,7 @@
     },
     "3": {
       "q": "What is included in the rental price?",
-      "a": "Full insurance, VAT, an equipment kit (first-aid box, warning triangle, reflective vest), and a transparent fuel policy. Mileage terms vary by vehicle, some are unlimited, others capped at a daily kilometre allowance shown on the listing."
+      "a": "Full insurance, VAT, an equipment kit (first-aid box, warning triangle, reflective vest), and a transparent fuel policy. Mileage terms vary by vehicle, some are unlimited, others capped at a daily kilometre allowance shown on the listing. Optional extras such as Personal Accident Insurance, Theft Protection and the Winter Pack are added at checkout and itemised separately, never bundled in silently."
     },
     "4": {
       "q": "How does TIV airport pickup work?",
@@ -302,8 +302,8 @@
       "a": "Deposit amounts vary by vehicle group, some economy cars require no deposit at all. When a deposit applies, it must be on a physical credit card in the main driver's name and is refunded on return."
     },
     "7": {
-      "q": "Where is the nearest fuel station to TIV?",
-      "a": "Jugopetrol is 800 metres to the right as you exit the airport onto the main road. A second Petrol station sits in Radanovici on the Budva road, useful if you are heading south. Both accept card and cash. Fill up before returning the car to avoid refuelling charges."
+      "q": "What optional extras can I add for a Tivat marina trip?",
+      "a": "The confirmed extras list covers Personal Accident Insurance and Theft Protection (worth a look if your car overnights on Porto Montenegro's perimeter bays), a Winter Pack for January Lovcen runs, three child seat tiers including a booster for the Plavi Horizonti school-run crowd, a wireless hotspot popular with superyacht-crew long-stayers in the marina, a local SIM card, ski and snowboard racks, a roof rack for stacking Lustica kayaks and SUPs, and an electric scooter with charger for nipping along Pine Walk to Tivat Main Square without unparking the car. Tick what you need at checkout."
     }
   },
   "destCards": {
@@ -359,11 +359,11 @@
     "promise1": "Full insurance, zero-excess upgrade available",
     "promise2": "Meet-and-greet at the TIV short-stay car park, 40 m from the terminal",
     "promise3": "Transparent pricing, the checkout figure is the final figure",
-    "promise4": "Cross-border Green Card for Croatia, Bosnia, Albania, Serbia, Kosovo",
+    "promise4": "Three-tier cross-border: Tier 1 neighbours minus Albania and Kosovo, Tier 2 with Albania and Kosovo, Tier 3 distant routes",
     "promise5": "Free cancellation up to 7 days before pickup (30 days for premium)",
-    "promise6": "Local rental providers, full insurance and low or no-deposit options",
-    "h4": "Local Road Knowledge",
-    "p4": "We drive these roads daily. We know that the Vrmac tunnel cuts the Kotor run to 12 minutes, that the Verige ferry across the bay mouth saves 45 minutes versus the long road to Herceg Novi, that the Radanovici fuel station is the last stop before the Budva riviera, and that Kotor's Tabacina car park fills by 10 am in July. Ask us anything at pickup, route advice is free and unlimited.",
+    "promise6": "Confirmed extras at checkout: Personal Accident Insurance, Theft Protection, Winter Pack, three child seat sizes, wireless hotspot, SIM card, ski and snowboard racks, roof rack, electric scooter with charger",
+    "h4": "Built for Marina-Base Trips",
+    "p4": "We work the Tivat side of the bay daily. Roof racks load with Lustica kayaks and SUPs the night before a Plavi Horizonti run. The booster seat slot is busy with Tivat-base families heading to school then the beach. Theft Protection is the box yacht owners tick when the rental is parked overnight on a Porto Montenegro perimeter bay. The wireless hotspot keeps superyacht crew connected on the long-stay weeks the marina fills with. Ask us at pickup which extras the route actually needs, route advice is free and unlimited.",
     "h5": "Get in Touch",
     "p5": "Questions before you fly? WhatsApp, Viber, or phone, we reply within minutes during operating hours. Search the fleet online, lock in a price, and your car will be waiting in the TIV car park when your flight touches down.",
     "imgAlt1": "Tivat Airport terminal building",
@@ -563,7 +563,7 @@
   },
   "borderCrossingBody": {
     "h1": "Taking Your Rental Car Across Borders",
-    "p1": "Cross-border travel from Montenegro is permitted to Croatia, Bosnia & Herzegovina, Albania, Kosovo, and Serbia. The process is straightforward: notify your rental company at booking, they prepare the Green Card insurance certificate, and you collect it with the car at TIV. The Green Card and your rental contract go in the glovebox, border guards will ask for both.",
+    "p1": "Cross-border travel from a Tivat-base rental is priced on three tiers. Tier 1 covers neighbouring countries excluding Albania and Kosovo, the right pick for a Kamenari-Lepetane ferry hop to Dubrovnik. Tier 2 includes Albania and Kosovo, useful when the Dubrovnik day extends down to Shkoder or across to Peja. Tier 3 covers neighbouring and distant countries for longer regional loops. Notify the rental company at booking which tier matches your route, they prepare the Green Card insurance certificate, and you collect it with the car. The Green Card and your rental contract go in the glovebox, border guards will ask for both.",
     "greenCardTitle": "The Green Card Explained",
     "greenCardText": "A Green Card is an international motor insurance certificate that confirms your vehicle is covered in the country you are entering. It's commonly required when taking a rental car across borders in the region.",
     "greenCard1": "Cost: approximately 15 EUR for 15 days coverage",
