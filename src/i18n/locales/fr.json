@@ -60,7 +60,7 @@
   "fleet": {
     "label": "Notre Flotte",
     "title": "Choisissez Votre Véhicule",
-    "subtitle": "Prix en direct, stock en temps réel, ce que vous voyez est ce qui est sur le tarmac à TIV."
+    "subtitle": "Prix en direct, annulation gratuite, assurance tous risques, ce que vous voyez se trouve sur le tarmac à TIV."
   },
   "brands": {
     "label": "Marques de confiance dans notre flotte"
@@ -158,7 +158,7 @@
     "promise3": "Aucun frais caché : le prix affiché est le prix que vous payez",
     "promise4": "Traversée des frontières autorisée vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo",
     "promise5": "Annulation gratuite pour la plupart des réservations",
-    "promise6": "Assistance routière 24h/24 et 7j/7 pendant votre voyage",
+    "promise6": " pendant toute la durée de votre séjour",
     "localTitle": "Connaissance locale",
     "localText": "Basés à Tivat, nous connaissons les routes, les meilleurs itinéraires et les joyaux cachés que les guides touristiques ne mentionnent pas. Que vous rouliez depuis",
     "localLink1": "l'aéroport de Tivat",
@@ -242,7 +242,7 @@
     },
     "fullInsurance": {
       "title": "Assurance complète incluse",
-      "desc": "CDW et protection contre le vol inclus dans chaque réservation. Optez pour la franchise zéro avant d'emprunter le tunnel de Vrmac ou les virages de la route côtière vers Herceg Novi."
+      "desc": "Chaque réservation comprend une assurance tous risques. Optez pour la franchise zéro pour une tranquillité totale sur les routes de montagne et les pistes."
     },
     "support": {
       "title": "Assistance routière 24h/24",
@@ -287,7 +287,7 @@
     },
     "3": {
       "q": "Qu'est-ce qui est inclus dans le prix de location ?",
-      "a": "CDW et protection contre le vol, TVA, kit d'équipement (trousse de secours, triangle de signalisation, gilet réfléchissant) et une politique carburant transparente. Les conditions kilométriques varient selon le véhicule, certains sont illimités, d'autres soumis à une limite journalière indiquée sur l'annonce."
+      "a": "Assurance tous risques, TVA, un kit d’équipement (trousse de premiers secours, triangle, gilet réfléchissant) et une politique carburant transparente. Le kilométrage varie selon le véhicule, certains sont illimités, d’autres limités à un forfait journalier indiqué sur la fiche."
     },
     "4": {
       "q": "Comment fonctionne la prise en charge à l'aéroport de Tivat ?",
@@ -356,12 +356,12 @@
     "h3": "Ce que nous proposons",
     "p3": "Récupérez vos bagages, franchissez les portes de sortie du terminal, traversez la voie d'accès jusqu'au parking courte durée. Notre agent vous y attend avec vos clés et vos documents. Signez, réglez les rétroviseurs, prenez la route. À droite vers Budva par le tunnel de Vrmac, à gauche le long de la baie vers Kotor et Perast, ou tout droit vers Porto Montenegro et Lustica Bay. Une station service Jugopetrol se trouve à 800 mètres sur la route principale si vous devez faire le plein avant de partir.",
     "promiseTitle": "Notre engagement",
-    "promise1": "Assurance tous risques avec option zéro franchise",
+    "promise1": "Assurance tous risques, franchise zéro disponible en option",
     "promise2": "Accueil sur le parking courte durée TIV, à 40 m du terminal",
     "promise3": "Aucun frais caché, le prix affiché est le prix final",
     "promise4": "Carte Verte transfrontalière pour la Croatie, la Bosnie, l'Albanie, la Serbie, le Kosovo",
     "promise5": "Annulation gratuite jusqu'à 7 jours avant la prise en charge (30 jours pour le premium)",
-    "promise6": "Ligne d'assistance routière 24h/24 et 7j/7 tenue par des mécaniciens locaux",
+    "promise6": " ligne assurée par des mécaniciens locaux",
     "h4": "Connaissance locale",
     "p4": "Nous parcourons ces routes chaque jour. Nous savons que le tunnel de Vrmac ramène le trajet vers Kotor à 12 minutes, que le ferry Verige à l'embouchure de la baie fait gagner 45 minutes par rapport à la longue route de Herceg Novi, que la station Radanovici est la dernière avant la riviera de Budva, et que le parking Tabacina de Kotor est plein dès 10 heures en juillet. Posez nous toutes vos questions à la prise en charge, les conseils d'itinéraire sont gratuits et illimités.",
     "h5": "Contactez-nous",
@@ -1076,11 +1076,11 @@
   },
   "fleetIndex": {
     "title": "Notre Flotte à Tivat",
-    "subtitle": "Sept voitures de location choisies pour la vie à la marina de Porto Montenegro, la péninsule de Luštica et le bac Lepetane–Kamenari.",
+    "subtitle": "Citadines compactes, berlines, SUV et utilitaires choisis pour la vie à la marina de Porto Montenegro, la péninsule de Luštica et le bac Lepetane-Kamenari.",
     "seoDesc": "Voitures de location à Tivat et à la marina Porto Montenegro, sept véhicules choisis pour les places de marina, les routes côtières de Luštica et le bac Lepetane–Kamenari.",
-    "intro1": "Cette flotte est calibrée pour le rythme d’un séjour à Tivat-même, pas pour une semaine d’arrivée à l’aéroport. La plupart de nos clients s’installent dans un appartement à Porto Montenegro ou une villa à Donja Lastva et veulent une voiture dimensionnée pour les places de marina, les emplacements horodatés de Pine Walk et la grille côtière étroite au-dessus de la Place Principale de Tivat. Les sept voitures ci-dessous sont celles qui fonctionnent vraiment : une Clio et une Polo compactes pour les courses, une Fiat 500 quand le stationnement est la vraie contrainte, une Yaris hybride pour les matinées silencieuses à la marina, et une 308 ou une Megane quand la journée en famille à Luštica ou la traversée en ferry vers Dubrovnik demande plus de coffre.",
+    "intro1": "Cette flotte a été choisie pour le rythme d’un séjour à Tivat-ville, pas pour une semaine d’arrivée à l’aéroport. La plupart de nos clients logent dans un appartement à Porto Montenegro ou une villa à Donja Lastva et veulent une voiture taillée pour les places de la marina, les pickets payants de Pine Walk et la trame côtière étroite au-dessus de la place principale de Tivat. Les voitures ci-dessous sont celles qui fonctionnent vraiment : une Clio et une Polo compactes pour les courses, une Fiat 500 quand le stationnement est la vraie contrainte, une Yaris hybride pour les matins silencieux à la marina, et une 308 ou Mégane quand la journée famille à Luštica ou la traversée vers Dubrovnik exige un coffre plus grand.",
     "intro2": "La géographie de Tivat récompense le bon calibrage. Les parkings payants de Porto Montenegro coûtent 2–3 € de l’heure, et les places plus serrées au rez-de-chaussée du complexe rejettent tout ce qui dépasse 4,1 m sans deux manœuvres. La route côtière par Donja Lastva jusqu’à la rampe du bac de Lepetane prend quinze minutes, et le bac lui-même traverse le détroit de Verige vers Kamenari tous les quarts d’heure : y emmener une moyenne diesel est confortable, une petite économique est parfaitement bien, et une Fiat 500 y est franchement charmante. La même géométrie se répète sur la route de Luštica vers Krašići, Đurašević et les plages de Plavi Horizonti : goudronnée de bout en bout, mais assez étroite pour qu’une VW Golf paie son raffinement en changements de place.",
-    "intro3": "Deux règles au retrait. Un : l’aéroport TIV n’est qu’à cinq minutes et vous n’avez presque certainement pas besoin de dimensionner la voiture pour l’aéroport, vous êtes déjà arrivé. Choisissez pour Luštica, Kotor et Dubrovnik à la place. Deux : pensez au carburant. Une semaine à base marina de Porto Montenegro plus excursions fait environ 400 km ; sur une Yaris Hybride cela fait moins de 40 € d’essence, sur une 308 diesel environ 45 €, sur la Fiat 500 une cinquantaine. Les sept voitures ci-dessous sont économiques selon les standards européens ; le choix se joue finalement sur le coffre, la position de conduite et l’utilité d’un toit ouvrant un après-midi à Luštica.",
+    "intro3": "Deux règles que nous partageons au retrait. Un, l’aéroport TIV est à seulement cinq minutes et vous n’avez presque certainement pas besoin de dimensionner la voiture pour l’aéroport, vous êtes déjà arrivé. Choisissez plutôt pour Luštica, Kotor et Dubrovnik. Deux, pensez au carburant. Une semaine de conduite autour de la marina de Porto Montenegro plus des excursions tourne autour de 400 km ; sur une Yaris Hybrid c’est moins de 40 € d’essence, sur une 308 diesel autour de 45 €, et sur une Fiat 500 dans les 50 €. Toutes les voitures ci-dessous sont peu coûteuses à l’usage selon les standards européens, mais le choix entre elles tient au coffre, à la position de conduite et à l’importance d’un toit ouvrant un après-midi à Luštica.",
     "ogImageAlt": "Flotte de location à Tivat"
   },
   "locationsSection": {
@@ -1113,11 +1113,11 @@
     "preferenceLabel": "Cookies de préférences :",
     "preferenceText": "mémorisent vos sélections de langue et de localisation",
     "h3ThirdParty": "Cookies tiers",
-    "thirdPartyIntro": "Notre widget de réservation de location de voitures (fourni par LocalRent) peut placer des cookies pour :",
+    "thirdPartyIntro": "Notre widget de réservation de voiture (fourni par notre partenaire de réservation) peut placer des cookies pour :",
     "thirdParty1": "Mémoriser vos préférences de recherche (dates, lieu)",
     "thirdParty2": "Maintenir votre session pendant le processus de réservation",
     "thirdParty3": "Suivre les références d'affiliation",
-    "thirdPartyOutro": "Ces cookies sont placés par LocalRent et sont régis par sa politique de confidentialité.",
+    "thirdPartyOutro": "Ces cookies sont déposés par notre partenaire de réservation et relèvent de sa politique de confidentialité.",
     "h2Managing": "Gestion des cookies",
     "managingIntro": "Vous pouvez contrôler les cookies via les paramètres de votre navigateur. La plupart des navigateurs vous permettent de :",
     "managing1": "Voir les cookies stockés",
@@ -1135,7 +1135,7 @@
     "whoText": "Tivat Car Hire est un partenaire affilié indépendant qui met en relation les voyageurs avec des loueurs de voitures à Tivat, au Monténégro. Notre site Web se trouve à l'adresse tivatcarhire.com. Lorsque vous utilisez notre site, nous pouvons collecter certaines informations comme décrit ci-dessous.",
     "h2Collect": "Quelles informations nous collectons",
     "h3YouProvide": "Informations que vous fournissez",
-    "youProvideText": "Lorsque vous utilisez notre formulaire de recherche, nous collectons le lieu de prise en charge, les dates et les heures que vous saisissez afin de trouver les véhicules disponibles. Ces informations sont transmises à notre partenaire (LocalRent) pour générer les résultats de recherche. Nous ne collectons ni ne stockons de détails de paiement, tous les paiements sont traités directement par le loueur.",
+    "youProvideText": "Lorsque vous utilisez notre formulaire de recherche, nous collectons le lieu de prise en charge, les dates et les heures que vous saisissez afin de trouver des véhicules disponibles. Ces informations sont transmises à notre partenaire de réservation pour générer les résultats. Nous ne collectons ni ne stockons aucune donnée de paiement, tous les paiements sont traités directement par le loueur.",
     "h3Auto": "Informations collectées automatiquement",
     "usageLabel": "Données d'utilisation :",
     "usageText": "pages visitées, temps passé sur le site, site Web référent",
@@ -1150,7 +1150,7 @@
     "use4": "Pour répondre aux demandes via WhatsApp, Viber ou e-mail",
     "h2ThirdParty": "Services tiers",
     "thirdPartyIntro": "Notre site utilise les services tiers suivants :",
-    "localRentLabel": "LocalRent :",
+    "localRentLabel": "Partenaire de réservation :",
     "localRentText": "widget de réservation de location de voitures, traite vos requêtes de recherche et gère toutes les réservations et paiements",
     "vercelLabel": ":",
     "vercelText": "hébergement de site Web",
@@ -1158,7 +1158,7 @@
     "pexelsText": "photographie de stock",
     "thirdPartyOutro": "Chacun de ces services a sa propre politique de confidentialité régissant sa gestion des données.",
     "h2Cookies": "Cookies",
-    "cookiesPre": "Nous utilisons un minimum de cookies nécessaires au fonctionnement du site. Le widget de réservation LocalRent peut placer ses propres cookies pour la gestion de session et les préférences. Consultez notre",
+    "cookiesPre": "Nous utilisons un minimum de cookies nécessaires au fonctionnement du site. Le widget de réservation peut placer ses propres cookies pour la gestion de session et les préférences. Voir notre",
     "cookiesLink": "Politique de cookies",
     "cookiesPost": "pour plus de détails.",
     "h2Rights": "Vos droits",
@@ -1174,9 +1174,9 @@
     "lastUpdatedLabel": "Dernière mise à jour :",
     "lastUpdatedDate": "Avril 2026",
     "h2About": "À propos de ce site",
-    "pAbout": "Tivat Car Hire (tivatcarhire.com) est un site affilié qui met en relation les voyageurs avec des services de location de voitures à Tivat, au Monténégro. Nous ne sommes pas une société de location de voitures, nous travaillons en partenariat avec LocalRent pour offrir une disponibilité en temps réel et des services de réservation.",
+    "pAbout": "Tivat Car Hire (tivatcarhire.com) est un site affilié qui met les voyageurs en relation avec des services de location de voitures à Tivat, au Monténégro. Nous ne sommes pas un loueur, nous travaillons avec un partenaire de réservation local pour proposer la disponibilité et la réservation en temps réel.",
     "h2Booking": "Conditions de réservation et de location",
-    "pBooking1": "Toutes les réservations de location de voitures effectuées via notre site sont traitées et exécutées par notre partenaire, LocalRent. Lorsque vous finalisez une réservation, vous concluez un contrat de location directement avec le fournisseur du véhicule, et non avec Tivat Car Hire.",
+    "pBooking1": "Toutes les réservations de location effectuées via notre site sont traitées et exécutées par notre partenaire de réservation. Lorsque vous finalisez une réservation, vous concluez un contrat de location directement avec le fournisseur du véhicule, et non avec Tivat Car Hire.",
     "pBooking2": "Les conditions de location, y compris les politiques d'annulation, la couverture d'assurance, les exigences d'âge et les conditions de paiement, sont fixées par le fournisseur du véhicule et affichées pendant le processus de réservation. Nous vous recommandons de lire attentivement ces conditions avant de confirmer toute réservation.",
     "h2Role": "Notre rôle",
     "pRoleProvide": "Nous fournissons :",

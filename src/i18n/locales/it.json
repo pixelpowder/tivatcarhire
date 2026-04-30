@@ -60,7 +60,7 @@
   "fleet": {
     "label": "La Nostra Flotta",
     "title": "Scegli la Tua Auto",
-    "subtitle": "Prezzi in diretta, stock in tempo reale, ciò che vede è ciò che si trova sul piazzale di TIV."
+    "subtitle": "Prezzi in diretta, cancellazione gratuita, assicurazione completa, ciò che vede si trova sul piazzale di TIV."
   },
   "brands": {
     "label": "Marchi affidabili nella nostra flotta"
@@ -158,7 +158,7 @@
     "promise3": "Nessun costo nascosto: il prezzo che vedi è il prezzo che paghi",
     "promise4": "Viaggi transfrontalieri consentiti verso Croazia, Bosnia, Albania, Serbia e Kosovo",
     "promise5": "Cancellazione gratuita sulla maggior parte delle prenotazioni",
-    "promise6": "Assistenza stradale 24/7 durante il tuo viaggio",
+    "promise6": " per tutta la durata del vostro viaggio",
     "localTitle": "Conoscenza Locale",
     "localText": "Con base a Tivat, conosciamo le strade, i migliori percorsi e i tesori nascosti che le guide non menzionano. Che tu stia guidando dall'",
     "localLink1": "Aeroporto di Tivat",
@@ -242,7 +242,7 @@
     },
     "fullInsurance": {
       "title": "Assicurazione completa inclusa",
-      "desc": "CDW e protezione furto inclusi in ogni prenotazione. Scegli la franchigia zero prima di affrontare il tunnel di Vrmac o le curve della strada costiera verso Herceg Novi."
+      "desc": "Ogni prenotazione include assicurazione completa. Passi alla copertura senza franchigia per la massima tranquillità su strade di montagna e sterrati."
     },
     "support": {
       "title": "Assistenza stradale 24/7",
@@ -287,7 +287,7 @@
     },
     "3": {
       "q": "Cosa è incluso nel prezzo di noleggio?",
-      "a": "CDW e protezione furto, IVA, kit di equipaggiamento (cassetta di pronto soccorso, triangolo di emergenza, gilet catarifrangente) e una politica carburante trasparente. Le condizioni chilometriche variano per veicolo, alcuni sono illimitati, altri con limite giornaliero indicato nell'annuncio."
+      "a": "Assicurazione completa, IVA, kit di sicurezza (cassetta di pronto soccorso, triangolo, gilet riflettente) e politica carburante trasparente. Il chilometraggio varia per veicolo, alcuni sono illimitati, altri hanno un limite giornaliero indicato nella scheda."
     },
     "4": {
       "q": "Come funziona il ritiro all'aeroporto di Tivat?",
@@ -356,12 +356,12 @@
     "h3": "Cosa offriamo",
     "p3": "Ritiri i bagagli, esca dalle porte del terminal, attraversi la via di accesso fino al parcheggio breve. Il nostro agente è lì con le Sue chiavi e i documenti. Firmi, regoli gli specchietti e parta. A destra per Budva attraverso il tunnel di Vrmac, a sinistra lungo la strada della baia verso Kotor e Perast, o dritto per Porto Montenegro e Lustica Bay. Una stazione di servizio Jugopetrol si trova a 800 metri lungo la strada principale se desidera fare rifornimento prima di partire.",
     "promiseTitle": "La nostra promessa",
-    "promise1": "CDW e protezione furto, upgrade a franchigia zero disponibile",
+    "promise1": "Assicurazione completa, upgrade a franchigia zero disponibile",
     "promise2": "Accoglienza al parcheggio breve TIV, a 40 m dal terminal",
     "promise3": "Prezzi trasparenti, la cifra al checkout è la cifra finale",
     "promise4": "Carta Verde transfrontaliera per Croazia, Bosnia, Albania, Serbia, Kosovo",
     "promise5": "Cancellazione gratuita fino a 7 giorni prima del ritiro (30 giorni per il premium)",
-    "promise6": "Linea di assistenza stradale 24 ore su 24 gestita da meccanici locali",
+    "promise6": " linea gestita da meccanici locali",
     "h4": "Conoscenza locale",
     "p4": "Percorriamo queste strade ogni giorno. Sappiamo che il tunnel di Vrmac riduce il tragitto verso Kotor a 12 minuti, che il traghetto Verige attraverso la bocca della baia fa risparmiare 45 minuti rispetto alla lunga strada per Herceg Novi, che la stazione Radanovici è l'ultima sosta prima della riviera di Budva, e che il parcheggio Tabacina di Kotor si riempie entro le 10 del mattino a luglio. Ci chieda qualsiasi cosa al ritiro, i consigli sul percorso sono gratuiti e illimitati.",
     "h5": "Contattaci",
@@ -1076,11 +1076,11 @@
   },
   "fleetIndex": {
     "title": "La nostra flotta a Tivat",
-    "subtitle": "Sette auto a noleggio scelte per la vita alla marina Porto Montenegro, la penisola di Luštica e il traghetto Lepetane–Kamenari.",
+    "subtitle": "City car compatte, hatchback, berline, SUV e furgoni scelti per la vita alla marina di Porto Montenegro, la penisola di Luštica e il traghetto Lepetane-Kamenari.",
     "seoDesc": "Auto a noleggio a Tivat e alla marina Porto Montenegro, sette veicoli scelti per gli stalli della marina, le strade costiere della Luštica e il traghetto Lepetane–Kamenari.",
-    "intro1": "Questa flotta è calibrata sul ritmo di una vacanza in Tivat città, non su una settimana di arrivi in aeroporto. La maggior parte dei nostri ospiti si sistema in un appartamento a Porto Montenegro o in una villa a Donja Lastva e vuole un’auto delle giuste dimensioni per gli stalli della marina, le piazzole con parchimetro di Pine Walk e la stretta griglia costiera sopra la Piazza Principale di Tivat. Le sette auto qui sotto sono quelle che funzionano davvero: una Clio e una Polo compatte per la spesa, una Fiat 500 quando il parcheggio è il vero vincolo, una Yaris ibrida per le mattine silenziose in marina, e una 308 o una Megane quando la giornata in famiglia a Luštica o la traversata in traghetto verso Dubrovnik chiede più bagagliaio.",
+    "intro1": "Questa flotta è stata scelta per il ritmo di una vacanza in città a Tivat, non per la settimana di arrivo in aeroporto. La maggior parte dei nostri ospiti alloggia in un appartamento a Porto Montenegro o in una villa a Donja Lastva e cerca un’auto adatta alle baie della marina, ai parcheggi a disco di Pine Walk e alla griglia costiera stretta sopra la piazza principale di Tivat. Le auto qui sotto sono quelle che funzionano davvero: una Clio e una Polo compatte per la spesa, una Fiat 500 quando il parcheggio è il vero vincolo, una Yaris ibrida per le mattine silenziose in marina, e una 308 o Mégane quando la giornata in famiglia a Luštica o la traversata verso Dubrovnik richiedono un bagagliaio più grande.",
     "intro2": "La geografia di Tivat premia la misura giusta. I parcheggi a pagamento di Porto Montenegro costano 2–3 € l’ora, e gli stalli più stretti al piano terra del complesso rifiutano qualsiasi auto oltre i 4,1 m senza due manovre. La strada costiera via Donja Lastva fino alla rampa del traghetto Lepetane richiede quindici minuti, e il traghetto attraversa lo stretto di Verige verso Kamenari ogni quarto d’ora: portarci una media diesel è comodo, una piccola economy è perfettamente adeguata, e una Fiat 500 ci sta a pennello. La stessa geometria si ripete sulla strada di Luštica verso Krašići, Đurašević e le spiagge di Plavi Horizonti: asfalto continuo, ma abbastanza stretto da far pagare alla VW Golf la sua raffinatezza in scambi di stallo.",
-    "intro3": "Due regole al ritiro. Primo: l’aeroporto TIV è a soli cinque minuti e quasi certamente non dovete dimensionare l’auto per l’aeroporto, siete già arrivati. Scegliete per Luštica, Kotor e Dubrovnik invece. Secondo: pensate al carburante. Una settimana a base marina Porto Montenegro più gite gira sui 400 km; su una Yaris Hybrid sono meno di 40 € di benzina, su una 308 diesel circa 45 €, sulla Fiat 500 una cinquantina. Tutte e sette le auto qui sotto sono economiche secondo gli standard europei; la scelta si gioca alla fine sul bagagliaio, sulla posizione di guida e sull’utilità del tettuccio apribile in un pomeriggio di Luštica.",
+    "intro3": "Due regole che condividiamo al ritiro. Primo, l’aeroporto TIV è a soli cinque minuti e quasi certamente non serve dimensionare l’auto per l’aeroporto, ci siete già arrivati. Scegliete piuttosto per Luštica, Kotor e Dubrovnik. Secondo, pensate al carburante. Una settimana di guida intorno alla marina di Porto Montenegro più gite giornaliere fa in media circa 400 km; su una Yaris Hybrid sono meno di 40 € di benzina, su una 308 diesel circa 45 €, su una Fiat 500 sui 50 €. Tutte le auto qui sotto sono economiche da gestire per gli standard europei, la scelta dipende infine dal bagagliaio, dalla posizione di guida e dal fatto che il tettuccio conti in un pomeriggio a Luštica.",
     "ogImageAlt": "Flotta noleggio Tivat"
   },
   "locationsSection": {
@@ -1113,11 +1113,11 @@
     "preferenceLabel": "Cookie di preferenza:",
     "preferenceText": "ricordano le tue selezioni di lingua e località",
     "h3ThirdParty": "Cookie di terze parti",
-    "thirdPartyIntro": "Il nostro widget di prenotazione auto a noleggio (fornito da LocalRent) può impostare cookie per:",
+    "thirdPartyIntro": "Il nostro widget di prenotazione auto (fornito dal nostro partner di prenotazione) può impostare cookie per:",
     "thirdParty1": "Ricordare le tue preferenze di ricerca (date, località)",
     "thirdParty2": "Mantenere la tua sessione durante il processo di prenotazione",
     "thirdParty3": "Tracciare i referral di affiliazione",
-    "thirdPartyOutro": "Questi cookie sono impostati da LocalRent e sono regolati dalla loro informativa sulla privacy.",
+    "thirdPartyOutro": "Questi cookie sono impostati dal nostro partner di prenotazione e sono regolati dalla sua informativa sulla privacy.",
     "h2Managing": "Gestione dei cookie",
     "managingIntro": "Puoi controllare i cookie tramite le impostazioni del browser. La maggior parte dei browser ti consente di:",
     "managing1": "Vedere quali cookie sono memorizzati",
@@ -1135,7 +1135,7 @@
     "whoText": "Tivat Car Hire opera come partner affiliato indipendente che mette in contatto i viaggiatori con i fornitori di noleggio auto a Tivat, Montenegro. Il nostro sito si trova all'indirizzo tivatcarhire.com. Quando usi il nostro sito, possiamo raccogliere determinate informazioni come descritto di seguito.",
     "h2Collect": "Quali informazioni raccogliamo",
     "h3YouProvide": "Informazioni che fornisci",
-    "youProvideText": "Quando utilizzi il nostro modulo di ricerca, raccogliamo il luogo di ritiro, le date e gli orari che inserisci per trovare i veicoli disponibili. Queste informazioni vengono passate al nostro partner (LocalRent) per generare i risultati di ricerca. Non raccogliamo né memorizziamo i dettagli di pagamento, tutti i pagamenti sono elaborati direttamente dal fornitore di noleggio.",
+    "youProvideText": "Quando utilizza il nostro modulo di ricerca, raccogliamo il luogo di ritiro, le date e gli orari inseriti per trovare i veicoli disponibili. Queste informazioni vengono trasmesse al nostro partner di prenotazione per generare i risultati di ricerca. Non raccogliamo né conserviamo dati di pagamento, tutti i pagamenti sono gestiti direttamente dal noleggiatore.",
     "h3Auto": "Informazioni raccolte automaticamente",
     "usageLabel": "Dati di utilizzo:",
     "usageText": "pagine visitate, tempo trascorso sul sito, sito web di provenienza",
@@ -1150,7 +1150,7 @@
     "use4": "Per rispondere alle richieste tramite WhatsApp, Viber o email",
     "h2ThirdParty": "Servizi di terze parti",
     "thirdPartyIntro": "Il nostro sito utilizza i seguenti servizi di terze parti:",
-    "localRentLabel": "LocalRent:",
+    "localRentLabel": "Partner di prenotazione:",
     "localRentText": "widget di prenotazione auto a noleggio, elabora le tue ricerche e gestisce tutte le prenotazioni e i pagamenti",
     "vercelLabel": ":",
     "vercelText": "hosting del sito web",
@@ -1158,7 +1158,7 @@
     "pexelsText": "fotografia di stock",
     "thirdPartyOutro": "Ognuno di questi servizi ha la propria informativa sulla privacy che regola il modo in cui gestisce i dati.",
     "h2Cookies": "Cookie",
-    "cookiesPre": "Utilizziamo un minimo di cookie necessari al funzionamento del sito. Il widget di prenotazione LocalRent può impostare i propri cookie per la gestione della sessione e le preferenze. Consulta la nostra",
+    "cookiesPre": "Utilizziamo cookie minimi necessari al funzionamento del sito. Il widget di prenotazione può impostare propri cookie per la gestione della sessione e le preferenze. Si veda la nostra",
     "cookiesLink": "Informativa sui cookie",
     "cookiesPost": "per i dettagli.",
     "h2Rights": "I tuoi diritti",
@@ -1174,9 +1174,9 @@
     "lastUpdatedLabel": "Ultimo aggiornamento:",
     "lastUpdatedDate": "Aprile 2026",
     "h2About": "Informazioni su questo sito",
-    "pAbout": "Tivat Car Hire (tivatcarhire.com) è un sito affiliato che mette in contatto i viaggiatori con servizi di noleggio auto a Tivat, Montenegro. Non siamo una società di noleggio auto, collaboriamo con LocalRent per fornire disponibilità in tempo reale e servizi di prenotazione.",
+    "pAbout": "Tivat Car Hire (tivatcarhire.com) è un sito affiliato che mette in contatto i viaggiatori con i servizi di noleggio auto a Tivat, in Montenegro. Non siamo una società di noleggio auto, collaboriamo con un partner di prenotazione locale per offrire disponibilità e prenotazione in tempo reale.",
     "h2Booking": "Termini di prenotazione e noleggio",
-    "pBooking1": "Tutte le prenotazioni di noleggio auto effettuate tramite il nostro sito vengono elaborate ed evase dal nostro partner, LocalRent. Quando si completa una prenotazione, si stipula un contratto di noleggio direttamente con il fornitore del veicolo, non con Tivat Car Hire.",
+    "pBooking1": "Tutte le prenotazioni di noleggio effettuate tramite il nostro sito sono gestite ed evase dal nostro partner di prenotazione. Quando completa una prenotazione, stipula il contratto di noleggio direttamente con il fornitore del veicolo, non con Tivat Car Hire.",
     "pBooking2": "Le condizioni di noleggio, comprese le politiche di cancellazione, la copertura assicurativa, i requisiti di età e le condizioni di pagamento, sono stabilite dal fornitore del veicolo e visualizzate durante il processo di prenotazione. Consigliamo di leggere attentamente questi termini prima di confermare qualsiasi prenotazione.",
     "h2Role": "Il nostro ruolo",
     "pRoleProvide": "Forniamo:",

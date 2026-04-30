@@ -60,7 +60,7 @@
   "fleet": {
     "label": "Naša Flota",
     "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Cijene uživo, zalihe u realnom vremenu, ono što vidite je ono što je na pisti u TIV."
+    "subtitle": "Cijene uživo, besplatno otkazivanje, puno osiguranje, ono što vidite je ono što je na pisti u TIV."
   },
   "brands": {
     "label": "Provjereni brendovi u našoj floti"
@@ -158,7 +158,7 @@
     "promise3": "Bez skrivenih naknada, cijena koju vidite je cijena koju plaćate",
     "promise4": "Prelazak granice dozvoljeni prema Hrvatskoj, Bosni, Albaniji, Srbiji i Kosovu",
     "promise5": "Besplatna otkazivanja na većini rezervacija",
-    "promise6": "Pomoć na putu 24/7 tokom cijelog putovanja",
+    "promise6": " tokom cijelog vašeg putovanja",
     "localTitle": "Lokalno znanje",
     "localText": "Smešteni u Tivatu, poznajemo puteve, najbolje rute i skrivene biser koje vodič ne spominje. Bez obzira da li vozite sa",
     "localLink1": "Aerodroma Tivat",
@@ -242,7 +242,7 @@
     },
     "fullInsurance": {
       "title": "Potpuno osiguranje uključeno",
-      "desc": "CDW i zaštita od krađe u svakoj rezervaciji. Odaberite opciju nulte franšize prije vožnje kroz Vrmački tunel ili serpentine puta prema Herceg Novom."
+      "desc": "Svaka rezervacija uključuje puno osiguranje. Nadogradite na pokriće bez učešća za potpuni mir na planinskim putevima i šljunčanim stazama."
     },
     "support": {
       "title": "Pomoć na putu 24/7",
@@ -287,7 +287,7 @@
     },
     "3": {
       "q": "Šta je uključeno u cijenu iznajmljivanja?",
-      "a": "CDW i zaštita od krađe, PDV, oprema (komplet prve pomoći, trougao upozorenja, reflektujući prsluk) i transparentna politika goriva. Uslovi kilometraže variraju po vozilu, neka su neograničena, druga imaju dnevni limit naveden u oglasu."
+      "a": "Puno osiguranje, PDV, oprema (komplet prve pomoći, sigurnosni trougao, reflektujući prsluk) i transparentna politika goriva. Uslovi kilometraže se razlikuju po vozilu, neka imaju neograničenu kilometražu, druga dnevni limit naveden u oglasu."
     },
     "4": {
       "q": "Kako funkcioniše preuzimanje na aerodromu Tivat?",
@@ -356,12 +356,12 @@
     "h3": "Šta nudimo",
     "p3": "Preuzmite prtljag, izađite kroz vrata terminala, pređite preko prilazne trake do kratkotrajnog parkinga. Naš agent je tu sa Vašim ključevima i dokumentima. Potpišite, namjestite retrovizore i krenite. Desno prema Budvi kroz tunel Vrmac, lijevo duž zaliva prema Kotoru i Perastu ili pravo prema Porto Montenegru i Luštici. Jugopetrol pumpa je 800 metara dalje glavnim putem ako želite da natočite gorivo prije polaska.",
     "promiseTitle": "Naše obećanje",
-    "promise1": "Potpuno osiguranje sa opcijom nulte franšize",
+    "promise1": "Puno osiguranje, dostupna nadogradnja na nula učešća",
     "promise2": "Dočekivanje na kratkotrajnom parkingu TIV, 40 m od terminala",
     "promise3": "Transparentne cijene, iznos na kasi je konačan iznos",
     "promise4": "Prekogranična zelena karta za Hrvatsku, Bosnu, Albaniju, Srbiju, Kosovo",
     "promise5": "Besplatno otkazivanje za većinu rezervacija",
-    "promise6": "Pomoć na putu 24/7 tokom cijelog putovanja",
+    "promise6": " linija sa lokalnim mehaničarima",
     "h4": "Lokalno znanje",
     "p4": "Ove puteve vozimo svakodnevno. Znamo da tunel Vrmac vožnju do Kotora skraćuje na 12 minuta, da trajekt Verige preko ulaza u zaliv štedi 45 minuta u odnosu na dugi put do Herceg Novog, da je pumpa Radanovići posljednje stajalište prije rivijere Budve, i da se parking Tabačina u Kotoru u julu puni već do 10 ujutru. Pitajte nas bilo šta pri preuzimanju, savjeti o rutama su besplatni i neograničeni.",
     "h5": "Kontaktirajte nas",
@@ -1076,11 +1076,11 @@
   },
   "fleetIndex": {
     "title": "Naša flota u Tivtu",
-    "subtitle": "Sedam rent-a-car automobila izabranih za život u marini Porto Montenegro, Luštičko poluostrvo i trajekt Lepetane–Kamenari.",
+    "subtitle": "Kompaktni gradski automobili, hečbeci, limuzine, SUV-ovi i kombi vozila izabrani za život u marini Porto Montenegro, Luštičko poluostrvo i trajekt Lepetane-Kamenari.",
     "seoDesc": "Rent-a-car u Tivtu i marini Porto Montenegro, sedam vozila izabranih za parking u marini, obalne puteve Luštice i trajekt Lepetane–Kamenari.",
-    "intro1": "Ova flota je podešena za ritam tivatske gradske sedmice, a ne za aerodromsko-dolaznu sedmicu. Većina naših gostiju se smjesti u stanu u Porto Montenegru ili vili u Donjoj Lastvi i želi auto dimenzioniran za marina-bokseve, obilježena mjesta na Pine Walku i usku obalnu rešetku iznad Glavnog trga u Tivtu. Sedam automobila ispod su oni koji stvarno rade: kompaktni Clio i Polo za trčanje u prodavnicu, Fiat 500 kada je parkiranje pravo ograničenje, hibridni Yaris za tihe jutra u marini, i 308 ili Megane kada luštički porodični dan ili trajektni prelazak u Dubrovnik traži veći prtljažnik.",
+    "intro1": "Ova flota je odabrana za ritam tivatske gradske sedmice, a ne za sedmicu dolazaka na aerodrom. Većina gostiju boravi u apartmanu u Porto Montenegru ili vili u Donjoj Lastvi i traži auto koji staje u marina-parkinge, na obilježena mjesta uz Pine Walk i u uzanu obalsku mrežu iznad glavnog tivatskog trga. Automobili u nastavku su ono što stvarno funkcioniše: kompaktni Clio i Polo za sitnu kupovinu, Fiat 500 kad je parking pravi problem, Yaris hybrid za tihe marina jutra, te 308 ili Mégane kad porodični izlet na Luštici ili prelazak trajektom za Dubrovnik traže veći prtljažnik.",
     "intro2": "Tivatska geografija nagrađuje pravu veličinu. Plativi lotovi Porto Montenegra koštaju 2–3 € po satu, a uži prvospratni boksovi u samom kompleksu odbijaju sve preko 4,1 metar bez dva pokušaja. Obalni put preko Donje Lastve do rampe trajekta Lepetane traje petnaest minuta, a sam trajekt prelazi Verige prema Kamenarima svakih petnaest minuta, prevoženje srednjeg dizela preko je udobno, mali ekonomski auto je savršeno u redu, a Fiat 500 je pravo zadovoljstvo. Ista geometrija se ponavlja na luštičkom putu prema Krašićima, Đuraševićima i plažama Plavi Horizont: cio put asfaltiran, ali dovoljno uzak da VW Golf plati rafiniranost mijenjanjem bokseva.",
-    "intro3": "Dva pravila pri preuzimanju. Prvo: aerodrom TIV je samo pet minuta i skoro sigurno ne morate dimenzionisati auto za aerodrom, već ste stigli. Birajte za Lušticu, Kotor i Dubrovnik umjesto toga. Drugo: razmišljajte o gorivu. Sedmica vožnje bazirane u Porto Montenegru plus jednodnevni izleti iznose oko 400 km; na Yaris Hybrid to je ispod 40 € u benzinu, na dizel 308 oko 45 €, na Fiat 500 oko 50. Svih sedam automobila ispod su jeftini za održavanje po evropskim standardima, ali izbor između njih na kraju se svodi na prtljažnik, vozačku poziciju i da li vam krov-otvor znači na luštičkom popodnevu.",
+    "intro3": "Dva pravila koja dijelimo pri preuzimanju. Prvo, aerodrom TIV je samo pet minuta dalje i gotovo sigurno ne morate birati auto prema aerodromu, već ste sletjeli. Birajte za Lušticu, Kotor i Dubrovnik. Drugo, mislite na potrošnju. Sedmica vožnje oko marine Porto Montenegro plus jednodnevni izleti u prosjeku iznosi oko 400 km; na Yaris hybridu to je ispod 40 € benzina, na dizel 308 oko 45 €, a na Fiatu 500 oko 50 €. Svi automobili ispod su jeftini za održavanje po evropskim standardima, izbor među njima na kraju zavisi od prtljažnika, položaja za vožnju i toga da li vam je krovni prozor bitan u poslijepodnevu na Luštici.",
     "ogImageAlt": "Flota za iznajmljivanje u Tivtu"
   },
   "locationsSection": {
@@ -1113,11 +1113,11 @@
     "preferenceLabel": "Kolačići preferencija:",
     "preferenceText": "pamte vaš odabir jezika i lokacije",
     "h3ThirdParty": "Kolačići trećih strana",
-    "thirdPartyIntro": "Naš vidžet za rezervaciju iznajmljivanja vozila (pruža LocalRent) može postavljati kolačiće za:",
+    "thirdPartyIntro": "Naš widget za rezervaciju automobila (koji obezbjeđuje naš partner za rezervacije) može postaviti kolačiće kako bi:",
     "thirdParty1": "Pamćenje vaših preferencija pretrage (datumi, lokacija)",
     "thirdParty2": "Održavanje vaše sesije tokom procesa rezervacije",
     "thirdParty3": "Praćenje partnerskih preporuka",
-    "thirdPartyOutro": "Ove kolačiće postavlja LocalRent i regulisani su njihovom politikom privatnosti.",
+    "thirdPartyOutro": "Ove kolačiće postavlja naš partner za rezervacije i regulisani su njegovom politikom privatnosti.",
     "h2Managing": "Upravljanje kolačićima",
     "managingIntro": "Kolačiće možete kontrolisati kroz podešavanja pretraživača. Većina pretraživača vam omogućava da:",
     "managing1": "Vidite koji su kolačići sačuvani",
@@ -1135,7 +1135,7 @@
     "whoText": "Tivat Car Hire posluje kao nezavisni partnerski sajt koji povezuje putnike sa kompanijama za iznajmljivanje vozila u Budvi, Crna Gora. Naša web stranica se nalazi na adresi tivatcarhire.com. Kada koristite naš sajt, možemo prikupljati određene informacije kao što je opisano u nastavku.",
     "h2Collect": "Koje informacije prikupljamo",
     "h3YouProvide": "Informacije koje vi pružate",
-    "youProvideText": "Kada koristite našu formu za pretragu, prikupljamo lokaciju preuzimanja, datume i vremena koje unosite kako bismo pronašli dostupna vozila. Ove informacije prosljeđuju se našem partneru (LocalRent) za generisanje rezultata pretrage. Ne prikupljamo niti čuvamo podatke o plaćanju, sve uplate obrađuje direktno pružalac usluga iznajmljivanja.",
+    "youProvideText": "Kada koristite našu formu za pretragu, prikupljamo lokaciju preuzimanja, datume i vrijeme koje unesete kako bismo pronašli raspoloživa vozila. Te informacije prosljeđujemo našem partneru za rezervacije radi generisanja rezultata pretrage. Ne prikupljamo niti čuvamo podatke o plaćanju, sve uplate obrađuje direktno rent-a-car partner.",
     "h3Auto": "Informacije koje se prikupljaju automatski",
     "usageLabel": "Podaci o korišćenju:",
     "usageText": "posjećene stranice, vrijeme provedeno na sajtu, web stranica sa koje ste došli",
@@ -1150,7 +1150,7 @@
     "use4": "Da bismo odgovorili na upite preko WhatsApp-a, Viber-a ili emaila",
     "h2ThirdParty": "Usluge trećih strana",
     "thirdPartyIntro": "Naš sajt koristi sljedeće usluge trećih strana:",
-    "localRentLabel": "LocalRent:",
+    "localRentLabel": "Partner za rezervacije:",
     "localRentText": "vidžet za rezervaciju iznajmljivanja vozila, obrađuje vaše upite za pretragu i upravlja svim rezervacijama i plaćanjima",
     "vercelLabel": ":",
     "vercelText": "hosting web sajta",
@@ -1158,7 +1158,7 @@
     "pexelsText": "stok fotografija",
     "thirdPartyOutro": "Svaka od ovih usluga ima vlastitu politiku privatnosti koja reguliše kako rukuju podacima.",
     "h2Cookies": "Kolačići",
-    "cookiesPre": "Koristimo minimalan broj kolačića neophodnih za funkcionisanje sajta. LocalRent vidžet za rezervaciju može postavljati svoje kolačiće za upravljanje sesijom i preferencijama. Pogledajte našu",
+    "cookiesPre": "Koristimo minimalne kolačiće neophodne za rad sajta. Widget za rezervacije može postaviti vlastite kolačiće za upravljanje sesijom i preferencije. Pogledajte našu",
     "cookiesLink": "Politiku kolačića",
     "cookiesPost": "za detalje.",
     "h2Rights": "Vaša prava",
@@ -1174,9 +1174,9 @@
     "lastUpdatedLabel": "Posljednje ažuriranje:",
     "lastUpdatedDate": "April 2026",
     "h2About": "O ovoj veb stranici",
-    "pAbout": "Tivat Car Hire (tivatcarhire.com) je partnerska veb stranica koja povezuje putnike sa uslugama iznajmljivanja automobila u Budvi, Crna Gora. Nismo kompanija za iznajmljivanje automobila, sarađujemo sa LocalRent kako bismo obezbijedili dostupnost u realnom vremenu i usluge rezervacije.",
+    "pAbout": "Tivat Car Hire (tivatcarhire.com) je partnerski sajt koji povezuje putnike sa rent-a-car uslugama u Tivtu, Crna Gora. Nismo rent-a-car kompanija, sarađujemo sa lokalnim partnerom za rezervacije kako bismo pružili dostupnost i rezervaciju u realnom vremenu.",
     "h2Booking": "Uslovi rezervacije i iznajmljivanja",
-    "pBooking1": "Sve rezervacije iznajmljivanja automobila izvršene putem naše stranice obrađuje i ispunjava naš partner, LocalRent. Kada završite rezervaciju, sklapate ugovor o iznajmljivanju direktno sa pružaocem vozila, a ne sa Tivat Car Hire.",
+    "pBooking1": "Sve rezervacije za rent-a-car obavljene preko našeg sajta obrađuje i realizuje naš partner za rezervacije. Kada završite rezervaciju, ulazite u ugovor o iznajmljivanju direktno sa pružaocem vozila, a ne sa Tivat Car Hire.",
     "pBooking2": "Uslove iznajmljivanja, uključujući politike otkazivanja, osiguranje, starosne uslove i uslove plaćanja, postavlja pružalac vozila i prikazani su tokom procesa rezervacije. Preporučujemo da pažljivo pročitate ove uslove prije potvrde bilo kakve rezervacije.",
     "h2Role": "Naša uloga",
     "pRoleProvide": "Pružamo:",
