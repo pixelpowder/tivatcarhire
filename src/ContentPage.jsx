@@ -3,11 +3,22 @@ import { usePathname } from 'next/navigation';
 import Nav from './Nav';
 import Footer from './Footer';
 import useTranslation from './i18n/useTranslation';
+import { FLEET_SLUG_TO_CAR_IDS } from './data/fleetCars';
 import './ContentPage.css';
 
 export default function ContentPage({ title, subtitle, image, description, children }) {
   const pathname = usePathname();
   const { t, localePath } = useTranslation();
+  // When on a /cars/<slug> page, the sidebar "Book Your Car" button
+  // should land users on the booking listing pre-filtered to that
+  // specific model rather than the whole fleet. Match the slug from
+  // the pathname (handles both /cars/<slug> and /<lang>/cars/<slug>),
+  // and only deeplink when the slug exists in the shared fleet map.
+  const carsMatch = pathname && pathname.match(/\/cars\/([^/]+)\/?$/);
+  const carSlug = carsMatch ? carsMatch[1] : null;
+  const bookHref = carSlug && FLEET_SLUG_TO_CAR_IDS[carSlug]
+    ? localePath(`/book?model=${carSlug}`)
+    : localePath('/book');
 
   return (
     <div className="content-page">
@@ -32,7 +43,7 @@ export default function ContentPage({ title, subtitle, image, description, child
           <div className="sidebar-card">
             <h3 className="sidebar-card__title">{t('sidebar.bookTitle')}</h3>
             <p className="sidebar-card__text">{t('sidebar.bookText')}</p>
-            <a href={localePath('/book')} className="sidebar-card__btn">{t('common.searchCars')}</a>
+            <a href={bookHref} className="sidebar-card__btn">{t('common.searchCars')}</a>
           </div>
           <div className="sidebar-card">
             <h3 className="sidebar-card__title">{t('sidebar.helpTitle')}</h3>
