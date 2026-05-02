@@ -1282,11 +1282,10 @@ html[data-theme="dark"] .section-label {
   height: 40px;
   width: auto;
   object-fit: contain;
-  /* Render every logo as a uniform silver silhouette regardless of
-     theme. brightness(0) flattens to black, invert(1) lifts to white,
-     brightness(0.7) tones it down to silver-grey, opacity gives a
-     subtle muted look. Hover restores the original brand colours. */
-  filter: brightness(0) invert(1) brightness(0.7) opacity(0.85);
+  /* Grayscale + brightness adjust per theme so every logo reads as
+     a muted silver. Avoids brightness(0)+invert(1) which destroys
+     white interior detail (Fiat "FIAT" text, Ford oval text, etc). */
+  filter: grayscale(100%) brightness(0.7) contrast(0.85) opacity(0.7);
   transition: filter 0.2s, opacity 0.2s;
   flex-shrink: 0;
 }
@@ -1297,7 +1296,7 @@ html[data-theme="dark"] .section-label {
 }
 
 html[data-theme="dark"] .brand-logo {
-  filter: brightness(0) invert(1) brightness(0.85) opacity(0.7);
+  filter: grayscale(100%) brightness(1.6) contrast(0.85) opacity(0.65);
 }
 html[data-theme="dark"] .brand-logo:hover {
   filter: none;
