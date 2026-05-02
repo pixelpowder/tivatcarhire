@@ -1451,9 +1451,8 @@ html[data-theme="dark"] .brand-logo:hover {
 /* ─── DESTINATIONS ──────────────────────────────────────── */
 .destinations-grid {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(2, 200px);
-  gap: 12px;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
 }
 
 .dest-card {
