@@ -94,7 +94,7 @@
     "bookTitle": "Book Your Car",
     "bookText": "Live availability from TIV, prices update every hour.",
     "helpTitle": "Need Help?",
-    "helpText": "WhatsApp, Viber, or phone, our team replies within minutes.",
+    "helpText": "Send us an email and we will get back to you.",
     "popularDest": "Popular Destinations",
     "tivatAirport": "Tivat Airport",
     "dubrovnikAirport": "Dubrovnik Airport"
@@ -168,7 +168,7 @@
     "localLink3": "Perast",
     "localEnd": ", or heading inland to Durmitor National Park, we can help you plan the perfect road trip.",
     "contactTitle": "Get in Touch",
-    "contactText": "Have a question about renting a car from Tivat? We're available via phone, WhatsApp, and Viber. Search our fleet online and book in minutes, or reach out and we'll help you find the perfect car for your trip."
+    "contactText": "Have a question about renting a car from Tivat? We're available via email. Search our fleet online and book in minutes, or reach out and we'll help you find the perfect car for your trip."
   },
   "kotor": {
     "title": "Tivat to Kotor Car Hire",
@@ -365,7 +365,7 @@
     "h4": "Built for Marina-Base Trips",
     "p4": "We work the Tivat side of the bay daily. Roof racks load with Lustica kayaks and SUPs the night before a Plavi Horizonti run. The booster seat slot is busy with Tivat-base families heading to school then the beach. Theft Protection is the box yacht owners tick when the rental is parked overnight on a Porto Montenegro perimeter bay. The wireless hotspot keeps superyacht crew connected on the long-stay weeks the marina fills with. Ask us at pickup which extras the route actually needs, route advice is free and unlimited.",
     "h5": "Get in Touch",
-    "p5": "Questions before you fly? WhatsApp, Viber, or phone, we reply within minutes during operating hours. Search the fleet online, lock in a price, and your car will be waiting in the TIV car park when your flight touches down.",
+    "p5": "Questions before you fly? email, we reply within minutes during operating hours. Search the fleet online, lock in a price, and your car will be waiting in the TIV car park when your flight touches down.",
     "imgAlt1": "Tivat Airport terminal building",
     "imgAlt2": "Bay of Kotor from the road"
   },
@@ -1147,7 +1147,7 @@
     "use1": "To connect you with car rental availability and pricing",
     "use2": "To improve our website and user experience",
     "use3": "To understand how visitors use our site (analytics)",
-    "use4": "To respond to enquiries via WhatsApp, Viber, or email",
+    "use4": "To respond to enquiries via email",
     "h2ThirdParty": "Third-Party Services",
     "thirdPartyIntro": "Our website uses the following third-party services:",
     "localRentLabel": "Booking partner:",

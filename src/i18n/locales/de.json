@@ -94,7 +94,7 @@
     "bookTitle": "Ihr Auto buchen",
     "bookText": "Echtzeit-Verfügbarkeit und Preise in ganz Montenegro durchsuchen.",
     "helpTitle": "Brauchen Sie Hilfe?",
-    "helpText": "Unser Team ist per WhatsApp, Viber oder Telefon erreichbar.",
+    "helpText": "Schreiben Sie uns eine E-Mail und wir melden uns zurück.",
     "popularDest": "Beliebte Reiseziele",
     "tivatAirport": "Flughafen Tivat",
     "dubrovnikAirport": "Flughafen Dubrovnik"
@@ -365,7 +365,7 @@
     "h4": "Lokales Wissen",
     "p4": "Wir fahren diese Straßen täglich. Wir wissen, dass der Vrmac-Tunnel die Fahrt nach Kotor auf 12 Minuten verkürzt, dass die Verige-Fähre über die Buchtöffnung 45 Minuten gegenüber dem langen Weg nach Herceg Novi spart, dass die Tankstelle Radanovici die letzte Station vor der Riviera Budva ist und dass der Parkplatz Tabacina in Kotor im Juli bereits um 10 Uhr voll ist. Fragen Sie uns bei der Abholung alles, Routenberatung ist kostenlos und unbegrenzt.",
     "h5": "Kontaktieren Sie uns",
-    "p5": "Fragen vor dem Flug? WhatsApp, Viber oder Telefon, wir antworten während der Servicezeiten innerhalb von Minuten. Stöbern Sie online in der Flotte, sichern Sie sich einen Preis, und Ihr Fahrzeug wartet auf dem TIV-Parkplatz, sobald Ihr Flugzeug landet.",
+    "p5": "Fragen vor dem Flug? per E-Mail, wir antworten während der Servicezeiten innerhalb von Minuten. Stöbern Sie online in der Flotte, sichern Sie sich einen Preis, und Ihr Fahrzeug wartet auf dem TIV-Parkplatz, sobald Ihr Flugzeug landet.",
     "imgAlt1": "Terminal des Flughafens Tivat",
     "imgAlt2": "Bucht von Kotor von der Straße aus"
   },
@@ -1147,7 +1147,7 @@
     "use1": "Um Sie mit Verfügbarkeit und Preisen von Mietwagen zu verbinden",
     "use2": "Um unsere Website und Benutzererfahrung zu verbessern",
     "use3": "Um zu verstehen, wie Besucher unsere Website nutzen (Analyse)",
-    "use4": "Um Anfragen über WhatsApp, Viber oder E-Mail zu beantworten",
+    "use4": "Um Anfragen über per E-Mail oder E-Mail zu beantworten",
     "h2ThirdParty": "Dienste von Drittanbietern",
     "thirdPartyIntro": "Unsere Website verwendet die folgenden Dienste von Drittanbietern:",
     "localRentLabel": "Buchungspartner:",

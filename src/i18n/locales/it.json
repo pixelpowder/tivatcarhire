@@ -94,7 +94,7 @@
     "bookTitle": "Prenota la Tua Auto",
     "bookText": "Cerca disponibilità e prezzi in tempo reale in tutto il Montenegro.",
     "helpTitle": "Hai Bisogno di Aiuto?",
-    "helpText": "Il nostro team è disponibile via WhatsApp, Viber o telefono.",
+    "helpText": "Inviaci un'email e ti risponderemo a breve.",
     "popularDest": "Destinazioni Popolari",
     "tivatAirport": "Aeroporto di Tivat",
     "dubrovnikAirport": "Aeroporto di Dubrovnik"
@@ -365,7 +365,7 @@
     "h4": "Conoscenza locale",
     "p4": "Percorriamo queste strade ogni giorno. Sappiamo che il tunnel di Vrmac riduce il tragitto verso Kotor a 12 minuti, che il traghetto Verige attraverso la bocca della baia fa risparmiare 45 minuti rispetto alla lunga strada per Herceg Novi, che la stazione Radanovici è l'ultima sosta prima della riviera di Budva, e che il parcheggio Tabacina di Kotor si riempie entro le 10 del mattino a luglio. Ci chieda qualsiasi cosa al ritiro, i consigli sul percorso sono gratuiti e illimitati.",
     "h5": "Contattaci",
-    "p5": "Ha domande prima di volare? WhatsApp, Viber o telefono, rispondiamo in pochi minuti durante gli orari operativi. Scorra la flotta online, blocchi un prezzo, e la Sua auto La aspetterà nel parcheggio TIV non appena il Suo volo atterrerà.",
+    "p5": "Ha domande prima di volare? via email, rispondiamo in pochi minuti durante gli orari operativi. Scorra la flotta online, blocchi un prezzo, e la Sua auto La aspetterà nel parcheggio TIV non appena il Suo volo atterrerà.",
     "imgAlt1": "Edificio del terminal dell aeroporto di Tivat",
     "imgAlt2": "Bocche di Cattaro dalla strada"
   },
@@ -1147,7 +1147,7 @@
     "use1": "Per metterti in contatto con disponibilità e prezzi delle auto a noleggio",
     "use2": "Per migliorare il nostro sito e l'esperienza dell'utente",
     "use3": "Per capire come i visitatori usano il nostro sito (analisi)",
-    "use4": "Per rispondere alle richieste tramite WhatsApp, Viber o email",
+    "use4": "Per rispondere alle richieste tramite via email o email",
     "h2ThirdParty": "Servizi di terze parti",
     "thirdPartyIntro": "Il nostro sito utilizza i seguenti servizi di terze parti:",
     "localRentLabel": "Partner di prenotazione:",

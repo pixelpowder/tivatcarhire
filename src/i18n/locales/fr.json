@@ -94,7 +94,7 @@
     "bookTitle": "Réservez Votre Voiture",
     "bookText": "Recherchez la disponibilité et les prix en temps réel à travers le Monténégro.",
     "helpTitle": "Besoin d'Aide ?",
-    "helpText": "Notre équipe est disponible via WhatsApp, Viber ou téléphone.",
+    "helpText": "Écrivez-nous un email et nous vous répondrons rapidement.",
     "popularDest": "Destinations Populaires",
     "tivatAirport": "Aéroport de Tivat",
     "dubrovnikAirport": "Aéroport de Dubrovnik"
@@ -365,7 +365,7 @@
     "h4": "Connaissance locale",
     "p4": "Nous parcourons ces routes chaque jour. Nous savons que le tunnel de Vrmac ramène le trajet vers Kotor à 12 minutes, que le ferry Verige à l'embouchure de la baie fait gagner 45 minutes par rapport à la longue route de Herceg Novi, que la station Radanovici est la dernière avant la riviera de Budva, et que le parking Tabacina de Kotor est plein dès 10 heures en juillet. Posez nous toutes vos questions à la prise en charge, les conseils d'itinéraire sont gratuits et illimités.",
     "h5": "Contactez-nous",
-    "p5": "Des questions avant de décoller? WhatsApp, Viber ou téléphone, nous répondons en quelques minutes pendant les heures d'ouverture. Parcourez la flotte en ligne, bloquez un tarif, et votre voiture vous attendra sur le parking TIV dès que votre vol atterrira.",
+    "p5": "Des questions avant de décoller? par email, nous répondons en quelques minutes pendant les heures d'ouverture. Parcourez la flotte en ligne, bloquez un tarif, et votre voiture vous attendra sur le parking TIV dès que votre vol atterrira.",
     "imgAlt1": "Bâtiment du terminal de l aéroport de Tivat",
     "imgAlt2": "Baie de Kotor depuis la route"
   },
@@ -1147,7 +1147,7 @@
     "use1": "Pour vous mettre en relation avec la disponibilité et les tarifs des locations",
     "use2": "Pour améliorer notre site et l'expérience utilisateur",
     "use3": "Pour comprendre comment les visiteurs utilisent notre site (analyse)",
-    "use4": "Pour répondre aux demandes via WhatsApp, Viber ou e-mail",
+    "use4": "Pour répondre aux demandes par email ou e-mail",
     "h2ThirdParty": "Services tiers",
     "thirdPartyIntro": "Notre site utilise les services tiers suivants :",
     "localRentLabel": "Partenaire de réservation :",
