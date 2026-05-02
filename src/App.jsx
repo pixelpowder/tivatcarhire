@@ -574,8 +574,8 @@ function Fleet() {
                 }}
                 onMouseEnter={e => {
                   e.currentTarget.style.transform = 'translateY(-2px)';
-                  e.currentTarget.style.boxShadow = '0 8px 20px rgba(0,98,227,0.12)';
-                  e.currentTarget.style.borderColor = 'rgba(0,98,227,0.25)';
+                  e.currentTarget.style.boxShadow = '0 8px 20px rgba(232,93,4,0.18)';
+                  e.currentTarget.style.borderColor = 'rgba(232,93,4,0.35)';
                 }}
                 onMouseLeave={e => {
                   e.currentTarget.style.transform = '';
@@ -603,13 +603,13 @@ function Fleet() {
                   {!image && car.category}
                 </div>
                 <div style={{ padding: '16px 18px 18px', display: 'flex', flexDirection: 'column', gap: '4px' }}>
-                  <span style={{ fontSize: '11px', fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase', color: '#0062e3' }}>
+                  <span style={{ fontSize: '11px', fontWeight: 700, letterSpacing: '0.08em', textTransform: 'uppercase', color: 'var(--blue)' }}>
                     {car.category}
                   </span>
-                  <span style={{ fontSize: '18px', fontWeight: 700, color: 'rgb(5,32,60)', letterSpacing: '-0.01em' }}>
+                  <span style={{ fontSize: '18px', fontWeight: 700, color: 'var(--navy)', letterSpacing: '-0.01em' }}>
                     {car.name}
                   </span>
-                  <span style={{ marginTop: '8px', fontSize: '13px', fontWeight: 600, color: '#0062e3' }}>
+                  <span style={{ marginTop: '8px', fontSize: '13px', fontWeight: 600, color: 'var(--blue)' }}>
                     {t('fleet.bookCta') || 'Book this car'} →
                   </span>
                 </div>
