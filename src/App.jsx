@@ -549,7 +549,12 @@ function Fleet() {
         }}>
           {cars.map((car) => {
             const localCar = car.siteSlug ? slugMap[car.siteSlug] : null;
-            const image = (localCar && localCar.image) || car.image || null;
+            // Image resolution priority: site-specific siteConfig.cars
+            // image, then explicit car.image in fleetCars.js, then derive
+            // from the slug as a fallback so cards don't render without
+            // a hero photo when this site's siteConfig doesn't carry the
+            // model in question.
+            const image = (localCar && localCar.image) || car.image || `/img/fleet/${car.slug}.jpg`;
             const href = car.carIds ? localePath(`/book?model=${car.slug}`) : localePath('/book');
             return (
               <a
