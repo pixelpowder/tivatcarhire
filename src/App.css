@@ -1146,6 +1146,25 @@ select.booking-field__input {
   margin-bottom: 56px;
 }
 
+/* Homepage Fleet card — adapts to dark mode via CSS vars so the
+   card body, border and image backdrop all darken together. Hover
+   border / shadow are applied as inline styles by JSX. */
+.fleet-card {
+  display: flex;
+  flex-direction: column;
+  background: var(--white);
+  border: 1px solid var(--gray-200);
+  border-radius: 16px;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.04);
+}
+html[data-theme="dark"] .fleet-card {
+  box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+}
+
 .section-label {
   display: inline-block;
   font-size: 11px;

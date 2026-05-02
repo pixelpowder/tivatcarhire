@@ -560,18 +560,7 @@ function Fleet() {
               <a
                 key={car.id}
                 href={href}
-                style={{
-                  display: 'flex',
-                  flexDirection: 'column',
-                  background: '#fff',
-                  border: '1px solid rgba(0,0,0,0.06)',
-                  borderRadius: '16px',
-                  overflow: 'hidden',
-                  textDecoration: 'none',
-                  color: 'inherit',
-                  transition: 'transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease',
-                  boxShadow: '0 1px 2px rgba(0,0,0,0.04)',
-                }}
+                className="fleet-card"
                 onMouseEnter={e => {
                   e.currentTarget.style.transform = 'translateY(-2px)';
                   e.currentTarget.style.boxShadow = '0 8px 20px rgba(232,93,4,0.18)';
@@ -579,8 +568,8 @@ function Fleet() {
                 }}
                 onMouseLeave={e => {
                   e.currentTarget.style.transform = '';
-                  e.currentTarget.style.boxShadow = '0 1px 2px rgba(0,0,0,0.04)';
-                  e.currentTarget.style.borderColor = 'rgba(0,0,0,0.06)';
+                  e.currentTarget.style.boxShadow = '';
+                  e.currentTarget.style.borderColor = '';
                 }}
               >
                 <div style={{
