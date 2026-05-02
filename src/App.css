@@ -1186,6 +1186,13 @@ html[data-theme="dark"] .fleet-card {
   margin-bottom: 12px;
 }
 
+/* Dark mode: --blue-light flips to a navy in :root[data-theme=dark],
+   which clashes against the orange brand text. Use an orange-tinted
+   pill instead so the label reads on-brand. */
+html[data-theme="dark"] .section-label {
+  background: rgba(232, 93, 4, 0.15);
+}
+
 .section-title {
   font-size: clamp(30px, 4vw, 42px);
   font-weight: 800;
@@ -2095,8 +2102,8 @@ html[data-theme="dark"] .brand-logo:hover {
 }
 
 .cta-btn--outline {
-  background: #fff;
-  color: var(--gray-700);
+  background: var(--white);
+  color: var(--gray-800);
   border: 1.5px solid var(--gray-300);
   border-radius: var(--radius-pill);
   padding: 13px 24px;
