@@ -2630,13 +2630,13 @@ select.booking-field__input {
   line-height: 1;
 }
 .fleet-showcase__tab:hover {
-  color: rgb(0, 98, 227);
-  border-color: rgba(0, 98, 227, 0.4);
+  color: var(--blue);
+  border-color: rgba(232, 93, 4, 0.4);
 }
 .fleet-showcase__tab--active {
-  background: rgb(0, 98, 227);
+  background: var(--blue);
   color: #fff;
-  border-color: rgb(0, 98, 227);
+  border-color: var(--blue);
 }
 .fleet-showcase__tab--active:hover {
   color: #fff;
@@ -2669,7 +2669,7 @@ select.booking-field__input {
 .fleet-showcase__chip:hover {
   box-shadow: 0 10px 28px rgba(5, 32, 60, 0.10);
   transform: translateY(-2px);
-  border-color: rgba(0, 98, 227, 0.35);
+  border-color: rgba(232, 93, 4, 0.35);
 }
 .fleet-showcase__chip-img {
   aspect-ratio: 3/2;
@@ -2686,7 +2686,7 @@ select.booking-field__input {
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: rgb(0, 98, 227);
+  color: var(--blue);
   margin-bottom: 2px;
 }
 .fleet-showcase__chip-name {
@@ -2705,13 +2705,13 @@ select.booking-field__input {
   gap: 6px;
   font-size: 13px;
   font-weight: 700;
-  color: rgb(0, 98, 227);
+  color: var(--blue);
   text-decoration: none;
-  border-bottom: 1px solid rgba(0, 98, 227, 0.3);
+  border-bottom: 1px solid rgba(232, 93, 4, 0.3);
   padding-bottom: 2px;
 }
 .fleet-showcase__all-link:hover {
-  border-bottom-color: rgb(0, 98, 227);
+  border-bottom-color: var(--blue);
 }
 
 /* ─── FLEET INDEX (/cars listing page) ───────────────────── */
@@ -2789,10 +2789,10 @@ select.booking-field__input {
 .fleet-index-card__extra {
   font-size: 11px;
   font-weight: 600;
-  color: rgb(0, 98, 227);
+  color: var(--blue);
   letter-spacing: 0.02em;
 }
-.fleet-index-card__arrow { font-size: 12px; font-weight: 700; color: rgb(0, 98, 227); display: inline-flex; gap: 4px; align-items: center; }
+.fleet-index-card__arrow { font-size: 12px; font-weight: 700; color: var(--blue); display: inline-flex; gap: 4px; align-items: center; }
 
 /* ─── CAR DETAIL PAGE ────────────────────────────────────── */
 /* Pill + lede on a single line, visually aligned.
@@ -2802,8 +2802,8 @@ select.booking-field__input {
   display: block;
   margin: 12px 0 20px;
   padding: 14px 18px;
-  background: rgba(0, 98, 227, 0.06);
-  border: 1px solid rgba(0, 98, 227, 0.15);
+  background: rgba(232, 93, 4, 0.06);
+  border: 1px solid rgba(232, 93, 4, 0.15);
   border-radius: 14px;
   line-height: 1.5;
   font-size: 15px;
@@ -2822,7 +2822,7 @@ select.booking-field__input {
   letter-spacing: 0.08em;
   text-transform: uppercase;
   border-radius: 999px;
-  background: rgb(0, 98, 227);
+  background: var(--blue);
   color: #fff;
   margin-right: 10px;
   position: relative;
@@ -2889,7 +2889,7 @@ select.booking-field__input {
   z-index: 2;
 }
 .car-gallery__arrow:hover {
-  background: rgb(0, 98, 227);
+  background: var(--blue);
   color: #fff;
 }
 .car-gallery__arrow--prev { left: 8px; }
@@ -2955,8 +2955,8 @@ select.booking-field__input {
   opacity: 1;
 }
 .car-gallery__thumb--active::after {
-  border-color: rgb(0, 98, 227);
-  box-shadow: 0 0 0 3px rgba(0, 98, 227, 0.15);
+  border-color: var(--blue);
+  box-shadow: 0 0 0 3px rgba(232, 93, 4, 0.15);
 }
 @media (max-width: 640px) {
   .car-gallery__arrow { width: 34px; height: 34px; }
@@ -2968,13 +2968,13 @@ select.booking-field__input {
 .car-detail-regional {
   margin: 24px 0;
   padding: 20px 24px;
-  background: linear-gradient(135deg, rgba(0, 98, 227, 0.06), rgba(5, 32, 60, 0.03));
-  border-left: 4px solid rgb(0, 98, 227);
+  background: linear-gradient(135deg, rgba(232, 93, 4, 0.06), rgba(5, 32, 60, 0.03));
+  border-left: 4px solid var(--blue);
   border-radius: 12px;
 }
 .car-detail-regional h2 {
   margin-top: 0;
-  color: rgb(0, 98, 227);
+  color: var(--blue);
   font-size: 18px;
 }
 .car-detail-regional p {
@@ -3041,7 +3041,7 @@ select.booking-field__input {
 .car-detail-related__card:hover {
   box-shadow: 0 10px 24px rgba(5, 32, 60, 0.10);
   transform: translateY(-2px);
-  border-color: rgba(0, 98, 227, 0.3);
+  border-color: rgba(232, 93, 4, 0.3);
 }
 .car-detail-related__img {
   aspect-ratio: 16/10;
@@ -3054,7 +3054,7 @@ select.booking-field__input {
   align-items: center;
   justify-content: space-between;
   padding: 12px 14px;
-  color: rgb(0, 98, 227);
+  color: var(--blue);
 }
 .car-detail-related__title {
   font-size: 14px;
@@ -3063,7 +3063,7 @@ select.booking-field__input {
   line-height: 1.3;
 }
 .car-detail-related__body svg {
-  color: rgb(0, 98, 227);
+  color: var(--blue);
   flex-shrink: 0;
 }
 .car-detail-article__section p {
@@ -3097,7 +3097,7 @@ select.booking-field__input {
   background: var(--white);
   text-align: center;
 }
-.car-detail-spec__icon { color: rgb(0, 98, 227); }
+.car-detail-spec__icon { color: var(--blue); }
 .car-detail-spec__label { font-size: 11px; color: var(--gray-700, #495057); text-transform: uppercase; letter-spacing: 0.06em; }
 .car-detail-spec__value { font-size: 15px; font-weight: 700; color: var(--navy, #05203c); }
 .car-detail-bestfor,
@@ -3119,7 +3119,7 @@ select.booking-field__input {
 }
 .car-detail-bestfor svg,
 .car-detail-feature-list svg {
-  color: rgb(0, 98, 227);
+  color: var(--blue);
   flex-shrink: 0;
 }
 .car-detail-cta {
@@ -3137,7 +3137,7 @@ a.car-detail-cta__btn:visited {
   align-items: center;
   gap: 8px;
   padding: 12px 20px;
-  background: rgb(0, 98, 227);
+  background: var(--blue);
   color: #fff !important;
   font-weight: 700;
   font-size: 14px;
@@ -3151,14 +3151,14 @@ a.car-detail-cta__btn:hover { background: rgb(5, 32, 60); color: #fff !important
   align-items: center;
   gap: 6px;
   padding: 12px 20px;
-  color: rgb(0, 98, 227);
+  color: var(--blue);
   font-weight: 700;
   font-size: 14px;
   text-decoration: none;
-  border: 1px solid rgba(0, 98, 227, 0.25);
+  border: 1px solid rgba(232, 93, 4, 0.25);
   border-radius: 10px;
 }
-.car-detail-cta__next:hover { background: rgba(0, 98, 227, 0.06); }
+.car-detail-cta__next:hover { background: rgba(232, 93, 4, 0.06); }
 
 @media (max-width: 640px) {
   .fleet-showcase__grid { grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }

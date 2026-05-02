@@ -56,14 +56,14 @@ export async function POST(request) {
       subject: `[${sitePrefix}] New enquiry from ${name}`,
       html: `
         <div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 600px; margin: 0 auto;">
-          <h2 style="color: #05203c; border-bottom: 2px solid #0062e3; padding-bottom: 8px;">New contact form submission</h2>
+          <h2 style="color: #05203c; border-bottom: 2px solid var(--blue); padding-bottom: 8px;">New contact form submission</h2>
           <p style="background: #f8f9fa; padding: 12px; border-radius: 6px; color: #495057; font-size: 13px;">
             <strong>Site:</strong> ${escape(sitePrefix)}<br>
             <strong>Name:</strong> ${escape(name)}<br>
             <strong>Email:</strong> <a href="mailto:${escape(email)}">${escape(email)}</a>
           </p>
           <h3 style="color: #05203c; margin-top: 24px;">Message</h3>
-          <div style="background: #fff; padding: 16px; border-left: 3px solid #0062e3; color: #212529; line-height: 1.6;">
+          <div style="background: #fff; padding: 16px; border-left: 3px solid var(--blue); color: #212529; line-height: 1.6;">
             ${escape(message).replace(/\n/g, '<br>')}
           </div>
           <p style="margin-top: 24px; color: #6c757d; font-size: 12px;">

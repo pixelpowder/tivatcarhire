@@ -48,7 +48,7 @@ const cardExcerptStyle = {
 const cardLinkStyle = {
   fontSize: '14px',
   fontWeight: 700,
-  color: 'var(--blue, #0770e3)',
+  color: 'var(--blue, var(--blue))',
   textDecoration: 'none',
   display: 'inline-flex',
   alignItems: 'center',

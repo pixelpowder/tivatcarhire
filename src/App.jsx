@@ -791,7 +791,7 @@ function BlogCards() {
                 <p style={{ fontSize: '14px', color: 'var(--gray-600, #6c757d)', lineHeight: 1.6, marginBottom: '16px', flex: 1 }}>
                   {t(`blogIndex.card_${post.key}_excerpt`)}
                 </p>
-                <span style={{ fontSize: '13px', fontWeight: 700, color: 'var(--blue, #0770e3)' }}>
+                <span style={{ fontSize: '13px', fontWeight: 700, color: 'var(--blue, var(--blue))' }}>
                   {t('blogIndex.readGuide')} &rarr;
                 </span>
               </div>
@@ -804,7 +804,7 @@ function BlogCards() {
             style={{
               fontSize: '14px',
               fontWeight: 700,
-              color: 'var(--blue, #0770e3)',
+              color: 'var(--blue, var(--blue))',
               textDecoration: 'none',
             }}
           >
