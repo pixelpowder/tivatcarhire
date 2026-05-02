@@ -1282,20 +1282,22 @@ html[data-theme="dark"] .section-label {
   height: 40px;
   width: auto;
   object-fit: contain;
-  filter: grayscale(100%) opacity(0.35);
-  transition: filter 0.2s;
+  /* Render every logo as a uniform silver silhouette regardless of
+     theme. brightness(0) flattens to black, invert(1) lifts to white,
+     brightness(0.7) tones it down to silver-grey, opacity gives a
+     subtle muted look. Hover restores the original brand colours. */
+  filter: brightness(0) invert(1) brightness(0.7) opacity(0.85);
+  transition: filter 0.2s, opacity 0.2s;
   flex-shrink: 0;
 }
 
 .brand-logo:hover {
-  filter: grayscale(0%) opacity(1);
+  filter: none;
+  opacity: 1;
 }
 
-/* Dark mode: render every brand logo as a light silhouette so the
-   dark-colour ones (Toyota, Citroen, Suzuki, etc.) read against the
-   page background. Hover reveals the original brand colours. */
 html[data-theme="dark"] .brand-logo {
-  filter: brightness(0) invert(1) opacity(0.55);
+  filter: brightness(0) invert(1) brightness(0.85) opacity(0.7);
 }
 html[data-theme="dark"] .brand-logo:hover {
   filter: none;
