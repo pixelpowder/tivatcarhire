@@ -156,7 +156,7 @@ const locationSelectStyles = {
   dropdownIndicator: (base) => ({
     ...base,
     padding: '0',
-    color: 'rgb(13,139,125)',
+    color: 'var(--blue)',
   }),
   menu: (base) => ({
     ...base,
@@ -182,8 +182,8 @@ const locationSelectStyles = {
     ...base,
     fontSize: '14px',
     fontWeight: state.isSelected ? '600' : '400',
-    color: state.isSelected ? 'rgb(13,139,125)' : 'rgb(6,46,42)',
-    background: state.isSelected ? 'rgba(13,139,125,0.08)' : state.isFocused ? 'rgba(13,139,125,0.05)' : 'transparent',
+    color: state.isSelected ? 'var(--blue)' : 'rgb(6,46,42)',
+    background: state.isSelected ? 'rgba(232,93,4,0.10)' : state.isFocused ? 'rgba(232,93,4,0.06)' : 'transparent',
     borderRadius: '6px',
     cursor: 'pointer',
     padding: '10px 12px',

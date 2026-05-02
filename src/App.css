@@ -823,7 +823,7 @@ button.mobile-drawer__theme {
   border-bottom-color: #E85D04 !important;
 }
 .featuring-cool-cars__badge {
-  background-color: rgba(13, 139, 125, 0.15) !important;
+  background-color: rgba(232, 93, 4, 0.15) !important;
   color: #E85D04 !important;
 }
 /* Buttons / CTAs */
@@ -839,8 +839,8 @@ button.mobile-drawer__theme {
 [class*="btn--primary"]:hover,
 .search-form__submit:hover,
 .search-cigarette__submit:hover {
-  background-color: #004fc0 !important;
-  border-color: #004fc0 !important;
+  background-color: var(--blue-dark) !important;
+  border-color: var(--blue-dark) !important;
 }
 
 /* ─── HERO FORM WRAPPER ────────────────────────────────── */
@@ -1032,7 +1032,7 @@ select.booking-field__input {
 }
 
 .booking-card__search {
-  background: rgb(13, 139, 125);
+  background: var(--blue);
   color: var(--on-inverse);
   border: none;
   border-radius: 8px;
