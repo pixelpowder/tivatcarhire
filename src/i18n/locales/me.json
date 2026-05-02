@@ -168,7 +168,7 @@
     "localLink3": "Perasta",
     "localEnd": ", ili krećete u unutrašnjost prema Nacionalnom parku Durmitor, možemo vam pomoći da isplanirate savršeno putovanje automobilom.",
     "contactTitle": "Stupite u kontakt",
-    "contactText": "Imate li pitanja o iznajmljivanju automobila u Tivatu? Dostupni smo putem telefona, WhatsApp i Viber. Pretražite našu flotu na internetu i rezervirajte za nekoliko minuta, ili nam se obratite i pomoći ćemo vam da pronađete savršen automobil za vaše putovanje."
+    "contactText": "Imate li pitanja o iznajmljivanju automobila u Tivatu? Dostupni smo putem e-maila. Pretražite našu flotu na internetu i rezervirajte za nekoliko minuta, ili nam se obratite i pomoći ćemo vam da pronađete savršen automobil za vaše putovanje."
   },
   "kotor": {
     "title": "Rent a Car Kotor",
@@ -993,11 +993,11 @@
   },
   "contact": {
     "title": "Kontaktirajte nas",
-    "seoDesc": "Pitanja o iznajmljivanju u Budvi? Poruka nam preko WhatsApp-a, email-a ili formulara ispod. Odgovori u roku od dva sata radnim danima, istog dana vikendom.",
+    "seoDesc": "Pitanja o iznajmljivanju u Budvi? Poruka nam putem e-mailaa ili formulara ispod. Odgovori u roku od dva sata radnim danima, istog dana vikendom.",
     "heading": "Kontaktirajte nas",
     "intro": "Imate pitanje o iznajmljivanju automobila u Budvi? Javite nam se i pomoći ćemo vam pronaći savršeno vozilo za vaše putovanje.",
     "emailLabel": "E-pošta",
-    "whatsappLabel": "WhatsApp",
+    "whatsappLabel": "Email",
     "chatCta": "Pišite nam",
     "formHeading": "Pošaljite nam poruku",
     "nameLabel": "Vaše ime",
@@ -1089,7 +1089,7 @@
     "subtitle": "Više lokacija širom Crne Gore za maksimalnu udobnost."
   },
   "aria": {
-    "whatsapp": "Razgovor na WhatsApp",
+    "whatsapp": "Email",
     "scrollTop": "Pomjeri na vrh"
   },
   "carSpecs": {
@@ -1147,7 +1147,7 @@
     "use1": "Da bismo vas povezali sa dostupnošću i cijenama iznajmljivanja vozila",
     "use2": "Da bismo unaprijedili naš sajt i korisničko iskustvo",
     "use3": "Da bismo razumjeli kako posjetioci koriste naš sajt (analitika)",
-    "use4": "Da bismo odgovorili na upite preko WhatsApp-a, Viber-a ili emaila",
+    "use4": "Da bismo odgovorili na upite putem e-maila",
     "h2ThirdParty": "Usluge trećih strana",
     "thirdPartyIntro": "Naš sajt koristi sljedeće usluge trećih strana:",
     "localRentLabel": "Partner za rezervacije:",

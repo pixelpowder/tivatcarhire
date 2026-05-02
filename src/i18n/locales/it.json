@@ -168,7 +168,7 @@
     "localLink3": "Perast",
     "localEnd": ", o dirigendoti nell'entroterra verso il Parco Nazionale di Durmitor, possiamo aiutarti a pianificare il viaggio perfetto.",
     "contactTitle": "Contattaci",
-    "contactText": "Hai una domanda sul noleggio di un'auto da Tivat? Siamo disponibili via telefono, WhatsApp e Viber. Cerca la nostra flotta online e prenota in pochi minuti, oppure contattaci e ti aiuteremo a trovare l'auto perfetta per il tuo viaggio."
+    "contactText": "Hai una domanda sul noleggio di un'auto da Tivat? Siamo disponibili via email. Cerca la nostra flotta online e prenota in pochi minuti, oppure contattaci e ti aiuteremo a trovare l'auto perfetta per il tuo viaggio."
   },
   "kotor": {
     "title": "Noleggio Auto a Kotor",
@@ -993,11 +993,11 @@
   },
   "contact": {
     "title": "Contattaci",
-    "seoDesc": "Domande sul noleggio a Tivat? Scrivici su WhatsApp, email o tramite il modulo qui sotto.",
+    "seoDesc": "Domande sul noleggio a Tivat? Scrivici un'email.",
     "heading": "Contattaci",
     "intro": "Hai una domanda sul noleggio auto a Tivat? Contattaci e ti aiuteremo a trovare il veicolo perfetto per il tuo viaggio.",
     "emailLabel": "Email",
-    "whatsappLabel": "WhatsApp",
+    "whatsappLabel": "Email",
     "chatCta": "Scrivici",
     "formHeading": "Inviaci un messaggio",
     "nameLabel": "Il tuo nome",
@@ -1089,7 +1089,7 @@
     "subtitle": "Diverse sedi in tutto il Montenegro per la massima comodità."
   },
   "aria": {
-    "whatsapp": "Chatta su WhatsApp",
+    "whatsapp": "Email",
     "scrollTop": "Torna all'inizio"
   },
   "carSpecs": {

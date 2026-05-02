@@ -3,7 +3,7 @@ import { useState } from 'react';
 import useTranslation from '@/src/i18n/useTranslation';
 import Nav from '@/src/Nav';
 import Footer from '@/src/Footer';
-import { Phone, Mail, MapPin, MessageCircle, CheckCircle2, AlertCircle } from 'lucide-react';
+import { Phone, Mail, MapPin, CheckCircle2, AlertCircle } from 'lucide-react';
 import config from '@/src/siteConfig';
 
 export default function Contact() {
@@ -63,17 +63,7 @@ export default function Contact() {
                   <div style={{ fontSize: '14px', fontWeight: 600 }}>{config.email}</div>
                 </div>
               </a>
-
-              <a href={`https://wa.me/38269000000?text=Hi!%20I%27d%20like%20to%20enquire%20about%20renting%20a%20car%20from%20Tivat.`} target="_blank" rel="noopener noreferrer" style={{ display: 'flex', alignItems: 'center', gap: '12px', padding: '20px', background: 'var(--gray-50)', borderRadius: '12px', textDecoration: 'none', color: 'var(--navy)' }}>
-                <div style={{ width: '40px', height: '40px', borderRadius: '10px', background: '#25d366', display: 'flex', alignItems: 'center', justifyContent: 'center', color: '#fff', flexShrink: 0 }}>
-                  <MessageCircle size={18} />
-                </div>
-                <div>
-                  <div style={{ fontSize: '13px', color: 'var(--gray-500)', marginBottom: '2px' }}>{t('contact.whatsappLabel')}</div>
-                  <div style={{ fontSize: '14px', fontWeight: 600 }}>{t('contact.chatCta')}</div>
-                </div>
-              </a>
-            </div>
+</div>
 
             <div style={{ padding: '32px', background: 'var(--gray-50)', borderRadius: '16px' }}>
               <h2 style={{ fontSize: '20px', fontWeight: 700, color: 'var(--navy)', marginBottom: '20px' }}>{t('contact.formHeading')}</h2>

@@ -993,11 +993,11 @@
   },
   "contact": {
     "title": "Contact Us",
-    "seoDesc": "Questions about renting in Tivat? Message us on WhatsApp, email, or the form below. Replies within two hours on weekdays, same day at weekends.",
+    "seoDesc": "Questions about renting in Tivat? Send us an email. Replies within two hours on weekdays, same day at weekends.",
     "heading": "Contact Us",
     "intro": "Have a question about renting a car in Tivat? Get in touch and we'll help you find the perfect vehicle for your trip.",
     "emailLabel": "Email",
-    "whatsappLabel": "WhatsApp",
+    "whatsappLabel": "Email",
     "chatCta": "Chat with us",
     "formHeading": "Send us a message",
     "nameLabel": "Your name",
@@ -1089,7 +1089,7 @@
     "subtitle": "Multiple locations across Montenegro for maximum convenience."
   },
   "aria": {
-    "whatsapp": "Chat on WhatsApp",
+    "whatsapp": "Email",
     "scrollTop": "Scroll to top"
   },
   "carSpecs": {
