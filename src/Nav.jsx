@@ -1,7 +1,7 @@
 'use client';
 import { useState, useEffect, useRef } from 'react';
 import { usePathname, useRouter } from 'next/navigation';
-import { Car, Globe, ChevronDown, ChevronRight, Menu, X } from 'lucide-react';
+import { Car, Globe, ChevronDown, ChevronRight, Menu, X, Sun, Moon } from 'lucide-react';
 import config from './siteConfig';
 import useTranslation from './i18n/useTranslation';
 import { SUPPORTED_LANGS, LANG_LABELS, DEFAULT_LANG } from './i18n/languages';
@@ -13,9 +13,25 @@ export default function Nav({ logoHref }) {
   const router = useRouter();
   const [langOpen, setLangOpen] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
+  const [theme, setTheme] = useState('light');
   const [scrolled, setScrolled] = useState(false);
   const langRef = useRef(null);
 
+
+  useEffect(() => {
+    const stored = typeof window !== 'undefined' ? localStorage.getItem('theme') : null;
+    setTheme(stored === 'dark' ? 'dark' : 'light');
+  }, []);
+
+  function toggleTheme() {
+    const next = theme === 'dark' ? 'light' : 'dark';
+    setTheme(next);
+    try {
+      localStorage.setItem('theme', next);
+      if (next === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+      else document.documentElement.removeAttribute('data-theme');
+    } catch (e) {}
+  }
   const isHome = pathname === '/' || pathname === `/${lang}`;
 
   useEffect(() => {
@@ -81,6 +97,16 @@ export default function Nav({ logoHref }) {
           </div>
 
           <div className="nav__right">
+                        <button
+              className="nav__theme"
+              onClick={toggleTheme}
+              aria-label={theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode'}
+              title={theme === 'dark' ? 'Switch to light mode' : 'Switch to dark mode'}
+              type="button"
+            >
+              {theme === 'dark' ? <Sun size={16} /> : <Moon size={16} />}
+            </button>
+
             <div className="nav__lang" ref={langRef} onClick={() => setLangOpen(!langOpen)}>
               <Globe size={14} />
               <span>{LANG_LABELS[lang]}</span>
@@ -130,6 +156,17 @@ export default function Nav({ logoHref }) {
                     {l.label} <ChevronRight size={16} />
                   </a>
                 ))}
+                <button
+                  type="button"
+                  className="mobile-drawer__link mobile-drawer__theme"
+                  onClick={toggleTheme}
+                >
+                  <span style={{ display: 'inline-flex', alignItems: 'center', gap: 10 }}>
+                    {theme === 'dark' ? <Sun size={16} /> : <Moon size={16} />}
+                    {theme === 'dark' ? 'Light mode' : 'Dark mode'}
+                  </span>
+                  <ChevronRight size={16} />
+                </button>
               </nav>
               <a href={resolvedLogoHref} className="mobile-drawer__cta">{t('common.home')}</a>
           </div>

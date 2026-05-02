@@ -39,8 +39,13 @@ export default async function RootLayout({ children }) {
   const htmlLang = LANG_HREFLANG[lang] || lang;
 
   return (
-    <html lang={htmlLang}>
+    <html lang={htmlLang} suppressHydrationWarning>
       <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `(function(){try{var t=localStorage.getItem('theme');if(t==='dark'){document.documentElement.setAttribute('data-theme','dark');}}catch(e){}})();`,
+          }}
+        />
         <link rel="preload" href="/hero-video.mp4" as="video" type="video/mp4" />
         <link rel="preload" href="/img/hero-tivat.webp" as="image" type="image/webp" />
         <LocaleAwareSchema lang={lang} isHomepage={isHomepage} />

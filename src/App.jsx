@@ -99,6 +99,8 @@ const NAV_LINKS = [
 /* ─── LOCATION AUTOCOMPLETE ────────────────────────────── */
 const LOCATION_OPTIONS = LOCATIONS.map(l => ({ value: l, label: l }));
 
+
+const TIME_OPTIONS = ['00:00','01:00','02:00','03:00','04:00','05:00','06:00','07:00','08:00','09:00','10:00','11:00','12:00','13:00','14:00','15:00','16:00','17:00','18:00','19:00','20:00','21:00','22:00','23:00'].map(t => ({ value: t, label: t }));
 const locationSelectStyles = {
   control: (base, state) => ({
     ...base,
@@ -131,7 +133,7 @@ const locationSelectStyles = {
   placeholder: (base) => ({
     ...base,
     fontSize: '15px',
-    color: '#9ca3af',
+    color: 'var(--gray-500)',
     margin: '0',
   }),
   indicatorSeparator: () => ({ display: 'none' }),
@@ -147,6 +149,8 @@ const locationSelectStyles = {
     boxShadow: '0 8px 32px rgba(0,0,0,0.18)',
     marginTop: '6px',
     overflow: 'hidden',
+    background: 'var(--white)',
+    border: '1px solid var(--gray-200)',
   }),
   menuPortal: (base) => ({
     ...base,
@@ -156,6 +160,7 @@ const locationSelectStyles = {
     ...base,
     padding: '4px',
     maxHeight: '260px',
+    background: 'var(--white)',
   }),
   option: (base, state) => ({
     ...base,
@@ -194,6 +199,26 @@ function LocationField({ value, onChange }) {
     </div>
   );
 }
+function TimeField({ id, label, value, onChange }) {
+  const selected = TIME_OPTIONS.find(o => o.value === value) || null;
+  return (
+    <div className="booking-field booking-field--time">
+      <label htmlFor={id}>{label}</label>
+      <Select
+        inputId={id}
+        options={TIME_OPTIONS}
+        value={selected}
+        onChange={opt => onChange(opt.value)}
+        styles={locationSelectStyles}
+        isSearchable={false}
+        menuPlacement="bottom"
+        menuPortalTarget={typeof document !== 'undefined' ? document.body : null}
+        maxMenuHeight={240}
+      />
+    </div>
+  );
+}
+
 
 /* ─── HERO ─────────────────────────────────────────────── */
 function Hero() {
@@ -267,18 +292,8 @@ function Hero() {
                   onCalendarOpen={() => { if (window.innerWidth < 768) setTimeout(() => window.scrollTo({ top: 0, behavior: 'smooth' }), 50); }}
                 />
               </div>
-              <div className="booking-field booking-field--time">
-                <label htmlFor="f-pickup-time">{t('hero.pickupTime')}</label>
-                <select id="f-pickup-time" className="booking-field__input" value={pickupTime} onChange={e => setPickupTime(e.target.value)}>
-                  {['00:00','01:00','02:00','03:00','04:00','05:00','06:00','07:00','08:00','09:00','10:00','11:00','12:00','13:00','14:00','15:00','16:00','17:00','18:00','19:00','20:00','21:00','22:00','23:00'].map(t => <option key={t} value={t}>{t}</option>)}
-                </select>
-              </div>
-              <div className="booking-field booking-field--time">
-                <label htmlFor="f-dropoff-time">{t('hero.dropoffTime')}</label>
-                <select id="f-dropoff-time" className="booking-field__input" value={dropoffTime} onChange={e => setDropoffTime(e.target.value)}>
-                  {['00:00','01:00','02:00','03:00','04:00','05:00','06:00','07:00','08:00','09:00','10:00','11:00','12:00','13:00','14:00','15:00','16:00','17:00','18:00','19:00','20:00','21:00','22:00','23:00'].map(t => <option key={t} value={t}>{t}</option>)}
-                </select>
-              </div>
+              <TimeField id="f-pickup-time" label={t('hero.pickupTime')} value={pickupTime} onChange={setPickupTime} />
+              <TimeField id="f-dropoff-time" label={t('hero.dropoffTime')} value={dropoffTime} onChange={setDropoffTime} />
               <button className="booking-card__search" onClick={handleSearch}>
                 {t('hero.search')}
               </button>
@@ -684,10 +699,10 @@ function BlogCards() {
               key={post.href}
               href={localePath(post.href)}
               style={{
-                background: '#fff',
+                background: 'var(--white)',
                 borderRadius: '12px',
                 overflow: 'hidden',
-                border: '1px solid var(--gray-200, #e9ecef)',
+                border: '1px solid var(--gray-200)',
                 boxShadow: 'var(--shadow-sm)',
                 textDecoration: 'none',
                 color: 'inherit',
