@@ -532,6 +532,33 @@
       script.setAttribute('data-routing',  'off');
       script.setAttribute('data-zindex',   '100');
       script.setAttribute('data-locale',   widgetLang);
+      // Car IDs deep-link: ?car_ids=<csv> applies LocalRent's car_ids
+       // filter so homepage cards land users on a listing pre-filtered
+       // to the exact set of vendor listings for that model. Apply at
+       // the moment filtersDict.car_ids exists in the Vuex store —
+       // BEFORE the first cars fetch returns. Beats the unfiltered-
+       // first-render flash; waiting for carsCountFinished is too late.
+      const carIdsParam = _params.get('car_ids');
+      if (carIdsParam) {
+        var carIdsList = carIdsParam.split(',').filter(function(x){ return /^\d+$/.test(x); });
+        if (carIdsList.length > 0) {
+          var carIdsAttempts = 0;
+          var carIdsPoll = setInterval(function() {
+            carIdsAttempts++;
+            if (carIdsAttempts > 1000) { clearInterval(carIdsPoll); return; }
+            var vue = null;
+            for (var el of document.querySelectorAll('*')) {
+              if (el.__vue__ && el.__vue__.$store) { vue = el.__vue__; break; }
+            }
+            if (!vue) return;
+            var store = vue.$store;
+            if (!store.state.filtersDict || !store.state.filtersDict.car_ids) return;
+            try { store.commit('setFiltersMapValue', { key: 'car_ids', value: carIdsList }); } catch(e) {}
+            try { store.commit('applyFiltersMap', { path: 'car_ids', value: carIdsList }); } catch(e) {}
+            clearInterval(carIdsPoll);
+          }, 30);
+        }
+      }
       const dateFrom = _params.get('date_from');
       const dateTo = _params.get('date_to');
       const timeFrom = _params.get('time_from') || '10:00';

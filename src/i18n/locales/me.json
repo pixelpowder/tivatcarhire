@@ -58,9 +58,10 @@
     "step3Desc": "Vaš automobil čeka na kratkotrajnom parkingu TIV, 40 metara od izlaza iz terminala. Desno za Budvu kroz tunel Vrmac, lijevo za Kotor duž zaliva."
   },
   "fleet": {
-    "label": "Naša Flota",
-    "title": "Izaberite Vaše Vozilo",
-    "subtitle": "Cijene uživo, besplatno otkazivanje, puno osiguranje, ono što vidite je ono što je na pisti u TIV."
+    "label": "Flota Tivat",
+    "title": "Iznajmljivanje Auta Tivat",
+    "subtitle": "Izbor vozila koja iznajmljujemo na aerodromu Tivat. Kliknite na model za cijene uživo, besplatno otkazivanje i puno osiguranje.",
+    "bookCta": "Rezerviši ovaj auto"
   },
   "brands": {
     "label": "Provjereni brendovi u našoj floti"

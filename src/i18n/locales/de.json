@@ -58,9 +58,10 @@
     "step3Desc": "Ihr Fahrzeug wartet auf dem TIV-Kurzzeitparkplatz, 40 Meter vom Terminalausgang entfernt. Rechts nach Budva durch den Vrmac-Tunnel, links nach Kotor entlang der Bucht."
   },
   "fleet": {
-    "label": "Unsere Flotte",
-    "title": "Wählen Sie Ihr Fahrzeug",
-    "subtitle": "Live-Preise, kostenlose Stornierung, Vollkasko, was Sie sehen, steht auf dem Vorfeld in TIV."
+    "label": "Tivat Flotte",
+    "title": "Mietwagen Tivat",
+    "subtitle": "Eine Auswahl der Fahrzeuge, die wir am Flughafen Tivat anbieten. Klicken Sie auf ein Modell für Live-Preise, kostenlose Stornierung und Vollkasko.",
+    "bookCta": "Dieses Auto buchen"
   },
   "brands": {
     "label": "Vertrauenswürdige Marken in unserer Flotte"

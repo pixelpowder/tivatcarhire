@@ -1,18 +1,21 @@
 'use client';
 import { useEffect } from 'react';
+import { useSearchParams } from 'next/navigation';
 import Nav from './Nav';
 import useTranslation from './i18n/useTranslation';
 import { WIDGET_LOCALE } from './i18n/languages';
+import { FLEET_SLUG_TO_CAR_IDS } from './data/fleetCars';
 import './BookPage.css';
 
 // Fixed-height iframe approach — no postMessage, no auto-resize, no Suspense.
 // The iframe is sized via pure CSS to fill the page area; all widget content
 // (search, fleet, filter modal, car detail) scrolls internally inside the
 // iframe. Same UX as visiting LocalRent's own site directly.
-export default function BookPage({ searchParams = {} }) {
+export default function BookPage() {
   const { t, lang } = useTranslation();
+  const searchParams = useSearchParams();
 
-  const get = (k) => searchParams[k] ?? null;
+  const get = (k) => searchParams?.get(k) ?? null;
   const pickupDate  = get('pickup_date');
   const dropoffDate = get('dropoff_date');
   const location    = get('location');
@@ -24,8 +27,15 @@ export default function BookPage({ searchParams = {} }) {
   if (get('dropoff_time'))    widgetParams.set('time_to',   get('dropoff_time'));
   if (location)               widgetParams.set('place',     location);
   if (get('city_id'))         widgetParams.set('city_id',   get('city_id'));
+  // Resolve /book?model=<slug> against the shared fleet map so the
+  // user-facing URL stays clean while the iframe still receives the
+  // full car_ids list LocalRent's filter requires.
+  const modelSlug = get('model');
+  const carIdsFromSlug = modelSlug ? FLEET_SLUG_TO_CAR_IDS[modelSlug] : null;
+  const carIdsParam = carIdsFromSlug || get('car_ids');
+  if (carIdsParam)            widgetParams.set('car_ids',   carIdsParam);
   widgetParams.set('lang', WIDGET_LOCALE[lang] || 'en');
-  widgetParams.set('v', '12');
+  widgetParams.set('v', '13');
 
   const hashParams = new URLSearchParams();
   if (pickupDate) hashParams.set('pickup_date', pickupDate);
