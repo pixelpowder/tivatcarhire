@@ -5,7 +5,9 @@
     "about": "About",
     "blog": "Blog",
     "contact": "Contact",
-    "fleet": "Fleet"
+    "fleet": "Fleet",
+    "darkMode": "Dark mode",
+    "lightMode": "Light mode"
   },
   "common": {
     "home": "Home",

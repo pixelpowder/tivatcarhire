@@ -5,7 +5,9 @@
     "about": "Chi Siamo",
     "blog": "Guida",
     "contact": "Contatti",
-    "fleet": "Flotta"
+    "fleet": "Flotta",
+    "darkMode": "Modalità scura",
+    "lightMode": "Modalità chiara"
   },
   "common": {
     "home": "Home",

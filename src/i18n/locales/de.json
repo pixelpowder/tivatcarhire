@@ -5,7 +5,9 @@
     "about": "Über uns",
     "blog": "Ratgeber",
     "contact": "Kontakt",
-    "fleet": "Flotte"
+    "fleet": "Flotte",
+    "darkMode": "Dunkelmodus",
+    "lightMode": "Hellmodus"
   },
   "common": {
     "home": "Startseite",
