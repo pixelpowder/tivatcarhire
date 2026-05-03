@@ -1296,16 +1296,15 @@ html[data-theme="dark"] .section-label {
 }
 
 html[data-theme="dark"] .brand-logo {
-  /* mix-blend-mode: screen lifts the logo against the dark bg without
-     destroying interior white detail (Fiat 'FIAT', Ford oval, Dacia
-     wordmark). Combined with grayscale + brightness boost so every
-     logo reads as a uniform pale silver silhouette. */
-  filter: grayscale(100%) brightness(1.8) contrast(0.7) opacity(0.85);
-  mix-blend-mode: screen;
+  /* Heavy grayscale + brightness wash so coloured logos (Fiat red, VW
+     blue, Ford blue) read as the same muted silver as the rest. No
+     mix-blend-mode — screen blending was preserving brand colour on
+     these three even after grayscale. */
+  filter: grayscale(100%) brightness(2) contrast(0.6) opacity(0.6);
+  mix-blend-mode: normal;
 }
 html[data-theme="dark"] .brand-logo:hover {
-  filter: none;
-  opacity: 1;
+  filter: grayscale(0%) brightness(1.4) contrast(1) opacity(1);
 }
 
 
