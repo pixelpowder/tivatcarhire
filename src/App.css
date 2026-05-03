@@ -1296,7 +1296,12 @@ html[data-theme="dark"] .section-label {
 }
 
 html[data-theme="dark"] .brand-logo {
-  filter: grayscale(100%) brightness(1.6) contrast(0.85) opacity(0.65);
+  /* mix-blend-mode: screen lifts the logo against the dark bg without
+     destroying interior white detail (Fiat 'FIAT', Ford oval, Dacia
+     wordmark). Combined with grayscale + brightness boost so every
+     logo reads as a uniform pale silver silhouette. */
+  filter: grayscale(100%) brightness(1.8) contrast(0.7) opacity(0.85);
+  mix-blend-mode: screen;
 }
 html[data-theme="dark"] .brand-logo:hover {
   filter: none;
