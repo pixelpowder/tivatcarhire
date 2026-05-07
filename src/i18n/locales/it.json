@@ -62,7 +62,7 @@
   "fleet": {
     "label": "Flotta Tivat",
     "title": "Noleggio Auto Tivat",
-    "subtitle": "Una selezione delle auto a noleggio all'aeroporto di Tivat. Tocca un modello per prezzi in tempo reale, cancellazione gratuita e assicurazione completa.",
+    "subtitle": "Una selezione delle auto a noleggio all'aeroporto di Tivat. Tocca un modello per prezzi in tempo reale, cancellazione gratuita e opzioni di assicurazione flessibili.",
     "bookCta": "Prenota quest'auto"
   },
   "brands": {
@@ -156,12 +156,12 @@
     "p3Link3": "Kotor",
     "p3d": ", Budva e località lungo la costa e l'interno.",
     "promiseTitle": "La Nostra Promessa",
-    "promise1": "Assicurazione completa con opzioni a scopertura zero",
+    "promise1": "Opzioni di assicurazione con opzioni a scopertura zero",
     "promise2": "Accoglienza personale all'Aeroporto di Tivat: portiamo l'auto all'arrivo",
     "promise3": "Nessun costo nascosto: il prezzo che vedi è il prezzo che paghi",
     "promise4": "Viaggi transfrontalieri consentiti verso Croazia, Bosnia, Albania, Serbia e Kosovo",
     "promise5": "Cancellazione gratuita sulla maggior parte delle prenotazioni",
-    "promise6": "Operatori di noleggio locali, assicurazione completa e opzioni con cauzione bassa o nulla",
+    "promise6": "Operatori di noleggio locali, opzioni di assicurazione flessibili e opzioni con cauzione bassa o nulla",
     "localTitle": "Conoscenza Locale",
     "localText": "Con base a Tivat, conosciamo le strade, i migliori percorsi e i tesori nascosti che le guide non menzionano. Che tu stia guidando dall'",
     "localLink1": "Aeroporto di Tivat",
@@ -244,8 +244,8 @@
       "desc": "La tua auto è nel parcheggio breve sosta del TIV. Esci dalla sala bagagli, attraversa la strada, sali in macchina, nessuna navetta, nessuna attesa."
     },
     "fullInsurance": {
-      "title": "Assicurazione completa inclusa",
-      "desc": "Ogni prenotazione include assicurazione completa. Passi alla copertura senza franchigia per la massima tranquillità su strade di montagna e sterrati."
+      "title": "Opzioni di assicurazione",
+      "desc": "Ogni prenotazione include opzioni di assicurazione flessibili. Passi alla copertura senza franchigia per la massima tranquillità su strade di montagna e sterrati."
     },
     "support": {
       "title": "Assistenza stradale 24/7",
@@ -290,7 +290,7 @@
     },
     "3": {
       "q": "Cosa è incluso nel prezzo di noleggio?",
-      "a": "Assicurazione completa, IVA, kit di sicurezza (cassetta di pronto soccorso, triangolo, gilet riflettente) e politica carburante trasparente. Il chilometraggio varia per veicolo, alcuni sono illimitati, altri hanno un limite giornaliero indicato nella scheda."
+      "a": "Opzioni di assicurazione, IVA, kit di sicurezza (cassetta di pronto soccorso, triangolo, gilet riflettente) e politica carburante trasparente. Il chilometraggio varia per veicolo, alcuni sono illimitati, altri hanno un limite giornaliero indicato nella scheda."
     },
     "4": {
       "q": "Come funziona il ritiro all'aeroporto di Tivat?",
@@ -359,12 +359,12 @@
     "h3": "Cosa offriamo",
     "p3": "Ritiri i bagagli, esca dalle porte del terminal, attraversi la via di accesso fino al parcheggio breve. Il nostro agente è lì con le Sue chiavi e i documenti. Firmi, regoli gli specchietti e parta. A destra per Budva attraverso il tunnel di Vrmac, a sinistra lungo la strada della baia verso Kotor e Perast, o dritto per Porto Montenegro e Lustica Bay. Una stazione di servizio Jugopetrol si trova a 800 metri lungo la strada principale se desidera fare rifornimento prima di partire.",
     "promiseTitle": "La nostra promessa",
-    "promise1": "Assicurazione completa, upgrade a franchigia zero disponibile",
+    "promise1": "Opzioni di assicurazione, upgrade a franchigia zero disponibile",
     "promise2": "Accoglienza al parcheggio breve TIV, a 40 m dal terminal",
     "promise3": "Prezzi trasparenti, la cifra al checkout è la cifra finale",
     "promise4": "Carta Verde transfrontaliera per Croazia, Bosnia, Albania, Serbia, Kosovo",
     "promise5": "Cancellazione gratuita fino a 7 giorni prima del ritiro (30 giorni per il premium)",
-    "promise6": "Operatori di noleggio locali, assicurazione completa e opzioni con cauzione bassa o nulla",
+    "promise6": "Operatori di noleggio locali, opzioni di assicurazione flessibili e opzioni con cauzione bassa o nulla",
     "h4": "Conoscenza locale",
     "p4": "Percorriamo queste strade ogni giorno. Sappiamo che il tunnel di Vrmac riduce il tragitto verso Kotor a 12 minuti, che il traghetto Verige attraverso la bocca della baia fa risparmiare 45 minuti rispetto alla lunga strada per Herceg Novi, che la stazione Radanovici è l'ultima sosta prima della riviera di Budva, e che il parcheggio Tabacina di Kotor si riempie entro le 10 del mattino a luglio. Ci chieda qualsiasi cosa al ritiro, i consigli sul percorso sono gratuiti e illimitati.",
     "h5": "Contattaci",

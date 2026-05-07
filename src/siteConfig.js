@@ -241,7 +241,7 @@ const siteConfig = {
 
   features: [
     { icon: "map-pin", title: "40-Metre Pickup", description: "40 metres from the terminal exit to your car. No shuttle, no bus, walk straight out of baggage reclaim and into the short-stay car park." },
-    { icon: "shield-check", title: "Full Insurance Included", description: "CDW and theft protection on every booking. Upgrade to zero-excess cover before you tackle the Vrmac tunnel or the bay road curves toward Herceg Novi." },
+    { icon: "shield-check", title: "Insurance Options", description: "Insurance tiers from basic third-party up to no-deposit zero-excess. Pick the right cover at checkout before you tackle the Vrmac tunnel or the bay road curves toward Herceg Novi." },
     { icon: "clock", title: "24/7 Roadside Line", description: "Flight delayed three hours? We adjust, no charge. Our roadside number reaches a local mechanic within 30 minutes, any hour of the day." },
     { icon: "ban", title: "Transparent Pricing", description: "VAT, mileage, airport surcharge, equipment kit, everything is folded into the figure on screen. The checkout total is the total you pay at pickup, nothing added at the desk." },
     { icon: "refresh-cw", title: "Free Cancellation", description: "Airline schedule changed or flight cancelled? Cancel up to 24 hours before pickup at no cost. No fees when carriers rearrange summer or winter schedules." },

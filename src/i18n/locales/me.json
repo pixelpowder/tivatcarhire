@@ -62,7 +62,7 @@
   "fleet": {
     "label": "Flota Tivat",
     "title": "Iznajmljivanje Auta Tivat",
-    "subtitle": "Izbor vozila koja iznajmljujemo na aerodromu Tivat. Kliknite na model za cijene uživo, besplatno otkazivanje i puno osiguranje.",
+    "subtitle": "Izbor vozila koja iznajmljujemo na aerodromu Tivat. Kliknite na model za cijene uživo, besplatno otkazivanje i fleksibilne opcije osiguranja.",
     "bookCta": "Rezerviši ovaj auto"
   },
   "brands": {
@@ -156,12 +156,12 @@
     "p3Link3": "Kotoru",
     "p3d": ", Budvi i lokacijama duž obale i u unutrašnjosti.",
     "promiseTitle": "Naš obavez",
-    "promise1": "Potpuno osiguranje sa opcijom nultog učešća",
+    "promise1": "Opcije osiguranja sa opcijom nultog učešća",
     "promise2": "Susret na aerodromu Tivat, donosimo automobil do vašeg dolaska",
     "promise3": "Bez skrivenih naknada, cijena koju vidite je cijena koju plaćate",
     "promise4": "Prelazak granice dozvoljeni prema Hrvatskoj, Bosni, Albaniji, Srbiji i Kosovu",
     "promise5": "Besplatna otkazivanja na većini rezervacija",
-    "promise6": "Lokalni najmodavci, puno osiguranje i opcije sa niskim ili bez depozita",
+    "promise6": "Lokalni najmodavci, fleksibilne opcije osiguranja i opcije sa niskim ili bez depozita",
     "localTitle": "Lokalno znanje",
     "localText": "Smešteni u Tivatu, poznajemo puteve, najbolje rute i skrivene biser koje vodič ne spominje. Bez obzira da li vozite sa",
     "localLink1": "Aerodroma Tivat",
@@ -244,8 +244,8 @@
       "desc": "Vaš automobil je u kratkoročnom parkingu TIV. Izađite iz sale za prtljag, pređite ulicu, uđite u auto, bez prevoza, bez čekanja."
     },
     "fullInsurance": {
-      "title": "Potpuno osiguranje uključeno",
-      "desc": "Svaka rezervacija uključuje puno osiguranje. Nadogradite na pokriće bez učešća za potpuni mir na planinskim putevima i šljunčanim stazama."
+      "title": "Opcije osiguranja",
+      "desc": "Svaka rezervacija uključuje fleksibilne opcije osiguranja. Nadogradite na pokriće bez učešća za potpuni mir na planinskim putevima i šljunčanim stazama."
     },
     "support": {
       "title": "Pomoć na putu 24/7",
@@ -290,7 +290,7 @@
     },
     "3": {
       "q": "Šta je uključeno u cijenu iznajmljivanja?",
-      "a": "Puno osiguranje, PDV, oprema (komplet prve pomoći, sigurnosni trougao, reflektujući prsluk) i transparentna politika goriva. Uslovi kilometraže se razlikuju po vozilu, neka imaju neograničenu kilometražu, druga dnevni limit naveden u oglasu."
+      "a": "Opcije osiguranja, PDV, oprema (komplet prve pomoći, sigurnosni trougao, reflektujući prsluk) i transparentna politika goriva. Uslovi kilometraže se razlikuju po vozilu, neka imaju neograničenu kilometražu, druga dnevni limit naveden u oglasu."
     },
     "4": {
       "q": "Kako funkcioniše preuzimanje na aerodromu Tivat?",
@@ -359,12 +359,12 @@
     "h3": "Šta nudimo",
     "p3": "Preuzmite prtljag, izađite kroz vrata terminala, pređite preko prilazne trake do kratkotrajnog parkinga. Naš agent je tu sa Vašim ključevima i dokumentima. Potpišite, namjestite retrovizore i krenite. Desno prema Budvi kroz tunel Vrmac, lijevo duž zaliva prema Kotoru i Perastu ili pravo prema Porto Montenegru i Luštici. Jugopetrol pumpa je 800 metara dalje glavnim putem ako želite da natočite gorivo prije polaska.",
     "promiseTitle": "Naše obećanje",
-    "promise1": "Puno osiguranje, dostupna nadogradnja na nula učešća",
+    "promise1": "Opcije osiguranja, dostupna nadogradnja na nula učešća",
     "promise2": "Dočekivanje na kratkotrajnom parkingu TIV, 40 m od terminala",
     "promise3": "Transparentne cijene, iznos na kasi je konačan iznos",
     "promise4": "Prekogranična zelena karta za Hrvatsku, Bosnu, Albaniju, Srbiju, Kosovo",
     "promise5": "Besplatno otkazivanje za većinu rezervacija",
-    "promise6": "Lokalni najmodavci, puno osiguranje i opcije sa niskim ili bez depozita",
+    "promise6": "Lokalni najmodavci, fleksibilne opcije osiguranja i opcije sa niskim ili bez depozita",
     "h4": "Lokalno znanje",
     "p4": "Ove puteve vozimo svakodnevno. Znamo da tunel Vrmac vožnju do Kotora skraćuje na 12 minuta, da trajekt Verige preko ulaza u zaliv štedi 45 minuta u odnosu na dugi put do Herceg Novog, da je pumpa Radanovići posljednje stajalište prije rivijere Budve, i da se parking Tabačina u Kotoru u julu puni već do 10 ujutru. Pitajte nas bilo šta pri preuzimanju, savjeti o rutama su besplatni i neograničeni.",
     "h5": "Kontaktirajte nas",

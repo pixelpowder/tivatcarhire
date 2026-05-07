@@ -21,7 +21,7 @@
     "headline": "Mietwagen in Tivat",
     "badges": {
       "freeCancellation": "Kostenlose Stornierung",
-      "fullInsurance": "Vollkasko inklusive",
+      "fullInsurance": "Versicherungsoptionen",
       "airportPickup": "10-Min Flughafen-Abholung",
       "trustpilot": "4.8/5 auf Trustpilot"
     },
@@ -37,7 +37,7 @@
   "trust": {
     "noHiddenFees": "Keine versteckten Kosten",
     "noHiddenFeesDesc": "Der angezeigte Preis ist all-inclusive",
-    "fullInsurance": "Vollkasko",
+    "fullInsurance": "Versicherungsoptionen",
     "fullInsuranceDesc": "Option ohne Selbstbeteiligung verfügbar",
     "fastPickup": "10-Min Abholung",
     "fastPickupDesc": "Wir empfangen Sie am Tivat Flughafen"
@@ -62,7 +62,7 @@
   "fleet": {
     "label": "Tivat Flotte",
     "title": "Mietwagen Tivat",
-    "subtitle": "Eine Auswahl der Fahrzeuge, die wir am Flughafen Tivat anbieten. Klicken Sie auf ein Modell für Live-Preise, kostenlose Stornierung und Vollkasko.",
+    "subtitle": "Eine Auswahl der Fahrzeuge, die wir am Flughafen Tivat anbieten. Klicken Sie auf ein Modell für Live-Preise, kostenlose Stornierung und Versicherungsoptionen.",
     "bookCta": "Dieses Auto buchen"
   },
   "brands": {
@@ -161,7 +161,7 @@
     "promise3": "Keine versteckten Gebühren, der Preis ist der Preis, den Sie zahlen",
     "promise4": "Grenzüberschreitende Reisen nach Kroatien, Bosnien, Albanien, Serbien und dem Kosovo gestattet",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
-    "promise6": "Lokale Mietanbieter, Vollkasko und Optionen mit niedriger oder keiner Kaution",
+    "promise6": "Lokale Mietanbieter, Versicherungsoptionen und Optionen mit niedriger oder keiner Kaution",
     "localTitle": "Lokales Wissen",
     "localText": "Mit Sitz in Tivat kennen wir die Straßen, die besten Routen und die verborgenen Schätze, die Reiseführer übersehen. Ob Sie vom",
     "localLink1": "Flughafen Tivat",
@@ -245,7 +245,7 @@
     },
     "fullInsurance": {
       "title": "Vollversicherung inklusive",
-      "desc": "Jede Buchung beinhaltet Vollkasko. Upgrade auf eine Null-Selbstbeteiligung für vollständige Sicherheit auf Bergstraßen und Schotterpisten."
+      "desc": "Jede Buchung beinhaltet Versicherungsoptionen. Upgrade auf eine Null-Selbstbeteiligung für vollständige Sicherheit auf Bergstraßen und Schotterpisten."
     },
     "support": {
       "title": "24/7 Pannenhilfe",
@@ -290,7 +290,7 @@
     },
     "3": {
       "q": "Was ist im Mietpreis enthalten?",
-      "a": "Vollkasko, MwSt., ein Ausrüstungsset (Verbandskasten, Warndreieck, Warnweste) und eine transparente Kraftstoffregelung. Die Kilometerbedingungen variieren je nach Fahrzeug, einige sind unbegrenzt, andere haben ein tägliches Kilometerlimit, das im Angebot angegeben ist."
+      "a": "Versicherungsoptionen, MwSt., ein Ausrüstungsset (Verbandskasten, Warndreieck, Warnweste) und eine transparente Kraftstoffregelung. Die Kilometerbedingungen variieren je nach Fahrzeug, einige sind unbegrenzt, andere haben ein tägliches Kilometerlimit, das im Angebot angegeben ist."
     },
     "4": {
       "q": "Wie funktioniert die Abholung am Flughafen Tivat?",
@@ -359,12 +359,12 @@
     "h3": "Was wir anbieten",
     "p3": "Gepäck holen, durch die Ausgangstüren des Terminals gehen, die Zufahrtsstraße zum Kurzzeitparkplatz überqueren. Unser Mitarbeiter wartet dort mit Schlüsseln und Unterlagen. Unterschreiben, Spiegel einstellen, losfahren. Rechts abbiegen Richtung Budva und Vrmac-Tunnel, links entlang der Buchtstraße nach Kotor und Perast, geradeaus nach Porto Montenegro und Lustica Bay. Eine Jugopetrol-Tankstelle liegt 800 Meter weiter an der Hauptstraße, falls Sie vor der Abfahrt tanken möchten.",
     "promiseTitle": "Unser Versprechen",
-    "promise1": "Vollkasko, Upgrade auf Null-Selbstbeteiligung verfügbar",
+    "promise1": "Versicherungsoptionen, Upgrade auf Null-Selbstbeteiligung verfügbar",
     "promise2": "Persönliche Begrüßung auf dem TIV-Kurzzeitparkplatz, 40 m vom Terminal entfernt",
     "promise3": "Transparente Preise, der Betrag an der Kasse ist der endgültige Betrag",
     "promise4": "Grenzüberschreitende Grüne Karte für Kroatien, Bosnien, Albanien, Serbien, Kosovo",
     "promise5": "Kostenlose Stornierung bei den meisten Buchungen",
-    "promise6": "Lokale Mietanbieter, Vollkasko und Optionen mit niedriger oder keiner Kaution",
+    "promise6": "Lokale Mietanbieter, Versicherungsoptionen und Optionen mit niedriger oder keiner Kaution",
     "h4": "Lokales Wissen",
     "p4": "Wir fahren diese Straßen täglich. Wir wissen, dass der Vrmac-Tunnel die Fahrt nach Kotor auf 12 Minuten verkürzt, dass die Verige-Fähre über die Buchtöffnung 45 Minuten gegenüber dem langen Weg nach Herceg Novi spart, dass die Tankstelle Radanovici die letzte Station vor der Riviera Budva ist und dass der Parkplatz Tabacina in Kotor im Juli bereits um 10 Uhr voll ist. Fragen Sie uns bei der Abholung alles, Routenberatung ist kostenlos und unbegrenzt.",
     "h5": "Kontaktieren Sie uns",

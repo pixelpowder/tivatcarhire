@@ -21,7 +21,7 @@
     "headline": "Tivat Car Hire",
     "badges": {
       "freeCancellation": "Free Cancellation",
-      "fullInsurance": "Full Insurance Included",
+      "fullInsurance": "Insurance Options",
       "airportPickup": "10-Min Airport Pickup",
       "trustpilot": "4.8/5 on Trustpilot"
     },
@@ -37,7 +37,7 @@
   "trust": {
     "noHiddenFees": "No Hidden Fees",
     "noHiddenFeesDesc": "Transparent pricing, every charge visible before you book",
-    "fullInsurance": "Full Insurance",
+    "fullInsurance": "Insurance Options",
     "fullInsuranceDesc": "Standard CDW on all vehicles, zero-excess upgrade available at checkout",
     "fastPickup": "Airport Pickup",
     "fastPickupDesc": "Steps from TIV baggage hall, no shuttle, no waiting"
@@ -62,7 +62,7 @@
   "fleet": {
     "label": "Tivat Fleet",
     "title": "Car Hire Tivat",
-    "subtitle": "A selection from the cars we hire at Tivat Airport. Tap a model to see live prices, free cancellation and full insurance.",
+    "subtitle": "A selection from the cars we hire at Tivat Airport. Tap a model to see live prices, free cancellation and flexible cover options.",
     "bookCta": "Book this car"
   },
   "brands": {
@@ -161,7 +161,7 @@
     "promise3": "No hidden fees, the price you see is the price you pay",
     "promise4": "Three-tier cross-border: Tier 1 for the Kamenari ferry to Dubrovnik, Tier 2 if you extend to Albania or Kosovo, Tier 3 for longer regional loops",
     "promise5": "Confirmed extras: Winter Pack, three child seat sizes (booster for the Plavi Horizonti school crowd), wireless hotspot for superyacht-crew long-stayers, local SIM, ski and snowboard racks, roof rack for Lustica kayaks and SUPs, electric scooter with charger for marina-to-Pine-Walk-to-Main-Square errands",
-    "promise6": "Local rental providers, full insurance and low or no-deposit options",
+    "promise6": "Local rental providers, flexible insurance tiers and low or no-deposit options",
     "localTitle": "Local Knowledge",
     "localText": "Based in Tivat, we know the roads, the best routes, and the hidden gems that guidebooks miss. Whether you're driving from",
     "localLink1": "Tivat Airport",
@@ -244,7 +244,7 @@
       "desc": "Your car sits in the TIV short-stay car park. Walk from the baggage belt, cross the road, unlock the car. No shuttle bus exists at this airport, you don't need one."
     },
     "fullInsurance": {
-      "title": "Full Insurance Included",
+      "title": "Insurance Options",
       "desc": "Every booking includes Full insurance. Upgrade to zero-excess cover for complete peace of mind on mountain roads and gravel tracks."
     },
     "support": {

@@ -62,7 +62,7 @@
   "fleet": {
     "label": "Flotte Tivat",
     "title": "Location de Voiture Tivat",
-    "subtitle": "Une sélection des voitures que nous louons à l'aéroport de Tivat. Cliquez sur un modèle pour voir les prix en direct, l'annulation gratuite et l'assurance tous risques.",
+    "subtitle": "Une sélection des voitures que nous louons à l'aéroport de Tivat. Cliquez sur un modèle pour voir les prix en direct, l'annulation gratuite et l'options d'assurance flexibles.",
     "bookCta": "Réserver cette voiture"
   },
   "brands": {
@@ -156,12 +156,12 @@
     "p3Link3": "Kotor",
     "p3d": ", Budva et d'autres lieux sur la côte et à l'intérieur du pays.",
     "promiseTitle": "Notre engagement",
-    "promise1": "Assurance complète avec options de franchise zéro",
+    "promise1": "Options d'assurance avec options de franchise zéro",
     "promise2": "Service de rencontre à l'aéroport de Tivat : nous vous livrons la voiture à l'arrivée",
     "promise3": "Aucun frais caché : le prix affiché est le prix que vous payez",
     "promise4": "Traversée des frontières autorisée vers la Croatie, la Bosnie, l'Albanie, la Serbie et le Kosovo",
     "promise5": "Annulation gratuite pour la plupart des réservations",
-    "promise6": "Loueurs locaux, assurance tous risques et options sans ou avec faible caution",
+    "promise6": "Loueurs locaux, options d'assurance flexibles et options sans ou avec faible caution",
     "localTitle": "Connaissance locale",
     "localText": "Basés à Tivat, nous connaissons les routes, les meilleurs itinéraires et les joyaux cachés que les guides touristiques ne mentionnent pas. Que vous rouliez depuis",
     "localLink1": "l'aéroport de Tivat",
@@ -244,8 +244,8 @@
       "desc": "Votre voiture est garée dans le parking courte durée de TIV. Sortez de la salle de bagages, traversez la route, montez en voiture, aucune navette, aucune attente."
     },
     "fullInsurance": {
-      "title": "Assurance complète incluse",
-      "desc": "Chaque réservation comprend une assurance tous risques. Optez pour la franchise zéro pour une tranquillité totale sur les routes de montagne et les pistes."
+      "title": "Options d'assurance",
+      "desc": "Chaque réservation comprend une options d'assurance flexibles. Optez pour la franchise zéro pour une tranquillité totale sur les routes de montagne et les pistes."
     },
     "support": {
       "title": "Assistance routière 24h/24",
@@ -290,7 +290,7 @@
     },
     "3": {
       "q": "Qu'est-ce qui est inclus dans le prix de location ?",
-      "a": "Assurance tous risques, TVA, un kit d’équipement (trousse de premiers secours, triangle, gilet réfléchissant) et une politique carburant transparente. Le kilométrage varie selon le véhicule, certains sont illimités, d’autres limités à un forfait journalier indiqué sur la fiche."
+      "a": "Options d'assurance, TVA, un kit d’équipement (trousse de premiers secours, triangle, gilet réfléchissant) et une politique carburant transparente. Le kilométrage varie selon le véhicule, certains sont illimités, d’autres limités à un forfait journalier indiqué sur la fiche."
     },
     "4": {
       "q": "Comment fonctionne la prise en charge à l'aéroport de Tivat ?",
@@ -359,12 +359,12 @@
     "h3": "Ce que nous proposons",
     "p3": "Récupérez vos bagages, franchissez les portes de sortie du terminal, traversez la voie d'accès jusqu'au parking courte durée. Notre agent vous y attend avec vos clés et vos documents. Signez, réglez les rétroviseurs, prenez la route. À droite vers Budva par le tunnel de Vrmac, à gauche le long de la baie vers Kotor et Perast, ou tout droit vers Porto Montenegro et Lustica Bay. Une station service Jugopetrol se trouve à 800 mètres sur la route principale si vous devez faire le plein avant de partir.",
     "promiseTitle": "Notre engagement",
-    "promise1": "Assurance tous risques, franchise zéro disponible en option",
+    "promise1": "Options d'assurance, franchise zéro disponible en option",
     "promise2": "Accueil sur le parking courte durée TIV, à 40 m du terminal",
     "promise3": "Aucun frais caché, le prix affiché est le prix final",
     "promise4": "Carte Verte transfrontalière pour la Croatie, la Bosnie, l'Albanie, la Serbie, le Kosovo",
     "promise5": "Annulation gratuite jusqu'à 7 jours avant la prise en charge (30 jours pour le premium)",
-    "promise6": "Loueurs locaux, assurance tous risques et options sans ou avec faible caution",
+    "promise6": "Loueurs locaux, options d'assurance flexibles et options sans ou avec faible caution",
     "h4": "Connaissance locale",
     "p4": "Nous parcourons ces routes chaque jour. Nous savons que le tunnel de Vrmac ramène le trajet vers Kotor à 12 minutes, que le ferry Verige à l'embouchure de la baie fait gagner 45 minutes par rapport à la longue route de Herceg Novi, que la station Radanovici est la dernière avant la riviera de Budva, et que le parking Tabacina de Kotor est plein dès 10 heures en juillet. Posez nous toutes vos questions à la prise en charge, les conseils d'itinéraire sont gratuits et illimités.",
     "h5": "Contactez-nous",
