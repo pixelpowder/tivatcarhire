@@ -36,6 +36,28 @@ import config from './siteConfig';
 import { HOMEPAGE_BOOKING_CARS } from './data/fleetCars';
 import './App.css';
 
+// SSR-safe "are we on mobile" hook. Returns false on the server and on
+// the very first client render (so SSR HTML matches client hydration),
+// then flips to true after mount if the viewport is <=768px.
+function useIsMobile(breakpoint = 768) {
+  const [isMobile, setIsMobile] = useState(false);
+  useEffect(() => {
+    const check = () => setIsMobile(window.innerWidth <= breakpoint);
+    check();
+    window.addEventListener('resize', check, { passive: true });
+    return () => window.removeEventListener('resize', check);
+  }, [breakpoint]);
+  return isMobile;
+}
+
+// True only after first client mount. Use to gate browser-only DOM
+// (video, navigator checks) so SSR and first client render agree.
+function useMounted() {
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => { setMounted(true); }, []);
+  return mounted;
+}
+
 // Fisher-Yates shuffle that runs once per page load. Each visit gets a
 // different order — visual freshness without breaking SEO since the
 // same set of cards is always rendered.
@@ -192,6 +214,7 @@ const locationSelectStyles = {
 
 function LocationField({ value, onChange }) {
   const { t } = useTranslation();
+  const isMobile = useIsMobile();
   const selected = LOCATION_OPTIONS.find(o => o.value === value) || null;
   return (
     <div className="booking-field location-field">
@@ -201,14 +224,15 @@ function LocationField({ value, onChange }) {
       </label>
       <Select
         inputId="f-location"
+        instanceId="location-select"
         options={LOCATION_OPTIONS}
         value={selected}
         onChange={opt => onChange(opt.value)}
         styles={locationSelectStyles}
-        isSearchable={window.innerWidth >= 768}
+        isSearchable={!isMobile}
         placeholder={t('hero.searchLocation')}
         menuPlacement="auto"
-        menuPortalTarget={document.body}
+        menuPortalTarget={typeof document !== 'undefined' ? document.body : null}
         maxMenuHeight={200}
         onMenuOpen={() => { if (window.innerWidth < 768) { document.activeElement?.blur(); setTimeout(() => window.scrollTo({ top: 0, behavior: 'smooth' }), 50); } }}
       />
@@ -240,6 +264,7 @@ function TimeField({ id, label, value, onChange }) {
 function Hero() {
   const { t, localePath } = useTranslation();
   const router = useRouter();
+  const isMobile = useIsMobile();
   const [pickup, setPickup] = useState('Tivat');
   const [startDate, setStartDate] = useState(() => {
     const d = new Date();
@@ -305,7 +330,7 @@ function Hero() {
                   endDate={endDate}
                   onChange={handleDateChange}
                   minDate={new Date()}
-                  monthsShown={window.innerWidth < 768 ? 1 : 2}
+                  monthsShown={isMobile ? 1 : 2}
                   dateFormat="dd MMM yyyy"
                   placeholderText={t('hero.selectDates') || 'Select dates'}
                   className="booking-field__input"
@@ -938,6 +963,7 @@ function ScrollToTop() {
 export default function App() {
   useGlobalReveal();
   const { t } = useTranslation();
+  const mounted = useMounted();
 
   // Lock hero height on mount to prevent iOS address bar scroll jump
   useEffect(() => {
@@ -951,7 +977,7 @@ export default function App() {
       <main>
         <div className="hero-wrapper">
           <div className="hero-wrapper__bg" style={{ '--hero-image': `url(${config.hero.image})` }}>
-            {typeof navigator !== 'undefined' && (!navigator.connection || navigator.connection.effectiveType === '4g') && (
+            {mounted && (!navigator.connection || navigator.connection.effectiveType === '4g') && (
               <video className="hero__video" autoPlay muted loop playsInline preload="auto"
                 onPlaying={e => e.target.classList.add('playing')}
                 ref={el => {
